@@ -1,0 +1,13 @@
+dn: cn=Barb+sn=Niemann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Barb Niemann
+cn: Niemann
+givenname: Barb
+mail: barb.niemann@planetexpress.com
+userPassword: Barb
+ou: OtherGroup
+uid: 3029
+ Q==

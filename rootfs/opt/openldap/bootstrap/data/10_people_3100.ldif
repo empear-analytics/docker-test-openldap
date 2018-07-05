@@ -1,0 +1,13 @@
+dn: cn=Faviola+sn=Warton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Faviola Warton
+cn: Warton
+givenname: Faviola
+mail: faviola.warton@planetexpress.com
+userPassword: Faviola
+ou: Group5
+uid: 3100
+ Q==

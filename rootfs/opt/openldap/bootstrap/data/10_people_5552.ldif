@@ -1,0 +1,13 @@
+dn: cn=Carmelina+sn=Bost,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carmelina Bost
+cn: Bost
+givenname: Carmelina
+mail: carmelina.bost@planetexpress.com
+userPassword: Carmelina
+ou: admin_staff
+uid: 5552
+ Q==

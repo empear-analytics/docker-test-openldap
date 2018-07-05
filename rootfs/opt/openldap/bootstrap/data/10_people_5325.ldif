@@ -1,0 +1,13 @@
+dn: cn=Myrta+sn=Menezes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Myrta Menezes
+cn: Menezes
+givenname: Myrta
+mail: myrta.menezes@planetexpress.com
+userPassword: Myrta
+ou: flight_crew
+uid: 5325
+ Q==

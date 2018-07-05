@@ -1,0 +1,13 @@
+dn: cn=Dione+sn=Miracle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dione Miracle
+cn: Miracle
+givenname: Dione
+mail: dione.miracle@planetexpress.com
+userPassword: Dione
+ou: OtherGroup
+uid: 935
+ Q==

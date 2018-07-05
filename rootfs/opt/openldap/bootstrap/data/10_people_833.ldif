@@ -1,0 +1,13 @@
+dn: cn=Juliet+sn=Hurlston,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Juliet Hurlston
+cn: Hurlston
+givenname: Juliet
+mail: juliet.hurlston@planetexpress.com
+userPassword: Juliet
+ou: OtherGroup
+uid: 833
+ Q==

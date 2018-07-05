@@ -1,0 +1,13 @@
+dn: cn=Sylvie+sn=Qadir,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sylvie Qadir
+cn: Qadir
+givenname: Sylvie
+mail: sylvie.qadir@planetexpress.com
+userPassword: Sylvie
+ou: flight_crew
+uid: 4890
+ Q==

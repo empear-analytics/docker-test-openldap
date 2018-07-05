@@ -1,0 +1,13 @@
+dn: cn=Margorie+sn=Mauser,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margorie Mauser
+cn: Mauser
+givenname: Margorie
+mail: margorie.mauser@planetexpress.com
+userPassword: Margorie
+ou: Group5
+uid: 1363
+ Q==

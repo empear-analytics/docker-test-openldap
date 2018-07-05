@@ -1,0 +1,13 @@
+dn: cn=Irina+sn=Gudinas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Irina Gudinas
+cn: Gudinas
+givenname: Irina
+mail: irina.gudinas@planetexpress.com
+userPassword: Irina
+ou: admin_staff
+uid: 2028
+ Q==

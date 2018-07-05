@@ -1,0 +1,13 @@
+dn: cn=Leif+sn=Oliff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leif Oliff
+cn: Oliff
+givenname: Leif
+mail: leif.oliff@planetexpress.com
+userPassword: Leif
+ou: OtherGroup
+uid: 3484
+ Q==

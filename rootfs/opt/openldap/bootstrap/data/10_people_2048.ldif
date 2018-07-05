@@ -1,0 +1,13 @@
+dn: cn=Cherilyn+sn=Dash,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cherilyn Dash
+cn: Dash
+givenname: Cherilyn
+mail: cherilyn.dash@planetexpress.com
+userPassword: Cherilyn
+ou: admin_staff
+uid: 2048
+ Q==

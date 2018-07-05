@@ -1,0 +1,13 @@
+dn: cn=Britni+sn=Matuseski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Britni Matuseski
+cn: Matuseski
+givenname: Britni
+mail: britni.matuseski@planetexpress.com
+userPassword: Britni
+ou: admin_staff
+uid: 5876
+ Q==

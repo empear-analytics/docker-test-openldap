@@ -1,0 +1,13 @@
+dn: cn=Harrison+sn=Bagnall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Harrison Bagnall
+cn: Bagnall
+givenname: Harrison
+mail: harrison.bagnall@planetexpress.com
+userPassword: Harrison
+ou: flight_crew
+uid: 5484
+ Q==

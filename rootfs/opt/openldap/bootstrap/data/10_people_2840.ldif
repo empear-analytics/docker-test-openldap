@@ -1,0 +1,13 @@
+dn: cn=Caleb+sn=Wemmer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Caleb Wemmer
+cn: Wemmer
+givenname: Caleb
+mail: caleb.wemmer@planetexpress.com
+userPassword: Caleb
+ou: admin_staff
+uid: 2840
+ Q==

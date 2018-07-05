@@ -1,0 +1,13 @@
+dn: cn=Clarissa+sn=Magouliotis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clarissa Magouliotis
+cn: Magouliotis
+givenname: Clarissa
+mail: clarissa.magouliotis@planetexpress.com
+userPassword: Clarissa
+ou: OtherGroup
+uid: 2279
+ Q==

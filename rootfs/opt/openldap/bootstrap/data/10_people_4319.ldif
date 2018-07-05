@@ -1,0 +1,13 @@
+dn: cn=Lawanna+sn=Ostlund,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lawanna Ostlund
+cn: Ostlund
+givenname: Lawanna
+mail: lawanna.ostlund@planetexpress.com
+userPassword: Lawanna
+ou: Group5
+uid: 4319
+ Q==

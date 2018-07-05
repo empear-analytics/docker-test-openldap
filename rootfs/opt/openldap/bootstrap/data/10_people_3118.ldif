@@ -1,0 +1,13 @@
+dn: cn=Tanika+sn=Peskin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tanika Peskin
+cn: Peskin
+givenname: Tanika
+mail: tanika.peskin@planetexpress.com
+userPassword: Tanika
+ou: OtherGroup
+uid: 3118
+ Q==

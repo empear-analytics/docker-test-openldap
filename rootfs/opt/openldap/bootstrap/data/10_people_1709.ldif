@@ -1,0 +1,13 @@
+dn: cn=Wesley+sn=Crosslin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wesley Crosslin
+cn: Crosslin
+givenname: Wesley
+mail: wesley.crosslin@planetexpress.com
+userPassword: Wesley
+ou: flight_crew
+uid: 1709
+ Q==

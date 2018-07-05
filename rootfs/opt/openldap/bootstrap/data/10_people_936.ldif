@@ -1,0 +1,13 @@
+dn: cn=Eleanora+sn=Rumbold,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eleanora Rumbold
+cn: Rumbold
+givenname: Eleanora
+mail: eleanora.rumbold@planetexpress.com
+userPassword: Eleanora
+ou: OtherGroup
+uid: 936
+ Q==

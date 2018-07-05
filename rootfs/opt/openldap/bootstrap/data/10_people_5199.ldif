@@ -1,0 +1,13 @@
+dn: cn=Thi+sn=Mannello,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thi Mannello
+cn: Mannello
+givenname: Thi
+mail: thi.mannello@planetexpress.com
+userPassword: Thi
+ou: admin_staff
+uid: 5199
+ Q==

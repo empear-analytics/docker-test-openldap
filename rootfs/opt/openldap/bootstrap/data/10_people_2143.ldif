@@ -1,0 +1,13 @@
+dn: cn=Geraldo+sn=Delahunt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Geraldo Delahunt
+cn: Delahunt
+givenname: Geraldo
+mail: geraldo.delahunt@planetexpress.com
+userPassword: Geraldo
+ou: admin_staff
+uid: 2143
+ Q==

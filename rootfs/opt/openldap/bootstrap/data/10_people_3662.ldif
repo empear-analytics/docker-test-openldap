@@ -1,0 +1,13 @@
+dn: cn=Lupita+sn=Teroganesyan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lupita Teroganesyan
+cn: Teroganesyan
+givenname: Lupita
+mail: lupita.teroganesyan@planetexpress.com
+userPassword: Lupita
+ou: Group5
+uid: 3662
+ Q==

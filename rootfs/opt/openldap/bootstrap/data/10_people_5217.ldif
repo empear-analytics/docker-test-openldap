@@ -1,0 +1,13 @@
+dn: cn=Zoila+sn=Murtagh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zoila Murtagh
+cn: Murtagh
+givenname: Zoila
+mail: zoila.murtagh@planetexpress.com
+userPassword: Zoila
+ou: OtherGroup
+uid: 5217
+ Q==

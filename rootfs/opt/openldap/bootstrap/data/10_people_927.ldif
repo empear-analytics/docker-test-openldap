@@ -1,0 +1,13 @@
+dn: cn=Theressa+sn=Bolin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Theressa Bolin
+cn: Bolin
+givenname: Theressa
+mail: theressa.bolin@planetexpress.com
+userPassword: Theressa
+ou: Group5
+uid: 927
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=So+sn=Shadler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: So Shadler
+cn: Shadler
+givenname: So
+mail: so.shadler@planetexpress.com
+userPassword: So
+ou: OtherGroup
+uid: 25
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Thea+sn=Chimes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thea Chimes
+cn: Chimes
+givenname: Thea
+mail: thea.chimes@planetexpress.com
+userPassword: Thea
+ou: admin_staff
+uid: 5289
+ Q==

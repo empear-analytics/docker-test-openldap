@@ -1,0 +1,13 @@
+dn: cn=Candida+sn=Rodino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Candida Rodino
+cn: Rodino
+givenname: Candida
+mail: candida.rodino@planetexpress.com
+userPassword: Candida
+ou: OtherGroup
+uid: 5158
+ Q==

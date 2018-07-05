@@ -1,0 +1,13 @@
+dn: cn=Paulita+sn=Kirkconnell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Paulita Kirkconnell
+cn: Kirkconnell
+givenname: Paulita
+mail: paulita.kirkconnell@planetexpress.com
+userPassword: Paulita
+ou: OtherGroup
+uid: 3464
+ Q==

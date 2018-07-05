@@ -1,0 +1,13 @@
+dn: cn=Chi+sn=Palinski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chi Palinski
+cn: Palinski
+givenname: Chi
+mail: chi.palinski@planetexpress.com
+userPassword: Chi
+ou: flight_crew
+uid: 137
+ Q==

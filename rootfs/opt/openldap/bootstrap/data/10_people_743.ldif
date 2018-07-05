@@ -1,0 +1,13 @@
+dn: cn=Ara+sn=Gerpheide,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ara Gerpheide
+cn: Gerpheide
+givenname: Ara
+mail: ara.gerpheide@planetexpress.com
+userPassword: Ara
+ou: admin_staff
+uid: 743
+ Q==

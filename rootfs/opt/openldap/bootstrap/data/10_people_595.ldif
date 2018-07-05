@@ -1,0 +1,13 @@
+dn: cn=Annis+sn=Dickensheets,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annis Dickensheets
+cn: Dickensheets
+givenname: Annis
+mail: annis.dickensheets@planetexpress.com
+userPassword: Annis
+ou: Group5
+uid: 595
+ Q==

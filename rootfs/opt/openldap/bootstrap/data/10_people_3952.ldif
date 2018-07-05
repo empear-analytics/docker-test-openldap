@@ -1,0 +1,13 @@
+dn: cn=Jay+sn=Nightlinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jay Nightlinger
+cn: Nightlinger
+givenname: Jay
+mail: jay.nightlinger@planetexpress.com
+userPassword: Jay
+ou: admin_staff
+uid: 3952
+ Q==

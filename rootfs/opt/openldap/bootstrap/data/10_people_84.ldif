@@ -1,0 +1,13 @@
+dn: cn=Amalia+sn=Stough,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Amalia Stough
+cn: Stough
+givenname: Amalia
+mail: amalia.stough@planetexpress.com
+userPassword: Amalia
+ou: OtherGroup
+uid: 84
+ Q==

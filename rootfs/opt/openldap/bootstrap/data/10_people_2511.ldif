@@ -1,0 +1,13 @@
+dn: cn=Garfield+sn=Ankrum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Garfield Ankrum
+cn: Ankrum
+givenname: Garfield
+mail: garfield.ankrum@planetexpress.com
+userPassword: Garfield
+ou: flight_crew
+uid: 2511
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Christa+sn=Alvarez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christa Alvarez
+cn: Alvarez
+givenname: Christa
+mail: christa.alvarez@planetexpress.com
+userPassword: Christa
+ou: flight_crew
+uid: 2097
+ Q==

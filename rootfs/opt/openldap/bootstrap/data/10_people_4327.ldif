@@ -1,0 +1,13 @@
+dn: cn=Dalene+sn=Andrepont,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dalene Andrepont
+cn: Andrepont
+givenname: Dalene
+mail: dalene.andrepont@planetexpress.com
+userPassword: Dalene
+ou: OtherGroup
+uid: 4327
+ Q==

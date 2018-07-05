@@ -1,0 +1,13 @@
+dn: cn=Alonso+sn=Trogdon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alonso Trogdon
+cn: Trogdon
+givenname: Alonso
+mail: alonso.trogdon@planetexpress.com
+userPassword: Alonso
+ou: Group5
+uid: 2731
+ Q==

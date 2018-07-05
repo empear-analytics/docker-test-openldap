@@ -1,0 +1,13 @@
+dn: cn=Ivana+sn=Beazer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ivana Beazer
+cn: Beazer
+givenname: Ivana
+mail: ivana.beazer@planetexpress.com
+userPassword: Ivana
+ou: OtherGroup
+uid: 5008
+ Q==

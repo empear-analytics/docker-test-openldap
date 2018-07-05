@@ -1,0 +1,13 @@
+dn: cn=Johnathon+sn=Gorecki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Johnathon Gorecki
+cn: Gorecki
+givenname: Johnathon
+mail: johnathon.gorecki@planetexpress.com
+userPassword: Johnathon
+ou: admin_staff
+uid: 880
+ Q==

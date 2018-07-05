@@ -1,0 +1,13 @@
+dn: cn=Fidel+sn=Muckey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fidel Muckey
+cn: Muckey
+givenname: Fidel
+mail: fidel.muckey@planetexpress.com
+userPassword: Fidel
+ou: Group5
+uid: 1687
+ Q==

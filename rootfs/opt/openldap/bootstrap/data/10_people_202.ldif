@@ -1,0 +1,13 @@
+dn: cn=Yuonne+sn=Beckor,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yuonne Beckor
+cn: Beckor
+givenname: Yuonne
+mail: yuonne.beckor@planetexpress.com
+userPassword: Yuonne
+ou: flight_crew
+uid: 202
+ Q==

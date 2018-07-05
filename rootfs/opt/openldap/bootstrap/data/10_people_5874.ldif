@@ -1,0 +1,13 @@
+dn: cn=Jasmine+sn=Sahr,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jasmine Sahr
+cn: Sahr
+givenname: Jasmine
+mail: jasmine.sahr@planetexpress.com
+userPassword: Jasmine
+ou: flight_crew
+uid: 5874
+ Q==

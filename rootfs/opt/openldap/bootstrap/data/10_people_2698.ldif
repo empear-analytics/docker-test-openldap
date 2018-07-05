@@ -1,0 +1,13 @@
+dn: cn=Gregory+sn=Liesmann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gregory Liesmann
+cn: Liesmann
+givenname: Gregory
+mail: gregory.liesmann@planetexpress.com
+userPassword: Gregory
+ou: flight_crew
+uid: 2698
+ Q==

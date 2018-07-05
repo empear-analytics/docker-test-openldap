@@ -1,0 +1,13 @@
+dn: cn=Svetlana+sn=Winkelbauer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Svetlana Winkelbauer
+cn: Winkelbauer
+givenname: Svetlana
+mail: svetlana.winkelbauer@planetexpress.com
+userPassword: Svetlana
+ou: Group5
+uid: 4419
+ Q==

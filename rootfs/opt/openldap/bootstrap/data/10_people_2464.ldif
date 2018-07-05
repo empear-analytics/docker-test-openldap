@@ -1,0 +1,13 @@
+dn: cn=Pok+sn=Strotman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pok Strotman
+cn: Strotman
+givenname: Pok
+mail: pok.strotman@planetexpress.com
+userPassword: Pok
+ou: flight_crew
+uid: 2464
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Loria+sn=Debari,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loria Debari
+cn: Debari
+givenname: Loria
+mail: loria.debari@planetexpress.com
+userPassword: Loria
+ou: OtherGroup
+uid: 1729
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Phil+sn=Wilford,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Phil Wilford
+cn: Wilford
+givenname: Phil
+mail: phil.wilford@planetexpress.com
+userPassword: Phil
+ou: admin_staff
+uid: 2150
+ Q==

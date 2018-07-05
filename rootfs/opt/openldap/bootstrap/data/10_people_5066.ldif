@@ -1,0 +1,13 @@
+dn: cn=Vanda+sn=Ochs,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vanda Ochs
+cn: Ochs
+givenname: Vanda
+mail: vanda.ochs@planetexpress.com
+userPassword: Vanda
+ou: OtherGroup
+uid: 5066
+ Q==

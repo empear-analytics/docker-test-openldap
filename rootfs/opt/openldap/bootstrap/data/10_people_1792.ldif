@@ -1,0 +1,13 @@
+dn: cn=Merissa+sn=Frazell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Merissa Frazell
+cn: Frazell
+givenname: Merissa
+mail: merissa.frazell@planetexpress.com
+userPassword: Merissa
+ou: flight_crew
+uid: 1792
+ Q==

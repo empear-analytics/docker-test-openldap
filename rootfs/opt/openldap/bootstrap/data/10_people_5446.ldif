@@ -1,0 +1,13 @@
+dn: cn=Luther+sn=Hector,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Luther Hector
+cn: Hector
+givenname: Luther
+mail: luther.hector@planetexpress.com
+userPassword: Luther
+ou: admin_staff
+uid: 5446
+ Q==

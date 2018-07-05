@@ -1,0 +1,13 @@
+dn: cn=Chantay+sn=Castiglione,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chantay Castiglione
+cn: Castiglione
+givenname: Chantay
+mail: chantay.castiglione@planetexpress.com
+userPassword: Chantay
+ou: admin_staff
+uid: 5772
+ Q==

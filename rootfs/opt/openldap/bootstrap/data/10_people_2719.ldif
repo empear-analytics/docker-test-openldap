@@ -1,0 +1,13 @@
+dn: cn=Kimi+sn=Fedder,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kimi Fedder
+cn: Fedder
+givenname: Kimi
+mail: kimi.fedder@planetexpress.com
+userPassword: Kimi
+ou: admin_staff
+uid: 2719
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Frederica+sn=Kessell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Frederica Kessell
+cn: Kessell
+givenname: Frederica
+mail: frederica.kessell@planetexpress.com
+userPassword: Frederica
+ou: OtherGroup
+uid: 5824
+ Q==

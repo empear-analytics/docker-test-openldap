@@ -1,0 +1,13 @@
+dn: cn=Kisha+sn=Kotek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kisha Kotek
+cn: Kotek
+givenname: Kisha
+mail: kisha.kotek@planetexpress.com
+userPassword: Kisha
+ou: flight_crew
+uid: 1064
+ Q==

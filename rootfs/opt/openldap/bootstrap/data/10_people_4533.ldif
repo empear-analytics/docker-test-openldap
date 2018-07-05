@@ -1,0 +1,13 @@
+dn: cn=Kai+sn=Schecter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kai Schecter
+cn: Schecter
+givenname: Kai
+mail: kai.schecter@planetexpress.com
+userPassword: Kai
+ou: flight_crew
+uid: 4533
+ Q==

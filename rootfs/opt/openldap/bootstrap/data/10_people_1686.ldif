@@ -1,0 +1,13 @@
+dn: cn=Janey+sn=Steenhoven,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janey Steenhoven
+cn: Steenhoven
+givenname: Janey
+mail: janey.steenhoven@planetexpress.com
+userPassword: Janey
+ou: Group5
+uid: 1686
+ Q==

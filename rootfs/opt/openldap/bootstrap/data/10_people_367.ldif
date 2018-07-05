@@ -1,0 +1,13 @@
+dn: cn=Sabine+sn=Paya,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sabine Paya
+cn: Paya
+givenname: Sabine
+mail: sabine.paya@planetexpress.com
+userPassword: Sabine
+ou: admin_staff
+uid: 367
+ Q==

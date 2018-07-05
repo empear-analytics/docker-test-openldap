@@ -1,0 +1,13 @@
+dn: cn=Carmelina+sn=Bayers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carmelina Bayers
+cn: Bayers
+givenname: Carmelina
+mail: carmelina.bayers@planetexpress.com
+userPassword: Carmelina
+ou: admin_staff
+uid: 5208
+ Q==

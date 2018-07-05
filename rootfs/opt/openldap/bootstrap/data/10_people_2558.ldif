@@ -1,0 +1,13 @@
+dn: cn=Sharla+sn=Gimbel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharla Gimbel
+cn: Gimbel
+givenname: Sharla
+mail: sharla.gimbel@planetexpress.com
+userPassword: Sharla
+ou: flight_crew
+uid: 2558
+ Q==

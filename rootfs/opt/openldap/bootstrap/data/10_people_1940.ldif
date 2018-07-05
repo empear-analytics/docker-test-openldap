@@ -1,0 +1,13 @@
+dn: cn=Angila+sn=Helphenstine,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angila Helphenstine
+cn: Helphenstine
+givenname: Angila
+mail: angila.helphenstine@planetexpress.com
+userPassword: Angila
+ou: flight_crew
+uid: 1940
+ Q==

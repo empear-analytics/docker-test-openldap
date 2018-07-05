@@ -1,0 +1,13 @@
+dn: cn=Kiara+sn=Everage,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kiara Everage
+cn: Everage
+givenname: Kiara
+mail: kiara.everage@planetexpress.com
+userPassword: Kiara
+ou: flight_crew
+uid: 1733
+ Q==

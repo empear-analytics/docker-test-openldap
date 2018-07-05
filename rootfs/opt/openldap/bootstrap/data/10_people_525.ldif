@@ -1,0 +1,13 @@
+dn: cn=Nicky+sn=Bowden,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nicky Bowden
+cn: Bowden
+givenname: Nicky
+mail: nicky.bowden@planetexpress.com
+userPassword: Nicky
+ou: flight_crew
+uid: 525
+ Q==

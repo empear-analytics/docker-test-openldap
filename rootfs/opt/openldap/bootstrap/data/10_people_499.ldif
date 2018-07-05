@@ -1,0 +1,13 @@
+dn: cn=Chuck+sn=Heggestad,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chuck Heggestad
+cn: Heggestad
+givenname: Chuck
+mail: chuck.heggestad@planetexpress.com
+userPassword: Chuck
+ou: admin_staff
+uid: 499
+ Q==

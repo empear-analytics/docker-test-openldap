@@ -1,0 +1,13 @@
+dn: cn=Shirlene+sn=Howse,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shirlene Howse
+cn: Howse
+givenname: Shirlene
+mail: shirlene.howse@planetexpress.com
+userPassword: Shirlene
+ou: OtherGroup
+uid: 738
+ Q==

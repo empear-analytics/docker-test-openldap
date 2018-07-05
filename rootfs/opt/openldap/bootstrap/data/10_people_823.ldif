@@ -1,0 +1,13 @@
+dn: cn=Ileen+sn=Yonkers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ileen Yonkers
+cn: Yonkers
+givenname: Ileen
+mail: ileen.yonkers@planetexpress.com
+userPassword: Ileen
+ou: Group5
+uid: 823
+ Q==

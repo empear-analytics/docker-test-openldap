@@ -1,0 +1,13 @@
+dn: cn=Kristofer+sn=Mcconney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kristofer Mcconney
+cn: Mcconney
+givenname: Kristofer
+mail: kristofer.mcconney@planetexpress.com
+userPassword: Kristofer
+ou: flight_crew
+uid: 4711
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Moises+sn=Vilcheck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Moises Vilcheck
+cn: Vilcheck
+givenname: Moises
+mail: moises.vilcheck@planetexpress.com
+userPassword: Moises
+ou: flight_crew
+uid: 3720
+ Q==

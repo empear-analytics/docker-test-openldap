@@ -1,0 +1,13 @@
+dn: cn=Ivelisse+sn=Rawhoof,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ivelisse Rawhoof
+cn: Rawhoof
+givenname: Ivelisse
+mail: ivelisse.rawhoof@planetexpress.com
+userPassword: Ivelisse
+ou: flight_crew
+uid: 4389
+ Q==

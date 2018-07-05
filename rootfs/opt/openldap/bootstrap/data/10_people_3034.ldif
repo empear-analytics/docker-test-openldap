@@ -1,0 +1,13 @@
+dn: cn=David+sn=Shuter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: David Shuter
+cn: Shuter
+givenname: David
+mail: david.shuter@planetexpress.com
+userPassword: David
+ou: flight_crew
+uid: 3034
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Brittanie+sn=Pensinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brittanie Pensinger
+cn: Pensinger
+givenname: Brittanie
+mail: brittanie.pensinger@planetexpress.com
+userPassword: Brittanie
+ou: flight_crew
+uid: 5001
+ Q==

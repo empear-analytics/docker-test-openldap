@@ -1,0 +1,13 @@
+dn: cn=Verda+sn=Tomidy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Verda Tomidy
+cn: Tomidy
+givenname: Verda
+mail: verda.tomidy@planetexpress.com
+userPassword: Verda
+ou: flight_crew
+uid: 1931
+ Q==

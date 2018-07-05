@@ -1,0 +1,13 @@
+dn: cn=Kasie+sn=Trueax,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kasie Trueax
+cn: Trueax
+givenname: Kasie
+mail: kasie.trueax@planetexpress.com
+userPassword: Kasie
+ou: OtherGroup
+uid: 3455
+ Q==

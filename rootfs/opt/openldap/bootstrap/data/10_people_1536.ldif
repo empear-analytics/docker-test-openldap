@@ -1,0 +1,13 @@
+dn: cn=Kandi+sn=Mikasa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kandi Mikasa
+cn: Mikasa
+givenname: Kandi
+mail: kandi.mikasa@planetexpress.com
+userPassword: Kandi
+ou: flight_crew
+uid: 1536
+ Q==

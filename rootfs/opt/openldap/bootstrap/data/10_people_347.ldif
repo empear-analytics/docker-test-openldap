@@ -1,0 +1,13 @@
+dn: cn=Inga+sn=Reineman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Inga Reineman
+cn: Reineman
+givenname: Inga
+mail: inga.reineman@planetexpress.com
+userPassword: Inga
+ou: flight_crew
+uid: 347
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ashley+sn=Beaird,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ashley Beaird
+cn: Beaird
+givenname: Ashley
+mail: ashley.beaird@planetexpress.com
+userPassword: Ashley
+ou: flight_crew
+uid: 2868
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lorene+sn=Saleha,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lorene Saleha
+cn: Saleha
+givenname: Lorene
+mail: lorene.saleha@planetexpress.com
+userPassword: Lorene
+ou: admin_staff
+uid: 4528
+ Q==

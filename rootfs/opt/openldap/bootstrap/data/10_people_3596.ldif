@@ -1,0 +1,13 @@
+dn: cn=Wallace+sn=Mcgorry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wallace Mcgorry
+cn: Mcgorry
+givenname: Wallace
+mail: wallace.mcgorry@planetexpress.com
+userPassword: Wallace
+ou: Group5
+uid: 3596
+ Q==

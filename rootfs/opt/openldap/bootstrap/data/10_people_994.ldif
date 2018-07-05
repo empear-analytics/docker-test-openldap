@@ -1,0 +1,13 @@
+dn: cn=Felicitas+sn=Paysour,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Felicitas Paysour
+cn: Paysour
+givenname: Felicitas
+mail: felicitas.paysour@planetexpress.com
+userPassword: Felicitas
+ou: OtherGroup
+uid: 994
+ Q==

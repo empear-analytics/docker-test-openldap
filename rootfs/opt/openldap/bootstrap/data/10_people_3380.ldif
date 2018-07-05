@@ -1,0 +1,13 @@
+dn: cn=Jaymie+sn=Mateen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jaymie Mateen
+cn: Mateen
+givenname: Jaymie
+mail: jaymie.mateen@planetexpress.com
+userPassword: Jaymie
+ou: OtherGroup
+uid: 3380
+ Q==

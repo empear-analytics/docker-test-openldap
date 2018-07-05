@@ -1,0 +1,13 @@
+dn: cn=Kyla+sn=Haen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kyla Haen
+cn: Haen
+givenname: Kyla
+mail: kyla.haen@planetexpress.com
+userPassword: Kyla
+ou: OtherGroup
+uid: 1581
+ Q==

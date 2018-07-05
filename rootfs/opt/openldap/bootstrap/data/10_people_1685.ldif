@@ -1,0 +1,13 @@
+dn: cn=Jeffry+sn=Hermance,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeffry Hermance
+cn: Hermance
+givenname: Jeffry
+mail: jeffry.hermance@planetexpress.com
+userPassword: Jeffry
+ou: OtherGroup
+uid: 1685
+ Q==

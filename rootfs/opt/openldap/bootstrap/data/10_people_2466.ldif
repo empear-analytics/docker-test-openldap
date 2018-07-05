@@ -1,0 +1,13 @@
+dn: cn=Myra+sn=Bokman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Myra Bokman
+cn: Bokman
+givenname: Myra
+mail: myra.bokman@planetexpress.com
+userPassword: Myra
+ou: admin_staff
+uid: 2466
+ Q==

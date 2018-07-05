@@ -1,0 +1,13 @@
+dn: cn=Maria+sn=Saito,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maria Saito
+cn: Saito
+givenname: Maria
+mail: maria.saito@planetexpress.com
+userPassword: Maria
+ou: Group5
+uid: 2251
+ Q==

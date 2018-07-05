@@ -1,0 +1,13 @@
+dn: cn=Joy+sn=Sprenkel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joy Sprenkel
+cn: Sprenkel
+givenname: Joy
+mail: joy.sprenkel@planetexpress.com
+userPassword: Joy
+ou: OtherGroup
+uid: 4837
+ Q==

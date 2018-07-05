@@ -1,0 +1,13 @@
+dn: cn=Olive+sn=Redel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Olive Redel
+cn: Redel
+givenname: Olive
+mail: olive.redel@planetexpress.com
+userPassword: Olive
+ou: admin_staff
+uid: 915
+ Q==

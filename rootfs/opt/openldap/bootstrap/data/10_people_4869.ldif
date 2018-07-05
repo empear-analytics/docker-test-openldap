@@ -1,0 +1,13 @@
+dn: cn=Yessenia+sn=Suiter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yessenia Suiter
+cn: Suiter
+givenname: Yessenia
+mail: yessenia.suiter@planetexpress.com
+userPassword: Yessenia
+ou: flight_crew
+uid: 4869
+ Q==

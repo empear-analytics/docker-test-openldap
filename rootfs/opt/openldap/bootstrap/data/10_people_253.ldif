@@ -1,0 +1,13 @@
+dn: cn=Liane+sn=Dottavio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Liane Dottavio
+cn: Dottavio
+givenname: Liane
+mail: liane.dottavio@planetexpress.com
+userPassword: Liane
+ou: admin_staff
+uid: 253
+ Q==

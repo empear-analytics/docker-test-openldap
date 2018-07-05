@@ -1,0 +1,13 @@
+dn: cn=Quinton+sn=Barlak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Quinton Barlak
+cn: Barlak
+givenname: Quinton
+mail: quinton.barlak@planetexpress.com
+userPassword: Quinton
+ou: Group5
+uid: 840
+ Q==

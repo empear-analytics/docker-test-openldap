@@ -1,0 +1,13 @@
+dn: cn=Joycelyn+sn=Battis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joycelyn Battis
+cn: Battis
+givenname: Joycelyn
+mail: joycelyn.battis@planetexpress.com
+userPassword: Joycelyn
+ou: OtherGroup
+uid: 4893
+ Q==

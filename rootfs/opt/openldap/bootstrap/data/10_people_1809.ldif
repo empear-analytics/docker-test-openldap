@@ -1,0 +1,13 @@
+dn: cn=Jannie+sn=Rausin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jannie Rausin
+cn: Rausin
+givenname: Jannie
+mail: jannie.rausin@planetexpress.com
+userPassword: Jannie
+ou: Group5
+uid: 1809
+ Q==

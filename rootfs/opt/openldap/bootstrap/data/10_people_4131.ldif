@@ -1,0 +1,13 @@
+dn: cn=Patrica+sn=Cobbins,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Patrica Cobbins
+cn: Cobbins
+givenname: Patrica
+mail: patrica.cobbins@planetexpress.com
+userPassword: Patrica
+ou: OtherGroup
+uid: 4131
+ Q==

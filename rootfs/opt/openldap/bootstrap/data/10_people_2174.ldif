@@ -1,0 +1,13 @@
+dn: cn=Sibyl+sn=Dunten,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sibyl Dunten
+cn: Dunten
+givenname: Sibyl
+mail: sibyl.dunten@planetexpress.com
+userPassword: Sibyl
+ou: admin_staff
+uid: 2174
+ Q==

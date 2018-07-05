@@ -1,0 +1,13 @@
+dn: cn=Setsuko+sn=Rhyne,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Setsuko Rhyne
+cn: Rhyne
+givenname: Setsuko
+mail: setsuko.rhyne@planetexpress.com
+userPassword: Setsuko
+ou: flight_crew
+uid: 1211
+ Q==

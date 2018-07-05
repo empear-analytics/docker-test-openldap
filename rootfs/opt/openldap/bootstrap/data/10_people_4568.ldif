@@ -1,0 +1,13 @@
+dn: cn=Wilfredo+sn=Sawallich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wilfredo Sawallich
+cn: Sawallich
+givenname: Wilfredo
+mail: wilfredo.sawallich@planetexpress.com
+userPassword: Wilfredo
+ou: flight_crew
+uid: 4568
+ Q==

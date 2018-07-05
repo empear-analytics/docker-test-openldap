@@ -1,0 +1,13 @@
+dn: cn=Tandra+sn=Essaff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tandra Essaff
+cn: Essaff
+givenname: Tandra
+mail: tandra.essaff@planetexpress.com
+userPassword: Tandra
+ou: flight_crew
+uid: 4650
+ Q==

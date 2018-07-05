@@ -1,0 +1,13 @@
+dn: cn=Harris+sn=Pok,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Harris Pok
+cn: Pok
+givenname: Harris
+mail: harris.pok@planetexpress.com
+userPassword: Harris
+ou: flight_crew
+uid: 4315
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Pricilla+sn=Illuzzi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pricilla Illuzzi
+cn: Illuzzi
+givenname: Pricilla
+mail: pricilla.illuzzi@planetexpress.com
+userPassword: Pricilla
+ou: flight_crew
+uid: 4265
+ Q==

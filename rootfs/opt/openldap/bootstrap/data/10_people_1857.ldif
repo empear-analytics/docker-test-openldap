@@ -1,0 +1,13 @@
+dn: cn=Davis+sn=Mcdaniel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Davis Mcdaniel
+cn: Mcdaniel
+givenname: Davis
+mail: davis.mcdaniel@planetexpress.com
+userPassword: Davis
+ou: OtherGroup
+uid: 1857
+ Q==

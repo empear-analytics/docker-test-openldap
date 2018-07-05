@@ -1,0 +1,13 @@
+dn: cn=Johnson+sn=Grandjean,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Johnson Grandjean
+cn: Grandjean
+givenname: Johnson
+mail: johnson.grandjean@planetexpress.com
+userPassword: Johnson
+ou: OtherGroup
+uid: 4496
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Benito+sn=Schlecter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Benito Schlecter
+cn: Schlecter
+givenname: Benito
+mail: benito.schlecter@planetexpress.com
+userPassword: Benito
+ou: flight_crew
+uid: 3306
+ Q==

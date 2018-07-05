@@ -1,0 +1,13 @@
+dn: cn=Kendall+sn=Snellings,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kendall Snellings
+cn: Snellings
+givenname: Kendall
+mail: kendall.snellings@planetexpress.com
+userPassword: Kendall
+ou: OtherGroup
+uid: 12
+ Q==

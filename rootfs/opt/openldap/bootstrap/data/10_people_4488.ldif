@@ -1,0 +1,13 @@
+dn: cn=Catherine+sn=Hogelin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Catherine Hogelin
+cn: Hogelin
+givenname: Catherine
+mail: catherine.hogelin@planetexpress.com
+userPassword: Catherine
+ou: Group5
+uid: 4488
+ Q==

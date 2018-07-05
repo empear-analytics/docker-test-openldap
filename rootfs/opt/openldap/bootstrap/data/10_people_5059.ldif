@@ -1,0 +1,13 @@
+dn: cn=Ronald+sn=Narum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ronald Narum
+cn: Narum
+givenname: Ronald
+mail: ronald.narum@planetexpress.com
+userPassword: Ronald
+ou: admin_staff
+uid: 5059
+ Q==

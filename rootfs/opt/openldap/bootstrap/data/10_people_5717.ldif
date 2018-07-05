@@ -1,0 +1,13 @@
+dn: cn=Danial+sn=Rugama,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Danial Rugama
+cn: Rugama
+givenname: Danial
+mail: danial.rugama@planetexpress.com
+userPassword: Danial
+ou: OtherGroup
+uid: 5717
+ Q==

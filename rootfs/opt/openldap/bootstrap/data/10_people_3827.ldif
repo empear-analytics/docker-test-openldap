@@ -1,0 +1,13 @@
+dn: cn=Cathy+sn=Rennell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cathy Rennell
+cn: Rennell
+givenname: Cathy
+mail: cathy.rennell@planetexpress.com
+userPassword: Cathy
+ou: flight_crew
+uid: 3827
+ Q==

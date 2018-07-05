@@ -1,0 +1,13 @@
+dn: cn=Kandra+sn=Kozatek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kandra Kozatek
+cn: Kozatek
+givenname: Kandra
+mail: kandra.kozatek@planetexpress.com
+userPassword: Kandra
+ou: admin_staff
+uid: 1641
+ Q==

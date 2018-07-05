@@ -1,0 +1,13 @@
+dn: cn=Leann+sn=Lavanchy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leann Lavanchy
+cn: Lavanchy
+givenname: Leann
+mail: leann.lavanchy@planetexpress.com
+userPassword: Leann
+ou: Group5
+uid: 5681
+ Q==

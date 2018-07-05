@@ -1,0 +1,13 @@
+dn: cn=Shera+sn=Kavanah,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shera Kavanah
+cn: Kavanah
+givenname: Shera
+mail: shera.kavanah@planetexpress.com
+userPassword: Shera
+ou: flight_crew
+uid: 5267
+ Q==

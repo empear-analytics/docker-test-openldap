@@ -1,0 +1,13 @@
+dn: cn=Ernie+sn=Conkin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ernie Conkin
+cn: Conkin
+givenname: Ernie
+mail: ernie.conkin@planetexpress.com
+userPassword: Ernie
+ou: flight_crew
+uid: 3996
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Manual+sn=Audia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Manual Audia
+cn: Audia
+givenname: Manual
+mail: manual.audia@planetexpress.com
+userPassword: Manual
+ou: Group5
+uid: 4664
+ Q==

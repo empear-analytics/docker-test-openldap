@@ -1,0 +1,13 @@
+dn: cn=Camie+sn=Fauls,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Camie Fauls
+cn: Fauls
+givenname: Camie
+mail: camie.fauls@planetexpress.com
+userPassword: Camie
+ou: admin_staff
+uid: 1815
+ Q==

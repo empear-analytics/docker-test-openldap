@@ -1,0 +1,13 @@
+dn: cn=Herb+sn=Sramek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Herb Sramek
+cn: Sramek
+givenname: Herb
+mail: herb.sramek@planetexpress.com
+userPassword: Herb
+ou: Group5
+uid: 230
+ Q==

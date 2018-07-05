@@ -1,0 +1,13 @@
+dn: cn=Sherilyn+sn=Cove,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherilyn Cove
+cn: Cove
+givenname: Sherilyn
+mail: sherilyn.cove@planetexpress.com
+userPassword: Sherilyn
+ou: flight_crew
+uid: 5645
+ Q==

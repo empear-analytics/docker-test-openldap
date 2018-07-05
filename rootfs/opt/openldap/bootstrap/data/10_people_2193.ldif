@@ -1,0 +1,13 @@
+dn: cn=Delia+sn=Paino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delia Paino
+cn: Paino
+givenname: Delia
+mail: delia.paino@planetexpress.com
+userPassword: Delia
+ou: OtherGroup
+uid: 2193
+ Q==

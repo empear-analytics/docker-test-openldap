@@ -1,0 +1,13 @@
+dn: cn=Carlena+sn=Kartchner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carlena Kartchner
+cn: Kartchner
+givenname: Carlena
+mail: carlena.kartchner@planetexpress.com
+userPassword: Carlena
+ou: Group5
+uid: 1333
+ Q==

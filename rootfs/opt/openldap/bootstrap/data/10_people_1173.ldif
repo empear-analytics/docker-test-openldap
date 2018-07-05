@@ -1,0 +1,13 @@
+dn: cn=Floretta+sn=Melnick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Floretta Melnick
+cn: Melnick
+givenname: Floretta
+mail: floretta.melnick@planetexpress.com
+userPassword: Floretta
+ou: OtherGroup
+uid: 1173
+ Q==

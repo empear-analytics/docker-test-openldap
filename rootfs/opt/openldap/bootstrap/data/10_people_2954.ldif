@@ -1,0 +1,13 @@
+dn: cn=Natalie+sn=Ringhand,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Natalie Ringhand
+cn: Ringhand
+givenname: Natalie
+mail: natalie.ringhand@planetexpress.com
+userPassword: Natalie
+ou: Group5
+uid: 2954
+ Q==

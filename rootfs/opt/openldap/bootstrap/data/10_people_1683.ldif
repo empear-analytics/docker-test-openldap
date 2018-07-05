@@ -1,0 +1,13 @@
+dn: cn=Priscila+sn=Brucki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Priscila Brucki
+cn: Brucki
+givenname: Priscila
+mail: priscila.brucki@planetexpress.com
+userPassword: Priscila
+ou: admin_staff
+uid: 1683
+ Q==

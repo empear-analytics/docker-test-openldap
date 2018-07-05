@@ -1,0 +1,13 @@
+dn: cn=Candance+sn=Ahner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Candance Ahner
+cn: Ahner
+givenname: Candance
+mail: candance.ahner@planetexpress.com
+userPassword: Candance
+ou: OtherGroup
+uid: 2695
+ Q==

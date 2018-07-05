@@ -1,0 +1,13 @@
+dn: cn=Hannelore+sn=Suda,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hannelore Suda
+cn: Suda
+givenname: Hannelore
+mail: hannelore.suda@planetexpress.com
+userPassword: Hannelore
+ou: flight_crew
+uid: 1677
+ Q==

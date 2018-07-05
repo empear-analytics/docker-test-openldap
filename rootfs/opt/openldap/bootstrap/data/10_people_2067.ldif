@@ -1,0 +1,13 @@
+dn: cn=Josefa+sn=Alavi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Josefa Alavi
+cn: Alavi
+givenname: Josefa
+mail: josefa.alavi@planetexpress.com
+userPassword: Josefa
+ou: flight_crew
+uid: 2067
+ Q==

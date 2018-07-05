@@ -1,0 +1,13 @@
+dn: cn=Elissa+sn=Barnicle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elissa Barnicle
+cn: Barnicle
+givenname: Elissa
+mail: elissa.barnicle@planetexpress.com
+userPassword: Elissa
+ou: Group5
+uid: 5054
+ Q==

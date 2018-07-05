@@ -1,0 +1,13 @@
+dn: cn=Sherry+sn=Desouza,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherry Desouza
+cn: Desouza
+givenname: Sherry
+mail: sherry.desouza@planetexpress.com
+userPassword: Sherry
+ou: flight_crew
+uid: 2015
+ Q==

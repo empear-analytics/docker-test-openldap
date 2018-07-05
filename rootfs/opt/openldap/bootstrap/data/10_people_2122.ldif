@@ -1,0 +1,13 @@
+dn: cn=Dannielle+sn=Lappe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dannielle Lappe
+cn: Lappe
+givenname: Dannielle
+mail: dannielle.lappe@planetexpress.com
+userPassword: Dannielle
+ou: admin_staff
+uid: 2122
+ Q==

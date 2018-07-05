@@ -1,0 +1,13 @@
+dn: cn=Carry+sn=Enge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carry Enge
+cn: Enge
+givenname: Carry
+mail: carry.enge@planetexpress.com
+userPassword: Carry
+ou: admin_staff
+uid: 1428
+ Q==

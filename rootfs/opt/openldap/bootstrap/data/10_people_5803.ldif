@@ -1,0 +1,13 @@
+dn: cn=Lane+sn=Isbell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lane Isbell
+cn: Isbell
+givenname: Lane
+mail: lane.isbell@planetexpress.com
+userPassword: Lane
+ou: flight_crew
+uid: 5803
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Inge+sn=Swenor,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Inge Swenor
+cn: Swenor
+givenname: Inge
+mail: inge.swenor@planetexpress.com
+userPassword: Inge
+ou: OtherGroup
+uid: 1899
+ Q==

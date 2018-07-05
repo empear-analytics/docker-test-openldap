@@ -1,0 +1,13 @@
+dn: cn=Tenisha+sn=Shula,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tenisha Shula
+cn: Shula
+givenname: Tenisha
+mail: tenisha.shula@planetexpress.com
+userPassword: Tenisha
+ou: Group5
+uid: 4093
+ Q==

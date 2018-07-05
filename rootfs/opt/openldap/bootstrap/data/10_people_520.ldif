@@ -1,0 +1,13 @@
+dn: cn=Rosalee+sn=Chiodo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosalee Chiodo
+cn: Chiodo
+givenname: Rosalee
+mail: rosalee.chiodo@planetexpress.com
+userPassword: Rosalee
+ou: Group5
+uid: 520
+ Q==

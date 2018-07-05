@@ -1,0 +1,13 @@
+dn: cn=Andres+sn=Kitsmiller,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andres Kitsmiller
+cn: Kitsmiller
+givenname: Andres
+mail: andres.kitsmiller@planetexpress.com
+userPassword: Andres
+ou: OtherGroup
+uid: 5871
+ Q==

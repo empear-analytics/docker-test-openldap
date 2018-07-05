@@ -1,0 +1,13 @@
+dn: cn=Hyo+sn=Hodnicki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hyo Hodnicki
+cn: Hodnicki
+givenname: Hyo
+mail: hyo.hodnicki@planetexpress.com
+userPassword: Hyo
+ou: Group5
+uid: 5207
+ Q==

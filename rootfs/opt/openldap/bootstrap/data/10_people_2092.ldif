@@ -1,0 +1,13 @@
+dn: cn=Carmelia+sn=Levison,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carmelia Levison
+cn: Levison
+givenname: Carmelia
+mail: carmelia.levison@planetexpress.com
+userPassword: Carmelia
+ou: Group5
+uid: 2092
+ Q==

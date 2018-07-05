@@ -1,0 +1,13 @@
+dn: cn=Willis+sn=Ulvan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Willis Ulvan
+cn: Ulvan
+givenname: Willis
+mail: willis.ulvan@planetexpress.com
+userPassword: Willis
+ou: Group5
+uid: 1026
+ Q==

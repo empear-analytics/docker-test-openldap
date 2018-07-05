@@ -1,0 +1,13 @@
+dn: cn=Willodean+sn=Rokicki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Willodean Rokicki
+cn: Rokicki
+givenname: Willodean
+mail: willodean.rokicki@planetexpress.com
+userPassword: Willodean
+ou: admin_staff
+uid: 1206
+ Q==

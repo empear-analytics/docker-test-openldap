@@ -1,0 +1,13 @@
+dn: cn=Lester+sn=Surano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lester Surano
+cn: Surano
+givenname: Lester
+mail: lester.surano@planetexpress.com
+userPassword: Lester
+ou: admin_staff
+uid: 3383
+ Q==

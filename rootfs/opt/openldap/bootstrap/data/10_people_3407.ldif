@@ -1,0 +1,13 @@
+dn: cn=Roselia+sn=Wonders,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roselia Wonders
+cn: Wonders
+givenname: Roselia
+mail: roselia.wonders@planetexpress.com
+userPassword: Roselia
+ou: flight_crew
+uid: 3407
+ Q==

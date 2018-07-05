@@ -1,0 +1,13 @@
+dn: cn=Cody+sn=Mirsch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cody Mirsch
+cn: Mirsch
+givenname: Cody
+mail: cody.mirsch@planetexpress.com
+userPassword: Cody
+ou: OtherGroup
+uid: 2331
+ Q==

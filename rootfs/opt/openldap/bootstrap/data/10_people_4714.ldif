@@ -1,0 +1,13 @@
+dn: cn=Margarett+sn=Mccabe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margarett Mccabe
+cn: Mccabe
+givenname: Margarett
+mail: margarett.mccabe@planetexpress.com
+userPassword: Margarett
+ou: OtherGroup
+uid: 4714
+ Q==

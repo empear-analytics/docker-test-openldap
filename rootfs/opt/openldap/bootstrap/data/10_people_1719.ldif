@@ -1,0 +1,13 @@
+dn: cn=Williemae+sn=Dishaw,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Williemae Dishaw
+cn: Dishaw
+givenname: Williemae
+mail: williemae.dishaw@planetexpress.com
+userPassword: Williemae
+ou: Group5
+uid: 1719
+ Q==

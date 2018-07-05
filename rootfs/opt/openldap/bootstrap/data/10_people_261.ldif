@@ -1,0 +1,13 @@
+dn: cn=Tyrone+sn=Celadon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tyrone Celadon
+cn: Celadon
+givenname: Tyrone
+mail: tyrone.celadon@planetexpress.com
+userPassword: Tyrone
+ou: admin_staff
+uid: 261
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Van+sn=Slovinski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Van Slovinski
+cn: Slovinski
+givenname: Van
+mail: van.slovinski@planetexpress.com
+userPassword: Van
+ou: Group5
+uid: 5641
+ Q==

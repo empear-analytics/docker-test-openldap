@@ -1,0 +1,13 @@
+dn: cn=Rickie+sn=Luttenegger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rickie Luttenegger
+cn: Luttenegger
+givenname: Rickie
+mail: rickie.luttenegger@planetexpress.com
+userPassword: Rickie
+ou: admin_staff
+uid: 5711
+ Q==

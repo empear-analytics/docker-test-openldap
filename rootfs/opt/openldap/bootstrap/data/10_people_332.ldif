@@ -1,0 +1,13 @@
+dn: cn=Kenneth+sn=Neubauer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kenneth Neubauer
+cn: Neubauer
+givenname: Kenneth
+mail: kenneth.neubauer@planetexpress.com
+userPassword: Kenneth
+ou: admin_staff
+uid: 332
+ Q==

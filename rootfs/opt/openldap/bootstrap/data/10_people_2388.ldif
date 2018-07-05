@@ -1,0 +1,13 @@
+dn: cn=Jamel+sn=Willbanks,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamel Willbanks
+cn: Willbanks
+givenname: Jamel
+mail: jamel.willbanks@planetexpress.com
+userPassword: Jamel
+ou: OtherGroup
+uid: 2388
+ Q==

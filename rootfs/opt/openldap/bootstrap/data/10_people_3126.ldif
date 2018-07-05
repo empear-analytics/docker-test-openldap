@@ -1,0 +1,13 @@
+dn: cn=Donnie+sn=Hilger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Donnie Hilger
+cn: Hilger
+givenname: Donnie
+mail: donnie.hilger@planetexpress.com
+userPassword: Donnie
+ou: admin_staff
+uid: 3126
+ Q==

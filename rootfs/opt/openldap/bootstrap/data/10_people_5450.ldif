@@ -1,0 +1,13 @@
+dn: cn=Kena+sn=Lobdell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kena Lobdell
+cn: Lobdell
+givenname: Kena
+mail: kena.lobdell@planetexpress.com
+userPassword: Kena
+ou: OtherGroup
+uid: 5450
+ Q==

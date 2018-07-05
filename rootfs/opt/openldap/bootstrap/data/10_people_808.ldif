@@ -1,0 +1,13 @@
+dn: cn=Precious+sn=Schwabenbauer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Precious Schwabenbauer
+cn: Schwabenbauer
+givenname: Precious
+mail: precious.schwabenbauer@planetexpress.com
+userPassword: Precious
+ou: OtherGroup
+uid: 808
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Teisha+sn=Mar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Teisha Mar
+cn: Mar
+givenname: Teisha
+mail: teisha.mar@planetexpress.com
+userPassword: Teisha
+ou: flight_crew
+uid: 1535
+ Q==

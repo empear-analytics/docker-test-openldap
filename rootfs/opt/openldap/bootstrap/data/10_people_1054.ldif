@@ -1,0 +1,13 @@
+dn: cn=Eddie+sn=Mccutchan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eddie Mccutchan
+cn: Mccutchan
+givenname: Eddie
+mail: eddie.mccutchan@planetexpress.com
+userPassword: Eddie
+ou: flight_crew
+uid: 1054
+ Q==

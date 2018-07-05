@@ -1,0 +1,13 @@
+dn: cn=Bridgett+sn=Hidde,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bridgett Hidde
+cn: Hidde
+givenname: Bridgett
+mail: bridgett.hidde@planetexpress.com
+userPassword: Bridgett
+ou: flight_crew
+uid: 2829
+ Q==

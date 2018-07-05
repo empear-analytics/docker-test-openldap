@@ -1,0 +1,13 @@
+dn: cn=Doug+sn=Titch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Doug Titch
+cn: Titch
+givenname: Doug
+mail: doug.titch@planetexpress.com
+userPassword: Doug
+ou: Group5
+uid: 516
+ Q==

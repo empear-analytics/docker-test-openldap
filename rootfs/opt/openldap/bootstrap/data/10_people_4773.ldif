@@ -1,0 +1,13 @@
+dn: cn=Marquitta+sn=Zalewski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marquitta Zalewski
+cn: Zalewski
+givenname: Marquitta
+mail: marquitta.zalewski@planetexpress.com
+userPassword: Marquitta
+ou: Group5
+uid: 4773
+ Q==

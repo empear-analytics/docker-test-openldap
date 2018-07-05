@@ -1,0 +1,13 @@
+dn: cn=Adam+sn=Schaich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adam Schaich
+cn: Schaich
+givenname: Adam
+mail: adam.schaich@planetexpress.com
+userPassword: Adam
+ou: OtherGroup
+uid: 5337
+ Q==

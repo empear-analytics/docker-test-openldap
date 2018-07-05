@@ -1,0 +1,13 @@
+dn: cn=Julieann+sn=Douga,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Julieann Douga
+cn: Douga
+givenname: Julieann
+mail: julieann.douga@planetexpress.com
+userPassword: Julieann
+ou: admin_staff
+uid: 4222
+ Q==

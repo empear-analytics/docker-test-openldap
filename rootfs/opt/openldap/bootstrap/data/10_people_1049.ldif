@@ -1,0 +1,13 @@
+dn: cn=Olevia+sn=Pinales,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Olevia Pinales
+cn: Pinales
+givenname: Olevia
+mail: olevia.pinales@planetexpress.com
+userPassword: Olevia
+ou: OtherGroup
+uid: 1049
+ Q==

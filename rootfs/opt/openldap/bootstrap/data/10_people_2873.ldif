@@ -1,0 +1,13 @@
+dn: cn=Merlene+sn=Tiefenauer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Merlene Tiefenauer
+cn: Tiefenauer
+givenname: Merlene
+mail: merlene.tiefenauer@planetexpress.com
+userPassword: Merlene
+ou: flight_crew
+uid: 2873
+ Q==

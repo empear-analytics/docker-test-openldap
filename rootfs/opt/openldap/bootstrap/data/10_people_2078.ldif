@@ -1,0 +1,13 @@
+dn: cn=Caprice+sn=Whicker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Caprice Whicker
+cn: Whicker
+givenname: Caprice
+mail: caprice.whicker@planetexpress.com
+userPassword: Caprice
+ou: OtherGroup
+uid: 2078
+ Q==

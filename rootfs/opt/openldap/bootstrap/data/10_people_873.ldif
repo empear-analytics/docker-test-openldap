@@ -1,0 +1,13 @@
+dn: cn=Ezequiel+sn=Mancino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ezequiel Mancino
+cn: Mancino
+givenname: Ezequiel
+mail: ezequiel.mancino@planetexpress.com
+userPassword: Ezequiel
+ou: flight_crew
+uid: 873
+ Q==

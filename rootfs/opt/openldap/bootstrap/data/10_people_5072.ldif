@@ -1,0 +1,13 @@
+dn: cn=Kam+sn=Read,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kam Read
+cn: Read
+givenname: Kam
+mail: kam.read@planetexpress.com
+userPassword: Kam
+ou: OtherGroup
+uid: 5072
+ Q==

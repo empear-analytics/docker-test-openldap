@@ -1,0 +1,13 @@
+dn: cn=Keira+sn=Bernatowicz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keira Bernatowicz
+cn: Bernatowicz
+givenname: Keira
+mail: keira.bernatowicz@planetexpress.com
+userPassword: Keira
+ou: OtherGroup
+uid: 4266
+ Q==

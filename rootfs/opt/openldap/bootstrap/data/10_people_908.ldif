@@ -1,0 +1,13 @@
+dn: cn=Granville+sn=Rodes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Granville Rodes
+cn: Rodes
+givenname: Granville
+mail: granville.rodes@planetexpress.com
+userPassword: Granville
+ou: flight_crew
+uid: 908
+ Q==

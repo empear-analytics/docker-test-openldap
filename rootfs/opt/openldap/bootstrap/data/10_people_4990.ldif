@@ -1,0 +1,13 @@
+dn: cn=Floyd+sn=Weissmann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Floyd Weissmann
+cn: Weissmann
+givenname: Floyd
+mail: floyd.weissmann@planetexpress.com
+userPassword: Floyd
+ou: Group5
+uid: 4990
+ Q==

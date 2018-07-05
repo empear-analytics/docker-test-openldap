@@ -1,0 +1,13 @@
+dn: cn=Debbra+sn=Mooser,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Debbra Mooser
+cn: Mooser
+givenname: Debbra
+mail: debbra.mooser@planetexpress.com
+userPassword: Debbra
+ou: flight_crew
+uid: 4842
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lavera+sn=Deang,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lavera Deang
+cn: Deang
+givenname: Lavera
+mail: lavera.deang@planetexpress.com
+userPassword: Lavera
+ou: OtherGroup
+uid: 4543
+ Q==

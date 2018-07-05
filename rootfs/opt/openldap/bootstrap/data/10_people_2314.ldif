@@ -1,0 +1,13 @@
+dn: cn=Domenic+sn=Reffner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Domenic Reffner
+cn: Reffner
+givenname: Domenic
+mail: domenic.reffner@planetexpress.com
+userPassword: Domenic
+ou: flight_crew
+uid: 2314
+ Q==

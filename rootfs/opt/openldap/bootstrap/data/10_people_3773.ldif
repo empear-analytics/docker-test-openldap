@@ -1,0 +1,13 @@
+dn: cn=Becki+sn=Navaretta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Becki Navaretta
+cn: Navaretta
+givenname: Becki
+mail: becki.navaretta@planetexpress.com
+userPassword: Becki
+ou: OtherGroup
+uid: 3773
+ Q==

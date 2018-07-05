@@ -1,0 +1,13 @@
+dn: cn=Nelia+sn=Salviejo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nelia Salviejo
+cn: Salviejo
+givenname: Nelia
+mail: nelia.salviejo@planetexpress.com
+userPassword: Nelia
+ou: flight_crew
+uid: 4010
+ Q==

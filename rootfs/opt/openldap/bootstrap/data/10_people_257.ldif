@@ -1,0 +1,13 @@
+dn: cn=Joel+sn=Scott,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joel Scott
+cn: Scott
+givenname: Joel
+mail: joel.scott@planetexpress.com
+userPassword: Joel
+ou: flight_crew
+uid: 257
+ Q==

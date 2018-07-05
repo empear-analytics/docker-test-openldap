@@ -1,0 +1,13 @@
+dn: cn=Dayna+sn=Hee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dayna Hee
+cn: Hee
+givenname: Dayna
+mail: dayna.hee@planetexpress.com
+userPassword: Dayna
+ou: OtherGroup
+uid: 5507
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Machelle+sn=Neiswonger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Machelle Neiswonger
+cn: Neiswonger
+givenname: Machelle
+mail: machelle.neiswonger@planetexpress.com
+userPassword: Machelle
+ou: OtherGroup
+uid: 3884
+ Q==

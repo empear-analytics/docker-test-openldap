@@ -1,0 +1,13 @@
+dn: cn=Laurie+sn=Wiatr,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Laurie Wiatr
+cn: Wiatr
+givenname: Laurie
+mail: laurie.wiatr@planetexpress.com
+userPassword: Laurie
+ou: Group5
+uid: 5070
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Arlena+sn=Ekstein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arlena Ekstein
+cn: Ekstein
+givenname: Arlena
+mail: arlena.ekstein@planetexpress.com
+userPassword: Arlena
+ou: admin_staff
+uid: 5563
+ Q==

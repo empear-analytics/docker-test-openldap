@@ -1,0 +1,13 @@
+dn: cn=Elke+sn=Patridge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elke Patridge
+cn: Patridge
+givenname: Elke
+mail: elke.patridge@planetexpress.com
+userPassword: Elke
+ou: Group5
+uid: 101
+ Q==

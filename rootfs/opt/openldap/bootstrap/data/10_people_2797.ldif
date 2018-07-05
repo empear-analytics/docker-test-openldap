@@ -1,0 +1,13 @@
+dn: cn=Zana+sn=Harrald,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zana Harrald
+cn: Harrald
+givenname: Zana
+mail: zana.harrald@planetexpress.com
+userPassword: Zana
+ou: OtherGroup
+uid: 2797
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Erlinda+sn=Barjas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Erlinda Barjas
+cn: Barjas
+givenname: Erlinda
+mail: erlinda.barjas@planetexpress.com
+userPassword: Erlinda
+ou: flight_crew
+uid: 4031
+ Q==

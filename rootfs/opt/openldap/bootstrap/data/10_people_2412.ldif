@@ -1,0 +1,13 @@
+dn: cn=Chasidy+sn=Mizner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chasidy Mizner
+cn: Mizner
+givenname: Chasidy
+mail: chasidy.mizner@planetexpress.com
+userPassword: Chasidy
+ou: flight_crew
+uid: 2412
+ Q==

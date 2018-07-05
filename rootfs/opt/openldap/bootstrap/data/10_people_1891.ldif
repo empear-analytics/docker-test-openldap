@@ -1,0 +1,13 @@
+dn: cn=Manie+sn=Balerio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Manie Balerio
+cn: Balerio
+givenname: Manie
+mail: manie.balerio@planetexpress.com
+userPassword: Manie
+ou: flight_crew
+uid: 1891
+ Q==

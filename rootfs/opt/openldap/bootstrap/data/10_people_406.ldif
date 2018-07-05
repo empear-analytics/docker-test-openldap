@@ -1,0 +1,13 @@
+dn: cn=Nolan+sn=Vangrouw,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nolan Vangrouw
+cn: Vangrouw
+givenname: Nolan
+mail: nolan.vangrouw@planetexpress.com
+userPassword: Nolan
+ou: OtherGroup
+uid: 406
+ Q==

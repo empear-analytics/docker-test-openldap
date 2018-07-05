@@ -1,0 +1,13 @@
+dn: cn=Codi+sn=Befort,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Codi Befort
+cn: Befort
+givenname: Codi
+mail: codi.befort@planetexpress.com
+userPassword: Codi
+ou: Group5
+uid: 5830
+ Q==

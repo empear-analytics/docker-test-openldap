@@ -1,0 +1,13 @@
+dn: cn=Chuck+sn=Hafer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chuck Hafer
+cn: Hafer
+givenname: Chuck
+mail: chuck.hafer@planetexpress.com
+userPassword: Chuck
+ou: flight_crew
+uid: 2531
+ Q==

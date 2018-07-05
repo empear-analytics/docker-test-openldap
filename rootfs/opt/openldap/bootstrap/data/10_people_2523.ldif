@@ -1,0 +1,13 @@
+dn: cn=Ehtel+sn=Narayanan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ehtel Narayanan
+cn: Narayanan
+givenname: Ehtel
+mail: ehtel.narayanan@planetexpress.com
+userPassword: Ehtel
+ou: flight_crew
+uid: 2523
+ Q==

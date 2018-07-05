@@ -1,0 +1,13 @@
+dn: cn=Melania+sn=Pickenpaugh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melania Pickenpaugh
+cn: Pickenpaugh
+givenname: Melania
+mail: melania.pickenpaugh@planetexpress.com
+userPassword: Melania
+ou: OtherGroup
+uid: 5302
+ Q==

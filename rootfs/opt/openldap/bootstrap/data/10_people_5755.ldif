@@ -1,0 +1,13 @@
+dn: cn=Machelle+sn=Rehbein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Machelle Rehbein
+cn: Rehbein
+givenname: Machelle
+mail: machelle.rehbein@planetexpress.com
+userPassword: Machelle
+ou: OtherGroup
+uid: 5755
+ Q==

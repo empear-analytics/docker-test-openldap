@@ -1,0 +1,13 @@
+dn: cn=Maybelle+sn=Wotring,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maybelle Wotring
+cn: Wotring
+givenname: Maybelle
+mail: maybelle.wotring@planetexpress.com
+userPassword: Maybelle
+ou: admin_staff
+uid: 4523
+ Q==

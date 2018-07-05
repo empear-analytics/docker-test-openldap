@@ -1,0 +1,13 @@
+dn: cn=Jama+sn=Katin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jama Katin
+cn: Katin
+givenname: Jama
+mail: jama.katin@planetexpress.com
+userPassword: Jama
+ou: flight_crew
+uid: 436
+ Q==

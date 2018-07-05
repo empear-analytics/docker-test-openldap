@@ -1,0 +1,13 @@
+dn: cn=Gordon+sn=Nerbonne,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gordon Nerbonne
+cn: Nerbonne
+givenname: Gordon
+mail: gordon.nerbonne@planetexpress.com
+userPassword: Gordon
+ou: flight_crew
+uid: 172
+ Q==

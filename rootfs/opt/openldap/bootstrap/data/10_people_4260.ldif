@@ -1,0 +1,13 @@
+dn: cn=Hyman+sn=Stutzman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hyman Stutzman
+cn: Stutzman
+givenname: Hyman
+mail: hyman.stutzman@planetexpress.com
+userPassword: Hyman
+ou: OtherGroup
+uid: 4260
+ Q==

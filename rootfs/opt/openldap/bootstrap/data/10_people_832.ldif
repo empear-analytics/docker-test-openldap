@@ -1,0 +1,13 @@
+dn: cn=Hal+sn=Roszales,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hal Roszales
+cn: Roszales
+givenname: Hal
+mail: hal.roszales@planetexpress.com
+userPassword: Hal
+ou: admin_staff
+uid: 832
+ Q==

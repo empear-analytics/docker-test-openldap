@@ -1,0 +1,13 @@
+dn: cn=Celeste+sn=Trinkl,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Celeste Trinkl
+cn: Trinkl
+givenname: Celeste
+mail: celeste.trinkl@planetexpress.com
+userPassword: Celeste
+ou: flight_crew
+uid: 2177
+ Q==

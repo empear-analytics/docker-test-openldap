@@ -1,0 +1,13 @@
+dn: cn=Cristine+sn=Freudenthal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cristine Freudenthal
+cn: Freudenthal
+givenname: Cristine
+mail: cristine.freudenthal@planetexpress.com
+userPassword: Cristine
+ou: admin_staff
+uid: 3253
+ Q==

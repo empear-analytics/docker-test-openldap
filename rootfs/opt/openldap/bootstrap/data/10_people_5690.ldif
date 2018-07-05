@@ -1,0 +1,13 @@
+dn: cn=Kelley+sn=Rochester,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kelley Rochester
+cn: Rochester
+givenname: Kelley
+mail: kelley.rochester@planetexpress.com
+userPassword: Kelley
+ou: admin_staff
+uid: 5690
+ Q==

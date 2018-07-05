@@ -1,0 +1,13 @@
+dn: cn=Karissa+sn=Rieb,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karissa Rieb
+cn: Rieb
+givenname: Karissa
+mail: karissa.rieb@planetexpress.com
+userPassword: Karissa
+ou: Group5
+uid: 4802
+ Q==

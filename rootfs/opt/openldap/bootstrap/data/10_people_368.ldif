@@ -1,0 +1,13 @@
+dn: cn=Un+sn=Manso,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Un Manso
+cn: Manso
+givenname: Un
+mail: un.manso@planetexpress.com
+userPassword: Un
+ou: Group5
+uid: 368
+ Q==

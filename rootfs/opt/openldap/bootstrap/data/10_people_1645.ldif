@@ -1,0 +1,13 @@
+dn: cn=Ty+sn=Spiter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ty Spiter
+cn: Spiter
+givenname: Ty
+mail: ty.spiter@planetexpress.com
+userPassword: Ty
+ou: flight_crew
+uid: 1645
+ Q==

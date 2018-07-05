@@ -1,0 +1,13 @@
+dn: cn=Dorethea+sn=Greenlaw,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dorethea Greenlaw
+cn: Greenlaw
+givenname: Dorethea
+mail: dorethea.greenlaw@planetexpress.com
+userPassword: Dorethea
+ou: flight_crew
+uid: 1630
+ Q==

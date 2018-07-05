@@ -1,0 +1,13 @@
+dn: cn=Erinn+sn=Leech,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Erinn Leech
+cn: Leech
+givenname: Erinn
+mail: erinn.leech@planetexpress.com
+userPassword: Erinn
+ou: OtherGroup
+uid: 5122
+ Q==

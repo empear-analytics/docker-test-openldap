@@ -1,0 +1,13 @@
+dn: cn=Lai+sn=Metaxas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lai Metaxas
+cn: Metaxas
+givenname: Lai
+mail: lai.metaxas@planetexpress.com
+userPassword: Lai
+ou: flight_crew
+uid: 4656
+ Q==

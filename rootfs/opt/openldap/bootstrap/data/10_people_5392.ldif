@@ -1,0 +1,13 @@
+dn: cn=Debra+sn=Vangieson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Debra Vangieson
+cn: Vangieson
+givenname: Debra
+mail: debra.vangieson@planetexpress.com
+userPassword: Debra
+ou: flight_crew
+uid: 5392
+ Q==

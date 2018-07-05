@@ -1,0 +1,13 @@
+dn: cn=Sal+sn=Stotko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sal Stotko
+cn: Stotko
+givenname: Sal
+mail: sal.stotko@planetexpress.com
+userPassword: Sal
+ou: admin_staff
+uid: 5357
+ Q==

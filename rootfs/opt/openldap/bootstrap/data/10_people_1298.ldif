@@ -1,0 +1,13 @@
+dn: cn=Valentin+sn=Balladares,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Valentin Balladares
+cn: Balladares
+givenname: Valentin
+mail: valentin.balladares@planetexpress.com
+userPassword: Valentin
+ou: OtherGroup
+uid: 1298
+ Q==

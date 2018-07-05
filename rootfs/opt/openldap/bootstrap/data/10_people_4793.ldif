@@ -1,0 +1,13 @@
+dn: cn=Kendrick+sn=Culverhouse,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kendrick Culverhouse
+cn: Culverhouse
+givenname: Kendrick
+mail: kendrick.culverhouse@planetexpress.com
+userPassword: Kendrick
+ou: OtherGroup
+uid: 4793
+ Q==

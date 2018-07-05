@@ -1,0 +1,13 @@
+dn: cn=Nathan+sn=Knott,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nathan Knott
+cn: Knott
+givenname: Nathan
+mail: nathan.knott@planetexpress.com
+userPassword: Nathan
+ou: OtherGroup
+uid: 849
+ Q==

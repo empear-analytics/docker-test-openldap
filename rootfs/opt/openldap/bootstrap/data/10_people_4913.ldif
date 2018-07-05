@@ -1,0 +1,13 @@
+dn: cn=Altha+sn=Ludewig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Altha Ludewig
+cn: Ludewig
+givenname: Altha
+mail: altha.ludewig@planetexpress.com
+userPassword: Altha
+ou: Group5
+uid: 4913
+ Q==

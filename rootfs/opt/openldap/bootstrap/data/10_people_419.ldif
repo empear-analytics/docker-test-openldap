@@ -1,0 +1,13 @@
+dn: cn=Ciera+sn=Bevans,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ciera Bevans
+cn: Bevans
+givenname: Ciera
+mail: ciera.bevans@planetexpress.com
+userPassword: Ciera
+ou: Group5
+uid: 419
+ Q==

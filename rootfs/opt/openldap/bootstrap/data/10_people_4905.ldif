@@ -1,0 +1,13 @@
+dn: cn=Bobbi+sn=Vardy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bobbi Vardy
+cn: Vardy
+givenname: Bobbi
+mail: bobbi.vardy@planetexpress.com
+userPassword: Bobbi
+ou: flight_crew
+uid: 4905
+ Q==

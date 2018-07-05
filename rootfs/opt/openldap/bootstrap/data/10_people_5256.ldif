@@ -1,0 +1,13 @@
+dn: cn=Lizzie+sn=Coniglio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lizzie Coniglio
+cn: Coniglio
+givenname: Lizzie
+mail: lizzie.coniglio@planetexpress.com
+userPassword: Lizzie
+ou: OtherGroup
+uid: 5256
+ Q==

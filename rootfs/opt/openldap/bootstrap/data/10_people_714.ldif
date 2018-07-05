@@ -1,0 +1,13 @@
+dn: cn=Haley+sn=Rambo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Haley Rambo
+cn: Rambo
+givenname: Haley
+mail: haley.rambo@planetexpress.com
+userPassword: Haley
+ou: flight_crew
+uid: 714
+ Q==

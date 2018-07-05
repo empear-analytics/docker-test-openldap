@@ -1,0 +1,13 @@
+dn: cn=Antonette+sn=Stelzl,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Antonette Stelzl
+cn: Stelzl
+givenname: Antonette
+mail: antonette.stelzl@planetexpress.com
+userPassword: Antonette
+ou: OtherGroup
+uid: 1798
+ Q==

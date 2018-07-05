@@ -1,0 +1,13 @@
+dn: cn=Roxanna+sn=Leavy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roxanna Leavy
+cn: Leavy
+givenname: Roxanna
+mail: roxanna.leavy@planetexpress.com
+userPassword: Roxanna
+ou: OtherGroup
+uid: 4367
+ Q==

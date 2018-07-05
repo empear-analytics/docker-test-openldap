@@ -1,0 +1,13 @@
+dn: cn=Loida+sn=Svare,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loida Svare
+cn: Svare
+givenname: Loida
+mail: loida.svare@planetexpress.com
+userPassword: Loida
+ou: admin_staff
+uid: 3601
+ Q==

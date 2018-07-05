@@ -1,0 +1,13 @@
+dn: cn=Desiree+sn=Huntley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Desiree Huntley
+cn: Huntley
+givenname: Desiree
+mail: desiree.huntley@planetexpress.com
+userPassword: Desiree
+ou: admin_staff
+uid: 2763
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Audria+sn=Sobotta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Audria Sobotta
+cn: Sobotta
+givenname: Audria
+mail: audria.sobotta@planetexpress.com
+userPassword: Audria
+ou: Group5
+uid: 2832
+ Q==

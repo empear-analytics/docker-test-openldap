@@ -1,0 +1,13 @@
+dn: cn=Jannie+sn=Meranto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jannie Meranto
+cn: Meranto
+givenname: Jannie
+mail: jannie.meranto@planetexpress.com
+userPassword: Jannie
+ou: OtherGroup
+uid: 1229
+ Q==

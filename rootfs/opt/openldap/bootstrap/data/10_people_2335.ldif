@@ -1,0 +1,13 @@
+dn: cn=Stacy+sn=Partenope,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stacy Partenope
+cn: Partenope
+givenname: Stacy
+mail: stacy.partenope@planetexpress.com
+userPassword: Stacy
+ou: flight_crew
+uid: 2335
+ Q==

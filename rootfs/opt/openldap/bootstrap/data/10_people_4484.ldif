@@ -1,0 +1,13 @@
+dn: cn=Pia+sn=Lothridge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pia Lothridge
+cn: Lothridge
+givenname: Pia
+mail: pia.lothridge@planetexpress.com
+userPassword: Pia
+ou: OtherGroup
+uid: 4484
+ Q==

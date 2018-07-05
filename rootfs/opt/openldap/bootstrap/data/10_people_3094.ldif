@@ -1,0 +1,13 @@
+dn: cn=Doretta+sn=Vansteenberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Doretta Vansteenberg
+cn: Vansteenberg
+givenname: Doretta
+mail: doretta.vansteenberg@planetexpress.com
+userPassword: Doretta
+ou: OtherGroup
+uid: 3094
+ Q==

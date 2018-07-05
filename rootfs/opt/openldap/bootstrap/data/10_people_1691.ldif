@@ -1,0 +1,13 @@
+dn: cn=Selina+sn=Emig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Selina Emig
+cn: Emig
+givenname: Selina
+mail: selina.emig@planetexpress.com
+userPassword: Selina
+ou: admin_staff
+uid: 1691
+ Q==

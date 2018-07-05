@@ -1,0 +1,13 @@
+dn: cn=Jamee+sn=Guerreiro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamee Guerreiro
+cn: Guerreiro
+givenname: Jamee
+mail: jamee.guerreiro@planetexpress.com
+userPassword: Jamee
+ou: flight_crew
+uid: 3064
+ Q==

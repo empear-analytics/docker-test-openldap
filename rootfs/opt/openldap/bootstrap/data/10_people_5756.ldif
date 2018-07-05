@@ -1,0 +1,13 @@
+dn: cn=Leann+sn=Lestourgeon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leann Lestourgeon
+cn: Lestourgeon
+givenname: Leann
+mail: leann.lestourgeon@planetexpress.com
+userPassword: Leann
+ou: admin_staff
+uid: 5756
+ Q==

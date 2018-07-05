@@ -1,0 +1,13 @@
+dn: cn=Deetta+sn=Wollner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deetta Wollner
+cn: Wollner
+givenname: Deetta
+mail: deetta.wollner@planetexpress.com
+userPassword: Deetta
+ou: OtherGroup
+uid: 4723
+ Q==

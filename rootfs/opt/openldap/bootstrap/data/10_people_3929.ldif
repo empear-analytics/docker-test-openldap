@@ -1,0 +1,13 @@
+dn: cn=Wade+sn=Favela,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wade Favela
+cn: Favela
+givenname: Wade
+mail: wade.favela@planetexpress.com
+userPassword: Wade
+ou: Group5
+uid: 3929
+ Q==

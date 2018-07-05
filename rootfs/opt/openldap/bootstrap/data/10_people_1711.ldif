@@ -1,0 +1,13 @@
+dn: cn=Farah+sn=Cyganiewicz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Farah Cyganiewicz
+cn: Cyganiewicz
+givenname: Farah
+mail: farah.cyganiewicz@planetexpress.com
+userPassword: Farah
+ou: admin_staff
+uid: 1711
+ Q==

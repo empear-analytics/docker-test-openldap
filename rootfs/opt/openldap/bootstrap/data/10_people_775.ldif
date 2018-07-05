@@ -1,0 +1,13 @@
+dn: cn=Janice+sn=Kander,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janice Kander
+cn: Kander
+givenname: Janice
+mail: janice.kander@planetexpress.com
+userPassword: Janice
+ou: Group5
+uid: 775
+ Q==

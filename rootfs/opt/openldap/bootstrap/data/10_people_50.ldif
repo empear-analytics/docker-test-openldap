@@ -1,0 +1,13 @@
+dn: cn=Violette+sn=Ruffing,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Violette Ruffing
+cn: Ruffing
+givenname: Violette
+mail: violette.ruffing@planetexpress.com
+userPassword: Violette
+ou: OtherGroup
+uid: 50
+ Q==

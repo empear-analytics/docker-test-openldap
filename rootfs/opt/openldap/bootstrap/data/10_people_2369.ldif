@@ -1,0 +1,13 @@
+dn: cn=Charita+sn=Novida,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charita Novida
+cn: Novida
+givenname: Charita
+mail: charita.novida@planetexpress.com
+userPassword: Charita
+ou: Group5
+uid: 2369
+ Q==

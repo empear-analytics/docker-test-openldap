@@ -1,0 +1,13 @@
+dn: cn=Maegan+sn=Forcell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maegan Forcell
+cn: Forcell
+givenname: Maegan
+mail: maegan.forcell@planetexpress.com
+userPassword: Maegan
+ou: admin_staff
+uid: 5094
+ Q==

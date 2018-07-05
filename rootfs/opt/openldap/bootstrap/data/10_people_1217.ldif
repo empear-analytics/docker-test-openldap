@@ -1,0 +1,13 @@
+dn: cn=Sharon+sn=Kerman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharon Kerman
+cn: Kerman
+givenname: Sharon
+mail: sharon.kerman@planetexpress.com
+userPassword: Sharon
+ou: OtherGroup
+uid: 1217
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Miki+sn=Nawrocki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Miki Nawrocki
+cn: Nawrocki
+givenname: Miki
+mail: miki.nawrocki@planetexpress.com
+userPassword: Miki
+ou: flight_crew
+uid: 3956
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Arla+sn=Shah,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arla Shah
+cn: Shah
+givenname: Arla
+mail: arla.shah@planetexpress.com
+userPassword: Arla
+ou: flight_crew
+uid: 1973
+ Q==

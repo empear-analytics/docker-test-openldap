@@ -1,0 +1,13 @@
+dn: cn=Nicolasa+sn=Bertrum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nicolasa Bertrum
+cn: Bertrum
+givenname: Nicolasa
+mail: nicolasa.bertrum@planetexpress.com
+userPassword: Nicolasa
+ou: OtherGroup
+uid: 2757
+ Q==

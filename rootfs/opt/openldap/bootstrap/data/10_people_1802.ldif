@@ -1,0 +1,13 @@
+dn: cn=Dana+sn=Thadison,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dana Thadison
+cn: Thadison
+givenname: Dana
+mail: dana.thadison@planetexpress.com
+userPassword: Dana
+ou: admin_staff
+uid: 1802
+ Q==

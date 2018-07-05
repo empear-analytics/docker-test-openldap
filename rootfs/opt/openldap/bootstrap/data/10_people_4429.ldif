@@ -1,0 +1,13 @@
+dn: cn=Tommy+sn=Liguori,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tommy Liguori
+cn: Liguori
+givenname: Tommy
+mail: tommy.liguori@planetexpress.com
+userPassword: Tommy
+ou: Group5
+uid: 4429
+ Q==

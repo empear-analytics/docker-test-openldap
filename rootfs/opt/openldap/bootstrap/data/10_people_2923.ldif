@@ -1,0 +1,13 @@
+dn: cn=Dudley+sn=Bellen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dudley Bellen
+cn: Bellen
+givenname: Dudley
+mail: dudley.bellen@planetexpress.com
+userPassword: Dudley
+ou: OtherGroup
+uid: 2923
+ Q==

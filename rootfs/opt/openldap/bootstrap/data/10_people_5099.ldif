@@ -1,0 +1,13 @@
+dn: cn=Melda+sn=Pecarina,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melda Pecarina
+cn: Pecarina
+givenname: Melda
+mail: melda.pecarina@planetexpress.com
+userPassword: Melda
+ou: admin_staff
+uid: 5099
+ Q==

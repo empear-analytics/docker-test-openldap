@@ -1,0 +1,13 @@
+dn: cn=Kyla+sn=Leonelli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kyla Leonelli
+cn: Leonelli
+givenname: Kyla
+mail: kyla.leonelli@planetexpress.com
+userPassword: Kyla
+ou: Group5
+uid: 4464
+ Q==

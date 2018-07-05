@@ -1,0 +1,13 @@
+dn: cn=Dominick+sn=Powles,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dominick Powles
+cn: Powles
+givenname: Dominick
+mail: dominick.powles@planetexpress.com
+userPassword: Dominick
+ou: flight_crew
+uid: 4596
+ Q==

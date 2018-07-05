@@ -1,0 +1,13 @@
+dn: cn=Linwood+sn=Mccole,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Linwood Mccole
+cn: Mccole
+givenname: Linwood
+mail: linwood.mccole@planetexpress.com
+userPassword: Linwood
+ou: flight_crew
+uid: 237
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lashandra+sn=Boos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lashandra Boos
+cn: Boos
+givenname: Lashandra
+mail: lashandra.boos@planetexpress.com
+userPassword: Lashandra
+ou: flight_crew
+uid: 3997
+ Q==

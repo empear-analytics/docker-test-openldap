@@ -1,0 +1,13 @@
+dn: cn=Florentina+sn=Sanderfer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Florentina Sanderfer
+cn: Sanderfer
+givenname: Florentina
+mail: florentina.sanderfer@planetexpress.com
+userPassword: Florentina
+ou: Group5
+uid: 5183
+ Q==

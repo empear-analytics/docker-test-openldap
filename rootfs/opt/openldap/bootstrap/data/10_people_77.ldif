@@ -1,0 +1,13 @@
+dn: cn=Debby+sn=Gjokaj,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Debby Gjokaj
+cn: Gjokaj
+givenname: Debby
+mail: debby.gjokaj@planetexpress.com
+userPassword: Debby
+ou: Group5
+uid: 77
+ Q==

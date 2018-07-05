@@ -1,0 +1,13 @@
+dn: cn=Eli+sn=Kindschuh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eli Kindschuh
+cn: Kindschuh
+givenname: Eli
+mail: eli.kindschuh@planetexpress.com
+userPassword: Eli
+ou: admin_staff
+uid: 825
+ Q==

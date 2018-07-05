@@ -1,0 +1,13 @@
+dn: cn=Maybell+sn=Beaudion,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maybell Beaudion
+cn: Beaudion
+givenname: Maybell
+mail: maybell.beaudion@planetexpress.com
+userPassword: Maybell
+ou: OtherGroup
+uid: 934
+ Q==

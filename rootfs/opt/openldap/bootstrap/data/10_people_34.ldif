@@ -1,0 +1,13 @@
+dn: cn=Belinda+sn=Childres,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Belinda Childres
+cn: Childres
+givenname: Belinda
+mail: belinda.childres@planetexpress.com
+userPassword: Belinda
+ou: admin_staff
+uid: 34
+ Q==

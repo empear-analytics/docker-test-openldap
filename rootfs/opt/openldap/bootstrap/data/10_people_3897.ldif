@@ -1,0 +1,13 @@
+dn: cn=Aubrey+sn=Ness,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aubrey Ness
+cn: Ness
+givenname: Aubrey
+mail: aubrey.ness@planetexpress.com
+userPassword: Aubrey
+ou: OtherGroup
+uid: 3897
+ Q==

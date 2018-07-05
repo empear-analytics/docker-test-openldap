@@ -1,0 +1,13 @@
+dn: cn=Porsha+sn=Arend,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Porsha Arend
+cn: Arend
+givenname: Porsha
+mail: porsha.arend@planetexpress.com
+userPassword: Porsha
+ou: flight_crew
+uid: 280
+ Q==

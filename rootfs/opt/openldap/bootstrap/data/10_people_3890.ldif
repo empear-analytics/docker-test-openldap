@@ -1,0 +1,13 @@
+dn: cn=Arianna+sn=Balmores,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arianna Balmores
+cn: Balmores
+givenname: Arianna
+mail: arianna.balmores@planetexpress.com
+userPassword: Arianna
+ou: admin_staff
+uid: 3890
+ Q==

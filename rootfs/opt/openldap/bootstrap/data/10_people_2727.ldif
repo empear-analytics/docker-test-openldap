@@ -1,0 +1,13 @@
+dn: cn=Aaron+sn=Jarding,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aaron Jarding
+cn: Jarding
+givenname: Aaron
+mail: aaron.jarding@planetexpress.com
+userPassword: Aaron
+ou: Group5
+uid: 2727
+ Q==

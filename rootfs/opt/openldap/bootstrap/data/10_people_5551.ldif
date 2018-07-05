@@ -1,0 +1,13 @@
+dn: cn=Doug+sn=Gehm,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Doug Gehm
+cn: Gehm
+givenname: Doug
+mail: doug.gehm@planetexpress.com
+userPassword: Doug
+ou: admin_staff
+uid: 5551
+ Q==

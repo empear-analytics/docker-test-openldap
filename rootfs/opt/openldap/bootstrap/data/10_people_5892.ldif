@@ -1,0 +1,13 @@
+dn: cn=Ramona+sn=Holmgren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ramona Holmgren
+cn: Holmgren
+givenname: Ramona
+mail: ramona.holmgren@planetexpress.com
+userPassword: Ramona
+ou: flight_crew
+uid: 5892
+ Q==

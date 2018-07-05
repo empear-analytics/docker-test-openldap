@@ -1,0 +1,13 @@
+dn: cn=Lasandra+sn=Valone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lasandra Valone
+cn: Valone
+givenname: Lasandra
+mail: lasandra.valone@planetexpress.com
+userPassword: Lasandra
+ou: flight_crew
+uid: 940
+ Q==

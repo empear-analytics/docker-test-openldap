@@ -1,0 +1,13 @@
+dn: cn=Fidelia+sn=Rend,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fidelia Rend
+cn: Rend
+givenname: Fidelia
+mail: fidelia.rend@planetexpress.com
+userPassword: Fidelia
+ou: OtherGroup
+uid: 38
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tawna+sn=Shelden,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tawna Shelden
+cn: Shelden
+givenname: Tawna
+mail: tawna.shelden@planetexpress.com
+userPassword: Tawna
+ou: Group5
+uid: 2806
+ Q==

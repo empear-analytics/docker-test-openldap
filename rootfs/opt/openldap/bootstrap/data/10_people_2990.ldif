@@ -1,0 +1,13 @@
+dn: cn=Ruben+sn=Bibian,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ruben Bibian
+cn: Bibian
+givenname: Ruben
+mail: ruben.bibian@planetexpress.com
+userPassword: Ruben
+ou: OtherGroup
+uid: 2990
+ Q==

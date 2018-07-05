@@ -1,0 +1,13 @@
+dn: cn=Elease+sn=Herriman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elease Herriman
+cn: Herriman
+givenname: Elease
+mail: elease.herriman@planetexpress.com
+userPassword: Elease
+ou: admin_staff
+uid: 3970
+ Q==

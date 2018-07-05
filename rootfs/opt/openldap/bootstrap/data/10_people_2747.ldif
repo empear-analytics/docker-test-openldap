@@ -1,0 +1,13 @@
+dn: cn=Perla+sn=Tosti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Perla Tosti
+cn: Tosti
+givenname: Perla
+mail: perla.tosti@planetexpress.com
+userPassword: Perla
+ou: OtherGroup
+uid: 2747
+ Q==

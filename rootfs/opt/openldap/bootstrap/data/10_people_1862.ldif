@@ -1,0 +1,13 @@
+dn: cn=Wm+sn=Munerlyn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wm Munerlyn
+cn: Munerlyn
+givenname: Wm
+mail: wm.munerlyn@planetexpress.com
+userPassword: Wm
+ou: admin_staff
+uid: 1862
+ Q==

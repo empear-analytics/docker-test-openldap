@@ -1,0 +1,13 @@
+dn: cn=Ashlie+sn=Hamic,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ashlie Hamic
+cn: Hamic
+givenname: Ashlie
+mail: ashlie.hamic@planetexpress.com
+userPassword: Ashlie
+ou: flight_crew
+uid: 1312
+ Q==

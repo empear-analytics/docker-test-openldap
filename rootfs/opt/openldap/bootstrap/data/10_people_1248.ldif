@@ -1,0 +1,13 @@
+dn: cn=Delsie+sn=Huckins,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delsie Huckins
+cn: Huckins
+givenname: Delsie
+mail: delsie.huckins@planetexpress.com
+userPassword: Delsie
+ou: Group5
+uid: 1248
+ Q==

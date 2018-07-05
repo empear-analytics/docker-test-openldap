@@ -1,0 +1,13 @@
+dn: cn=Cordell+sn=Rucinski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cordell Rucinski
+cn: Rucinski
+givenname: Cordell
+mail: cordell.rucinski@planetexpress.com
+userPassword: Cordell
+ou: OtherGroup
+uid: 4561
+ Q==

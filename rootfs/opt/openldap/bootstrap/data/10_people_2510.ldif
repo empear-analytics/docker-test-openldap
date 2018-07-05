@@ -1,0 +1,13 @@
+dn: cn=Clelia+sn=Miles,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clelia Miles
+cn: Miles
+givenname: Clelia
+mail: clelia.miles@planetexpress.com
+userPassword: Clelia
+ou: flight_crew
+uid: 2510
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jeanette+sn=Jokela,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeanette Jokela
+cn: Jokela
+givenname: Jeanette
+mail: jeanette.jokela@planetexpress.com
+userPassword: Jeanette
+ou: Group5
+uid: 664
+ Q==

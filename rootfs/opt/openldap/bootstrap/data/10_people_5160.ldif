@@ -1,0 +1,13 @@
+dn: cn=Delphine+sn=Volle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delphine Volle
+cn: Volle
+givenname: Delphine
+mail: delphine.volle@planetexpress.com
+userPassword: Delphine
+ou: flight_crew
+uid: 5160
+ Q==

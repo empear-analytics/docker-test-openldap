@@ -1,0 +1,13 @@
+dn: cn=Ozell+sn=Andringa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ozell Andringa
+cn: Andringa
+givenname: Ozell
+mail: ozell.andringa@planetexpress.com
+userPassword: Ozell
+ou: flight_crew
+uid: 1450
+ Q==

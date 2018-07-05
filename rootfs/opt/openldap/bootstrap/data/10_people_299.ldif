@@ -1,0 +1,13 @@
+dn: cn=Lisbeth+sn=Seachord,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lisbeth Seachord
+cn: Seachord
+givenname: Lisbeth
+mail: lisbeth.seachord@planetexpress.com
+userPassword: Lisbeth
+ou: admin_staff
+uid: 299
+ Q==

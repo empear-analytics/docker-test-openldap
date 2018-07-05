@@ -1,0 +1,13 @@
+dn: cn=Alyssa+sn=Jaramillo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alyssa Jaramillo
+cn: Jaramillo
+givenname: Alyssa
+mail: alyssa.jaramillo@planetexpress.com
+userPassword: Alyssa
+ou: flight_crew
+uid: 2788
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jerilyn+sn=Stehly,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jerilyn Stehly
+cn: Stehly
+givenname: Jerilyn
+mail: jerilyn.stehly@planetexpress.com
+userPassword: Jerilyn
+ou: OtherGroup
+uid: 3823
+ Q==

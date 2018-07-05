@@ -1,0 +1,13 @@
+dn: cn=Jeannine+sn=Meline,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeannine Meline
+cn: Meline
+givenname: Jeannine
+mail: jeannine.meline@planetexpress.com
+userPassword: Jeannine
+ou: OtherGroup
+uid: 4504
+ Q==

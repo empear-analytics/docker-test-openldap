@@ -1,0 +1,13 @@
+dn: cn=Hae+sn=Schabel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hae Schabel
+cn: Schabel
+givenname: Hae
+mail: hae.schabel@planetexpress.com
+userPassword: Hae
+ou: admin_staff
+uid: 5554
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Sanda+sn=Seth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sanda Seth
+cn: Seth
+givenname: Sanda
+mail: sanda.seth@planetexpress.com
+userPassword: Sanda
+ou: OtherGroup
+uid: 1811
+ Q==

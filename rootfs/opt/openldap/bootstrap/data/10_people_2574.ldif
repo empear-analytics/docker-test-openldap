@@ -1,0 +1,13 @@
+dn: cn=Edward+sn=Erlanson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edward Erlanson
+cn: Erlanson
+givenname: Edward
+mail: edward.erlanson@planetexpress.com
+userPassword: Edward
+ou: OtherGroup
+uid: 2574
+ Q==

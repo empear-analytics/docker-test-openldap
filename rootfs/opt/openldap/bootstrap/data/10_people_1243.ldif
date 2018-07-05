@@ -1,0 +1,13 @@
+dn: cn=Louise+sn=Hanft,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Louise Hanft
+cn: Hanft
+givenname: Louise
+mail: louise.hanft@planetexpress.com
+userPassword: Louise
+ou: OtherGroup
+uid: 1243
+ Q==

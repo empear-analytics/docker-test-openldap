@@ -1,0 +1,13 @@
+dn: cn=Mike+sn=Flamio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mike Flamio
+cn: Flamio
+givenname: Mike
+mail: mike.flamio@planetexpress.com
+userPassword: Mike
+ou: Group5
+uid: 2158
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jame+sn=Ishee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jame Ishee
+cn: Ishee
+givenname: Jame
+mail: jame.ishee@planetexpress.com
+userPassword: Jame
+ou: flight_crew
+uid: 1715
+ Q==

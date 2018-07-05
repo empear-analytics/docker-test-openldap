@@ -1,0 +1,13 @@
+dn: cn=Nakia+sn=Mcshane,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nakia Mcshane
+cn: Mcshane
+givenname: Nakia
+mail: nakia.mcshane@planetexpress.com
+userPassword: Nakia
+ou: Group5
+uid: 4570
+ Q==

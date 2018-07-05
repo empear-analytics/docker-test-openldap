@@ -1,0 +1,13 @@
+dn: cn=Leo+sn=Kurns,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leo Kurns
+cn: Kurns
+givenname: Leo
+mail: leo.kurns@planetexpress.com
+userPassword: Leo
+ou: flight_crew
+uid: 5341
+ Q==

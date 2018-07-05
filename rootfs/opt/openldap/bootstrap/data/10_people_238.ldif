@@ -1,0 +1,13 @@
+dn: cn=Adam+sn=Yankovitch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adam Yankovitch
+cn: Yankovitch
+givenname: Adam
+mail: adam.yankovitch@planetexpress.com
+userPassword: Adam
+ou: flight_crew
+uid: 238
+ Q==

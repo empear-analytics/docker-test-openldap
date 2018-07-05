@@ -1,0 +1,13 @@
+dn: cn=Ozella+sn=Cleasby,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ozella Cleasby
+cn: Cleasby
+givenname: Ozella
+mail: ozella.cleasby@planetexpress.com
+userPassword: Ozella
+ou: Group5
+uid: 2637
+ Q==

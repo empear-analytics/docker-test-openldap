@@ -1,0 +1,13 @@
+dn: cn=Hiram+sn=Sligh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hiram Sligh
+cn: Sligh
+givenname: Hiram
+mail: hiram.sligh@planetexpress.com
+userPassword: Hiram
+ou: OtherGroup
+uid: 1083
+ Q==

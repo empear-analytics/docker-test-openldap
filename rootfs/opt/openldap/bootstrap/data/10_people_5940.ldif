@@ -1,0 +1,13 @@
+dn: cn=Jamey+sn=Mastrobuono,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamey Mastrobuono
+cn: Mastrobuono
+givenname: Jamey
+mail: jamey.mastrobuono@planetexpress.com
+userPassword: Jamey
+ou: Group5
+uid: 5940
+ Q==

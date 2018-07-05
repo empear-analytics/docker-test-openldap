@@ -1,0 +1,13 @@
+dn: cn=Whitley+sn=Panciera,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Whitley Panciera
+cn: Panciera
+givenname: Whitley
+mail: whitley.panciera@planetexpress.com
+userPassword: Whitley
+ou: Group5
+uid: 2458
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Dona+sn=Aragundi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dona Aragundi
+cn: Aragundi
+givenname: Dona
+mail: dona.aragundi@planetexpress.com
+userPassword: Dona
+ou: OtherGroup
+uid: 327
+ Q==

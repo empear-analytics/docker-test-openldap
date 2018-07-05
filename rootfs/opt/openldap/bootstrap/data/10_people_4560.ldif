@@ -1,0 +1,13 @@
+dn: cn=Breann+sn=Fritter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Breann Fritter
+cn: Fritter
+givenname: Breann
+mail: breann.fritter@planetexpress.com
+userPassword: Breann
+ou: OtherGroup
+uid: 4560
+ Q==

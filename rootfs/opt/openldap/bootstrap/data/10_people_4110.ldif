@@ -1,0 +1,13 @@
+dn: cn=Serena+sn=Aune,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Serena Aune
+cn: Aune
+givenname: Serena
+mail: serena.aune@planetexpress.com
+userPassword: Serena
+ou: flight_crew
+uid: 4110
+ Q==

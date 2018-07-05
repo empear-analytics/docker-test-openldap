@@ -1,0 +1,13 @@
+dn: cn=Viola+sn=Ungerleider,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Viola Ungerleider
+cn: Ungerleider
+givenname: Viola
+mail: viola.ungerleider@planetexpress.com
+userPassword: Viola
+ou: admin_staff
+uid: 3401
+ Q==

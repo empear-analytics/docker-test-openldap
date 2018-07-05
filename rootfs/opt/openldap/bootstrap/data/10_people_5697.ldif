@@ -1,0 +1,13 @@
+dn: cn=Jeanna+sn=Helser,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeanna Helser
+cn: Helser
+givenname: Jeanna
+mail: jeanna.helser@planetexpress.com
+userPassword: Jeanna
+ou: Group5
+uid: 5697
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Starr+sn=Kussman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Starr Kussman
+cn: Kussman
+givenname: Starr
+mail: starr.kussman@planetexpress.com
+userPassword: Starr
+ou: Group5
+uid: 2704
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Viki+sn=Stanczyk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Viki Stanczyk
+cn: Stanczyk
+givenname: Viki
+mail: viki.stanczyk@planetexpress.com
+userPassword: Viki
+ou: admin_staff
+uid: 2443
+ Q==

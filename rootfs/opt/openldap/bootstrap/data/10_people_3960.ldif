@@ -1,0 +1,13 @@
+dn: cn=Christi+sn=Dalman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christi Dalman
+cn: Dalman
+givenname: Christi
+mail: christi.dalman@planetexpress.com
+userPassword: Christi
+ou: admin_staff
+uid: 3960
+ Q==

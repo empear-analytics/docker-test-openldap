@@ -1,0 +1,13 @@
+dn: cn=Sharri+sn=Cristo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharri Cristo
+cn: Cristo
+givenname: Sharri
+mail: sharri.cristo@planetexpress.com
+userPassword: Sharri
+ou: OtherGroup
+uid: 4735
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Elly+sn=Barefoot,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elly Barefoot
+cn: Barefoot
+givenname: Elly
+mail: elly.barefoot@planetexpress.com
+userPassword: Elly
+ou: admin_staff
+uid: 2846
+ Q==

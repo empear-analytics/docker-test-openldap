@@ -1,0 +1,13 @@
+dn: cn=Bryanna+sn=Redell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bryanna Redell
+cn: Redell
+givenname: Bryanna
+mail: bryanna.redell@planetexpress.com
+userPassword: Bryanna
+ou: admin_staff
+uid: 4481
+ Q==

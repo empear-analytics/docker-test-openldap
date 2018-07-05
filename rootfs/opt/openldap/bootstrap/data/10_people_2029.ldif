@@ -1,0 +1,13 @@
+dn: cn=Williemae+sn=Zant,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Williemae Zant
+cn: Zant
+givenname: Williemae
+mail: williemae.zant@planetexpress.com
+userPassword: Williemae
+ou: admin_staff
+uid: 2029
+ Q==

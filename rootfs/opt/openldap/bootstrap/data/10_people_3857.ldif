@@ -1,0 +1,13 @@
+dn: cn=Lissa+sn=Kamansky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lissa Kamansky
+cn: Kamansky
+givenname: Lissa
+mail: lissa.kamansky@planetexpress.com
+userPassword: Lissa
+ou: Group5
+uid: 3857
+ Q==

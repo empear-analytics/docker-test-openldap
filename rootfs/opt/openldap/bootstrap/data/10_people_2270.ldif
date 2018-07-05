@@ -1,0 +1,13 @@
+dn: cn=Courtney+sn=Solivan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Courtney Solivan
+cn: Solivan
+givenname: Courtney
+mail: courtney.solivan@planetexpress.com
+userPassword: Courtney
+ou: flight_crew
+uid: 2270
+ Q==

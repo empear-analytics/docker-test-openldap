@@ -1,0 +1,13 @@
+dn: cn=Adriana+sn=Elfstrom,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adriana Elfstrom
+cn: Elfstrom
+givenname: Adriana
+mail: adriana.elfstrom@planetexpress.com
+userPassword: Adriana
+ou: admin_staff
+uid: 2796
+ Q==

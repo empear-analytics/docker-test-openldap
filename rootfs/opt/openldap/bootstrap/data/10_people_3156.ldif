@@ -1,0 +1,13 @@
+dn: cn=Pearle+sn=Clapsaddle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pearle Clapsaddle
+cn: Clapsaddle
+givenname: Pearle
+mail: pearle.clapsaddle@planetexpress.com
+userPassword: Pearle
+ou: admin_staff
+uid: 3156
+ Q==

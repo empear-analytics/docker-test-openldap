@@ -1,0 +1,13 @@
+dn: cn=Maryrose+sn=Ryen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maryrose Ryen
+cn: Ryen
+givenname: Maryrose
+mail: maryrose.ryen@planetexpress.com
+userPassword: Maryrose
+ou: admin_staff
+uid: 704
+ Q==

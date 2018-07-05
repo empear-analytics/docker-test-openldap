@@ -1,0 +1,13 @@
+dn: cn=Carmel+sn=Fujiwara,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carmel Fujiwara
+cn: Fujiwara
+givenname: Carmel
+mail: carmel.fujiwara@planetexpress.com
+userPassword: Carmel
+ou: OtherGroup
+uid: 779
+ Q==

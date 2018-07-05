@@ -1,0 +1,13 @@
+dn: cn=Keshia+sn=Scullark,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keshia Scullark
+cn: Scullark
+givenname: Keshia
+mail: keshia.scullark@planetexpress.com
+userPassword: Keshia
+ou: OtherGroup
+uid: 303
+ Q==

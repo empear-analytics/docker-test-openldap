@@ -1,0 +1,13 @@
+dn: cn=Keneth+sn=Christler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keneth Christler
+cn: Christler
+givenname: Keneth
+mail: keneth.christler@planetexpress.com
+userPassword: Keneth
+ou: admin_staff
+uid: 5091
+ Q==

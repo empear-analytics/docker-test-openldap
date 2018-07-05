@@ -1,0 +1,13 @@
+dn: cn=Elwanda+sn=Menendez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elwanda Menendez
+cn: Menendez
+givenname: Elwanda
+mail: elwanda.menendez@planetexpress.com
+userPassword: Elwanda
+ou: flight_crew
+uid: 1924
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Angele+sn=Aleksey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angele Aleksey
+cn: Aleksey
+givenname: Angele
+mail: angele.aleksey@planetexpress.com
+userPassword: Angele
+ou: OtherGroup
+uid: 5568
+ Q==

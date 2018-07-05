@@ -1,0 +1,13 @@
+dn: cn=Leonarda+sn=Schwarcz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leonarda Schwarcz
+cn: Schwarcz
+givenname: Leonarda
+mail: leonarda.schwarcz@planetexpress.com
+userPassword: Leonarda
+ou: flight_crew
+uid: 3459
+ Q==

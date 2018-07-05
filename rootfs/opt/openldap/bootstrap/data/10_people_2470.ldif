@@ -1,0 +1,13 @@
+dn: cn=Lavette+sn=Benford,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lavette Benford
+cn: Benford
+givenname: Lavette
+mail: lavette.benford@planetexpress.com
+userPassword: Lavette
+ou: admin_staff
+uid: 2470
+ Q==

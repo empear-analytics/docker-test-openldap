@@ -1,0 +1,13 @@
+dn: cn=Margaretta+sn=Newbound,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margaretta Newbound
+cn: Newbound
+givenname: Margaretta
+mail: margaretta.newbound@planetexpress.com
+userPassword: Margaretta
+ou: flight_crew
+uid: 3843
+ Q==

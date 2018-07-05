@@ -1,0 +1,13 @@
+dn: cn=Angelena+sn=Baskette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelena Baskette
+cn: Baskette
+givenname: Angelena
+mail: angelena.baskette@planetexpress.com
+userPassword: Angelena
+ou: admin_staff
+uid: 1920
+ Q==

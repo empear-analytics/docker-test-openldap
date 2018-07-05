@@ -1,0 +1,13 @@
+dn: cn=Fe+sn=Sczygiel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fe Sczygiel
+cn: Sczygiel
+givenname: Fe
+mail: fe.sczygiel@planetexpress.com
+userPassword: Fe
+ou: Group5
+uid: 1321
+ Q==

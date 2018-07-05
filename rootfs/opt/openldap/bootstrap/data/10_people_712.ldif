@@ -1,0 +1,13 @@
+dn: cn=Rich+sn=Marander,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rich Marander
+cn: Marander
+givenname: Rich
+mail: rich.marander@planetexpress.com
+userPassword: Rich
+ou: admin_staff
+uid: 712
+ Q==

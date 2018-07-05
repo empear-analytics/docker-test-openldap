@@ -1,0 +1,13 @@
+dn: cn=Lauryn+sn=Wedner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lauryn Wedner
+cn: Wedner
+givenname: Lauryn
+mail: lauryn.wedner@planetexpress.com
+userPassword: Lauryn
+ou: Group5
+uid: 285
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Gala+sn=Pastorius,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gala Pastorius
+cn: Pastorius
+givenname: Gala
+mail: gala.pastorius@planetexpress.com
+userPassword: Gala
+ou: admin_staff
+uid: 2329
+ Q==

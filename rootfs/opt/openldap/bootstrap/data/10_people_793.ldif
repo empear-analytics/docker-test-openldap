@@ -1,0 +1,13 @@
+dn: cn=Katina+sn=Podolsky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katina Podolsky
+cn: Podolsky
+givenname: Katina
+mail: katina.podolsky@planetexpress.com
+userPassword: Katina
+ou: flight_crew
+uid: 793
+ Q==

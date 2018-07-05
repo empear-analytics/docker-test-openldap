@@ -1,0 +1,13 @@
+dn: cn=Elza+sn=Weltch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elza Weltch
+cn: Weltch
+givenname: Elza
+mail: elza.weltch@planetexpress.com
+userPassword: Elza
+ou: Group5
+uid: 2626
+ Q==

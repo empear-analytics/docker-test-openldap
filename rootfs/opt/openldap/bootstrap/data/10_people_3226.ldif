@@ -1,0 +1,13 @@
+dn: cn=Laurinda+sn=Willame,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Laurinda Willame
+cn: Willame
+givenname: Laurinda
+mail: laurinda.willame@planetexpress.com
+userPassword: Laurinda
+ou: admin_staff
+uid: 3226
+ Q==

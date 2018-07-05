@@ -1,0 +1,13 @@
+dn: cn=Charlie+sn=Schuenemann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charlie Schuenemann
+cn: Schuenemann
+givenname: Charlie
+mail: charlie.schuenemann@planetexpress.com
+userPassword: Charlie
+ou: Group5
+uid: 4792
+ Q==

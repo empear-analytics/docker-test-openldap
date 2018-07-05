@@ -1,0 +1,13 @@
+dn: cn=Brittany+sn=Raikes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brittany Raikes
+cn: Raikes
+givenname: Brittany
+mail: brittany.raikes@planetexpress.com
+userPassword: Brittany
+ou: admin_staff
+uid: 4358
+ Q==

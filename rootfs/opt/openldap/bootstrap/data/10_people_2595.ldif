@@ -1,0 +1,13 @@
+dn: cn=Lonna+sn=Krylo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lonna Krylo
+cn: Krylo
+givenname: Lonna
+mail: lonna.krylo@planetexpress.com
+userPassword: Lonna
+ou: Group5
+uid: 2595
+ Q==

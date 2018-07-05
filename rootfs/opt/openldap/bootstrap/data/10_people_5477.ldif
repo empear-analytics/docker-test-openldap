@@ -1,0 +1,13 @@
+dn: cn=Verline+sn=Petrucelli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Verline Petrucelli
+cn: Petrucelli
+givenname: Verline
+mail: verline.petrucelli@planetexpress.com
+userPassword: Verline
+ou: Group5
+uid: 5477
+ Q==

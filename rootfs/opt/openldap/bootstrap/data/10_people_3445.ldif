@@ -1,0 +1,13 @@
+dn: cn=Jonas+sn=Tannehill,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jonas Tannehill
+cn: Tannehill
+givenname: Jonas
+mail: jonas.tannehill@planetexpress.com
+userPassword: Jonas
+ou: flight_crew
+uid: 3445
+ Q==

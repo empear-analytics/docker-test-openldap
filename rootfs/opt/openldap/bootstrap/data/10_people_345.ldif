@@ -1,0 +1,13 @@
+dn: cn=Ellena+sn=Grella,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ellena Grella
+cn: Grella
+givenname: Ellena
+mail: ellena.grella@planetexpress.com
+userPassword: Ellena
+ou: Group5
+uid: 345
+ Q==

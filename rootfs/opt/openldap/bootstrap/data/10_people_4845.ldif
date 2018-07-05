@@ -1,0 +1,13 @@
+dn: cn=Kara+sn=Corrie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kara Corrie
+cn: Corrie
+givenname: Kara
+mail: kara.corrie@planetexpress.com
+userPassword: Kara
+ou: flight_crew
+uid: 4845
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Rosaline+sn=Spieker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosaline Spieker
+cn: Spieker
+givenname: Rosaline
+mail: rosaline.spieker@planetexpress.com
+userPassword: Rosaline
+ou: OtherGroup
+uid: 5149
+ Q==

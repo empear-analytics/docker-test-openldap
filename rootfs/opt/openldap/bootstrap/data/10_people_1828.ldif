@@ -1,0 +1,13 @@
+dn: cn=Jeanine+sn=Contreros,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeanine Contreros
+cn: Contreros
+givenname: Jeanine
+mail: jeanine.contreros@planetexpress.com
+userPassword: Jeanine
+ou: OtherGroup
+uid: 1828
+ Q==

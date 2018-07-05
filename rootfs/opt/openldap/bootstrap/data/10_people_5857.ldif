@@ -1,0 +1,13 @@
+dn: cn=Weldon+sn=Demichelis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Weldon Demichelis
+cn: Demichelis
+givenname: Weldon
+mail: weldon.demichelis@planetexpress.com
+userPassword: Weldon
+ou: admin_staff
+uid: 5857
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Cristin+sn=Dewey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cristin Dewey
+cn: Dewey
+givenname: Cristin
+mail: cristin.dewey@planetexpress.com
+userPassword: Cristin
+ou: OtherGroup
+uid: 4399
+ Q==

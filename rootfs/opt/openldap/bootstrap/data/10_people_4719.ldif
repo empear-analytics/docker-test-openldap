@@ -1,0 +1,13 @@
+dn: cn=Jewel+sn=Jankowiak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jewel Jankowiak
+cn: Jankowiak
+givenname: Jewel
+mail: jewel.jankowiak@planetexpress.com
+userPassword: Jewel
+ou: flight_crew
+uid: 4719
+ Q==

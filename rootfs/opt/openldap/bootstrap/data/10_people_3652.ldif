@@ -1,0 +1,13 @@
+dn: cn=Olin+sn=Kampmann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Olin Kampmann
+cn: Kampmann
+givenname: Olin
+mail: olin.kampmann@planetexpress.com
+userPassword: Olin
+ou: admin_staff
+uid: 3652
+ Q==

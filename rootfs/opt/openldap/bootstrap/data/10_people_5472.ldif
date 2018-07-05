@@ -1,0 +1,13 @@
+dn: cn=Lashanda+sn=Toulson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lashanda Toulson
+cn: Toulson
+givenname: Lashanda
+mail: lashanda.toulson@planetexpress.com
+userPassword: Lashanda
+ou: Group5
+uid: 5472
+ Q==

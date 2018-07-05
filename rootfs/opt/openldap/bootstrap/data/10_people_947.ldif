@@ -1,0 +1,13 @@
+dn: cn=Beatris+sn=Rossetto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beatris Rossetto
+cn: Rossetto
+givenname: Beatris
+mail: beatris.rossetto@planetexpress.com
+userPassword: Beatris
+ou: admin_staff
+uid: 947
+ Q==

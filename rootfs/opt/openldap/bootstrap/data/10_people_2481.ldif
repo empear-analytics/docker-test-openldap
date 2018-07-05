@@ -1,0 +1,13 @@
+dn: cn=Taren+sn=Kolp,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Taren Kolp
+cn: Kolp
+givenname: Taren
+mail: taren.kolp@planetexpress.com
+userPassword: Taren
+ou: flight_crew
+uid: 2481
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jasmine+sn=Adolphson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jasmine Adolphson
+cn: Adolphson
+givenname: Jasmine
+mail: jasmine.adolphson@planetexpress.com
+userPassword: Jasmine
+ou: OtherGroup
+uid: 4454
+ Q==

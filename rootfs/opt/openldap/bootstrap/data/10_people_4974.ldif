@@ -1,0 +1,13 @@
+dn: cn=Rogelio+sn=Ickes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rogelio Ickes
+cn: Ickes
+givenname: Rogelio
+mail: rogelio.ickes@planetexpress.com
+userPassword: Rogelio
+ou: OtherGroup
+uid: 4974
+ Q==

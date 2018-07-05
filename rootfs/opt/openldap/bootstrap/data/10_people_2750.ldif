@@ -1,0 +1,13 @@
+dn: cn=Werner+sn=Whisted,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Werner Whisted
+cn: Whisted
+givenname: Werner
+mail: werner.whisted@planetexpress.com
+userPassword: Werner
+ou: Group5
+uid: 2750
+ Q==

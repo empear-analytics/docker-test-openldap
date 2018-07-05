@@ -1,0 +1,13 @@
+dn: cn=Lyndsay+sn=Tepezano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lyndsay Tepezano
+cn: Tepezano
+givenname: Lyndsay
+mail: lyndsay.tepezano@planetexpress.com
+userPassword: Lyndsay
+ou: flight_crew
+uid: 88
+ Q==

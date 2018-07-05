@@ -1,0 +1,13 @@
+dn: cn=Grazyna+sn=Warters,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Grazyna Warters
+cn: Warters
+givenname: Grazyna
+mail: grazyna.warters@planetexpress.com
+userPassword: Grazyna
+ou: flight_crew
+uid: 10
+ Q==

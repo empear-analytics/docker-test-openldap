@@ -1,0 +1,13 @@
+dn: cn=Shaun+sn=Hodgman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shaun Hodgman
+cn: Hodgman
+givenname: Shaun
+mail: shaun.hodgman@planetexpress.com
+userPassword: Shaun
+ou: flight_crew
+uid: 4590
+ Q==

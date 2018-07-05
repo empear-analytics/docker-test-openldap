@@ -1,0 +1,13 @@
+dn: cn=Erwin+sn=Dapoz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Erwin Dapoz
+cn: Dapoz
+givenname: Erwin
+mail: erwin.dapoz@planetexpress.com
+userPassword: Erwin
+ou: Group5
+uid: 3957
+ Q==

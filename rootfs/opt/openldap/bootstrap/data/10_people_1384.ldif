@@ -1,0 +1,13 @@
+dn: cn=Virgil+sn=Man,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Virgil Man
+cn: Man
+givenname: Virgil
+mail: virgil.man@planetexpress.com
+userPassword: Virgil
+ou: flight_crew
+uid: 1384
+ Q==

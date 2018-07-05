@@ -1,0 +1,13 @@
+dn: cn=Thao+sn=Edmund,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thao Edmund
+cn: Edmund
+givenname: Thao
+mail: thao.edmund@planetexpress.com
+userPassword: Thao
+ou: OtherGroup
+uid: 4917
+ Q==

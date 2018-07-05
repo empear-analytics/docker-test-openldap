@@ -1,0 +1,13 @@
+dn: cn=Ed+sn=Reeher,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ed Reeher
+cn: Reeher
+givenname: Ed
+mail: ed.reeher@planetexpress.com
+userPassword: Ed
+ou: Group5
+uid: 4495
+ Q==

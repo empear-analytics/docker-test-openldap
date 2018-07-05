@@ -1,0 +1,13 @@
+dn: cn=Shaun+sn=Hendrics,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shaun Hendrics
+cn: Hendrics
+givenname: Shaun
+mail: shaun.hendrics@planetexpress.com
+userPassword: Shaun
+ou: OtherGroup
+uid: 4739
+ Q==

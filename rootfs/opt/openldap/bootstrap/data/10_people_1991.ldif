@@ -1,0 +1,13 @@
+dn: cn=Joyce+sn=Brozovich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joyce Brozovich
+cn: Brozovich
+givenname: Joyce
+mail: joyce.brozovich@planetexpress.com
+userPassword: Joyce
+ou: admin_staff
+uid: 1991
+ Q==

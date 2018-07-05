@@ -1,0 +1,13 @@
+dn: cn=Louann+sn=Cassilano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Louann Cassilano
+cn: Cassilano
+givenname: Louann
+mail: louann.cassilano@planetexpress.com
+userPassword: Louann
+ou: flight_crew
+uid: 2935
+ Q==

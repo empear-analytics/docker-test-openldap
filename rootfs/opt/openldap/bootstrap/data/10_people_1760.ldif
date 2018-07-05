@@ -1,0 +1,13 @@
+dn: cn=Dorethea+sn=Degaetano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dorethea Degaetano
+cn: Degaetano
+givenname: Dorethea
+mail: dorethea.degaetano@planetexpress.com
+userPassword: Dorethea
+ou: admin_staff
+uid: 1760
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kandis+sn=Sasala,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kandis Sasala
+cn: Sasala
+givenname: Kandis
+mail: kandis.sasala@planetexpress.com
+userPassword: Kandis
+ou: OtherGroup
+uid: 362
+ Q==

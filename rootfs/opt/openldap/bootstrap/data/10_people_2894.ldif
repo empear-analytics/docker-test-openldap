@@ -1,0 +1,13 @@
+dn: cn=Clyde+sn=Wingler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clyde Wingler
+cn: Wingler
+givenname: Clyde
+mail: clyde.wingler@planetexpress.com
+userPassword: Clyde
+ou: flight_crew
+uid: 2894
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Nadene+sn=Farney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nadene Farney
+cn: Farney
+givenname: Nadene
+mail: nadene.farney@planetexpress.com
+userPassword: Nadene
+ou: admin_staff
+uid: 86
+ Q==

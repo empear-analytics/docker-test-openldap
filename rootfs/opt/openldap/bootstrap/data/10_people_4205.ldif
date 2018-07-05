@@ -1,0 +1,13 @@
+dn: cn=Jenny+sn=Kuthe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jenny Kuthe
+cn: Kuthe
+givenname: Jenny
+mail: jenny.kuthe@planetexpress.com
+userPassword: Jenny
+ou: admin_staff
+uid: 4205
+ Q==

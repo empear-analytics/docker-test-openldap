@@ -1,0 +1,13 @@
+dn: cn=Otha+sn=Nimick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Otha Nimick
+cn: Nimick
+givenname: Otha
+mail: otha.nimick@planetexpress.com
+userPassword: Otha
+ou: Group5
+uid: 3335
+ Q==

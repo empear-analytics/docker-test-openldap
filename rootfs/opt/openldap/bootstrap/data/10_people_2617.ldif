@@ -1,0 +1,13 @@
+dn: cn=Jeremiah+sn=Kordsmeier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeremiah Kordsmeier
+cn: Kordsmeier
+givenname: Jeremiah
+mail: jeremiah.kordsmeier@planetexpress.com
+userPassword: Jeremiah
+ou: Group5
+uid: 2617
+ Q==

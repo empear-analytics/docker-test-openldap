@@ -1,0 +1,13 @@
+dn: cn=Dorie+sn=Kegley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dorie Kegley
+cn: Kegley
+givenname: Dorie
+mail: dorie.kegley@planetexpress.com
+userPassword: Dorie
+ou: Group5
+uid: 2685
+ Q==

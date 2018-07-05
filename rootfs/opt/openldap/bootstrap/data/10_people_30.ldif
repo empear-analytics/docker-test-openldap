@@ -1,0 +1,13 @@
+dn: cn=Francene+sn=Misuraca,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Francene Misuraca
+cn: Misuraca
+givenname: Francene
+mail: francene.misuraca@planetexpress.com
+userPassword: Francene
+ou: Group5
+uid: 30
+ Q==

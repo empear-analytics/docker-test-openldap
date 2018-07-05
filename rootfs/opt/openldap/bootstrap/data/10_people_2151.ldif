@@ -1,0 +1,13 @@
+dn: cn=Angelica+sn=Spall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelica Spall
+cn: Spall
+givenname: Angelica
+mail: angelica.spall@planetexpress.com
+userPassword: Angelica
+ou: admin_staff
+uid: 2151
+ Q==

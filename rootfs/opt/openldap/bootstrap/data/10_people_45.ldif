@@ -1,0 +1,13 @@
+dn: cn=Mike+sn=Tritten,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mike Tritten
+cn: Tritten
+givenname: Mike
+mail: mike.tritten@planetexpress.com
+userPassword: Mike
+ou: admin_staff
+uid: 45
+ Q==

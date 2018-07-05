@@ -1,0 +1,13 @@
+dn: cn=Camille+sn=Latina,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Camille Latina
+cn: Latina
+givenname: Camille
+mail: camille.latina@planetexpress.com
+userPassword: Camille
+ou: Group5
+uid: 5583
+ Q==

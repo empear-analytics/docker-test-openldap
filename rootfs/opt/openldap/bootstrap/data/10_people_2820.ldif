@@ -1,0 +1,13 @@
+dn: cn=Soraya+sn=Belk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Soraya Belk
+cn: Belk
+givenname: Soraya
+mail: soraya.belk@planetexpress.com
+userPassword: Soraya
+ou: Group5
+uid: 2820
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Cameron+sn=Tande,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cameron Tande
+cn: Tande
+givenname: Cameron
+mail: cameron.tande@planetexpress.com
+userPassword: Cameron
+ou: admin_staff
+uid: 2842
+ Q==

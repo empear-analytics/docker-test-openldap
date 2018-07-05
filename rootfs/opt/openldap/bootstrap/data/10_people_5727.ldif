@@ -1,0 +1,13 @@
+dn: cn=Iona+sn=Amalfitano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Iona Amalfitano
+cn: Amalfitano
+givenname: Iona
+mail: iona.amalfitano@planetexpress.com
+userPassword: Iona
+ou: Group5
+uid: 5727
+ Q==

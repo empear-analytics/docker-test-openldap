@@ -1,0 +1,13 @@
+dn: cn=Audra+sn=Rappl,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Audra Rappl
+cn: Rappl
+givenname: Audra
+mail: audra.rappl@planetexpress.com
+userPassword: Audra
+ou: Group5
+uid: 4002
+ Q==

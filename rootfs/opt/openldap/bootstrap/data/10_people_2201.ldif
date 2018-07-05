@@ -1,0 +1,13 @@
+dn: cn=Autumn+sn=Sarelas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Autumn Sarelas
+cn: Sarelas
+givenname: Autumn
+mail: autumn.sarelas@planetexpress.com
+userPassword: Autumn
+ou: flight_crew
+uid: 2201
+ Q==

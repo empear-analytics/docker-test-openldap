@@ -1,0 +1,13 @@
+dn: cn=Alejandro+sn=Cronk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alejandro Cronk
+cn: Cronk
+givenname: Alejandro
+mail: alejandro.cronk@planetexpress.com
+userPassword: Alejandro
+ou: Group5
+uid: 3397
+ Q==

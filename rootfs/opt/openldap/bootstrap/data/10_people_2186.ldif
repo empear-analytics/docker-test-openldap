@@ -1,0 +1,13 @@
+dn: cn=Rosa+sn=Embree,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosa Embree
+cn: Embree
+givenname: Rosa
+mail: rosa.embree@planetexpress.com
+userPassword: Rosa
+ou: flight_crew
+uid: 2186
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Renna+sn=Monsegur,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Renna Monsegur
+cn: Monsegur
+givenname: Renna
+mail: renna.monsegur@planetexpress.com
+userPassword: Renna
+ou: Group5
+uid: 122
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Filomena+sn=Shadfar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Filomena Shadfar
+cn: Shadfar
+givenname: Filomena
+mail: filomena.shadfar@planetexpress.com
+userPassword: Filomena
+ou: admin_staff
+uid: 2159
+ Q==

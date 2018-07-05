@@ -1,0 +1,13 @@
+dn: cn=Eugenio+sn=Manigo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eugenio Manigo
+cn: Manigo
+givenname: Eugenio
+mail: eugenio.manigo@planetexpress.com
+userPassword: Eugenio
+ou: Group5
+uid: 4142
+ Q==

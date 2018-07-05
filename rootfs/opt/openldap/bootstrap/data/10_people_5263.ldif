@@ -1,0 +1,13 @@
+dn: cn=Antonia+sn=Milteer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Antonia Milteer
+cn: Milteer
+givenname: Antonia
+mail: antonia.milteer@planetexpress.com
+userPassword: Antonia
+ou: Group5
+uid: 5263
+ Q==

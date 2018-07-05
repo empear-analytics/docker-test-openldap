@@ -1,0 +1,13 @@
+dn: cn=Sammie+sn=Velmontes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sammie Velmontes
+cn: Velmontes
+givenname: Sammie
+mail: sammie.velmontes@planetexpress.com
+userPassword: Sammie
+ou: Group5
+uid: 4133
+ Q==

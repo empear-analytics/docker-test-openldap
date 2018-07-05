@@ -1,0 +1,13 @@
+dn: cn=Brian+sn=Milbrath,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brian Milbrath
+cn: Milbrath
+givenname: Brian
+mail: brian.milbrath@planetexpress.com
+userPassword: Brian
+ou: Group5
+uid: 4518
+ Q==

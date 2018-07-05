@@ -1,0 +1,13 @@
+dn: cn=Michel+sn=Tornincasa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Michel Tornincasa
+cn: Tornincasa
+givenname: Michel
+mail: michel.tornincasa@planetexpress.com
+userPassword: Michel
+ou: flight_crew
+uid: 3083
+ Q==

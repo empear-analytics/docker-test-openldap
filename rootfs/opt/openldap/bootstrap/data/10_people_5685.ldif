@@ -1,0 +1,13 @@
+dn: cn=Dionna+sn=Finazzo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dionna Finazzo
+cn: Finazzo
+givenname: Dionna
+mail: dionna.finazzo@planetexpress.com
+userPassword: Dionna
+ou: OtherGroup
+uid: 5685
+ Q==

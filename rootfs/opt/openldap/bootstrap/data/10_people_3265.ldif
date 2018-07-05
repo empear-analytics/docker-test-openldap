@@ -1,0 +1,13 @@
+dn: cn=Shalonda+sn=Loskill,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shalonda Loskill
+cn: Loskill
+givenname: Shalonda
+mail: shalonda.loskill@planetexpress.com
+userPassword: Shalonda
+ou: OtherGroup
+uid: 3265
+ Q==

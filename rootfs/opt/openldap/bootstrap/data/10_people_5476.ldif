@@ -1,0 +1,13 @@
+dn: cn=Michele+sn=Todman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Michele Todman
+cn: Todman
+givenname: Michele
+mail: michele.todman@planetexpress.com
+userPassword: Michele
+ou: Group5
+uid: 5476
+ Q==

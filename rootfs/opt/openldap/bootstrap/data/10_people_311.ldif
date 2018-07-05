@@ -1,0 +1,13 @@
+dn: cn=Herlinda+sn=Robichard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Herlinda Robichard
+cn: Robichard
+givenname: Herlinda
+mail: herlinda.robichard@planetexpress.com
+userPassword: Herlinda
+ou: flight_crew
+uid: 311
+ Q==

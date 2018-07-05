@@ -1,0 +1,13 @@
+dn: cn=Olympia+sn=Strasburg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Olympia Strasburg
+cn: Strasburg
+givenname: Olympia
+mail: olympia.strasburg@planetexpress.com
+userPassword: Olympia
+ou: OtherGroup
+uid: 4557
+ Q==

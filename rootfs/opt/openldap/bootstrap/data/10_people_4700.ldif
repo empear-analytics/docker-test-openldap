@@ -1,0 +1,13 @@
+dn: cn=Drew+sn=Mattione,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Drew Mattione
+cn: Mattione
+givenname: Drew
+mail: drew.mattione@planetexpress.com
+userPassword: Drew
+ou: Group5
+uid: 4700
+ Q==

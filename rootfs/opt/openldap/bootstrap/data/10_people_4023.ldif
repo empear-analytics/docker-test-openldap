@@ -1,0 +1,13 @@
+dn: cn=Tajuana+sn=Deonarian,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tajuana Deonarian
+cn: Deonarian
+givenname: Tajuana
+mail: tajuana.deonarian@planetexpress.com
+userPassword: Tajuana
+ou: Group5
+uid: 4023
+ Q==

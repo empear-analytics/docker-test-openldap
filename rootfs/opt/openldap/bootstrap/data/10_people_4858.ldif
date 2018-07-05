@@ -1,0 +1,13 @@
+dn: cn=Danielle+sn=Pontiff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Danielle Pontiff
+cn: Pontiff
+givenname: Danielle
+mail: danielle.pontiff@planetexpress.com
+userPassword: Danielle
+ou: admin_staff
+uid: 4858
+ Q==

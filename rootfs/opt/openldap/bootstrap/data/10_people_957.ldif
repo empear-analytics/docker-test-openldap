@@ -1,0 +1,13 @@
+dn: cn=Desmond+sn=Kroencke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Desmond Kroencke
+cn: Kroencke
+givenname: Desmond
+mail: desmond.kroencke@planetexpress.com
+userPassword: Desmond
+ou: Group5
+uid: 957
+ Q==

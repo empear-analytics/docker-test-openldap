@@ -1,0 +1,13 @@
+dn: cn=Johnna+sn=Shimon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Johnna Shimon
+cn: Shimon
+givenname: Johnna
+mail: johnna.shimon@planetexpress.com
+userPassword: Johnna
+ou: Group5
+uid: 5098
+ Q==

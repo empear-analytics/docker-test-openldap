@@ -1,0 +1,13 @@
+dn: cn=Catheryn+sn=Muninger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Catheryn Muninger
+cn: Muninger
+givenname: Catheryn
+mail: catheryn.muninger@planetexpress.com
+userPassword: Catheryn
+ou: Group5
+uid: 3524
+ Q==

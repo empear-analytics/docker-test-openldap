@@ -1,0 +1,13 @@
+dn: cn=Ezequiel+sn=Staniec,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ezequiel Staniec
+cn: Staniec
+givenname: Ezequiel
+mail: ezequiel.staniec@planetexpress.com
+userPassword: Ezequiel
+ou: flight_crew
+uid: 2142
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Nicole+sn=Pefanis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nicole Pefanis
+cn: Pefanis
+givenname: Nicole
+mail: nicole.pefanis@planetexpress.com
+userPassword: Nicole
+ou: OtherGroup
+uid: 4677
+ Q==

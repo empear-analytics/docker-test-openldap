@@ -1,0 +1,13 @@
+dn: cn=Charlie+sn=Tio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charlie Tio
+cn: Tio
+givenname: Charlie
+mail: charlie.tio@planetexpress.com
+userPassword: Charlie
+ou: Group5
+uid: 3866
+ Q==

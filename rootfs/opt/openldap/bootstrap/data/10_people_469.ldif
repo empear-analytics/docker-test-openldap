@@ -1,0 +1,13 @@
+dn: cn=Gavin+sn=Lykens,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gavin Lykens
+cn: Lykens
+givenname: Gavin
+mail: gavin.lykens@planetexpress.com
+userPassword: Gavin
+ou: flight_crew
+uid: 469
+ Q==

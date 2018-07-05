@@ -1,0 +1,13 @@
+dn: cn=Cordia+sn=Studstill,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cordia Studstill
+cn: Studstill
+givenname: Cordia
+mail: cordia.studstill@planetexpress.com
+userPassword: Cordia
+ou: OtherGroup
+uid: 3948
+ Q==

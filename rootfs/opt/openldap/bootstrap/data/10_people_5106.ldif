@@ -1,0 +1,13 @@
+dn: cn=Nicolette+sn=Ellwein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nicolette Ellwein
+cn: Ellwein
+givenname: Nicolette
+mail: nicolette.ellwein@planetexpress.com
+userPassword: Nicolette
+ou: Group5
+uid: 5106
+ Q==

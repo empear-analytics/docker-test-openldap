@@ -1,0 +1,13 @@
+dn: cn=Jutta+sn=Mccarthey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jutta Mccarthey
+cn: Mccarthey
+givenname: Jutta
+mail: jutta.mccarthey@planetexpress.com
+userPassword: Jutta
+ou: admin_staff
+uid: 1546
+ Q==

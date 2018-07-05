@@ -1,0 +1,13 @@
+dn: cn=Mellie+sn=Bentrem,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mellie Bentrem
+cn: Bentrem
+givenname: Mellie
+mail: mellie.bentrem@planetexpress.com
+userPassword: Mellie
+ou: flight_crew
+uid: 4392
+ Q==

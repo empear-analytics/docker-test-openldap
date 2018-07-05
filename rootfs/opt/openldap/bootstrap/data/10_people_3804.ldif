@@ -1,0 +1,13 @@
+dn: cn=Malena+sn=Nichlos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Malena Nichlos
+cn: Nichlos
+givenname: Malena
+mail: malena.nichlos@planetexpress.com
+userPassword: Malena
+ou: Group5
+uid: 3804
+ Q==

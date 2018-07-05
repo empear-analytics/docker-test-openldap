@@ -1,0 +1,13 @@
+dn: cn=Eleanor+sn=Meringolo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eleanor Meringolo
+cn: Meringolo
+givenname: Eleanor
+mail: eleanor.meringolo@planetexpress.com
+userPassword: Eleanor
+ou: flight_crew
+uid: 2544
+ Q==

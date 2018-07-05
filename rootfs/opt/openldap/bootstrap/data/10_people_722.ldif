@@ -1,0 +1,13 @@
+dn: cn=Reinaldo+sn=Rende,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reinaldo Rende
+cn: Rende
+givenname: Reinaldo
+mail: reinaldo.rende@planetexpress.com
+userPassword: Reinaldo
+ou: flight_crew
+uid: 722
+ Q==

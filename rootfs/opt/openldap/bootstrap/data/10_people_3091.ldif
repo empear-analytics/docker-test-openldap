@@ -1,0 +1,13 @@
+dn: cn=Ernestine+sn=Hequembourg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ernestine Hequembourg
+cn: Hequembourg
+givenname: Ernestine
+mail: ernestine.hequembourg@planetexpress.com
+userPassword: Ernestine
+ou: OtherGroup
+uid: 3091
+ Q==

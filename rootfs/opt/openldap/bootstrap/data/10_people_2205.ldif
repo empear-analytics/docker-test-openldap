@@ -1,0 +1,13 @@
+dn: cn=Jamee+sn=Kennington,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamee Kennington
+cn: Kennington
+givenname: Jamee
+mail: jamee.kennington@planetexpress.com
+userPassword: Jamee
+ou: OtherGroup
+uid: 2205
+ Q==

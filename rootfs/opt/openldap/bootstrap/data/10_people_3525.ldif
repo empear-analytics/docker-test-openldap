@@ -1,0 +1,13 @@
+dn: cn=Margarito+sn=Mcgurn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margarito Mcgurn
+cn: Mcgurn
+givenname: Margarito
+mail: margarito.mcgurn@planetexpress.com
+userPassword: Margarito
+ou: OtherGroup
+uid: 3525
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Denyse+sn=Perrenoud,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Denyse Perrenoud
+cn: Perrenoud
+givenname: Denyse
+mail: denyse.perrenoud@planetexpress.com
+userPassword: Denyse
+ou: flight_crew
+uid: 4955
+ Q==

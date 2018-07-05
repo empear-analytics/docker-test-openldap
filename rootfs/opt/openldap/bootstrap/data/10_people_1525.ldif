@@ -1,0 +1,13 @@
+dn: cn=Akilah+sn=Forson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Akilah Forson
+cn: Forson
+givenname: Akilah
+mail: akilah.forson@planetexpress.com
+userPassword: Akilah
+ou: Group5
+uid: 1525
+ Q==

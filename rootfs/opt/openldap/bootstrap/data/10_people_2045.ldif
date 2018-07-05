@@ -1,0 +1,13 @@
+dn: cn=Norbert+sn=Marrington,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Norbert Marrington
+cn: Marrington
+givenname: Norbert
+mail: norbert.marrington@planetexpress.com
+userPassword: Norbert
+ou: OtherGroup
+uid: 2045
+ Q==

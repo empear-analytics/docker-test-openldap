@@ -1,0 +1,13 @@
+dn: cn=Jill+sn=Postley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jill Postley
+cn: Postley
+givenname: Jill
+mail: jill.postley@planetexpress.com
+userPassword: Jill
+ou: OtherGroup
+uid: 3269
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Daniele+sn=Hallada,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daniele Hallada
+cn: Hallada
+givenname: Daniele
+mail: daniele.hallada@planetexpress.com
+userPassword: Daniele
+ou: admin_staff
+uid: 2870
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Rod+sn=Angrisano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rod Angrisano
+cn: Angrisano
+givenname: Rod
+mail: rod.angrisano@planetexpress.com
+userPassword: Rod
+ou: Group5
+uid: 3736
+ Q==

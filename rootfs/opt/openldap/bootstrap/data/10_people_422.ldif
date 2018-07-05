@@ -1,0 +1,13 @@
+dn: cn=Floyd+sn=Kardos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Floyd Kardos
+cn: Kardos
+givenname: Floyd
+mail: floyd.kardos@planetexpress.com
+userPassword: Floyd
+ou: OtherGroup
+uid: 422
+ Q==

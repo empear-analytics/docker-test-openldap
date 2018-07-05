@@ -1,0 +1,13 @@
+dn: cn=Barton+sn=Schumans,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Barton Schumans
+cn: Schumans
+givenname: Barton
+mail: barton.schumans@planetexpress.com
+userPassword: Barton
+ou: OtherGroup
+uid: 4118
+ Q==

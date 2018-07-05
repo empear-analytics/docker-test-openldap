@@ -1,0 +1,13 @@
+dn: cn=Natisha+sn=Bresette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Natisha Bresette
+cn: Bresette
+givenname: Natisha
+mail: natisha.bresette@planetexpress.com
+userPassword: Natisha
+ou: flight_crew
+uid: 2495
+ Q==

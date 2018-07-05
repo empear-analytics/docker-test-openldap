@@ -1,0 +1,13 @@
+dn: cn=Daphine+sn=Januszewski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daphine Januszewski
+cn: Januszewski
+givenname: Daphine
+mail: daphine.januszewski@planetexpress.com
+userPassword: Daphine
+ou: OtherGroup
+uid: 5774
+ Q==

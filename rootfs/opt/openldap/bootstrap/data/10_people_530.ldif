@@ -1,0 +1,13 @@
+dn: cn=Ivory+sn=Branton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ivory Branton
+cn: Branton
+givenname: Ivory
+mail: ivory.branton@planetexpress.com
+userPassword: Ivory
+ou: flight_crew
+uid: 530
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Cornelia+sn=Gussow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cornelia Gussow
+cn: Gussow
+givenname: Cornelia
+mail: cornelia.gussow@planetexpress.com
+userPassword: Cornelia
+ou: flight_crew
+uid: 4159
+ Q==

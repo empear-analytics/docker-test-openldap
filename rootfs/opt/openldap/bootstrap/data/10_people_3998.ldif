@@ -1,0 +1,13 @@
+dn: cn=Yulanda+sn=Rankins,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yulanda Rankins
+cn: Rankins
+givenname: Yulanda
+mail: yulanda.rankins@planetexpress.com
+userPassword: Yulanda
+ou: Group5
+uid: 3998
+ Q==

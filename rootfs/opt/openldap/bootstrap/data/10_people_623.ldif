@@ -1,0 +1,13 @@
+dn: cn=Exie+sn=Qureshi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Exie Qureshi
+cn: Qureshi
+givenname: Exie
+mail: exie.qureshi@planetexpress.com
+userPassword: Exie
+ou: Group5
+uid: 623
+ Q==

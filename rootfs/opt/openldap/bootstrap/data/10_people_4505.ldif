@@ -1,0 +1,13 @@
+dn: cn=Darleen+sn=Stohler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darleen Stohler
+cn: Stohler
+givenname: Darleen
+mail: darleen.stohler@planetexpress.com
+userPassword: Darleen
+ou: OtherGroup
+uid: 4505
+ Q==

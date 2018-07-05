@@ -1,0 +1,13 @@
+dn: cn=Raphael+sn=Jaros,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raphael Jaros
+cn: Jaros
+givenname: Raphael
+mail: raphael.jaros@planetexpress.com
+userPassword: Raphael
+ou: flight_crew
+uid: 753
+ Q==

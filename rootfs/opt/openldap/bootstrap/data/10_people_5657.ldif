@@ -1,0 +1,13 @@
+dn: cn=Awilda+sn=Rawlins,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Awilda Rawlins
+cn: Rawlins
+givenname: Awilda
+mail: awilda.rawlins@planetexpress.com
+userPassword: Awilda
+ou: admin_staff
+uid: 5657
+ Q==

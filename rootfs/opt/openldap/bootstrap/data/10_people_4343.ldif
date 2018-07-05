@@ -1,0 +1,13 @@
+dn: cn=Melania+sn=Plummer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melania Plummer
+cn: Plummer
+givenname: Melania
+mail: melania.plummer@planetexpress.com
+userPassword: Melania
+ou: flight_crew
+uid: 4343
+ Q==

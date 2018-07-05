@@ -1,0 +1,13 @@
+dn: cn=Shawna+sn=Abrahamson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shawna Abrahamson
+cn: Abrahamson
+givenname: Shawna
+mail: shawna.abrahamson@planetexpress.com
+userPassword: Shawna
+ou: OtherGroup
+uid: 4674
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Percy+sn=Goldsboro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Percy Goldsboro
+cn: Goldsboro
+givenname: Percy
+mail: percy.goldsboro@planetexpress.com
+userPassword: Percy
+ou: flight_crew
+uid: 4003
+ Q==

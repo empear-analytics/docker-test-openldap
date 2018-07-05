@@ -1,0 +1,13 @@
+dn: cn=Sydney+sn=Whitcome,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sydney Whitcome
+cn: Whitcome
+givenname: Sydney
+mail: sydney.whitcome@planetexpress.com
+userPassword: Sydney
+ou: OtherGroup
+uid: 2716
+ Q==

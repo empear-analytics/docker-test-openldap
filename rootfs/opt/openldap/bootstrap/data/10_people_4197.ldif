@@ -1,0 +1,13 @@
+dn: cn=Maia+sn=Carmer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maia Carmer
+cn: Carmer
+givenname: Maia
+mail: maia.carmer@planetexpress.com
+userPassword: Maia
+ou: OtherGroup
+uid: 4197
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Danny+sn=Guilianelli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Danny Guilianelli
+cn: Guilianelli
+givenname: Danny
+mail: danny.guilianelli@planetexpress.com
+userPassword: Danny
+ou: Group5
+uid: 4381
+ Q==

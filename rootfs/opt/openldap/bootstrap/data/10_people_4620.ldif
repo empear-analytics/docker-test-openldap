@@ -1,0 +1,13 @@
+dn: cn=Christina+sn=Garguilo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christina Garguilo
+cn: Garguilo
+givenname: Christina
+mail: christina.garguilo@planetexpress.com
+userPassword: Christina
+ou: admin_staff
+uid: 4620
+ Q==

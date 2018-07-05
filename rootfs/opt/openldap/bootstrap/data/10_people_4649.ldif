@@ -1,0 +1,13 @@
+dn: cn=Scott+sn=Banse,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Scott Banse
+cn: Banse
+givenname: Scott
+mail: scott.banse@planetexpress.com
+userPassword: Scott
+ou: Group5
+uid: 4649
+ Q==

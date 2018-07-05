@@ -1,0 +1,13 @@
+dn: cn=Reginald+sn=Densley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reginald Densley
+cn: Densley
+givenname: Reginald
+mail: reginald.densley@planetexpress.com
+userPassword: Reginald
+ou: Group5
+uid: 1322
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Edwin+sn=Fairclough,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edwin Fairclough
+cn: Fairclough
+givenname: Edwin
+mail: edwin.fairclough@planetexpress.com
+userPassword: Edwin
+ou: flight_crew
+uid: 4603
+ Q==

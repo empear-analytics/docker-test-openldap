@@ -1,0 +1,13 @@
+dn: cn=Elias+sn=Somvang,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elias Somvang
+cn: Somvang
+givenname: Elias
+mail: elias.somvang@planetexpress.com
+userPassword: Elias
+ou: OtherGroup
+uid: 1095
+ Q==

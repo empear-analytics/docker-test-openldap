@@ -1,0 +1,13 @@
+dn: cn=Alvina+sn=Schlossman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alvina Schlossman
+cn: Schlossman
+givenname: Alvina
+mail: alvina.schlossman@planetexpress.com
+userPassword: Alvina
+ou: OtherGroup
+uid: 3429
+ Q==

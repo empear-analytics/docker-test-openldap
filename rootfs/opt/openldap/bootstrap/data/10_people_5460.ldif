@@ -1,0 +1,13 @@
+dn: cn=Josephina+sn=Burk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Josephina Burk
+cn: Burk
+givenname: Josephina
+mail: josephina.burk@planetexpress.com
+userPassword: Josephina
+ou: OtherGroup
+uid: 5460
+ Q==

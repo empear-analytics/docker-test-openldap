@@ -1,0 +1,13 @@
+dn: cn=Moshe+sn=Ziniewicz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Moshe Ziniewicz
+cn: Ziniewicz
+givenname: Moshe
+mail: moshe.ziniewicz@planetexpress.com
+userPassword: Moshe
+ou: admin_staff
+uid: 1103
+ Q==

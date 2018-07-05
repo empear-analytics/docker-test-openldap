@@ -1,0 +1,13 @@
+dn: cn=Stefany+sn=Harvilla,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stefany Harvilla
+cn: Harvilla
+givenname: Stefany
+mail: stefany.harvilla@planetexpress.com
+userPassword: Stefany
+ou: flight_crew
+uid: 4042
+ Q==

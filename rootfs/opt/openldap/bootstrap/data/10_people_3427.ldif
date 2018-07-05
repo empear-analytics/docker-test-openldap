@@ -1,0 +1,13 @@
+dn: cn=Love+sn=Brosey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Love Brosey
+cn: Brosey
+givenname: Love
+mail: love.brosey@planetexpress.com
+userPassword: Love
+ou: flight_crew
+uid: 3427
+ Q==

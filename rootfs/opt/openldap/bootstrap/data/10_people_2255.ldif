@@ -1,0 +1,13 @@
+dn: cn=Emery+sn=Nathanson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emery Nathanson
+cn: Nathanson
+givenname: Emery
+mail: emery.nathanson@planetexpress.com
+userPassword: Emery
+ou: admin_staff
+uid: 2255
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Providencia+sn=Gimpel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Providencia Gimpel
+cn: Gimpel
+givenname: Providencia
+mail: providencia.gimpel@planetexpress.com
+userPassword: Providencia
+ou: admin_staff
+uid: 4841
+ Q==

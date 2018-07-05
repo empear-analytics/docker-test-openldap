@@ -1,0 +1,13 @@
+dn: cn=Gus+sn=Brydon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gus Brydon
+cn: Brydon
+givenname: Gus
+mail: gus.brydon@planetexpress.com
+userPassword: Gus
+ou: OtherGroup
+uid: 22
+ Q==

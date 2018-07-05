@@ -1,0 +1,13 @@
+dn: cn=Hosea+sn=Wigelsworth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hosea Wigelsworth
+cn: Wigelsworth
+givenname: Hosea
+mail: hosea.wigelsworth@planetexpress.com
+userPassword: Hosea
+ou: flight_crew
+uid: 518
+ Q==

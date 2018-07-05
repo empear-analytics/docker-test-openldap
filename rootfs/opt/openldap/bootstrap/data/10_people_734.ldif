@@ -1,0 +1,13 @@
+dn: cn=Faviola+sn=Wojtowicz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Faviola Wojtowicz
+cn: Wojtowicz
+givenname: Faviola
+mail: faviola.wojtowicz@planetexpress.com
+userPassword: Faviola
+ou: OtherGroup
+uid: 734
+ Q==

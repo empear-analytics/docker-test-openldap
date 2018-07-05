@@ -1,0 +1,13 @@
+dn: cn=Joshua+sn=Schimming,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joshua Schimming
+cn: Schimming
+givenname: Joshua
+mail: joshua.schimming@planetexpress.com
+userPassword: Joshua
+ou: admin_staff
+uid: 3163
+ Q==

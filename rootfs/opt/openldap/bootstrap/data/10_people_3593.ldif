@@ -1,0 +1,13 @@
+dn: cn=Latanya+sn=Korner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Latanya Korner
+cn: Korner
+givenname: Latanya
+mail: latanya.korner@planetexpress.com
+userPassword: Latanya
+ou: OtherGroup
+uid: 3593
+ Q==

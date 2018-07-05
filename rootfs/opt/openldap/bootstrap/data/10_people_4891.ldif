@@ -1,0 +1,13 @@
+dn: cn=Arden+sn=Rathmann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arden Rathmann
+cn: Rathmann
+givenname: Arden
+mail: arden.rathmann@planetexpress.com
+userPassword: Arden
+ou: OtherGroup
+uid: 4891
+ Q==

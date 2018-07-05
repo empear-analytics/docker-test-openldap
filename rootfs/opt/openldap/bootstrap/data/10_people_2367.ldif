@@ -1,0 +1,13 @@
+dn: cn=Kareen+sn=Remmie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kareen Remmie
+cn: Remmie
+givenname: Kareen
+mail: kareen.remmie@planetexpress.com
+userPassword: Kareen
+ou: OtherGroup
+uid: 2367
+ Q==

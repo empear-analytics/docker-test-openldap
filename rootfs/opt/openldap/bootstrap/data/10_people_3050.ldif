@@ -1,0 +1,13 @@
+dn: cn=Liz+sn=Surbella,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Liz Surbella
+cn: Surbella
+givenname: Liz
+mail: liz.surbella@planetexpress.com
+userPassword: Liz
+ou: OtherGroup
+uid: 3050
+ Q==

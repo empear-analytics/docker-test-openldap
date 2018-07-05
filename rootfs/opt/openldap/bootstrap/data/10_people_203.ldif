@@ -1,0 +1,13 @@
+dn: cn=Rayford+sn=Barbagelata,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rayford Barbagelata
+cn: Barbagelata
+givenname: Rayford
+mail: rayford.barbagelata@planetexpress.com
+userPassword: Rayford
+ou: admin_staff
+uid: 203
+ Q==

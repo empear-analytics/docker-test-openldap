@@ -1,0 +1,13 @@
+dn: cn=Argentina+sn=Fu,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Argentina Fu
+cn: Fu
+givenname: Argentina
+mail: argentina.fu@planetexpress.com
+userPassword: Argentina
+ou: admin_staff
+uid: 1986
+ Q==

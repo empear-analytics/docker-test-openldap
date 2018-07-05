@@ -1,0 +1,13 @@
+dn: cn=Melinda+sn=Smithson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melinda Smithson
+cn: Smithson
+givenname: Melinda
+mail: melinda.smithson@planetexpress.com
+userPassword: Melinda
+ou: OtherGroup
+uid: 2804
+ Q==

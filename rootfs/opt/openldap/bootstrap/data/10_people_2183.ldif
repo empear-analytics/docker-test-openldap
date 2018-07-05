@@ -1,0 +1,13 @@
+dn: cn=Natacha+sn=Kobara,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Natacha Kobara
+cn: Kobara
+givenname: Natacha
+mail: natacha.kobara@planetexpress.com
+userPassword: Natacha
+ou: Group5
+uid: 2183
+ Q==

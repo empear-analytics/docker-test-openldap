@@ -1,0 +1,13 @@
+dn: cn=Bart+sn=Yaple,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bart Yaple
+cn: Yaple
+givenname: Bart
+mail: bart.yaple@planetexpress.com
+userPassword: Bart
+ou: Group5
+uid: 3329
+ Q==

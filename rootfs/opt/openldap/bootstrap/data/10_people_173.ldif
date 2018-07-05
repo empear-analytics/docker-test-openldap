@@ -1,0 +1,13 @@
+dn: cn=Johnnie+sn=Vanderjagt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Johnnie Vanderjagt
+cn: Vanderjagt
+givenname: Johnnie
+mail: johnnie.vanderjagt@planetexpress.com
+userPassword: Johnnie
+ou: admin_staff
+uid: 173
+ Q==

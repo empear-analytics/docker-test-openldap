@@ -1,0 +1,13 @@
+dn: cn=Lila+sn=Thaemert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lila Thaemert
+cn: Thaemert
+givenname: Lila
+mail: lila.thaemert@planetexpress.com
+userPassword: Lila
+ou: Group5
+uid: 613
+ Q==

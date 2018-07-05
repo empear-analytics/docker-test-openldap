@@ -1,0 +1,13 @@
+dn: cn=Yanira+sn=Motola,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yanira Motola
+cn: Motola
+givenname: Yanira
+mail: yanira.motola@planetexpress.com
+userPassword: Yanira
+ou: Group5
+uid: 3440
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Sean+sn=Jamison,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sean Jamison
+cn: Jamison
+givenname: Sean
+mail: sean.jamison@planetexpress.com
+userPassword: Sean
+ou: admin_staff
+uid: 4405
+ Q==

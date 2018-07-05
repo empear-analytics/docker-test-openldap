@@ -1,0 +1,13 @@
+dn: cn=Sherryl+sn=Mendivil,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherryl Mendivil
+cn: Mendivil
+givenname: Sherryl
+mail: sherryl.mendivil@planetexpress.com
+userPassword: Sherryl
+ou: Group5
+uid: 3184
+ Q==

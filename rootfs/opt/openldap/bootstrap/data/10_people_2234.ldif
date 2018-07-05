@@ -1,0 +1,13 @@
+dn: cn=Kera+sn=Grabow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kera Grabow
+cn: Grabow
+givenname: Kera
+mail: kera.grabow@planetexpress.com
+userPassword: Kera
+ou: Group5
+uid: 2234
+ Q==

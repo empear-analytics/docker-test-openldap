@@ -1,0 +1,13 @@
+dn: cn=Franchesca+sn=Suh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Franchesca Suh
+cn: Suh
+givenname: Franchesca
+mail: franchesca.suh@planetexpress.com
+userPassword: Franchesca
+ou: admin_staff
+uid: 1016
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Germaine+sn=Garmen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Germaine Garmen
+cn: Garmen
+givenname: Germaine
+mail: germaine.garmen@planetexpress.com
+userPassword: Germaine
+ou: flight_crew
+uid: 639
+ Q==

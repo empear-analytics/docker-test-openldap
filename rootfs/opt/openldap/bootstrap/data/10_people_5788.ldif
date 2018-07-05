@@ -1,0 +1,13 @@
+dn: cn=Debrah+sn=Bilansky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Debrah Bilansky
+cn: Bilansky
+givenname: Debrah
+mail: debrah.bilansky@planetexpress.com
+userPassword: Debrah
+ou: admin_staff
+uid: 5788
+ Q==

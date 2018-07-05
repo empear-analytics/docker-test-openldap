@@ -1,0 +1,13 @@
+dn: cn=Alden+sn=Ragan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alden Ragan
+cn: Ragan
+givenname: Alden
+mail: alden.ragan@planetexpress.com
+userPassword: Alden
+ou: OtherGroup
+uid: 1214
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jenna+sn=Stille,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jenna Stille
+cn: Stille
+givenname: Jenna
+mail: jenna.stille@planetexpress.com
+userPassword: Jenna
+ou: admin_staff
+uid: 4768
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tiffanie+sn=Polakis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tiffanie Polakis
+cn: Polakis
+givenname: Tiffanie
+mail: tiffanie.polakis@planetexpress.com
+userPassword: Tiffanie
+ou: Group5
+uid: 4996
+ Q==

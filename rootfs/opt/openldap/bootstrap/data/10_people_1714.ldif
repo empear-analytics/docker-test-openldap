@@ -1,0 +1,13 @@
+dn: cn=Magda+sn=Bosch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Magda Bosch
+cn: Bosch
+givenname: Magda
+mail: magda.bosch@planetexpress.com
+userPassword: Magda
+ou: OtherGroup
+uid: 1714
+ Q==

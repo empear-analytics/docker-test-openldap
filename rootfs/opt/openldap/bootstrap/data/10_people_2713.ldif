@@ -1,0 +1,13 @@
+dn: cn=Fredda+sn=Auerswald,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fredda Auerswald
+cn: Auerswald
+givenname: Fredda
+mail: fredda.auerswald@planetexpress.com
+userPassword: Fredda
+ou: admin_staff
+uid: 2713
+ Q==

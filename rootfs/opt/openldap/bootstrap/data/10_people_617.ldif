@@ -1,0 +1,13 @@
+dn: cn=Leta+sn=Valela,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leta Valela
+cn: Valela
+givenname: Leta
+mail: leta.valela@planetexpress.com
+userPassword: Leta
+ou: admin_staff
+uid: 617
+ Q==

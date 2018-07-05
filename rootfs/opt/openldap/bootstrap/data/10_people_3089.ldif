@@ -1,0 +1,13 @@
+dn: cn=Harland+sn=Kroeker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Harland Kroeker
+cn: Kroeker
+givenname: Harland
+mail: harland.kroeker@planetexpress.com
+userPassword: Harland
+ou: flight_crew
+uid: 3089
+ Q==

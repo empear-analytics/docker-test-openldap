@@ -1,0 +1,13 @@
+dn: cn=Letha+sn=Puebla,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Letha Puebla
+cn: Puebla
+givenname: Letha
+mail: letha.puebla@planetexpress.com
+userPassword: Letha
+ou: OtherGroup
+uid: 4672
+ Q==

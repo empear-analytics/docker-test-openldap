@@ -1,0 +1,13 @@
+dn: cn=Chelsea+sn=Bolton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chelsea Bolton
+cn: Bolton
+givenname: Chelsea
+mail: chelsea.bolton@planetexpress.com
+userPassword: Chelsea
+ou: flight_crew
+uid: 1427
+ Q==

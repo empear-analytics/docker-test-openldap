@@ -1,0 +1,13 @@
+dn: cn=Regine+sn=Robel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Regine Robel
+cn: Robel
+givenname: Regine
+mail: regine.robel@planetexpress.com
+userPassword: Regine
+ou: flight_crew
+uid: 2054
+ Q==

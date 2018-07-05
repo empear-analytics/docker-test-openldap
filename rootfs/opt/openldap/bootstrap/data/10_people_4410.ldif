@@ -1,0 +1,13 @@
+dn: cn=Jamie+sn=Barn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamie Barn
+cn: Barn
+givenname: Jamie
+mail: jamie.barn@planetexpress.com
+userPassword: Jamie
+ou: Group5
+uid: 4410
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Syreeta+sn=Bembury,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Syreeta Bembury
+cn: Bembury
+givenname: Syreeta
+mail: syreeta.bembury@planetexpress.com
+userPassword: Syreeta
+ou: OtherGroup
+uid: 2974
+ Q==

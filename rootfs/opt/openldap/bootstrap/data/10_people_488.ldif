@@ -1,0 +1,13 @@
+dn: cn=Seymour+sn=Elsner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Seymour Elsner
+cn: Elsner
+givenname: Seymour
+mail: seymour.elsner@planetexpress.com
+userPassword: Seymour
+ou: OtherGroup
+uid: 488
+ Q==

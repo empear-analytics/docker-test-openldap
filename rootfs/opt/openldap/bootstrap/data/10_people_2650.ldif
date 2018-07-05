@@ -1,0 +1,13 @@
+dn: cn=Alba+sn=Brogan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alba Brogan
+cn: Brogan
+givenname: Alba
+mail: alba.brogan@planetexpress.com
+userPassword: Alba
+ou: Group5
+uid: 2650
+ Q==

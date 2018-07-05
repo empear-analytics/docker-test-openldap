@@ -1,0 +1,13 @@
+dn: cn=Harriette+sn=Hamlin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Harriette Hamlin
+cn: Hamlin
+givenname: Harriette
+mail: harriette.hamlin@planetexpress.com
+userPassword: Harriette
+ou: OtherGroup
+uid: 5615
+ Q==

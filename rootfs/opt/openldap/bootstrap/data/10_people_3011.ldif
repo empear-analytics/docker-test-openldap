@@ -1,0 +1,13 @@
+dn: cn=Verlene+sn=Aldrege,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Verlene Aldrege
+cn: Aldrege
+givenname: Verlene
+mail: verlene.aldrege@planetexpress.com
+userPassword: Verlene
+ou: admin_staff
+uid: 3011
+ Q==

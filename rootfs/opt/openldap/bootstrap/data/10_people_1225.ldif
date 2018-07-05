@@ -1,0 +1,13 @@
+dn: cn=Galina+sn=Macewen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Galina Macewen
+cn: Macewen
+givenname: Galina
+mail: galina.macewen@planetexpress.com
+userPassword: Galina
+ou: flight_crew
+uid: 1225
+ Q==

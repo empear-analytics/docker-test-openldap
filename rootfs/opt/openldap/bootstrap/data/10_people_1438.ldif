@@ -1,0 +1,13 @@
+dn: cn=Ladawn+sn=Budreau,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ladawn Budreau
+cn: Budreau
+givenname: Ladawn
+mail: ladawn.budreau@planetexpress.com
+userPassword: Ladawn
+ou: flight_crew
+uid: 1438
+ Q==

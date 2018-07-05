@@ -1,0 +1,13 @@
+dn: cn=Halina+sn=Mcewan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Halina Mcewan
+cn: Mcewan
+givenname: Halina
+mail: halina.mcewan@planetexpress.com
+userPassword: Halina
+ou: Group5
+uid: 5611
+ Q==

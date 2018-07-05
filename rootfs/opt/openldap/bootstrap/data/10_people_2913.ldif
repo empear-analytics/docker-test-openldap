@@ -1,0 +1,13 @@
+dn: cn=Jaleesa+sn=Ilalio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jaleesa Ilalio
+cn: Ilalio
+givenname: Jaleesa
+mail: jaleesa.ilalio@planetexpress.com
+userPassword: Jaleesa
+ou: flight_crew
+uid: 2913
+ Q==

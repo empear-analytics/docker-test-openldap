@@ -1,0 +1,13 @@
+dn: cn=Caroll+sn=Schlissel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Caroll Schlissel
+cn: Schlissel
+givenname: Caroll
+mail: caroll.schlissel@planetexpress.com
+userPassword: Caroll
+ou: flight_crew
+uid: 2688
+ Q==

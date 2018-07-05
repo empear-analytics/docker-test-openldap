@@ -1,0 +1,13 @@
+dn: cn=Lavonna+sn=Mital,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lavonna Mital
+cn: Mital
+givenname: Lavonna
+mail: lavonna.mital@planetexpress.com
+userPassword: Lavonna
+ou: OtherGroup
+uid: 4442
+ Q==

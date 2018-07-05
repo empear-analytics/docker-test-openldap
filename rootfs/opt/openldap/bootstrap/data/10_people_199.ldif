@@ -1,0 +1,13 @@
+dn: cn=Jaymie+sn=Barer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jaymie Barer
+cn: Barer
+givenname: Jaymie
+mail: jaymie.barer@planetexpress.com
+userPassword: Jaymie
+ou: Group5
+uid: 199
+ Q==

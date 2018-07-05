@@ -1,0 +1,13 @@
+dn: cn=Willodean+sn=Boatright,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Willodean Boatright
+cn: Boatright
+givenname: Willodean
+mail: willodean.boatright@planetexpress.com
+userPassword: Willodean
+ou: admin_staff
+uid: 407
+ Q==

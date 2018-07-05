@@ -1,0 +1,13 @@
+dn: cn=Shalonda+sn=Boulier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shalonda Boulier
+cn: Boulier
+givenname: Shalonda
+mail: shalonda.boulier@planetexpress.com
+userPassword: Shalonda
+ou: admin_staff
+uid: 3112
+ Q==

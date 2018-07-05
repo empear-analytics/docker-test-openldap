@@ -1,0 +1,13 @@
+dn: cn=Tanner+sn=Wolfard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tanner Wolfard
+cn: Wolfard
+givenname: Tanner
+mail: tanner.wolfard@planetexpress.com
+userPassword: Tanner
+ou: OtherGroup
+uid: 1961
+ Q==

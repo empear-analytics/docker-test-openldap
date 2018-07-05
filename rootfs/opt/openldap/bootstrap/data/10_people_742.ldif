@@ -1,0 +1,13 @@
+dn: cn=Flo+sn=Usina,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Flo Usina
+cn: Usina
+givenname: Flo
+mail: flo.usina@planetexpress.com
+userPassword: Flo
+ou: flight_crew
+uid: 742
+ Q==

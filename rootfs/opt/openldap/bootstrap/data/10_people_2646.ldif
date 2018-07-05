@@ -1,0 +1,13 @@
+dn: cn=Dirk+sn=Kaz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dirk Kaz
+cn: Kaz
+givenname: Dirk
+mail: dirk.kaz@planetexpress.com
+userPassword: Dirk
+ou: OtherGroup
+uid: 2646
+ Q==

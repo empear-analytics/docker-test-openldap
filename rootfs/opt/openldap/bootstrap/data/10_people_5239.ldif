@@ -1,0 +1,13 @@
+dn: cn=Wonda+sn=Yaskiewicz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wonda Yaskiewicz
+cn: Yaskiewicz
+givenname: Wonda
+mail: wonda.yaskiewicz@planetexpress.com
+userPassword: Wonda
+ou: admin_staff
+uid: 5239
+ Q==

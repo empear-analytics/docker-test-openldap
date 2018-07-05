@@ -1,0 +1,13 @@
+dn: cn=Bernarda+sn=Muzacz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bernarda Muzacz
+cn: Muzacz
+givenname: Bernarda
+mail: bernarda.muzacz@planetexpress.com
+userPassword: Bernarda
+ou: Group5
+uid: 4013
+ Q==

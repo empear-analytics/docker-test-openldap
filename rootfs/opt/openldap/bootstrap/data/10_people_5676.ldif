@@ -1,0 +1,13 @@
+dn: cn=Gay+sn=Licavoli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gay Licavoli
+cn: Licavoli
+givenname: Gay
+mail: gay.licavoli@planetexpress.com
+userPassword: Gay
+ou: flight_crew
+uid: 5676
+ Q==

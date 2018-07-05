@@ -1,0 +1,13 @@
+dn: cn=Lia+sn=Borovetz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lia Borovetz
+cn: Borovetz
+givenname: Lia
+mail: lia.borovetz@planetexpress.com
+userPassword: Lia
+ou: flight_crew
+uid: 4595
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Inez+sn=Mcmurdo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Inez Mcmurdo
+cn: Mcmurdo
+givenname: Inez
+mail: inez.mcmurdo@planetexpress.com
+userPassword: Inez
+ou: OtherGroup
+uid: 2762
+ Q==

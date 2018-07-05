@@ -1,0 +1,13 @@
+dn: cn=Deandra+sn=Wins,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deandra Wins
+cn: Wins
+givenname: Deandra
+mail: deandra.wins@planetexpress.com
+userPassword: Deandra
+ou: flight_crew
+uid: 1579
+ Q==

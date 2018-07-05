@@ -1,0 +1,13 @@
+dn: cn=Daisy+sn=Pent,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daisy Pent
+cn: Pent
+givenname: Daisy
+mail: daisy.pent@planetexpress.com
+userPassword: Daisy
+ou: flight_crew
+uid: 2825
+ Q==

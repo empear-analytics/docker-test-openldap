@@ -1,0 +1,13 @@
+dn: cn=Phung+sn=Kammann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Phung Kammann
+cn: Kammann
+givenname: Phung
+mail: phung.kammann@planetexpress.com
+userPassword: Phung
+ou: admin_staff
+uid: 5129
+ Q==

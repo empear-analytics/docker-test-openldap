@@ -1,0 +1,13 @@
+dn: cn=Theo+sn=Millbrand,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Theo Millbrand
+cn: Millbrand
+givenname: Theo
+mail: theo.millbrand@planetexpress.com
+userPassword: Theo
+ou: flight_crew
+uid: 4090
+ Q==

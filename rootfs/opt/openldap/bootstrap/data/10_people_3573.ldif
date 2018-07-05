@@ -1,0 +1,13 @@
+dn: cn=Kacie+sn=Sweene,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kacie Sweene
+cn: Sweene
+givenname: Kacie
+mail: kacie.sweene@planetexpress.com
+userPassword: Kacie
+ou: flight_crew
+uid: 3573
+ Q==

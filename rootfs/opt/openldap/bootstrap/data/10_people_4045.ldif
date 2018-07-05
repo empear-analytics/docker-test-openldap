@@ -1,0 +1,13 @@
+dn: cn=Marine+sn=Mcallister,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marine Mcallister
+cn: Mcallister
+givenname: Marine
+mail: marine.mcallister@planetexpress.com
+userPassword: Marine
+ou: Group5
+uid: 4045
+ Q==

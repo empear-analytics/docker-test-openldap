@@ -1,0 +1,13 @@
+dn: cn=Ricardo+sn=Pleil,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ricardo Pleil
+cn: Pleil
+givenname: Ricardo
+mail: ricardo.pleil@planetexpress.com
+userPassword: Ricardo
+ou: admin_staff
+uid: 2956
+ Q==

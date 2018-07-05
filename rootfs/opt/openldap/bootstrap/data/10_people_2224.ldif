@@ -1,0 +1,13 @@
+dn: cn=Mikel+sn=Wiedemann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mikel Wiedemann
+cn: Wiedemann
+givenname: Mikel
+mail: mikel.wiedemann@planetexpress.com
+userPassword: Mikel
+ou: flight_crew
+uid: 2224
+ Q==

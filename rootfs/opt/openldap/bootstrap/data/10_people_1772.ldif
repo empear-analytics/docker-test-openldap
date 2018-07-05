@@ -1,0 +1,13 @@
+dn: cn=Nathalie+sn=Moris,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nathalie Moris
+cn: Moris
+givenname: Nathalie
+mail: nathalie.moris@planetexpress.com
+userPassword: Nathalie
+ou: Group5
+uid: 1772
+ Q==

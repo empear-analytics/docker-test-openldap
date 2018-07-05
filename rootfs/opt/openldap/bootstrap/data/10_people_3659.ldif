@@ -1,0 +1,13 @@
+dn: cn=Iraida+sn=Jelovich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Iraida Jelovich
+cn: Jelovich
+givenname: Iraida
+mail: iraida.jelovich@planetexpress.com
+userPassword: Iraida
+ou: admin_staff
+uid: 3659
+ Q==

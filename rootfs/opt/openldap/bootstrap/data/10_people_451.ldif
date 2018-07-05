@@ -1,0 +1,13 @@
+dn: cn=Shemika+sn=Reynoldson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shemika Reynoldson
+cn: Reynoldson
+givenname: Shemika
+mail: shemika.reynoldson@planetexpress.com
+userPassword: Shemika
+ou: OtherGroup
+uid: 451
+ Q==

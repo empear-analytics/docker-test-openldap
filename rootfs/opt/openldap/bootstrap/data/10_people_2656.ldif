@@ -1,0 +1,13 @@
+dn: cn=Ruthann+sn=Hancey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ruthann Hancey
+cn: Hancey
+givenname: Ruthann
+mail: ruthann.hancey@planetexpress.com
+userPassword: Ruthann
+ou: Group5
+uid: 2656
+ Q==

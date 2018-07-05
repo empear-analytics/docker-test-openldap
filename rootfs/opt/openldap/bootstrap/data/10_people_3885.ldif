@@ -1,0 +1,13 @@
+dn: cn=Marcus+sn=Kempster,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marcus Kempster
+cn: Kempster
+givenname: Marcus
+mail: marcus.kempster@planetexpress.com
+userPassword: Marcus
+ou: Group5
+uid: 3885
+ Q==

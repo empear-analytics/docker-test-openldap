@@ -1,0 +1,13 @@
+dn: cn=Lupe+sn=Tappin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lupe Tappin
+cn: Tappin
+givenname: Lupe
+mail: lupe.tappin@planetexpress.com
+userPassword: Lupe
+ou: flight_crew
+uid: 5202
+ Q==

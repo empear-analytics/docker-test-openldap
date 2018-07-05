@@ -1,0 +1,13 @@
+dn: cn=Dottie+sn=Gaither,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dottie Gaither
+cn: Gaither
+givenname: Dottie
+mail: dottie.gaither@planetexpress.com
+userPassword: Dottie
+ou: admin_staff
+uid: 229
+ Q==

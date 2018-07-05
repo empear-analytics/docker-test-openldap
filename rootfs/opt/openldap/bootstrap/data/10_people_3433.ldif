@@ -1,0 +1,13 @@
+dn: cn=Darcey+sn=Mandelberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darcey Mandelberg
+cn: Mandelberg
+givenname: Darcey
+mail: darcey.mandelberg@planetexpress.com
+userPassword: Darcey
+ou: admin_staff
+uid: 3433
+ Q==

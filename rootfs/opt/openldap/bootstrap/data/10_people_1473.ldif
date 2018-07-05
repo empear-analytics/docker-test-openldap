@@ -1,0 +1,13 @@
+dn: cn=Genia+sn=Colucci,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Genia Colucci
+cn: Colucci
+givenname: Genia
+mail: genia.colucci@planetexpress.com
+userPassword: Genia
+ou: OtherGroup
+uid: 1473
+ Q==

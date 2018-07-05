@@ -1,0 +1,13 @@
+dn: cn=Lennie+sn=Alter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lennie Alter
+cn: Alter
+givenname: Lennie
+mail: lennie.alter@planetexpress.com
+userPassword: Lennie
+ou: OtherGroup
+uid: 5829
+ Q==

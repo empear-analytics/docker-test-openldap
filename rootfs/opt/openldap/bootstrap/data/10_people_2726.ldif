@@ -1,0 +1,13 @@
+dn: cn=Jannet+sn=Wipfli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jannet Wipfli
+cn: Wipfli
+givenname: Jannet
+mail: jannet.wipfli@planetexpress.com
+userPassword: Jannet
+ou: admin_staff
+uid: 2726
+ Q==

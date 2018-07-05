@@ -1,0 +1,13 @@
+dn: cn=Lura+sn=Barbuto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lura Barbuto
+cn: Barbuto
+givenname: Lura
+mail: lura.barbuto@planetexpress.com
+userPassword: Lura
+ou: flight_crew
+uid: 82
+ Q==

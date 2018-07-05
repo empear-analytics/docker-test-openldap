@@ -1,0 +1,13 @@
+dn: cn=Lizzie+sn=Pomerantz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lizzie Pomerantz
+cn: Pomerantz
+givenname: Lizzie
+mail: lizzie.pomerantz@planetexpress.com
+userPassword: Lizzie
+ou: flight_crew
+uid: 515
+ Q==

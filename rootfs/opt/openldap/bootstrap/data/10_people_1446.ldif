@@ -1,0 +1,13 @@
+dn: cn=Viva+sn=Kooch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Viva Kooch
+cn: Kooch
+givenname: Viva
+mail: viva.kooch@planetexpress.com
+userPassword: Viva
+ou: admin_staff
+uid: 1446
+ Q==

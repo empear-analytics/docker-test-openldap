@@ -1,0 +1,13 @@
+dn: cn=Bennie+sn=Morron,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bennie Morron
+cn: Morron
+givenname: Bennie
+mail: bennie.morron@planetexpress.com
+userPassword: Bennie
+ou: OtherGroup
+uid: 5962
+ Q==

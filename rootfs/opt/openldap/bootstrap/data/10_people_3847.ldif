@@ -1,0 +1,13 @@
+dn: cn=Stefanie+sn=Murach,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stefanie Murach
+cn: Murach
+givenname: Stefanie
+mail: stefanie.murach@planetexpress.com
+userPassword: Stefanie
+ou: admin_staff
+uid: 3847
+ Q==

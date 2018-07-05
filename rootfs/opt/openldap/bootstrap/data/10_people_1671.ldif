@@ -1,0 +1,13 @@
+dn: cn=Randa+sn=Nightwine,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Randa Nightwine
+cn: Nightwine
+givenname: Randa
+mail: randa.nightwine@planetexpress.com
+userPassword: Randa
+ou: flight_crew
+uid: 1671
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Akilah+sn=Marinese,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Akilah Marinese
+cn: Marinese
+givenname: Akilah
+mail: akilah.marinese@planetexpress.com
+userPassword: Akilah
+ou: flight_crew
+uid: 4112
+ Q==

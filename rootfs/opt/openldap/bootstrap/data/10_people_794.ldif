@@ -1,0 +1,13 @@
+dn: cn=Reyna+sn=Feagen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reyna Feagen
+cn: Feagen
+givenname: Reyna
+mail: reyna.feagen@planetexpress.com
+userPassword: Reyna
+ou: Group5
+uid: 794
+ Q==

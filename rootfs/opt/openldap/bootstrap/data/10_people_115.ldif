@@ -1,0 +1,13 @@
+dn: cn=Rolland+sn=Spieth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rolland Spieth
+cn: Spieth
+givenname: Rolland
+mail: rolland.spieth@planetexpress.com
+userPassword: Rolland
+ou: OtherGroup
+uid: 115
+ Q==

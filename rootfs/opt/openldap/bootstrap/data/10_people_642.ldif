@@ -1,0 +1,13 @@
+dn: cn=Hassie+sn=Hachey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hassie Hachey
+cn: Hachey
+givenname: Hassie
+mail: hassie.hachey@planetexpress.com
+userPassword: Hassie
+ou: admin_staff
+uid: 642
+ Q==

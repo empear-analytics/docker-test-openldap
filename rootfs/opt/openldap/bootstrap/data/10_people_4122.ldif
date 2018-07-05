@@ -1,0 +1,13 @@
+dn: cn=Toni+sn=Wallo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Toni Wallo
+cn: Wallo
+givenname: Toni
+mail: toni.wallo@planetexpress.com
+userPassword: Toni
+ou: Group5
+uid: 4122
+ Q==

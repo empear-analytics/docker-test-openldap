@@ -1,0 +1,13 @@
+dn: cn=Wyatt+sn=Sjoberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wyatt Sjoberg
+cn: Sjoberg
+givenname: Wyatt
+mail: wyatt.sjoberg@planetexpress.com
+userPassword: Wyatt
+ou: Group5
+uid: 4103
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Gail+sn=Rawe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gail Rawe
+cn: Rawe
+givenname: Gail
+mail: gail.rawe@planetexpress.com
+userPassword: Gail
+ou: flight_crew
+uid: 2180
+ Q==

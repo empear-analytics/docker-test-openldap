@@ -1,0 +1,13 @@
+dn: cn=Darnell+sn=Blust,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darnell Blust
+cn: Blust
+givenname: Darnell
+mail: darnell.blust@planetexpress.com
+userPassword: Darnell
+ou: OtherGroup
+uid: 1157
+ Q==

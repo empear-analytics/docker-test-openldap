@@ -1,0 +1,13 @@
+dn: cn=Tyra+sn=Harington,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tyra Harington
+cn: Harington
+givenname: Tyra
+mail: tyra.harington@planetexpress.com
+userPassword: Tyra
+ou: OtherGroup
+uid: 396
+ Q==

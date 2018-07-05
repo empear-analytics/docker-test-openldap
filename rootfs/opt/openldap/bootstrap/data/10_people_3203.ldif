@@ -1,0 +1,13 @@
+dn: cn=Luanna+sn=Zumaya,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Luanna Zumaya
+cn: Zumaya
+givenname: Luanna
+mail: luanna.zumaya@planetexpress.com
+userPassword: Luanna
+ou: Group5
+uid: 3203
+ Q==

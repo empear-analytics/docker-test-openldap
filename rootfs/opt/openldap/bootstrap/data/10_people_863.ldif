@@ -1,0 +1,13 @@
+dn: cn=Sigrid+sn=Armant,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sigrid Armant
+cn: Armant
+givenname: Sigrid
+mail: sigrid.armant@planetexpress.com
+userPassword: Sigrid
+ou: OtherGroup
+uid: 863
+ Q==

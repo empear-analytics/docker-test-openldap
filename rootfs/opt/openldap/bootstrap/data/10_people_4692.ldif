@@ -1,0 +1,13 @@
+dn: cn=Malvina+sn=Andruss,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Malvina Andruss
+cn: Andruss
+givenname: Malvina
+mail: malvina.andruss@planetexpress.com
+userPassword: Malvina
+ou: flight_crew
+uid: 4692
+ Q==

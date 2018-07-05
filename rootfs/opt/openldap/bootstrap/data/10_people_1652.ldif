@@ -1,0 +1,13 @@
+dn: cn=Tobi+sn=Elvsaas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tobi Elvsaas
+cn: Elvsaas
+givenname: Tobi
+mail: tobi.elvsaas@planetexpress.com
+userPassword: Tobi
+ou: Group5
+uid: 1652
+ Q==

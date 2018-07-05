@@ -1,0 +1,13 @@
+dn: cn=Bobby+sn=Cohn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bobby Cohn
+cn: Cohn
+givenname: Bobby
+mail: bobby.cohn@planetexpress.com
+userPassword: Bobby
+ou: admin_staff
+uid: 4783
+ Q==

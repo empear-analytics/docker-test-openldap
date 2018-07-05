@@ -1,0 +1,13 @@
+dn: cn=Ariel+sn=Samick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ariel Samick
+cn: Samick
+givenname: Ariel
+mail: ariel.samick@planetexpress.com
+userPassword: Ariel
+ou: Group5
+uid: 1081
+ Q==

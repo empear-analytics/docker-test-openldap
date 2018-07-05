@@ -1,0 +1,13 @@
+dn: cn=Kathrine+sn=Yonce,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kathrine Yonce
+cn: Yonce
+givenname: Kathrine
+mail: kathrine.yonce@planetexpress.com
+userPassword: Kathrine
+ou: admin_staff
+uid: 399
+ Q==

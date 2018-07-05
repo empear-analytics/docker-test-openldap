@@ -1,0 +1,13 @@
+dn: cn=Cira+sn=Chhum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cira Chhum
+cn: Chhum
+givenname: Cira
+mail: cira.chhum@planetexpress.com
+userPassword: Cira
+ou: OtherGroup
+uid: 1335
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Chelsey+sn=Gillham,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chelsey Gillham
+cn: Gillham
+givenname: Chelsey
+mail: chelsey.gillham@planetexpress.com
+userPassword: Chelsey
+ou: Group5
+uid: 663
+ Q==

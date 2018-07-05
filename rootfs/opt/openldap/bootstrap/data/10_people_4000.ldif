@@ -1,0 +1,13 @@
+dn: cn=Phuong+sn=Peach,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Phuong Peach
+cn: Peach
+givenname: Phuong
+mail: phuong.peach@planetexpress.com
+userPassword: Phuong
+ou: Group5
+uid: 4000
+ Q==

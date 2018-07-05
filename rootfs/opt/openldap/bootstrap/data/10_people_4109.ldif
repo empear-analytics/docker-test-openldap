@@ -1,0 +1,13 @@
+dn: cn=Rueben+sn=Schuele,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rueben Schuele
+cn: Schuele
+givenname: Rueben
+mail: rueben.schuele@planetexpress.com
+userPassword: Rueben
+ou: flight_crew
+uid: 4109
+ Q==

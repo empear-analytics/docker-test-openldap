@@ -1,0 +1,13 @@
+dn: cn=Trena+sn=Frayer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Trena Frayer
+cn: Frayer
+givenname: Trena
+mail: trena.frayer@planetexpress.com
+userPassword: Trena
+ou: admin_staff
+uid: 2337
+ Q==

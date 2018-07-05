@@ -1,0 +1,13 @@
+dn: cn=Nicholas+sn=Wobser,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nicholas Wobser
+cn: Wobser
+givenname: Nicholas
+mail: nicholas.wobser@planetexpress.com
+userPassword: Nicholas
+ou: admin_staff
+uid: 3796
+ Q==

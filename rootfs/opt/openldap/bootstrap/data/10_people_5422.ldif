@@ -1,0 +1,13 @@
+dn: cn=Wanita+sn=Oby,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wanita Oby
+cn: Oby
+givenname: Wanita
+mail: wanita.oby@planetexpress.com
+userPassword: Wanita
+ou: Group5
+uid: 5422
+ Q==

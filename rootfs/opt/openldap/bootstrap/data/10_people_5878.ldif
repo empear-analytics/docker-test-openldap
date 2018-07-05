@@ -1,0 +1,13 @@
+dn: cn=Terrie+sn=Ghaor,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Terrie Ghaor
+cn: Ghaor
+givenname: Terrie
+mail: terrie.ghaor@planetexpress.com
+userPassword: Terrie
+ou: flight_crew
+uid: 5878
+ Q==

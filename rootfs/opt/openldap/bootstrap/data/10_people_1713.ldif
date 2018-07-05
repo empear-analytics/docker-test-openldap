@@ -1,0 +1,13 @@
+dn: cn=Claudio+sn=Hamiel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Claudio Hamiel
+cn: Hamiel
+givenname: Claudio
+mail: claudio.hamiel@planetexpress.com
+userPassword: Claudio
+ou: OtherGroup
+uid: 1713
+ Q==

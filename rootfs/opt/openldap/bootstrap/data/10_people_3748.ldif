@@ -1,0 +1,13 @@
+dn: cn=Amira+sn=Haffey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Amira Haffey
+cn: Haffey
+givenname: Amira
+mail: amira.haffey@planetexpress.com
+userPassword: Amira
+ou: flight_crew
+uid: 3748
+ Q==

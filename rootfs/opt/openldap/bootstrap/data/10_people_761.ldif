@@ -1,0 +1,13 @@
+dn: cn=Mercedes+sn=Soucek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mercedes Soucek
+cn: Soucek
+givenname: Mercedes
+mail: mercedes.soucek@planetexpress.com
+userPassword: Mercedes
+ou: flight_crew
+uid: 761
+ Q==

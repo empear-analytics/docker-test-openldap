@@ -1,0 +1,13 @@
+dn: cn=Maisha+sn=Dingmann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maisha Dingmann
+cn: Dingmann
+givenname: Maisha
+mail: maisha.dingmann@planetexpress.com
+userPassword: Maisha
+ou: flight_crew
+uid: 5219
+ Q==

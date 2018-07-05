@@ -1,0 +1,13 @@
+dn: cn=Chi+sn=Mcanallen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chi Mcanallen
+cn: Mcanallen
+givenname: Chi
+mail: chi.mcanallen@planetexpress.com
+userPassword: Chi
+ou: flight_crew
+uid: 5338
+ Q==

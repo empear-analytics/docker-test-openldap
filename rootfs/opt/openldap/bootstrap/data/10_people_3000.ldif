@@ -1,0 +1,13 @@
+dn: cn=Noel+sn=Woodle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Noel Woodle
+cn: Woodle
+givenname: Noel
+mail: noel.woodle@planetexpress.com
+userPassword: Noel
+ou: admin_staff
+uid: 3000
+ Q==

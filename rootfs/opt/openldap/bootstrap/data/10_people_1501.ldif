@@ -1,0 +1,13 @@
+dn: cn=Lai+sn=Mory,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lai Mory
+cn: Mory
+givenname: Lai
+mail: lai.mory@planetexpress.com
+userPassword: Lai
+ou: flight_crew
+uid: 1501
+ Q==

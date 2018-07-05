@@ -1,0 +1,13 @@
+dn: cn=Elinor+sn=Crogan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elinor Crogan
+cn: Crogan
+givenname: Elinor
+mail: elinor.crogan@planetexpress.com
+userPassword: Elinor
+ou: flight_crew
+uid: 3398
+ Q==

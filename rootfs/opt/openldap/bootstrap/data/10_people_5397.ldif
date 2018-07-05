@@ -1,0 +1,13 @@
+dn: cn=Saundra+sn=Boylan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Saundra Boylan
+cn: Boylan
+givenname: Saundra
+mail: saundra.boylan@planetexpress.com
+userPassword: Saundra
+ou: flight_crew
+uid: 5397
+ Q==

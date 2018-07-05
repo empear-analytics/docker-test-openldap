@@ -1,0 +1,13 @@
+dn: cn=Leonida+sn=Sitterding,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leonida Sitterding
+cn: Sitterding
+givenname: Leonida
+mail: leonida.sitterding@planetexpress.com
+userPassword: Leonida
+ou: Group5
+uid: 3288
+ Q==

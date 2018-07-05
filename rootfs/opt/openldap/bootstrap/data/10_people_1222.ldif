@@ -1,0 +1,13 @@
+dn: cn=Diego+sn=Ducceschi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Diego Ducceschi
+cn: Ducceschi
+givenname: Diego
+mail: diego.ducceschi@planetexpress.com
+userPassword: Diego
+ou: flight_crew
+uid: 1222
+ Q==

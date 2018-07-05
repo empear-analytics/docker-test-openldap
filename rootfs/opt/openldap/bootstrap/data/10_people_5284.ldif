@@ -1,0 +1,13 @@
+dn: cn=Talisha+sn=Stasko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Talisha Stasko
+cn: Stasko
+givenname: Talisha
+mail: talisha.stasko@planetexpress.com
+userPassword: Talisha
+ou: Group5
+uid: 5284
+ Q==

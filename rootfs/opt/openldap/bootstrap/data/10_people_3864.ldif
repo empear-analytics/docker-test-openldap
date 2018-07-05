@@ -1,0 +1,13 @@
+dn: cn=Shana+sn=Pina,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shana Pina
+cn: Pina
+givenname: Shana
+mail: shana.pina@planetexpress.com
+userPassword: Shana
+ou: Group5
+uid: 3864
+ Q==

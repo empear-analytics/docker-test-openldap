@@ -1,0 +1,13 @@
+dn: cn=Serena+sn=Fuerte,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Serena Fuerte
+cn: Fuerte
+givenname: Serena
+mail: serena.fuerte@planetexpress.com
+userPassword: Serena
+ou: OtherGroup
+uid: 5431
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Candy+sn=Vantrease,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Candy Vantrease
+cn: Vantrease
+givenname: Candy
+mail: candy.vantrease@planetexpress.com
+userPassword: Candy
+ou: Group5
+uid: 5443
+ Q==

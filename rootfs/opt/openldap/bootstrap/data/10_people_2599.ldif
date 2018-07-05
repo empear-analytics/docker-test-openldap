@@ -1,0 +1,13 @@
+dn: cn=Gigi+sn=Thimmes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gigi Thimmes
+cn: Thimmes
+givenname: Gigi
+mail: gigi.thimmes@planetexpress.com
+userPassword: Gigi
+ou: OtherGroup
+uid: 2599
+ Q==

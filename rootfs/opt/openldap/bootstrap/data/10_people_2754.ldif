@@ -1,0 +1,13 @@
+dn: cn=Sheron+sn=Biedrzycki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sheron Biedrzycki
+cn: Biedrzycki
+givenname: Sheron
+mail: sheron.biedrzycki@planetexpress.com
+userPassword: Sheron
+ou: Group5
+uid: 2754
+ Q==

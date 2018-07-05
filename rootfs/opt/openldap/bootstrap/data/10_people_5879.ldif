@@ -1,0 +1,13 @@
+dn: cn=Sang+sn=Mcmanus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sang Mcmanus
+cn: Mcmanus
+givenname: Sang
+mail: sang.mcmanus@planetexpress.com
+userPassword: Sang
+ou: OtherGroup
+uid: 5879
+ Q==

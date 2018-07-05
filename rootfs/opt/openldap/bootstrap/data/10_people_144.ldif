@@ -1,0 +1,13 @@
+dn: cn=Quinn+sn=Malecki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Quinn Malecki
+cn: Malecki
+givenname: Quinn
+mail: quinn.malecki@planetexpress.com
+userPassword: Quinn
+ou: flight_crew
+uid: 144
+ Q==

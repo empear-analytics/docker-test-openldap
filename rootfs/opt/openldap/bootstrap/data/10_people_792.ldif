@@ -1,0 +1,13 @@
+dn: cn=Tequila+sn=Gnabah,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tequila Gnabah
+cn: Gnabah
+givenname: Tequila
+mail: tequila.gnabah@planetexpress.com
+userPassword: Tequila
+ou: Group5
+uid: 792
+ Q==

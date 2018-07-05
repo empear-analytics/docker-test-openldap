@@ -1,0 +1,13 @@
+dn: cn=Amparo+sn=Casebeer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Amparo Casebeer
+cn: Casebeer
+givenname: Amparo
+mail: amparo.casebeer@planetexpress.com
+userPassword: Amparo
+ou: OtherGroup
+uid: 2714
+ Q==

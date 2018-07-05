@@ -1,0 +1,13 @@
+dn: cn=Angelyn+sn=Mccollam,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelyn Mccollam
+cn: Mccollam
+givenname: Angelyn
+mail: angelyn.mccollam@planetexpress.com
+userPassword: Angelyn
+ou: admin_staff
+uid: 2244
+ Q==

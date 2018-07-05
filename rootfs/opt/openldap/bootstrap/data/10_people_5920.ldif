@@ -1,0 +1,13 @@
+dn: cn=Casimira+sn=Jentsch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Casimira Jentsch
+cn: Jentsch
+givenname: Casimira
+mail: casimira.jentsch@planetexpress.com
+userPassword: Casimira
+ou: admin_staff
+uid: 5920
+ Q==

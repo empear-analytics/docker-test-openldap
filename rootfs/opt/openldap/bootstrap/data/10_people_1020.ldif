@@ -1,0 +1,13 @@
+dn: cn=Lucius+sn=Sixtos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lucius Sixtos
+cn: Sixtos
+givenname: Lucius
+mail: lucius.sixtos@planetexpress.com
+userPassword: Lucius
+ou: admin_staff
+uid: 1020
+ Q==

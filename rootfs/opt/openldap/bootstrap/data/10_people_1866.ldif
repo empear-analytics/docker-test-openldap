@@ -1,0 +1,13 @@
+dn: cn=Randa+sn=Preheim,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Randa Preheim
+cn: Preheim
+givenname: Randa
+mail: randa.preheim@planetexpress.com
+userPassword: Randa
+ou: flight_crew
+uid: 1866
+ Q==

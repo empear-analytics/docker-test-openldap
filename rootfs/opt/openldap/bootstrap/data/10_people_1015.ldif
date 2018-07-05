@@ -1,0 +1,13 @@
+dn: cn=Starr+sn=Tumbaga,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Starr Tumbaga
+cn: Tumbaga
+givenname: Starr
+mail: starr.tumbaga@planetexpress.com
+userPassword: Starr
+ou: OtherGroup
+uid: 1015
+ Q==

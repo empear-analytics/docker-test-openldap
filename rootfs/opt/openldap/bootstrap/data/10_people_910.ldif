@@ -1,0 +1,13 @@
+dn: cn=Chantell+sn=Almaguer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chantell Almaguer
+cn: Almaguer
+givenname: Chantell
+mail: chantell.almaguer@planetexpress.com
+userPassword: Chantell
+ou: Group5
+uid: 910
+ Q==

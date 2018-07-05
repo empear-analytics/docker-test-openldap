@@ -1,0 +1,13 @@
+dn: cn=Mariann+sn=Haverly,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mariann Haverly
+cn: Haverly
+givenname: Mariann
+mail: mariann.haverly@planetexpress.com
+userPassword: Mariann
+ou: Group5
+uid: 1926
+ Q==

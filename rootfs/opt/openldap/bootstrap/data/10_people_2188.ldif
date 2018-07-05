@@ -1,0 +1,13 @@
+dn: cn=Rob+sn=Tamburino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rob Tamburino
+cn: Tamburino
+givenname: Rob
+mail: rob.tamburino@planetexpress.com
+userPassword: Rob
+ou: flight_crew
+uid: 2188
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Willia+sn=Taran,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Willia Taran
+cn: Taran
+givenname: Willia
+mail: willia.taran@planetexpress.com
+userPassword: Willia
+ou: OtherGroup
+uid: 1201
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Noble+sn=Cromeens,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Noble Cromeens
+cn: Cromeens
+givenname: Noble
+mail: noble.cromeens@planetexpress.com
+userPassword: Noble
+ou: Group5
+uid: 797
+ Q==

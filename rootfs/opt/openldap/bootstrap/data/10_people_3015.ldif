@@ -1,0 +1,13 @@
+dn: cn=Loralee+sn=Kleckner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loralee Kleckner
+cn: Kleckner
+givenname: Loralee
+mail: loralee.kleckner@planetexpress.com
+userPassword: Loralee
+ou: admin_staff
+uid: 3015
+ Q==

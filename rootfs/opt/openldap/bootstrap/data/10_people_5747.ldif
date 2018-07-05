@@ -1,0 +1,13 @@
+dn: cn=Paul+sn=Petsch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Paul Petsch
+cn: Petsch
+givenname: Paul
+mail: paul.petsch@planetexpress.com
+userPassword: Paul
+ou: OtherGroup
+uid: 5747
+ Q==

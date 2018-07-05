@@ -1,0 +1,13 @@
+dn: cn=Consuela+sn=Charboneau,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Consuela Charboneau
+cn: Charboneau
+givenname: Consuela
+mail: consuela.charboneau@planetexpress.com
+userPassword: Consuela
+ou: OtherGroup
+uid: 363
+ Q==

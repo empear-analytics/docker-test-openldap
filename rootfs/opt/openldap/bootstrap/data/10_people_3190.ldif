@@ -1,0 +1,13 @@
+dn: cn=Dakota+sn=Volbert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dakota Volbert
+cn: Volbert
+givenname: Dakota
+mail: dakota.volbert@planetexpress.com
+userPassword: Dakota
+ou: OtherGroup
+uid: 3190
+ Q==

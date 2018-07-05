@@ -1,0 +1,13 @@
+dn: cn=Willetta+sn=Ehleiter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Willetta Ehleiter
+cn: Ehleiter
+givenname: Willetta
+mail: willetta.ehleiter@planetexpress.com
+userPassword: Willetta
+ou: OtherGroup
+uid: 4531
+ Q==

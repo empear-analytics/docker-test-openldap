@@ -1,0 +1,13 @@
+dn: cn=Tommye+sn=Tubergen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tommye Tubergen
+cn: Tubergen
+givenname: Tommye
+mail: tommye.tubergen@planetexpress.com
+userPassword: Tommye
+ou: OtherGroup
+uid: 4117
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Janna+sn=Dayhoff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janna Dayhoff
+cn: Dayhoff
+givenname: Janna
+mail: janna.dayhoff@planetexpress.com
+userPassword: Janna
+ou: flight_crew
+uid: 1276
+ Q==

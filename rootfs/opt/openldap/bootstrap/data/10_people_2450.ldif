@@ -1,0 +1,13 @@
+dn: cn=Sherilyn+sn=Berlinski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherilyn Berlinski
+cn: Berlinski
+givenname: Sherilyn
+mail: sherilyn.berlinski@planetexpress.com
+userPassword: Sherilyn
+ou: OtherGroup
+uid: 2450
+ Q==

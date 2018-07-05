@@ -1,0 +1,13 @@
+dn: cn=Karl+sn=Panetta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karl Panetta
+cn: Panetta
+givenname: Karl
+mail: karl.panetta@planetexpress.com
+userPassword: Karl
+ou: admin_staff
+uid: 4070
+ Q==

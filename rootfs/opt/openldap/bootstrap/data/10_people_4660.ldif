@@ -1,0 +1,13 @@
+dn: cn=Suzanna+sn=Despard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Suzanna Despard
+cn: Despard
+givenname: Suzanna
+mail: suzanna.despard@planetexpress.com
+userPassword: Suzanna
+ou: OtherGroup
+uid: 4660
+ Q==

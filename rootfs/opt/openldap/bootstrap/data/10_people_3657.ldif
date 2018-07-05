@@ -1,0 +1,13 @@
+dn: cn=Malcom+sn=Coomes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Malcom Coomes
+cn: Coomes
+givenname: Malcom
+mail: malcom.coomes@planetexpress.com
+userPassword: Malcom
+ou: admin_staff
+uid: 3657
+ Q==

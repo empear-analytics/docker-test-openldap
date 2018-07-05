@@ -1,0 +1,13 @@
+dn: cn=Emelia+sn=Macvean,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emelia Macvean
+cn: Macvean
+givenname: Emelia
+mail: emelia.macvean@planetexpress.com
+userPassword: Emelia
+ou: admin_staff
+uid: 4306
+ Q==

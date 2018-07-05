@@ -1,0 +1,13 @@
+dn: cn=Columbus+sn=Wynes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Columbus Wynes
+cn: Wynes
+givenname: Columbus
+mail: columbus.wynes@planetexpress.com
+userPassword: Columbus
+ou: admin_staff
+uid: 196
+ Q==

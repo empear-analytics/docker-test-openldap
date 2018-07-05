@@ -1,0 +1,13 @@
+dn: cn=Jenelle+sn=Filby,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jenelle Filby
+cn: Filby
+givenname: Jenelle
+mail: jenelle.filby@planetexpress.com
+userPassword: Jenelle
+ou: admin_staff
+uid: 5885
+ Q==

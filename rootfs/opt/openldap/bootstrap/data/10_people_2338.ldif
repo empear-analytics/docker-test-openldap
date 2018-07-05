@@ -1,0 +1,13 @@
+dn: cn=Paulene+sn=Magliocca,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Paulene Magliocca
+cn: Magliocca
+givenname: Paulene
+mail: paulene.magliocca@planetexpress.com
+userPassword: Paulene
+ou: Group5
+uid: 2338
+ Q==

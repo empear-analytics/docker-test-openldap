@@ -1,0 +1,13 @@
+dn: cn=Will+sn=Trivisonno,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Will Trivisonno
+cn: Trivisonno
+givenname: Will
+mail: will.trivisonno@planetexpress.com
+userPassword: Will
+ou: admin_staff
+uid: 1146
+ Q==

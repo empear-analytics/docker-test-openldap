@@ -1,0 +1,13 @@
+dn: cn=Mitsue+sn=Brandi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mitsue Brandi
+cn: Brandi
+givenname: Mitsue
+mail: mitsue.brandi@planetexpress.com
+userPassword: Mitsue
+ou: OtherGroup
+uid: 4706
+ Q==

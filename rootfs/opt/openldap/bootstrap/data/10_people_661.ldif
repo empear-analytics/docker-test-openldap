@@ -1,0 +1,13 @@
+dn: cn=Agnes+sn=Prell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Agnes Prell
+cn: Prell
+givenname: Agnes
+mail: agnes.prell@planetexpress.com
+userPassword: Agnes
+ou: OtherGroup
+uid: 661
+ Q==

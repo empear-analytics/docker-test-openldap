@@ -1,0 +1,13 @@
+dn: cn=Carley+sn=Younis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carley Younis
+cn: Younis
+givenname: Carley
+mail: carley.younis@planetexpress.com
+userPassword: Carley
+ou: Group5
+uid: 501
+ Q==

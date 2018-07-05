@@ -1,0 +1,13 @@
+dn: cn=Chance+sn=Rabb,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chance Rabb
+cn: Rabb
+givenname: Chance
+mail: chance.rabb@planetexpress.com
+userPassword: Chance
+ou: flight_crew
+uid: 5560
+ Q==

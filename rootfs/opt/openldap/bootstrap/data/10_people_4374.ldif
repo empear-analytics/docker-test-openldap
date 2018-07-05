@@ -1,0 +1,13 @@
+dn: cn=Page+sn=Walkes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Page Walkes
+cn: Walkes
+givenname: Page
+mail: page.walkes@planetexpress.com
+userPassword: Page
+ou: admin_staff
+uid: 4374
+ Q==

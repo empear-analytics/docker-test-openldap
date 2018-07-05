@@ -1,0 +1,13 @@
+dn: cn=Mimi+sn=Nouth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mimi Nouth
+cn: Nouth
+givenname: Mimi
+mail: mimi.nouth@planetexpress.com
+userPassword: Mimi
+ou: Group5
+uid: 721
+ Q==

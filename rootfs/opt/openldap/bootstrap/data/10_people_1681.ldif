@@ -1,0 +1,13 @@
+dn: cn=Iris+sn=Kribbs,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Iris Kribbs
+cn: Kribbs
+givenname: Iris
+mail: iris.kribbs@planetexpress.com
+userPassword: Iris
+ou: OtherGroup
+uid: 1681
+ Q==

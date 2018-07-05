@@ -1,0 +1,13 @@
+dn: cn=Tamisha+sn=Reidinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tamisha Reidinger
+cn: Reidinger
+givenname: Tamisha
+mail: tamisha.reidinger@planetexpress.com
+userPassword: Tamisha
+ou: flight_crew
+uid: 5000
+ Q==

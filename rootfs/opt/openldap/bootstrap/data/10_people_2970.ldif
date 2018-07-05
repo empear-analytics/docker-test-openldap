@@ -1,0 +1,13 @@
+dn: cn=Stephnie+sn=Lago,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stephnie Lago
+cn: Lago
+givenname: Stephnie
+mail: stephnie.lago@planetexpress.com
+userPassword: Stephnie
+ou: flight_crew
+uid: 2970
+ Q==

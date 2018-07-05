@@ -1,0 +1,13 @@
+dn: cn=Julius+sn=Schaab,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Julius Schaab
+cn: Schaab
+givenname: Julius
+mail: julius.schaab@planetexpress.com
+userPassword: Julius
+ou: Group5
+uid: 4643
+ Q==

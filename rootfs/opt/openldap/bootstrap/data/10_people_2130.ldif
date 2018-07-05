@@ -1,0 +1,13 @@
+dn: cn=Ester+sn=Circle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ester Circle
+cn: Circle
+givenname: Ester
+mail: ester.circle@planetexpress.com
+userPassword: Ester
+ou: OtherGroup
+uid: 2130
+ Q==

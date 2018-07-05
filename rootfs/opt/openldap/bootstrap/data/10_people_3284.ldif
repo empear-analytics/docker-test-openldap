@@ -1,0 +1,13 @@
+dn: cn=Kit+sn=Tweedle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kit Tweedle
+cn: Tweedle
+givenname: Kit
+mail: kit.tweedle@planetexpress.com
+userPassword: Kit
+ou: flight_crew
+uid: 3284
+ Q==

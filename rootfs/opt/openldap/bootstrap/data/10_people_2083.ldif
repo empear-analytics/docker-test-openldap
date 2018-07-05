@@ -1,0 +1,13 @@
+dn: cn=Magnolia+sn=Guerrero,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Magnolia Guerrero
+cn: Guerrero
+givenname: Magnolia
+mail: magnolia.guerrero@planetexpress.com
+userPassword: Magnolia
+ou: OtherGroup
+uid: 2083
+ Q==

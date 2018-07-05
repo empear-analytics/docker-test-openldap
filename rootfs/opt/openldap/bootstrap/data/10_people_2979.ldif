@@ -1,0 +1,13 @@
+dn: cn=Arlinda+sn=Home,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arlinda Home
+cn: Home
+givenname: Arlinda
+mail: arlinda.home@planetexpress.com
+userPassword: Arlinda
+ou: flight_crew
+uid: 2979
+ Q==

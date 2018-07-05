@@ -1,0 +1,13 @@
+dn: cn=Lettie+sn=Peachay,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lettie Peachay
+cn: Peachay
+givenname: Lettie
+mail: lettie.peachay@planetexpress.com
+userPassword: Lettie
+ou: OtherGroup
+uid: 1017
+ Q==

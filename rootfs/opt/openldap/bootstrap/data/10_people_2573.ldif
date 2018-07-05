@@ -1,0 +1,13 @@
+dn: cn=Fredricka+sn=Prisco,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fredricka Prisco
+cn: Prisco
+givenname: Fredricka
+mail: fredricka.prisco@planetexpress.com
+userPassword: Fredricka
+ou: flight_crew
+uid: 2573
+ Q==

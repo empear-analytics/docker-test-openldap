@@ -1,0 +1,13 @@
+dn: cn=Latonia+sn=Galstian,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Latonia Galstian
+cn: Galstian
+givenname: Latonia
+mail: latonia.galstian@planetexpress.com
+userPassword: Latonia
+ou: OtherGroup
+uid: 4906
+ Q==

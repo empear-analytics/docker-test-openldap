@@ -1,0 +1,13 @@
+dn: cn=Rodrick+sn=Griffel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rodrick Griffel
+cn: Griffel
+givenname: Rodrick
+mail: rodrick.griffel@planetexpress.com
+userPassword: Rodrick
+ou: Group5
+uid: 522
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tim+sn=Maglori,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tim Maglori
+cn: Maglori
+givenname: Tim
+mail: tim.maglori@planetexpress.com
+userPassword: Tim
+ou: admin_staff
+uid: 2863
+ Q==

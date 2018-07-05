@@ -1,0 +1,13 @@
+dn: cn=Delicia+sn=Pinette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delicia Pinette
+cn: Pinette
+givenname: Delicia
+mail: delicia.pinette@planetexpress.com
+userPassword: Delicia
+ou: flight_crew
+uid: 4729
+ Q==

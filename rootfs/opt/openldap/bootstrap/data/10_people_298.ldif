@@ -1,0 +1,13 @@
+dn: cn=Jacquiline+sn=Raethke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacquiline Raethke
+cn: Raethke
+givenname: Jacquiline
+mail: jacquiline.raethke@planetexpress.com
+userPassword: Jacquiline
+ou: admin_staff
+uid: 298
+ Q==

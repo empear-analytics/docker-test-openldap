@@ -1,0 +1,13 @@
+dn: cn=Lemuel+sn=Maberry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lemuel Maberry
+cn: Maberry
+givenname: Lemuel
+mail: lemuel.maberry@planetexpress.com
+userPassword: Lemuel
+ou: Group5
+uid: 5738
+ Q==

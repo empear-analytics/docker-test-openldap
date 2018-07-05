@@ -1,0 +1,13 @@
+dn: cn=Rosalie+sn=Swantko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosalie Swantko
+cn: Swantko
+givenname: Rosalie
+mail: rosalie.swantko@planetexpress.com
+userPassword: Rosalie
+ou: OtherGroup
+uid: 2636
+ Q==

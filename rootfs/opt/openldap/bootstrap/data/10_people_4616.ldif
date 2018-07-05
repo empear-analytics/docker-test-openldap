@@ -1,0 +1,13 @@
+dn: cn=Raylene+sn=Mccraven,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raylene Mccraven
+cn: Mccraven
+givenname: Raylene
+mail: raylene.mccraven@planetexpress.com
+userPassword: Raylene
+ou: OtherGroup
+uid: 4616
+ Q==

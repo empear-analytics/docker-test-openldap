@@ -1,0 +1,13 @@
+dn: cn=Chan+sn=Reddinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chan Reddinger
+cn: Reddinger
+givenname: Chan
+mail: chan.reddinger@planetexpress.com
+userPassword: Chan
+ou: Group5
+uid: 3404
+ Q==

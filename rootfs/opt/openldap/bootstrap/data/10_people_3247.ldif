@@ -1,0 +1,13 @@
+dn: cn=Kyle+sn=Lazaroff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kyle Lazaroff
+cn: Lazaroff
+givenname: Kyle
+mail: kyle.lazaroff@planetexpress.com
+userPassword: Kyle
+ou: Group5
+uid: 3247
+ Q==

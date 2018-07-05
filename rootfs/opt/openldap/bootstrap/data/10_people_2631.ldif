@@ -1,0 +1,13 @@
+dn: cn=Sherell+sn=Herta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherell Herta
+cn: Herta
+givenname: Sherell
+mail: sherell.herta@planetexpress.com
+userPassword: Sherell
+ou: flight_crew
+uid: 2631
+ Q==

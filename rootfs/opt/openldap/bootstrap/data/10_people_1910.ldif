@@ -1,0 +1,13 @@
+dn: cn=Samual+sn=Ullman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Samual Ullman
+cn: Ullman
+givenname: Samual
+mail: samual.ullman@planetexpress.com
+userPassword: Samual
+ou: admin_staff
+uid: 1910
+ Q==

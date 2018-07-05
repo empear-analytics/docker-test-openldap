@@ -1,0 +1,13 @@
+dn: cn=Brandon+sn=Lazewski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brandon Lazewski
+cn: Lazewski
+givenname: Brandon
+mail: brandon.lazewski@planetexpress.com
+userPassword: Brandon
+ou: admin_staff
+uid: 3510
+ Q==

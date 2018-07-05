@@ -1,0 +1,13 @@
+dn: cn=Christel+sn=Hux,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christel Hux
+cn: Hux
+givenname: Christel
+mail: christel.hux@planetexpress.com
+userPassword: Christel
+ou: OtherGroup
+uid: 19
+ Q==

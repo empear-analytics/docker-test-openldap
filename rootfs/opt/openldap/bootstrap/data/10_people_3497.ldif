@@ -1,0 +1,13 @@
+dn: cn=Marleen+sn=Campana,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marleen Campana
+cn: Campana
+givenname: Marleen
+mail: marleen.campana@planetexpress.com
+userPassword: Marleen
+ou: OtherGroup
+uid: 3497
+ Q==

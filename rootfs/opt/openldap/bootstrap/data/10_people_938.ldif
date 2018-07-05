@@ -1,0 +1,13 @@
+dn: cn=Melita+sn=Sayers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melita Sayers
+cn: Sayers
+givenname: Melita
+mail: melita.sayers@planetexpress.com
+userPassword: Melita
+ou: OtherGroup
+uid: 938
+ Q==

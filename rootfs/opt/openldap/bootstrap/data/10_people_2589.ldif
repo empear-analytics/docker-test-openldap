@@ -1,0 +1,13 @@
+dn: cn=Nicolasa+sn=Weaving,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nicolasa Weaving
+cn: Weaving
+givenname: Nicolasa
+mail: nicolasa.weaving@planetexpress.com
+userPassword: Nicolasa
+ou: flight_crew
+uid: 2589
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ying+sn=Paulshock,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ying Paulshock
+cn: Paulshock
+givenname: Ying
+mail: ying.paulshock@planetexpress.com
+userPassword: Ying
+ou: Group5
+uid: 1995
+ Q==

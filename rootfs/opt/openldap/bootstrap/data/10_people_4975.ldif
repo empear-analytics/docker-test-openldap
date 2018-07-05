@@ -1,0 +1,13 @@
+dn: cn=Cleotilde+sn=Browns,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cleotilde Browns
+cn: Browns
+givenname: Cleotilde
+mail: cleotilde.browns@planetexpress.com
+userPassword: Cleotilde
+ou: flight_crew
+uid: 4975
+ Q==

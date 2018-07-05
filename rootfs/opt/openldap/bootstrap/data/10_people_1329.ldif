@@ -1,0 +1,13 @@
+dn: cn=Dennis+sn=Rosenwinkel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dennis Rosenwinkel
+cn: Rosenwinkel
+givenname: Dennis
+mail: dennis.rosenwinkel@planetexpress.com
+userPassword: Dennis
+ou: flight_crew
+uid: 1329
+ Q==

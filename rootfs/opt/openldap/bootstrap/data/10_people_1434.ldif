@@ -1,0 +1,13 @@
+dn: cn=Norene+sn=Geddis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Norene Geddis
+cn: Geddis
+givenname: Norene
+mail: norene.geddis@planetexpress.com
+userPassword: Norene
+ou: OtherGroup
+uid: 1434
+ Q==

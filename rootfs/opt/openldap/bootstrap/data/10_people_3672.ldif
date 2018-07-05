@@ -1,0 +1,13 @@
+dn: cn=Robbyn+sn=Chicalace,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Robbyn Chicalace
+cn: Chicalace
+givenname: Robbyn
+mail: robbyn.chicalace@planetexpress.com
+userPassword: Robbyn
+ou: Group5
+uid: 3672
+ Q==

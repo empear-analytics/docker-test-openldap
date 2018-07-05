@@ -1,0 +1,13 @@
+dn: cn=Kasey+sn=Sissel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kasey Sissel
+cn: Sissel
+givenname: Kasey
+mail: kasey.sissel@planetexpress.com
+userPassword: Kasey
+ou: admin_staff
+uid: 2600
+ Q==

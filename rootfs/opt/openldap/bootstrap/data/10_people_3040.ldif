@@ -1,0 +1,13 @@
+dn: cn=Marcelino+sn=Turnier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marcelino Turnier
+cn: Turnier
+givenname: Marcelino
+mail: marcelino.turnier@planetexpress.com
+userPassword: Marcelino
+ou: flight_crew
+uid: 3040
+ Q==

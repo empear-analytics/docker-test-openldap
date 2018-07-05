@@ -1,0 +1,13 @@
+dn: cn=Wanetta+sn=Chopton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wanetta Chopton
+cn: Chopton
+givenname: Wanetta
+mail: wanetta.chopton@planetexpress.com
+userPassword: Wanetta
+ou: Group5
+uid: 379
+ Q==

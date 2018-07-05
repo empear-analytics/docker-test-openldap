@@ -1,0 +1,13 @@
+dn: cn=Pansy+sn=Zanini,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pansy Zanini
+cn: Zanini
+givenname: Pansy
+mail: pansy.zanini@planetexpress.com
+userPassword: Pansy
+ou: flight_crew
+uid: 2024
+ Q==

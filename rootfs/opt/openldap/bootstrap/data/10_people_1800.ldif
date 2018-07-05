@@ -1,0 +1,13 @@
+dn: cn=Rozella+sn=Kaua,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rozella Kaua
+cn: Kaua
+givenname: Rozella
+mail: rozella.kaua@planetexpress.com
+userPassword: Rozella
+ou: admin_staff
+uid: 1800
+ Q==

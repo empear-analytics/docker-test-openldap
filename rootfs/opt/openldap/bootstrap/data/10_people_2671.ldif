@@ -1,0 +1,13 @@
+dn: cn=Corinna+sn=Teoh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Corinna Teoh
+cn: Teoh
+givenname: Corinna
+mail: corinna.teoh@planetexpress.com
+userPassword: Corinna
+ou: flight_crew
+uid: 2671
+ Q==

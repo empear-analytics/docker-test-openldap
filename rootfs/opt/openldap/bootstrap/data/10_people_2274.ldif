@@ -1,0 +1,13 @@
+dn: cn=Terra+sn=Hogland,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Terra Hogland
+cn: Hogland
+givenname: Terra
+mail: terra.hogland@planetexpress.com
+userPassword: Terra
+ou: OtherGroup
+uid: 2274
+ Q==

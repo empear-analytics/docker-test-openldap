@@ -1,0 +1,13 @@
+dn: cn=Irwin+sn=Hassell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Irwin Hassell
+cn: Hassell
+givenname: Irwin
+mail: irwin.hassell@planetexpress.com
+userPassword: Irwin
+ou: flight_crew
+uid: 4619
+ Q==

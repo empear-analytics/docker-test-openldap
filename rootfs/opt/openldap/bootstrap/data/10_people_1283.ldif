@@ -1,0 +1,13 @@
+dn: cn=Daisey+sn=Fisch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daisey Fisch
+cn: Fisch
+givenname: Daisey
+mail: daisey.fisch@planetexpress.com
+userPassword: Daisey
+ou: Group5
+uid: 1283
+ Q==

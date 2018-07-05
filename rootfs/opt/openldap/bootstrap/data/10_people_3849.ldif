@@ -1,0 +1,13 @@
+dn: cn=Tammara+sn=Allsbrook,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tammara Allsbrook
+cn: Allsbrook
+givenname: Tammara
+mail: tammara.allsbrook@planetexpress.com
+userPassword: Tammara
+ou: OtherGroup
+uid: 3849
+ Q==

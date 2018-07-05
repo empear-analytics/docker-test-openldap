@@ -1,0 +1,13 @@
+dn: cn=Nathanael+sn=Shoup,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nathanael Shoup
+cn: Shoup
+givenname: Nathanael
+mail: nathanael.shoup@planetexpress.com
+userPassword: Nathanael
+ou: OtherGroup
+uid: 3373
+ Q==

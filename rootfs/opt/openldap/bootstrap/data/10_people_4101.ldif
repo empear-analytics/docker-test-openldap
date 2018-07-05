@@ -1,0 +1,13 @@
+dn: cn=Jennine+sn=Hattier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jennine Hattier
+cn: Hattier
+givenname: Jennine
+mail: jennine.hattier@planetexpress.com
+userPassword: Jennine
+ou: flight_crew
+uid: 4101
+ Q==

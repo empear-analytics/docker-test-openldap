@@ -1,0 +1,13 @@
+dn: cn=Elisabeth+sn=Agreste,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elisabeth Agreste
+cn: Agreste
+givenname: Elisabeth
+mail: elisabeth.agreste@planetexpress.com
+userPassword: Elisabeth
+ou: OtherGroup
+uid: 4060
+ Q==

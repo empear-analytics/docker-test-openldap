@@ -1,0 +1,13 @@
+dn: cn=Sanda+sn=Scarnato,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sanda Scarnato
+cn: Scarnato
+givenname: Sanda
+mail: sanda.scarnato@planetexpress.com
+userPassword: Sanda
+ou: flight_crew
+uid: 3528
+ Q==

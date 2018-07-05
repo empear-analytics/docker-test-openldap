@@ -1,0 +1,13 @@
+dn: cn=Genoveva+sn=Simcock,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Genoveva Simcock
+cn: Simcock
+givenname: Genoveva
+mail: genoveva.simcock@planetexpress.com
+userPassword: Genoveva
+ou: admin_staff
+uid: 1613
+ Q==

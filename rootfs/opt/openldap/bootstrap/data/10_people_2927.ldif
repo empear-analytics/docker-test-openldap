@@ -1,0 +1,13 @@
+dn: cn=Porfirio+sn=Fickett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Porfirio Fickett
+cn: Fickett
+givenname: Porfirio
+mail: porfirio.fickett@planetexpress.com
+userPassword: Porfirio
+ou: OtherGroup
+uid: 2927
+ Q==

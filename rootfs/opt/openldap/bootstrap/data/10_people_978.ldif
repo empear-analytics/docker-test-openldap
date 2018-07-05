@@ -1,0 +1,13 @@
+dn: cn=Brittani+sn=Stermer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brittani Stermer
+cn: Stermer
+givenname: Brittani
+mail: brittani.stermer@planetexpress.com
+userPassword: Brittani
+ou: Group5
+uid: 978
+ Q==

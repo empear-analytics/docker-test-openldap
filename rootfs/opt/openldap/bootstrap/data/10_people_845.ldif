@@ -1,0 +1,13 @@
+dn: cn=Saundra+sn=Tredway,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Saundra Tredway
+cn: Tredway
+givenname: Saundra
+mail: saundra.tredway@planetexpress.com
+userPassword: Saundra
+ou: flight_crew
+uid: 845
+ Q==

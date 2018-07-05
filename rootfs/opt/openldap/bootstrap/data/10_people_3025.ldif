@@ -1,0 +1,13 @@
+dn: cn=Bethel+sn=Laborde,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bethel Laborde
+cn: Laborde
+givenname: Bethel
+mail: bethel.laborde@planetexpress.com
+userPassword: Bethel
+ou: flight_crew
+uid: 3025
+ Q==

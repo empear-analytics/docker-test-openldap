@@ -1,0 +1,13 @@
+dn: cn=Chad+sn=Sarcinelli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chad Sarcinelli
+cn: Sarcinelli
+givenname: Chad
+mail: chad.sarcinelli@planetexpress.com
+userPassword: Chad
+ou: admin_staff
+uid: 741
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Gwen+sn=Mendizabal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gwen Mendizabal
+cn: Mendizabal
+givenname: Gwen
+mail: gwen.mendizabal@planetexpress.com
+userPassword: Gwen
+ou: OtherGroup
+uid: 2217
+ Q==

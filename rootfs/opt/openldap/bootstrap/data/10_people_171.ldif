@@ -1,0 +1,13 @@
+dn: cn=Sharee+sn=Lawerance,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharee Lawerance
+cn: Lawerance
+givenname: Sharee
+mail: sharee.lawerance@planetexpress.com
+userPassword: Sharee
+ou: admin_staff
+uid: 171
+ Q==

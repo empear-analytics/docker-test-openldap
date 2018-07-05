@@ -1,0 +1,13 @@
+dn: cn=Janean+sn=Profancik,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janean Profancik
+cn: Profancik
+givenname: Janean
+mail: janean.profancik@planetexpress.com
+userPassword: Janean
+ou: admin_staff
+uid: 1559
+ Q==

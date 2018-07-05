@@ -1,0 +1,13 @@
+dn: cn=Emelina+sn=Preisach,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emelina Preisach
+cn: Preisach
+givenname: Emelina
+mail: emelina.preisach@planetexpress.com
+userPassword: Emelina
+ou: Group5
+uid: 3132
+ Q==

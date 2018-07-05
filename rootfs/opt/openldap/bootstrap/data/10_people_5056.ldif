@@ -1,0 +1,13 @@
+dn: cn=Tanja+sn=Lolley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tanja Lolley
+cn: Lolley
+givenname: Tanja
+mail: tanja.lolley@planetexpress.com
+userPassword: Tanja
+ou: flight_crew
+uid: 5056
+ Q==

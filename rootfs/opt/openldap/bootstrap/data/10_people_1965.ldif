@@ -1,0 +1,13 @@
+dn: cn=Dorothy+sn=Schlosberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dorothy Schlosberg
+cn: Schlosberg
+givenname: Dorothy
+mail: dorothy.schlosberg@planetexpress.com
+userPassword: Dorothy
+ou: OtherGroup
+uid: 1965
+ Q==

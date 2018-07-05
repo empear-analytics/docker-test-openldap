@@ -1,0 +1,13 @@
+dn: cn=Daryl+sn=Riscen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daryl Riscen
+cn: Riscen
+givenname: Daryl
+mail: daryl.riscen@planetexpress.com
+userPassword: Daryl
+ou: admin_staff
+uid: 3200
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tereasa+sn=Maruschak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tereasa Maruschak
+cn: Maruschak
+givenname: Tereasa
+mail: tereasa.maruschak@planetexpress.com
+userPassword: Tereasa
+ou: Group5
+uid: 3700
+ Q==

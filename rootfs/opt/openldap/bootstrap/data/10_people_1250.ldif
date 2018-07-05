@@ -1,0 +1,13 @@
+dn: cn=Adell+sn=Waltermire,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adell Waltermire
+cn: Waltermire
+givenname: Adell
+mail: adell.waltermire@planetexpress.com
+userPassword: Adell
+ou: flight_crew
+uid: 1250
+ Q==

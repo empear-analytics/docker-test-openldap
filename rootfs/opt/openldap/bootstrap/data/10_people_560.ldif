@@ -1,0 +1,13 @@
+dn: cn=Josue+sn=Gladstein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Josue Gladstein
+cn: Gladstein
+givenname: Josue
+mail: josue.gladstein@planetexpress.com
+userPassword: Josue
+ou: admin_staff
+uid: 560
+ Q==

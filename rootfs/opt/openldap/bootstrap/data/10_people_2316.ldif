@@ -1,0 +1,13 @@
+dn: cn=Maurice+sn=Ingenito,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maurice Ingenito
+cn: Ingenito
+givenname: Maurice
+mail: maurice.ingenito@planetexpress.com
+userPassword: Maurice
+ou: flight_crew
+uid: 2316
+ Q==

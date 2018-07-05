@@ -1,0 +1,13 @@
+dn: cn=Annelle+sn=Lustig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annelle Lustig
+cn: Lustig
+givenname: Annelle
+mail: annelle.lustig@planetexpress.com
+userPassword: Annelle
+ou: admin_staff
+uid: 1097
+ Q==

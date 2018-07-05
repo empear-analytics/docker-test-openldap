@@ -1,0 +1,13 @@
+dn: cn=Renata+sn=Fuhrer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Renata Fuhrer
+cn: Fuhrer
+givenname: Renata
+mail: renata.fuhrer@planetexpress.com
+userPassword: Renata
+ou: Group5
+uid: 3457
+ Q==

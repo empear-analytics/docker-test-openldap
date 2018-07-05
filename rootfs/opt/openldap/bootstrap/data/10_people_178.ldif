@@ -1,0 +1,13 @@
+dn: cn=Marguerita+sn=Casteel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marguerita Casteel
+cn: Casteel
+givenname: Marguerita
+mail: marguerita.casteel@planetexpress.com
+userPassword: Marguerita
+ou: admin_staff
+uid: 178
+ Q==

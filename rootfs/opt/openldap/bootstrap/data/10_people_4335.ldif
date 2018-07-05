@@ -1,0 +1,13 @@
+dn: cn=Irina+sn=Nham,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Irina Nham
+cn: Nham
+givenname: Irina
+mail: irina.nham@planetexpress.com
+userPassword: Irina
+ou: OtherGroup
+uid: 4335
+ Q==

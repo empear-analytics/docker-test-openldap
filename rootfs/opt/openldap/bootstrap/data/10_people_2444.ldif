@@ -1,0 +1,13 @@
+dn: cn=Catherine+sn=Alarcon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Catherine Alarcon
+cn: Alarcon
+givenname: Catherine
+mail: catherine.alarcon@planetexpress.com
+userPassword: Catherine
+ou: admin_staff
+uid: 2444
+ Q==

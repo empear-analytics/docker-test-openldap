@@ -1,0 +1,13 @@
+dn: cn=Shon+sn=Hardigree,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shon Hardigree
+cn: Hardigree
+givenname: Shon
+mail: shon.hardigree@planetexpress.com
+userPassword: Shon
+ou: Group5
+uid: 4125
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jerica+sn=Catignani,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jerica Catignani
+cn: Catignani
+givenname: Jerica
+mail: jerica.catignani@planetexpress.com
+userPassword: Jerica
+ou: Group5
+uid: 4767
+ Q==

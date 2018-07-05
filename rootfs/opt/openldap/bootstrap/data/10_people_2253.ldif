@@ -1,0 +1,13 @@
+dn: cn=Veola+sn=Bente,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Veola Bente
+cn: Bente
+givenname: Veola
+mail: veola.bente@planetexpress.com
+userPassword: Veola
+ou: OtherGroup
+uid: 2253
+ Q==

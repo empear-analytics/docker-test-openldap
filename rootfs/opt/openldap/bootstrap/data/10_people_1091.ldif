@@ -1,0 +1,13 @@
+dn: cn=Cami+sn=Felarca,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cami Felarca
+cn: Felarca
+givenname: Cami
+mail: cami.felarca@planetexpress.com
+userPassword: Cami
+ou: admin_staff
+uid: 1091
+ Q==

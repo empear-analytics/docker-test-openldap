@@ -1,0 +1,13 @@
+dn: cn=Shanna+sn=Letze,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shanna Letze
+cn: Letze
+givenname: Shanna
+mail: shanna.letze@planetexpress.com
+userPassword: Shanna
+ou: OtherGroup
+uid: 2566
+ Q==

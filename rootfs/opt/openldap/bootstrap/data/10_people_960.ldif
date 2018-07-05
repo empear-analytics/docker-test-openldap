@@ -1,0 +1,13 @@
+dn: cn=Oralia+sn=Brouk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Oralia Brouk
+cn: Brouk
+givenname: Oralia
+mail: oralia.brouk@planetexpress.com
+userPassword: Oralia
+ou: flight_crew
+uid: 960
+ Q==

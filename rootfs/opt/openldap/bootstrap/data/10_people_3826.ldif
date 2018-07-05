@@ -1,0 +1,13 @@
+dn: cn=Gabriel+sn=Trimino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gabriel Trimino
+cn: Trimino
+givenname: Gabriel
+mail: gabriel.trimino@planetexpress.com
+userPassword: Gabriel
+ou: admin_staff
+uid: 3826
+ Q==

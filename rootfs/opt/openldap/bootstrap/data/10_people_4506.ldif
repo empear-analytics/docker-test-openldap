@@ -1,0 +1,13 @@
+dn: cn=Stephane+sn=Comparoni,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stephane Comparoni
+cn: Comparoni
+givenname: Stephane
+mail: stephane.comparoni@planetexpress.com
+userPassword: Stephane
+ou: admin_staff
+uid: 4506
+ Q==

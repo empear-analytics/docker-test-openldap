@@ -1,0 +1,13 @@
+dn: cn=Toya+sn=Niehaus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Toya Niehaus
+cn: Niehaus
+givenname: Toya
+mail: toya.niehaus@planetexpress.com
+userPassword: Toya
+ou: Group5
+uid: 5020
+ Q==

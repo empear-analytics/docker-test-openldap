@@ -1,0 +1,13 @@
+dn: cn=Carita+sn=Ellingson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carita Ellingson
+cn: Ellingson
+givenname: Carita
+mail: carita.ellingson@planetexpress.com
+userPassword: Carita
+ou: admin_staff
+uid: 4303
+ Q==

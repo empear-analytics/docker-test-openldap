@@ -1,0 +1,13 @@
+dn: cn=Kenna+sn=Indermuehle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kenna Indermuehle
+cn: Indermuehle
+givenname: Kenna
+mail: kenna.indermuehle@planetexpress.com
+userPassword: Kenna
+ou: Group5
+uid: 162
+ Q==

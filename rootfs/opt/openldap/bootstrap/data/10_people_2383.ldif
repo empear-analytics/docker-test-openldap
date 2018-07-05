@@ -1,0 +1,13 @@
+dn: cn=Katheryn+sn=Hickernell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katheryn Hickernell
+cn: Hickernell
+givenname: Katheryn
+mail: katheryn.hickernell@planetexpress.com
+userPassword: Katheryn
+ou: admin_staff
+uid: 2383
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Rivka+sn=Cheuvront,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rivka Cheuvront
+cn: Cheuvront
+givenname: Rivka
+mail: rivka.cheuvront@planetexpress.com
+userPassword: Rivka
+ou: OtherGroup
+uid: 465
+ Q==

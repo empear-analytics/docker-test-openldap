@@ -1,0 +1,13 @@
+dn: cn=Garry+sn=Liska,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Garry Liska
+cn: Liska
+givenname: Garry
+mail: garry.liska@planetexpress.com
+userPassword: Garry
+ou: flight_crew
+uid: 4676
+ Q==

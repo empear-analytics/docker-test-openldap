@@ -1,0 +1,13 @@
+dn: cn=Xavier+sn=Millan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Xavier Millan
+cn: Millan
+givenname: Xavier
+mail: xavier.millan@planetexpress.com
+userPassword: Xavier
+ou: flight_crew
+uid: 4536
+ Q==

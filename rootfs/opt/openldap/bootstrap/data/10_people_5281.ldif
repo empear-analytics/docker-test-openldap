@@ -1,0 +1,13 @@
+dn: cn=Sherrill+sn=Deeg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherrill Deeg
+cn: Deeg
+givenname: Sherrill
+mail: sherrill.deeg@planetexpress.com
+userPassword: Sherrill
+ou: Group5
+uid: 5281
+ Q==

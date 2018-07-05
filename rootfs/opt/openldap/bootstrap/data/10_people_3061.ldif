@@ -1,0 +1,13 @@
+dn: cn=Glenna+sn=Nantanapibul,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Glenna Nantanapibul
+cn: Nantanapibul
+givenname: Glenna
+mail: glenna.nantanapibul@planetexpress.com
+userPassword: Glenna
+ou: flight_crew
+uid: 3061
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lajuana+sn=Woolman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lajuana Woolman
+cn: Woolman
+givenname: Lajuana
+mail: lajuana.woolman@planetexpress.com
+userPassword: Lajuana
+ou: Group5
+uid: 2312
+ Q==

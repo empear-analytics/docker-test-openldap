@@ -1,0 +1,13 @@
+dn: cn=Freida+sn=Moddejonge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Freida Moddejonge
+cn: Moddejonge
+givenname: Freida
+mail: freida.moddejonge@planetexpress.com
+userPassword: Freida
+ou: Group5
+uid: 2225
+ Q==

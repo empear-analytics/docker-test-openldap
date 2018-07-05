@@ -1,0 +1,13 @@
+dn: cn=Tonie+sn=Hartung,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tonie Hartung
+cn: Hartung
+givenname: Tonie
+mail: tonie.hartung@planetexpress.com
+userPassword: Tonie
+ou: Group5
+uid: 5323
+ Q==

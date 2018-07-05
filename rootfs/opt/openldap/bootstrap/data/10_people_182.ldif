@@ -1,0 +1,13 @@
+dn: cn=Ayesha+sn=Kuralt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ayesha Kuralt
+cn: Kuralt
+givenname: Ayesha
+mail: ayesha.kuralt@planetexpress.com
+userPassword: Ayesha
+ou: Group5
+uid: 182
+ Q==

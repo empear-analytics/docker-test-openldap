@@ -1,0 +1,13 @@
+dn: cn=Jared+sn=Mesa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jared Mesa
+cn: Mesa
+givenname: Jared
+mail: jared.mesa@planetexpress.com
+userPassword: Jared
+ou: admin_staff
+uid: 5251
+ Q==

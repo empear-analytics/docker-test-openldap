@@ -1,0 +1,13 @@
+dn: cn=Collin+sn=Too,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Collin Too
+cn: Too
+givenname: Collin
+mail: collin.too@planetexpress.com
+userPassword: Collin
+ou: flight_crew
+uid: 413
+ Q==

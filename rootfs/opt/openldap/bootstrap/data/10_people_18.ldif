@@ -1,0 +1,13 @@
+dn: cn=Justa+sn=Jovanovic,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Justa Jovanovic
+cn: Jovanovic
+givenname: Justa
+mail: justa.jovanovic@planetexpress.com
+userPassword: Justa
+ou: flight_crew
+uid: 18
+ Q==

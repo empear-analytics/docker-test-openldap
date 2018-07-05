@@ -1,0 +1,13 @@
+dn: cn=Verla+sn=Rzucidlo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Verla Rzucidlo
+cn: Rzucidlo
+givenname: Verla
+mail: verla.rzucidlo@planetexpress.com
+userPassword: Verla
+ou: OtherGroup
+uid: 593
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Neda+sn=Dunnavant,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Neda Dunnavant
+cn: Dunnavant
+givenname: Neda
+mail: neda.dunnavant@planetexpress.com
+userPassword: Neda
+ou: flight_crew
+uid: 886
+ Q==

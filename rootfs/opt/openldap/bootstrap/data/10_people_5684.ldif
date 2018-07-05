@@ -1,0 +1,13 @@
+dn: cn=Gregoria+sn=Hotrum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gregoria Hotrum
+cn: Hotrum
+givenname: Gregoria
+mail: gregoria.hotrum@planetexpress.com
+userPassword: Gregoria
+ou: OtherGroup
+uid: 5684
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jessie+sn=Kusuma,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jessie Kusuma
+cn: Kusuma
+givenname: Jessie
+mail: jessie.kusuma@planetexpress.com
+userPassword: Jessie
+ou: flight_crew
+uid: 485
+ Q==

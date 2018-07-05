@@ -1,0 +1,13 @@
+dn: cn=Suzi+sn=Cloward,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Suzi Cloward
+cn: Cloward
+givenname: Suzi
+mail: suzi.cloward@planetexpress.com
+userPassword: Suzi
+ou: flight_crew
+uid: 856
+ Q==

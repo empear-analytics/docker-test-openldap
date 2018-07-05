@@ -1,0 +1,13 @@
+dn: cn=Freddie+sn=Hendricks,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Freddie Hendricks
+cn: Hendricks
+givenname: Freddie
+mail: freddie.hendricks@planetexpress.com
+userPassword: Freddie
+ou: admin_staff
+uid: 580
+ Q==

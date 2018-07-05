@@ -1,0 +1,13 @@
+dn: cn=Robbie+sn=Perlmutter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Robbie Perlmutter
+cn: Perlmutter
+givenname: Robbie
+mail: robbie.perlmutter@planetexpress.com
+userPassword: Robbie
+ou: Group5
+uid: 5646
+ Q==

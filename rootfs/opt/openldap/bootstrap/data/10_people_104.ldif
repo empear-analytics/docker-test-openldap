@@ -1,0 +1,13 @@
+dn: cn=Spring+sn=Diiorio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Spring Diiorio
+cn: Diiorio
+givenname: Spring
+mail: spring.diiorio@planetexpress.com
+userPassword: Spring
+ou: OtherGroup
+uid: 104
+ Q==

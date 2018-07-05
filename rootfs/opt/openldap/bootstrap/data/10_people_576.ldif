@@ -1,0 +1,13 @@
+dn: cn=Carita+sn=Pitcairn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carita Pitcairn
+cn: Pitcairn
+givenname: Carita
+mail: carita.pitcairn@planetexpress.com
+userPassword: Carita
+ou: admin_staff
+uid: 576
+ Q==

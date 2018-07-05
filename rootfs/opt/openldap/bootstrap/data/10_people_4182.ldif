@@ -1,0 +1,13 @@
+dn: cn=Arminda+sn=Mozzone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arminda Mozzone
+cn: Mozzone
+givenname: Arminda
+mail: arminda.mozzone@planetexpress.com
+userPassword: Arminda
+ou: admin_staff
+uid: 4182
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Laure+sn=Gillikin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Laure Gillikin
+cn: Gillikin
+givenname: Laure
+mail: laure.gillikin@planetexpress.com
+userPassword: Laure
+ou: admin_staff
+uid: 1717
+ Q==

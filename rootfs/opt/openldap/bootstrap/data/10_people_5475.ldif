@@ -1,0 +1,13 @@
+dn: cn=Frank+sn=Crew,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Frank Crew
+cn: Crew
+givenname: Frank
+mail: frank.crew@planetexpress.com
+userPassword: Frank
+ou: flight_crew
+uid: 5475
+ Q==

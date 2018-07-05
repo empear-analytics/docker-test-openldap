@@ -1,0 +1,13 @@
+dn: cn=Chelsea+sn=Infante,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chelsea Infante
+cn: Infante
+givenname: Chelsea
+mail: chelsea.infante@planetexpress.com
+userPassword: Chelsea
+ou: OtherGroup
+uid: 1005
+ Q==

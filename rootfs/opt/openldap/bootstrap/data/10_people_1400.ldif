@@ -1,0 +1,13 @@
+dn: cn=Vivien+sn=Shoto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vivien Shoto
+cn: Shoto
+givenname: Vivien
+mail: vivien.shoto@planetexpress.com
+userPassword: Vivien
+ou: OtherGroup
+uid: 1400
+ Q==

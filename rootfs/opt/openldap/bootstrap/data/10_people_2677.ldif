@@ -1,0 +1,13 @@
+dn: cn=Milo+sn=Boutot,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Milo Boutot
+cn: Boutot
+givenname: Milo
+mail: milo.boutot@planetexpress.com
+userPassword: Milo
+ou: OtherGroup
+uid: 2677
+ Q==

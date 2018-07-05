@@ -1,0 +1,13 @@
+dn: cn=Celestina+sn=Shartrand,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Celestina Shartrand
+cn: Shartrand
+givenname: Celestina
+mail: celestina.shartrand@planetexpress.com
+userPassword: Celestina
+ou: flight_crew
+uid: 2278
+ Q==

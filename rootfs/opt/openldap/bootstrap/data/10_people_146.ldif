@@ -1,0 +1,13 @@
+dn: cn=Geoffrey+sn=Calemine,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Geoffrey Calemine
+cn: Calemine
+givenname: Geoffrey
+mail: geoffrey.calemine@planetexpress.com
+userPassword: Geoffrey
+ou: Group5
+uid: 146
+ Q==

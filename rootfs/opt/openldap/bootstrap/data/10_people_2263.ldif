@@ -1,0 +1,13 @@
+dn: cn=Karl+sn=Growell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karl Growell
+cn: Growell
+givenname: Karl
+mail: karl.growell@planetexpress.com
+userPassword: Karl
+ou: OtherGroup
+uid: 2263
+ Q==

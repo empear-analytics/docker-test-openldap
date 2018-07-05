@@ -1,0 +1,13 @@
+dn: cn=Aleshia+sn=Nattress,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aleshia Nattress
+cn: Nattress
+givenname: Aleshia
+mail: aleshia.nattress@planetexpress.com
+userPassword: Aleshia
+ou: OtherGroup
+uid: 1628
+ Q==

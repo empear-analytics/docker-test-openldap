@@ -1,0 +1,13 @@
+dn: cn=Tegan+sn=Wibbenmeyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tegan Wibbenmeyer
+cn: Wibbenmeyer
+givenname: Tegan
+mail: tegan.wibbenmeyer@planetexpress.com
+userPassword: Tegan
+ou: admin_staff
+uid: 4919
+ Q==

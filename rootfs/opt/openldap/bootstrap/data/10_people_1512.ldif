@@ -1,0 +1,13 @@
+dn: cn=Alana+sn=Lovallo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alana Lovallo
+cn: Lovallo
+givenname: Alana
+mail: alana.lovallo@planetexpress.com
+userPassword: Alana
+ou: Group5
+uid: 1512
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Chang+sn=Quinlisk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chang Quinlisk
+cn: Quinlisk
+givenname: Chang
+mail: chang.quinlisk@planetexpress.com
+userPassword: Chang
+ou: OtherGroup
+uid: 276
+ Q==

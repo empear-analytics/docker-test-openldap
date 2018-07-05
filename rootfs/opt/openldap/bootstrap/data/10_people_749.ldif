@@ -1,0 +1,13 @@
+dn: cn=Raquel+sn=Bashore,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raquel Bashore
+cn: Bashore
+givenname: Raquel
+mail: raquel.bashore@planetexpress.com
+userPassword: Raquel
+ou: Group5
+uid: 749
+ Q==

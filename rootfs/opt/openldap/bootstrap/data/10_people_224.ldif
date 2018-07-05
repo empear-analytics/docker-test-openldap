@@ -1,0 +1,13 @@
+dn: cn=Emerita+sn=Bocklage,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emerita Bocklage
+cn: Bocklage
+givenname: Emerita
+mail: emerita.bocklage@planetexpress.com
+userPassword: Emerita
+ou: Group5
+uid: 224
+ Q==

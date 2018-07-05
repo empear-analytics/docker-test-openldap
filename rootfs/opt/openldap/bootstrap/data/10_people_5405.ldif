@@ -1,0 +1,13 @@
+dn: cn=Silvana+sn=Allyne,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Silvana Allyne
+cn: Allyne
+givenname: Silvana
+mail: silvana.allyne@planetexpress.com
+userPassword: Silvana
+ou: OtherGroup
+uid: 5405
+ Q==

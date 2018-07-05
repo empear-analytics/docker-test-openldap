@@ -1,0 +1,13 @@
+dn: cn=Young+sn=Gugino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Young Gugino
+cn: Gugino
+givenname: Young
+mail: young.gugino@planetexpress.com
+userPassword: Young
+ou: Group5
+uid: 2661
+ Q==

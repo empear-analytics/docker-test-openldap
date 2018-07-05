@@ -1,0 +1,13 @@
+dn: cn=Debrah+sn=Veiga,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Debrah Veiga
+cn: Veiga
+givenname: Debrah
+mail: debrah.veiga@planetexpress.com
+userPassword: Debrah
+ou: Group5
+uid: 3840
+ Q==

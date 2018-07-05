@@ -1,0 +1,13 @@
+dn: cn=Michaele+sn=Jakes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Michaele Jakes
+cn: Jakes
+givenname: Michaele
+mail: michaele.jakes@planetexpress.com
+userPassword: Michaele
+ou: OtherGroup
+uid: 1505
+ Q==

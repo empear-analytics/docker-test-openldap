@@ -1,0 +1,13 @@
+dn: cn=Chasity+sn=Forry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chasity Forry
+cn: Forry
+givenname: Chasity
+mail: chasity.forry@planetexpress.com
+userPassword: Chasity
+ou: admin_staff
+uid: 49
+ Q==

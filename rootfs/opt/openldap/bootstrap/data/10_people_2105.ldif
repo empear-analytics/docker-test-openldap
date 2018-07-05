@@ -1,0 +1,13 @@
+dn: cn=Vaughn+sn=Petell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vaughn Petell
+cn: Petell
+givenname: Vaughn
+mail: vaughn.petell@planetexpress.com
+userPassword: Vaughn
+ou: admin_staff
+uid: 2105
+ Q==

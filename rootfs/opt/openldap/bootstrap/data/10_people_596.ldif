@@ -1,0 +1,13 @@
+dn: cn=Enriqueta+sn=Riebeling,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Enriqueta Riebeling
+cn: Riebeling
+givenname: Enriqueta
+mail: enriqueta.riebeling@planetexpress.com
+userPassword: Enriqueta
+ou: OtherGroup
+uid: 596
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Buffy+sn=Kniess,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Buffy Kniess
+cn: Kniess
+givenname: Buffy
+mail: buffy.kniess@planetexpress.com
+userPassword: Buffy
+ou: admin_staff
+uid: 2431
+ Q==

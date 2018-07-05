@@ -1,0 +1,13 @@
+dn: cn=Allyson+sn=Kanthak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Allyson Kanthak
+cn: Kanthak
+givenname: Allyson
+mail: allyson.kanthak@planetexpress.com
+userPassword: Allyson
+ou: admin_staff
+uid: 2614
+ Q==

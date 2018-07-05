@@ -1,0 +1,13 @@
+dn: cn=Cherri+sn=Vangieson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cherri Vangieson
+cn: Vangieson
+givenname: Cherri
+mail: cherri.vangieson@planetexpress.com
+userPassword: Cherri
+ou: OtherGroup
+uid: 917
+ Q==

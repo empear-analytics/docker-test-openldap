@@ -1,0 +1,13 @@
+dn: cn=Libby+sn=Pedde,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Libby Pedde
+cn: Pedde
+givenname: Libby
+mail: libby.pedde@planetexpress.com
+userPassword: Libby
+ou: flight_crew
+uid: 3504
+ Q==

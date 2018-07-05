@@ -1,0 +1,13 @@
+dn: cn=Jacquelin+sn=Berrien,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacquelin Berrien
+cn: Berrien
+givenname: Jacquelin
+mail: jacquelin.berrien@planetexpress.com
+userPassword: Jacquelin
+ou: admin_staff
+uid: 5362
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Faviola+sn=Campean,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Faviola Campean
+cn: Campean
+givenname: Faviola
+mail: faviola.campean@planetexpress.com
+userPassword: Faviola
+ou: Group5
+uid: 5725
+ Q==

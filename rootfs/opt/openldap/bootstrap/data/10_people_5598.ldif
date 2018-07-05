@@ -1,0 +1,13 @@
+dn: cn=Portia+sn=Dzubak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Portia Dzubak
+cn: Dzubak
+givenname: Portia
+mail: portia.dzubak@planetexpress.com
+userPassword: Portia
+ou: Group5
+uid: 5598
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Grace+sn=Adamec,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Grace Adamec
+cn: Adamec
+givenname: Grace
+mail: grace.adamec@planetexpress.com
+userPassword: Grace
+ou: Group5
+uid: 3696
+ Q==

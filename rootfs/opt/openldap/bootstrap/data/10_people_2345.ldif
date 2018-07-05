@@ -1,0 +1,13 @@
+dn: cn=Keren+sn=Escoto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keren Escoto
+cn: Escoto
+givenname: Keren
+mail: keren.escoto@planetexpress.com
+userPassword: Keren
+ou: OtherGroup
+uid: 2345
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Maia+sn=Bargeron,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maia Bargeron
+cn: Bargeron
+givenname: Maia
+mail: maia.bargeron@planetexpress.com
+userPassword: Maia
+ou: OtherGroup
+uid: 3553
+ Q==

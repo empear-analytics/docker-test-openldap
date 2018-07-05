@@ -1,0 +1,13 @@
+dn: cn=Malcom+sn=Villareal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Malcom Villareal
+cn: Villareal
+givenname: Malcom
+mail: malcom.villareal@planetexpress.com
+userPassword: Malcom
+ou: OtherGroup
+uid: 5034
+ Q==

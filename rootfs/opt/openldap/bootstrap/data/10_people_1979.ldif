@@ -1,0 +1,13 @@
+dn: cn=Altagracia+sn=Lardizabal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Altagracia Lardizabal
+cn: Lardizabal
+givenname: Altagracia
+mail: altagracia.lardizabal@planetexpress.com
+userPassword: Altagracia
+ou: admin_staff
+uid: 1979
+ Q==

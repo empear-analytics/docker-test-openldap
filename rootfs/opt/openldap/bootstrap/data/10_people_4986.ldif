@@ -1,0 +1,13 @@
+dn: cn=Florene+sn=Camarda,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Florene Camarda
+cn: Camarda
+givenname: Florene
+mail: florene.camarda@planetexpress.com
+userPassword: Florene
+ou: flight_crew
+uid: 4986
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Molly+sn=Snoderly,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Molly Snoderly
+cn: Snoderly
+givenname: Molly
+mail: molly.snoderly@planetexpress.com
+userPassword: Molly
+ou: Group5
+uid: 2117
+ Q==

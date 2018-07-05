@@ -1,0 +1,13 @@
+dn: cn=Li+sn=Glickman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Li Glickman
+cn: Glickman
+givenname: Li
+mail: li.glickman@planetexpress.com
+userPassword: Li
+ou: flight_crew
+uid: 5419
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Gerald+sn=Plotts,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gerald Plotts
+cn: Plotts
+givenname: Gerald
+mail: gerald.plotts@planetexpress.com
+userPassword: Gerald
+ou: flight_crew
+uid: 3523
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Simon+sn=Whelihan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Simon Whelihan
+cn: Whelihan
+givenname: Simon
+mail: simon.whelihan@planetexpress.com
+userPassword: Simon
+ou: OtherGroup
+uid: 1841
+ Q==

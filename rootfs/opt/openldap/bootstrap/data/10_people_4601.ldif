@@ -1,0 +1,13 @@
+dn: cn=Deloise+sn=Thomann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deloise Thomann
+cn: Thomann
+givenname: Deloise
+mail: deloise.thomann@planetexpress.com
+userPassword: Deloise
+ou: admin_staff
+uid: 4601
+ Q==

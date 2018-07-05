@@ -1,0 +1,13 @@
+dn: cn=Wilbur+sn=Hacken,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wilbur Hacken
+cn: Hacken
+givenname: Wilbur
+mail: wilbur.hacken@planetexpress.com
+userPassword: Wilbur
+ou: flight_crew
+uid: 54
+ Q==

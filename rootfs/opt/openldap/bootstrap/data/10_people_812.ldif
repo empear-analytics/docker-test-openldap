@@ -1,0 +1,13 @@
+dn: cn=Cameron+sn=Beyah,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cameron Beyah
+cn: Beyah
+givenname: Cameron
+mail: cameron.beyah@planetexpress.com
+userPassword: Cameron
+ou: Group5
+uid: 812
+ Q==

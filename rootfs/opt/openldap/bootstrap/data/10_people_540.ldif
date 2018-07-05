@@ -1,0 +1,13 @@
+dn: cn=Camellia+sn=Schleig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Camellia Schleig
+cn: Schleig
+givenname: Camellia
+mail: camellia.schleig@planetexpress.com
+userPassword: Camellia
+ou: flight_crew
+uid: 540
+ Q==

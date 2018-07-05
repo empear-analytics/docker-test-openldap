@@ -1,0 +1,13 @@
+dn: cn=Kaitlin+sn=Aggers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kaitlin Aggers
+cn: Aggers
+givenname: Kaitlin
+mail: kaitlin.aggers@planetexpress.com
+userPassword: Kaitlin
+ou: flight_crew
+uid: 5228
+ Q==

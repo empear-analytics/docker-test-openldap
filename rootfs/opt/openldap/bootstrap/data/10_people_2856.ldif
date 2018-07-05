@@ -1,0 +1,13 @@
+dn: cn=Brunilda+sn=Demetree,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brunilda Demetree
+cn: Demetree
+givenname: Brunilda
+mail: brunilda.demetree@planetexpress.com
+userPassword: Brunilda
+ou: OtherGroup
+uid: 2856
+ Q==

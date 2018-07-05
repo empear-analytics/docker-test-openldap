@@ -1,0 +1,13 @@
+dn: cn=Tenesha+sn=Nouth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tenesha Nouth
+cn: Nouth
+givenname: Tenesha
+mail: tenesha.nouth@planetexpress.com
+userPassword: Tenesha
+ou: OtherGroup
+uid: 3411
+ Q==

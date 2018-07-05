@@ -1,0 +1,13 @@
+dn: cn=Maribeth+sn=Kutner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maribeth Kutner
+cn: Kutner
+givenname: Maribeth
+mail: maribeth.kutner@planetexpress.com
+userPassword: Maribeth
+ou: admin_staff
+uid: 5018
+ Q==

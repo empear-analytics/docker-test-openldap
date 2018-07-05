@@ -1,0 +1,13 @@
+dn: cn=Tamesha+sn=Tursi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tamesha Tursi
+cn: Tursi
+givenname: Tamesha
+mail: tamesha.tursi@planetexpress.com
+userPassword: Tamesha
+ou: flight_crew
+uid: 850
+ Q==

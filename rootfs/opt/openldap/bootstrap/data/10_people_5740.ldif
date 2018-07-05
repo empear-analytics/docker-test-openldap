@@ -1,0 +1,13 @@
+dn: cn=In+sn=Zomer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: In Zomer
+cn: Zomer
+givenname: In
+mail: in.zomer@planetexpress.com
+userPassword: In
+ou: OtherGroup
+uid: 5740
+ Q==

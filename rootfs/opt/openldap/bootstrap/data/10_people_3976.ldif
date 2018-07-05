@@ -1,0 +1,13 @@
+dn: cn=Giuseppe+sn=Gustavson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Giuseppe Gustavson
+cn: Gustavson
+givenname: Giuseppe
+mail: giuseppe.gustavson@planetexpress.com
+userPassword: Giuseppe
+ou: flight_crew
+uid: 3976
+ Q==

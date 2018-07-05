@@ -1,0 +1,13 @@
+dn: cn=Martina+sn=Martell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Martina Martell
+cn: Martell
+givenname: Martina
+mail: martina.martell@planetexpress.com
+userPassword: Martina
+ou: flight_crew
+uid: 151
+ Q==

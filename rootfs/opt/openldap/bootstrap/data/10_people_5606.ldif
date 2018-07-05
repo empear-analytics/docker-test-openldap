@@ -1,0 +1,13 @@
+dn: cn=Marguerite+sn=Bowler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marguerite Bowler
+cn: Bowler
+givenname: Marguerite
+mail: marguerite.bowler@planetexpress.com
+userPassword: Marguerite
+ou: admin_staff
+uid: 5606
+ Q==

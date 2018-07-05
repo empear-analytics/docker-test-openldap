@@ -1,0 +1,13 @@
+dn: cn=Caren+sn=Morron,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Caren Morron
+cn: Morron
+givenname: Caren
+mail: caren.morron@planetexpress.com
+userPassword: Caren
+ou: Group5
+uid: 5777
+ Q==

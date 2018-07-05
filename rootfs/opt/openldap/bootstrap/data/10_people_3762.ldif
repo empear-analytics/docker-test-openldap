@@ -1,0 +1,13 @@
+dn: cn=Maryanna+sn=Jimenz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maryanna Jimenz
+cn: Jimenz
+givenname: Maryanna
+mail: maryanna.jimenz@planetexpress.com
+userPassword: Maryanna
+ou: OtherGroup
+uid: 3762
+ Q==

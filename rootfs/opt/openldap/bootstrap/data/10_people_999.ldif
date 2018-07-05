@@ -1,0 +1,13 @@
+dn: cn=Salley+sn=Faustino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Salley Faustino
+cn: Faustino
+givenname: Salley
+mail: salley.faustino@planetexpress.com
+userPassword: Salley
+ou: Group5
+uid: 999
+ Q==

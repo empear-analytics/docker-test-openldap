@@ -1,0 +1,13 @@
+dn: cn=Clemmie+sn=Grimley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clemmie Grimley
+cn: Grimley
+givenname: Clemmie
+mail: clemmie.grimley@planetexpress.com
+userPassword: Clemmie
+ou: Group5
+uid: 5205
+ Q==

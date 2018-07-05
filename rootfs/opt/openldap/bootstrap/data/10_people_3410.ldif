@@ -1,0 +1,13 @@
+dn: cn=Twyla+sn=Fosbrook,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Twyla Fosbrook
+cn: Fosbrook
+givenname: Twyla
+mail: twyla.fosbrook@planetexpress.com
+userPassword: Twyla
+ou: OtherGroup
+uid: 3410
+ Q==

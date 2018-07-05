@@ -1,0 +1,13 @@
+dn: cn=Luis+sn=Servi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Luis Servi
+cn: Servi
+givenname: Luis
+mail: luis.servi@planetexpress.com
+userPassword: Luis
+ou: flight_crew
+uid: 2884
+ Q==

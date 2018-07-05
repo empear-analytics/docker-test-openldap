@@ -1,0 +1,13 @@
+dn: cn=Kim+sn=Barrios,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kim Barrios
+cn: Barrios
+givenname: Kim
+mail: kim.barrios@planetexpress.com
+userPassword: Kim
+ou: flight_crew
+uid: 2545
+ Q==

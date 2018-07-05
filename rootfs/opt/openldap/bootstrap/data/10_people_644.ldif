@@ -1,0 +1,13 @@
+dn: cn=Agustina+sn=Casciano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Agustina Casciano
+cn: Casciano
+givenname: Agustina
+mail: agustina.casciano@planetexpress.com
+userPassword: Agustina
+ou: Group5
+uid: 644
+ Q==

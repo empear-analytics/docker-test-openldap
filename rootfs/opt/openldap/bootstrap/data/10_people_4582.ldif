@@ -1,0 +1,13 @@
+dn: cn=Len+sn=Lassonde,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Len Lassonde
+cn: Lassonde
+givenname: Len
+mail: len.lassonde@planetexpress.com
+userPassword: Len
+ou: OtherGroup
+uid: 4582
+ Q==

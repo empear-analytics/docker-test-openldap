@@ -1,0 +1,13 @@
+dn: cn=Eliana+sn=Lucca,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eliana Lucca
+cn: Lucca
+givenname: Eliana
+mail: eliana.lucca@planetexpress.com
+userPassword: Eliana
+ou: admin_staff
+uid: 4247
+ Q==

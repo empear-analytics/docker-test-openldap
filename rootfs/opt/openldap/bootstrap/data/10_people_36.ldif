@@ -1,0 +1,13 @@
+dn: cn=Dagny+sn=Wentworth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dagny Wentworth
+cn: Wentworth
+givenname: Dagny
+mail: dagny.wentworth@planetexpress.com
+userPassword: Dagny
+ou: admin_staff
+uid: 36
+ Q==

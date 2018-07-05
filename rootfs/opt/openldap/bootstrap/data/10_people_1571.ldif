@@ -1,0 +1,13 @@
+dn: cn=Kristan+sn=Ehresman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kristan Ehresman
+cn: Ehresman
+givenname: Kristan
+mail: kristan.ehresman@planetexpress.com
+userPassword: Kristan
+ou: admin_staff
+uid: 1571
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Maisha+sn=Mainello,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maisha Mainello
+cn: Mainello
+givenname: Maisha
+mail: maisha.mainello@planetexpress.com
+userPassword: Maisha
+ou: OtherGroup
+uid: 4241
+ Q==

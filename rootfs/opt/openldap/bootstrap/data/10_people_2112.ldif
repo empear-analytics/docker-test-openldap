@@ -1,0 +1,13 @@
+dn: cn=Nannie+sn=Pitman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nannie Pitman
+cn: Pitman
+givenname: Nannie
+mail: nannie.pitman@planetexpress.com
+userPassword: Nannie
+ou: admin_staff
+uid: 2112
+ Q==

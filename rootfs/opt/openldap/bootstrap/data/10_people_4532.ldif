@@ -1,0 +1,13 @@
+dn: cn=Dotty+sn=Kreamer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dotty Kreamer
+cn: Kreamer
+givenname: Dotty
+mail: dotty.kreamer@planetexpress.com
+userPassword: Dotty
+ou: Group5
+uid: 4532
+ Q==

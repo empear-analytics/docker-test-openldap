@@ -1,0 +1,13 @@
+dn: cn=Arlinda+sn=Coffill,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arlinda Coffill
+cn: Coffill
+givenname: Arlinda
+mail: arlinda.coffill@planetexpress.com
+userPassword: Arlinda
+ou: Group5
+uid: 3562
+ Q==

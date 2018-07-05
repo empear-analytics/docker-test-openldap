@@ -1,0 +1,13 @@
+dn: cn=Doreen+sn=Dion,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Doreen Dion
+cn: Dion
+givenname: Doreen
+mail: doreen.dion@planetexpress.com
+userPassword: Doreen
+ou: OtherGroup
+uid: 3942
+ Q==

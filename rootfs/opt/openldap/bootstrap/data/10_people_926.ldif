@@ -1,0 +1,13 @@
+dn: cn=Doloris+sn=Papke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Doloris Papke
+cn: Papke
+givenname: Doloris
+mail: doloris.papke@planetexpress.com
+userPassword: Doloris
+ou: admin_staff
+uid: 926
+ Q==

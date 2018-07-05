@@ -1,0 +1,13 @@
+dn: cn=Allie+sn=Vigne,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Allie Vigne
+cn: Vigne
+givenname: Allie
+mail: allie.vigne@planetexpress.com
+userPassword: Allie
+ou: flight_crew
+uid: 3123
+ Q==

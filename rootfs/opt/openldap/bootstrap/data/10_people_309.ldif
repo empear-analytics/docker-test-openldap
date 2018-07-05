@@ -1,0 +1,13 @@
+dn: cn=Scarlett+sn=Dolch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Scarlett Dolch
+cn: Dolch
+givenname: Scarlett
+mail: scarlett.dolch@planetexpress.com
+userPassword: Scarlett
+ou: Group5
+uid: 309
+ Q==

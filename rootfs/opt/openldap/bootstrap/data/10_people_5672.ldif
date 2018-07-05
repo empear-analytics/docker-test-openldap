@@ -1,0 +1,13 @@
+dn: cn=Rosamaria+sn=Rafaniello,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosamaria Rafaniello
+cn: Rafaniello
+givenname: Rosamaria
+mail: rosamaria.rafaniello@planetexpress.com
+userPassword: Rosamaria
+ou: Group5
+uid: 5672
+ Q==

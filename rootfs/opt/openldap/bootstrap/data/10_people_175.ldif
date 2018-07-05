@@ -1,0 +1,13 @@
+dn: cn=Coralie+sn=Kaetzel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Coralie Kaetzel
+cn: Kaetzel
+givenname: Coralie
+mail: coralie.kaetzel@planetexpress.com
+userPassword: Coralie
+ou: admin_staff
+uid: 175
+ Q==

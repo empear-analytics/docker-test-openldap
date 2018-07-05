@@ -1,0 +1,13 @@
+dn: cn=Katheleen+sn=Grasso,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katheleen Grasso
+cn: Grasso
+givenname: Katheleen
+mail: katheleen.grasso@planetexpress.com
+userPassword: Katheleen
+ou: admin_staff
+uid: 4500
+ Q==

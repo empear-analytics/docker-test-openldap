@@ -1,0 +1,13 @@
+dn: cn=Beaulah+sn=Thibodeau,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beaulah Thibodeau
+cn: Thibodeau
+givenname: Beaulah
+mail: beaulah.thibodeau@planetexpress.com
+userPassword: Beaulah
+ou: OtherGroup
+uid: 2675
+ Q==

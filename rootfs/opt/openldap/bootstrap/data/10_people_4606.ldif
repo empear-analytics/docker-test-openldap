@@ -1,0 +1,13 @@
+dn: cn=Angelika+sn=Bugge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelika Bugge
+cn: Bugge
+givenname: Angelika
+mail: angelika.bugge@planetexpress.com
+userPassword: Angelika
+ou: flight_crew
+uid: 4606
+ Q==

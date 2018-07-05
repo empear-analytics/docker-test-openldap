@@ -1,0 +1,13 @@
+dn: cn=Kellee+sn=Bish,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kellee Bish
+cn: Bish
+givenname: Kellee
+mail: kellee.bish@planetexpress.com
+userPassword: Kellee
+ou: Group5
+uid: 4882
+ Q==

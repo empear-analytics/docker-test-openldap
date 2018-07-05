@@ -1,0 +1,13 @@
+dn: cn=Yvone+sn=Sloup,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yvone Sloup
+cn: Sloup
+givenname: Yvone
+mail: yvone.sloup@planetexpress.com
+userPassword: Yvone
+ou: OtherGroup
+uid: 63
+ Q==

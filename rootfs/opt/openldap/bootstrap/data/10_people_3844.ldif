@@ -1,0 +1,13 @@
+dn: cn=Katlyn+sn=Lobingier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katlyn Lobingier
+cn: Lobingier
+givenname: Katlyn
+mail: katlyn.lobingier@planetexpress.com
+userPassword: Katlyn
+ou: OtherGroup
+uid: 3844
+ Q==

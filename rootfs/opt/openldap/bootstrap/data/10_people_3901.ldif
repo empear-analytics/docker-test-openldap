@@ -1,0 +1,13 @@
+dn: cn=Randa+sn=Fuell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Randa Fuell
+cn: Fuell
+givenname: Randa
+mail: randa.fuell@planetexpress.com
+userPassword: Randa
+ou: flight_crew
+uid: 3901
+ Q==

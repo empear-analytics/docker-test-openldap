@@ -1,0 +1,13 @@
+dn: cn=Leida+sn=Mckimley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leida Mckimley
+cn: Mckimley
+givenname: Leida
+mail: leida.mckimley@planetexpress.com
+userPassword: Leida
+ou: Group5
+uid: 3249
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Adrian+sn=Willame,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adrian Willame
+cn: Willame
+givenname: Adrian
+mail: adrian.willame@planetexpress.com
+userPassword: Adrian
+ou: OtherGroup
+uid: 950
+ Q==

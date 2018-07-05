@@ -1,0 +1,13 @@
+dn: cn=Jodi+sn=Potvin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jodi Potvin
+cn: Potvin
+givenname: Jodi
+mail: jodi.potvin@planetexpress.com
+userPassword: Jodi
+ou: admin_staff
+uid: 1116
+ Q==

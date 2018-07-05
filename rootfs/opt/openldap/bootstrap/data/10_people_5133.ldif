@@ -1,0 +1,13 @@
+dn: cn=Kami+sn=Hankinson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kami Hankinson
+cn: Hankinson
+givenname: Kami
+mail: kami.hankinson@planetexpress.com
+userPassword: Kami
+ou: flight_crew
+uid: 5133
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Edris+sn=Gillings,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edris Gillings
+cn: Gillings
+givenname: Edris
+mail: edris.gillings@planetexpress.com
+userPassword: Edris
+ou: OtherGroup
+uid: 1845
+ Q==

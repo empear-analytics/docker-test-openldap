@@ -1,0 +1,13 @@
+dn: cn=Phung+sn=Tamminen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Phung Tamminen
+cn: Tamminen
+givenname: Phung
+mail: phung.tamminen@planetexpress.com
+userPassword: Phung
+ou: OtherGroup
+uid: 2057
+ Q==

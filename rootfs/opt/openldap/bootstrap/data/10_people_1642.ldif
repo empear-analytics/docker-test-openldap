@@ -1,0 +1,13 @@
+dn: cn=Elizebeth+sn=Jentry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elizebeth Jentry
+cn: Jentry
+givenname: Elizebeth
+mail: elizebeth.jentry@planetexpress.com
+userPassword: Elizebeth
+ou: admin_staff
+uid: 1642
+ Q==

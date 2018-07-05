@@ -1,0 +1,13 @@
+dn: cn=Cyrstal+sn=Bacon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cyrstal Bacon
+cn: Bacon
+givenname: Cyrstal
+mail: cyrstal.bacon@planetexpress.com
+userPassword: Cyrstal
+ou: Group5
+uid: 1288
+ Q==

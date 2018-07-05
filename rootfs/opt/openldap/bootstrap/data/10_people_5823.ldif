@@ -1,0 +1,13 @@
+dn: cn=Ali+sn=Plageman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ali Plageman
+cn: Plageman
+givenname: Ali
+mail: ali.plageman@planetexpress.com
+userPassword: Ali
+ou: flight_crew
+uid: 5823
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Phil+sn=Vanderlinde,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Phil Vanderlinde
+cn: Vanderlinde
+givenname: Phil
+mail: phil.vanderlinde@planetexpress.com
+userPassword: Phil
+ou: Group5
+uid: 2175
+ Q==

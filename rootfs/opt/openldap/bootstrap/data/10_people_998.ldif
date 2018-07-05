@@ -1,0 +1,13 @@
+dn: cn=Shantell+sn=Henschke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shantell Henschke
+cn: Henschke
+givenname: Shantell
+mail: shantell.henschke@planetexpress.com
+userPassword: Shantell
+ou: OtherGroup
+uid: 998
+ Q==

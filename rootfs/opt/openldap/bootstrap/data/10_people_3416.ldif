@@ -1,0 +1,13 @@
+dn: cn=Dorothy+sn=Fageraes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dorothy Fageraes
+cn: Fageraes
+givenname: Dorothy
+mail: dorothy.fageraes@planetexpress.com
+userPassword: Dorothy
+ou: flight_crew
+uid: 3416
+ Q==

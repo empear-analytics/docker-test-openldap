@@ -1,0 +1,13 @@
+dn: cn=Jamaal+sn=Mormile,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamaal Mormile
+cn: Mormile
+givenname: Jamaal
+mail: jamaal.mormile@planetexpress.com
+userPassword: Jamaal
+ou: Group5
+uid: 997
+ Q==

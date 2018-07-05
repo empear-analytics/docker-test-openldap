@@ -1,0 +1,13 @@
+dn: cn=Faviola+sn=Ratledge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Faviola Ratledge
+cn: Ratledge
+givenname: Faviola
+mail: faviola.ratledge@planetexpress.com
+userPassword: Faviola
+ou: flight_crew
+uid: 1420
+ Q==

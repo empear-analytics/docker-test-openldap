@@ -1,0 +1,13 @@
+dn: cn=Debra+sn=Singleton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Debra Singleton
+cn: Singleton
+givenname: Debra
+mail: debra.singleton@planetexpress.com
+userPassword: Debra
+ou: Group5
+uid: 925
+ Q==

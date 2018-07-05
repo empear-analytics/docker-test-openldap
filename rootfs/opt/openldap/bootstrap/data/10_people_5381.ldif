@@ -1,0 +1,13 @@
+dn: cn=Ronna+sn=Borgese,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ronna Borgese
+cn: Borgese
+givenname: Ronna
+mail: ronna.borgese@planetexpress.com
+userPassword: Ronna
+ou: OtherGroup
+uid: 5381
+ Q==

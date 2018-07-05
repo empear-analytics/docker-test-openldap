@@ -1,0 +1,13 @@
+dn: cn=Marc+sn=Readinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marc Readinger
+cn: Readinger
+givenname: Marc
+mail: marc.readinger@planetexpress.com
+userPassword: Marc
+ou: OtherGroup
+uid: 3177
+ Q==

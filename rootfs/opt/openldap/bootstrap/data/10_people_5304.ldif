@@ -1,0 +1,13 @@
+dn: cn=Lonnie+sn=Dobiesz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lonnie Dobiesz
+cn: Dobiesz
+givenname: Lonnie
+mail: lonnie.dobiesz@planetexpress.com
+userPassword: Lonnie
+ou: admin_staff
+uid: 5304
+ Q==

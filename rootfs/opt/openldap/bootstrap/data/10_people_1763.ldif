@@ -1,0 +1,13 @@
+dn: cn=Ericka+sn=Corkum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ericka Corkum
+cn: Corkum
+givenname: Ericka
+mail: ericka.corkum@planetexpress.com
+userPassword: Ericka
+ou: Group5
+uid: 1763
+ Q==

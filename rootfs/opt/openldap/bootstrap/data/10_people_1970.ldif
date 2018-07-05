@@ -1,0 +1,13 @@
+dn: cn=Celestina+sn=Avendano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Celestina Avendano
+cn: Avendano
+givenname: Celestina
+mail: celestina.avendano@planetexpress.com
+userPassword: Celestina
+ou: admin_staff
+uid: 1970
+ Q==

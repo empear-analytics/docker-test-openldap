@@ -1,0 +1,13 @@
+dn: cn=Oscar+sn=Thall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Oscar Thall
+cn: Thall
+givenname: Oscar
+mail: oscar.thall@planetexpress.com
+userPassword: Oscar
+ou: Group5
+uid: 5993
+ Q==

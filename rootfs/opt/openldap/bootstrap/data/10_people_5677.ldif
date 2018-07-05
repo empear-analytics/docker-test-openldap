@@ -1,0 +1,13 @@
+dn: cn=Adelia+sn=Tehrani,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adelia Tehrani
+cn: Tehrani
+givenname: Adelia
+mail: adelia.tehrani@planetexpress.com
+userPassword: Adelia
+ou: Group5
+uid: 5677
+ Q==

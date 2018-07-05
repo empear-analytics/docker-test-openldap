@@ -1,0 +1,13 @@
+dn: cn=Tamiko+sn=Bjornson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tamiko Bjornson
+cn: Bjornson
+givenname: Tamiko
+mail: tamiko.bjornson@planetexpress.com
+userPassword: Tamiko
+ou: Group5
+uid: 2666
+ Q==

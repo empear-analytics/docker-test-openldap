@@ -1,0 +1,13 @@
+dn: cn=Rick+sn=Dalal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rick Dalal
+cn: Dalal
+givenname: Rick
+mail: rick.dalal@planetexpress.com
+userPassword: Rick
+ou: flight_crew
+uid: 1422
+ Q==

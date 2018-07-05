@@ -1,0 +1,13 @@
+dn: cn=Raul+sn=Mcelvy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raul Mcelvy
+cn: Mcelvy
+givenname: Raul
+mail: raul.mcelvy@planetexpress.com
+userPassword: Raul
+ou: flight_crew
+uid: 855
+ Q==

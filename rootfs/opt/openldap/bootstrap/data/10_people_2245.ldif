@@ -1,0 +1,13 @@
+dn: cn=Leone+sn=Rajala,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leone Rajala
+cn: Rajala
+givenname: Leone
+mail: leone.rajala@planetexpress.com
+userPassword: Leone
+ou: OtherGroup
+uid: 2245
+ Q==

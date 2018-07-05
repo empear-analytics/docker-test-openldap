@@ -1,0 +1,13 @@
+dn: cn=Cassy+sn=Issac,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cassy Issac
+cn: Issac
+givenname: Cassy
+mail: cassy.issac@planetexpress.com
+userPassword: Cassy
+ou: admin_staff
+uid: 3513
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Annetta+sn=Shiplett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annetta Shiplett
+cn: Shiplett
+givenname: Annetta
+mail: annetta.shiplett@planetexpress.com
+userPassword: Annetta
+ou: OtherGroup
+uid: 1752
+ Q==

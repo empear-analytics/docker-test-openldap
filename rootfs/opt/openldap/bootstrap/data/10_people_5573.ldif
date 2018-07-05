@@ -1,0 +1,13 @@
+dn: cn=Fermina+sn=Umphlett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fermina Umphlett
+cn: Umphlett
+givenname: Fermina
+mail: fermina.umphlett@planetexpress.com
+userPassword: Fermina
+ou: Group5
+uid: 5573
+ Q==

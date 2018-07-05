@@ -1,0 +1,13 @@
+dn: cn=Sergio+sn=Homestead,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sergio Homestead
+cn: Homestead
+givenname: Sergio
+mail: sergio.homestead@planetexpress.com
+userPassword: Sergio
+ou: Group5
+uid: 1165
+ Q==

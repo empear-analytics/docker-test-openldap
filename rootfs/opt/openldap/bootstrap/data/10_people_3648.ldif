@@ -1,0 +1,13 @@
+dn: cn=Alina+sn=Riner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alina Riner
+cn: Riner
+givenname: Alina
+mail: alina.riner@planetexpress.com
+userPassword: Alina
+ou: OtherGroup
+uid: 3648
+ Q==

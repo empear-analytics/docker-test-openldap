@@ -1,0 +1,13 @@
+dn: cn=Lyndia+sn=Sumerall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lyndia Sumerall
+cn: Sumerall
+givenname: Lyndia
+mail: lyndia.sumerall@planetexpress.com
+userPassword: Lyndia
+ou: flight_crew
+uid: 450
+ Q==

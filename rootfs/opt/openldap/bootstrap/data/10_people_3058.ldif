@@ -1,0 +1,13 @@
+dn: cn=Particia+sn=Grosskopf,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Particia Grosskopf
+cn: Grosskopf
+givenname: Particia
+mail: particia.grosskopf@planetexpress.com
+userPassword: Particia
+ou: OtherGroup
+uid: 3058
+ Q==

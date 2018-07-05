@@ -1,0 +1,13 @@
+dn: cn=Ira+sn=Uhlir,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ira Uhlir
+cn: Uhlir
+givenname: Ira
+mail: ira.uhlir@planetexpress.com
+userPassword: Ira
+ou: flight_crew
+uid: 2627
+ Q==

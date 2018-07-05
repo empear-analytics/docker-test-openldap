@@ -1,0 +1,13 @@
+dn: cn=Jean+sn=Wanvig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jean Wanvig
+cn: Wanvig
+givenname: Jean
+mail: jean.wanvig@planetexpress.com
+userPassword: Jean
+ou: Group5
+uid: 2602
+ Q==

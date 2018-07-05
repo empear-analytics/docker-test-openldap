@@ -1,0 +1,13 @@
+dn: cn=Cicely+sn=Fergoson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cicely Fergoson
+cn: Fergoson
+givenname: Cicely
+mail: cicely.fergoson@planetexpress.com
+userPassword: Cicely
+ou: Group5
+uid: 1503
+ Q==

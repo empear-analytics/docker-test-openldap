@@ -1,0 +1,13 @@
+dn: cn=Bong+sn=Bernat,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bong Bernat
+cn: Bernat
+givenname: Bong
+mail: bong.bernat@planetexpress.com
+userPassword: Bong
+ou: OtherGroup
+uid: 1185
+ Q==

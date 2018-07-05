@@ -1,0 +1,13 @@
+dn: cn=Takako+sn=Feemster,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Takako Feemster
+cn: Feemster
+givenname: Takako
+mail: takako.feemster@planetexpress.com
+userPassword: Takako
+ou: Group5
+uid: 4770
+ Q==

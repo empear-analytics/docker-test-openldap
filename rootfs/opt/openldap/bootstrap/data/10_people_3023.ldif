@@ -1,0 +1,13 @@
+dn: cn=Lorraine+sn=Mcree,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lorraine Mcree
+cn: Mcree
+givenname: Lorraine
+mail: lorraine.mcree@planetexpress.com
+userPassword: Lorraine
+ou: flight_crew
+uid: 3023
+ Q==

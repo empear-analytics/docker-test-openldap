@@ -1,0 +1,13 @@
+dn: cn=Pia+sn=Reinsch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pia Reinsch
+cn: Reinsch
+givenname: Pia
+mail: pia.reinsch@planetexpress.com
+userPassword: Pia
+ou: Group5
+uid: 1638
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Maris+sn=Hitchings,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maris Hitchings
+cn: Hitchings
+givenname: Maris
+mail: maris.hitchings@planetexpress.com
+userPassword: Maris
+ou: admin_staff
+uid: 2426
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Hedwig+sn=Shone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hedwig Shone
+cn: Shone
+givenname: Hedwig
+mail: hedwig.shone@planetexpress.com
+userPassword: Hedwig
+ou: flight_crew
+uid: 1163
+ Q==

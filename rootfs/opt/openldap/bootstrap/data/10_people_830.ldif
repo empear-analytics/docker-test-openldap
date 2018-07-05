@@ -1,0 +1,13 @@
+dn: cn=Angelina+sn=Englund,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelina Englund
+cn: Englund
+givenname: Angelina
+mail: angelina.englund@planetexpress.com
+userPassword: Angelina
+ou: OtherGroup
+uid: 830
+ Q==

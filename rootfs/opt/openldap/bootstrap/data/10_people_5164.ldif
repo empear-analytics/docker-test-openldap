@@ -1,0 +1,13 @@
+dn: cn=Francesca+sn=Mcentire,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Francesca Mcentire
+cn: Mcentire
+givenname: Francesca
+mail: francesca.mcentire@planetexpress.com
+userPassword: Francesca
+ou: Group5
+uid: 5164
+ Q==

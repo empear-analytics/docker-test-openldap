@@ -1,0 +1,13 @@
+dn: cn=Sherwood+sn=Mcconathy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherwood Mcconathy
+cn: Mcconathy
+givenname: Sherwood
+mail: sherwood.mcconathy@planetexpress.com
+userPassword: Sherwood
+ou: admin_staff
+uid: 2866
+ Q==

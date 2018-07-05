@@ -1,0 +1,13 @@
+dn: cn=Elouise+sn=Adema,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elouise Adema
+cn: Adema
+givenname: Elouise
+mail: elouise.adema@planetexpress.com
+userPassword: Elouise
+ou: Group5
+uid: 4203
+ Q==

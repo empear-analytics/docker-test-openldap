@@ -1,0 +1,13 @@
+dn: cn=Agnus+sn=Giaccio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Agnus Giaccio
+cn: Giaccio
+givenname: Agnus
+mail: agnus.giaccio@planetexpress.com
+userPassword: Agnus
+ou: OtherGroup
+uid: 4894
+ Q==

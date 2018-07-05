@@ -1,0 +1,13 @@
+dn: cn=Carrol+sn=Toczek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carrol Toczek
+cn: Toczek
+givenname: Carrol
+mail: carrol.toczek@planetexpress.com
+userPassword: Carrol
+ou: admin_staff
+uid: 2625
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Paola+sn=Essa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Paola Essa
+cn: Essa
+givenname: Paola
+mail: paola.essa@planetexpress.com
+userPassword: Paola
+ou: admin_staff
+uid: 4605
+ Q==

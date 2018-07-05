@@ -1,0 +1,13 @@
+dn: cn=Crystle+sn=Reppucci,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Crystle Reppucci
+cn: Reppucci
+givenname: Crystle
+mail: crystle.reppucci@planetexpress.com
+userPassword: Crystle
+ou: Group5
+uid: 2003
+ Q==

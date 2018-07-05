@@ -1,0 +1,13 @@
+dn: cn=Kemberly+sn=Bast,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kemberly Bast
+cn: Bast
+givenname: Kemberly
+mail: kemberly.bast@planetexpress.com
+userPassword: Kemberly
+ou: OtherGroup
+uid: 4522
+ Q==

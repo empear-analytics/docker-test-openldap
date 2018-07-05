@@ -1,0 +1,13 @@
+dn: cn=Jacquline+sn=Whalen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacquline Whalen
+cn: Whalen
+givenname: Jacquline
+mail: jacquline.whalen@planetexpress.com
+userPassword: Jacquline
+ou: admin_staff
+uid: 5309
+ Q==

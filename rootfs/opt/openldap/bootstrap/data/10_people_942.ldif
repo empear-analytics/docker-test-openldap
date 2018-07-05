@@ -1,0 +1,13 @@
+dn: cn=Delmy+sn=Shatto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delmy Shatto
+cn: Shatto
+givenname: Delmy
+mail: delmy.shatto@planetexpress.com
+userPassword: Delmy
+ou: Group5
+uid: 942
+ Q==

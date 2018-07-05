@@ -1,0 +1,13 @@
+dn: cn=Temple+sn=Trear,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Temple Trear
+cn: Trear
+givenname: Temple
+mail: temple.trear@planetexpress.com
+userPassword: Temple
+ou: flight_crew
+uid: 2880
+ Q==

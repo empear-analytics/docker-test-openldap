@@ -1,0 +1,13 @@
+dn: cn=Minda+sn=Oliveras,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Minda Oliveras
+cn: Oliveras
+givenname: Minda
+mail: minda.oliveras@planetexpress.com
+userPassword: Minda
+ou: flight_crew
+uid: 5543
+ Q==

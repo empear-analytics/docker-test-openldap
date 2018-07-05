@@ -1,0 +1,13 @@
+dn: cn=Vince+sn=Kubaska,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vince Kubaska
+cn: Kubaska
+givenname: Vince
+mail: vince.kubaska@planetexpress.com
+userPassword: Vince
+ou: flight_crew
+uid: 4036
+ Q==

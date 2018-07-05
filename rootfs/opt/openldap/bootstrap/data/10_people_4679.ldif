@@ -1,0 +1,13 @@
+dn: cn=Erik+sn=Dooms,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Erik Dooms
+cn: Dooms
+givenname: Erik
+mail: erik.dooms@planetexpress.com
+userPassword: Erik
+ou: admin_staff
+uid: 4679
+ Q==

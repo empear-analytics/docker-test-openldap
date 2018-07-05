@@ -1,0 +1,13 @@
+dn: cn=Tabetha+sn=Mccant,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tabetha Mccant
+cn: Mccant
+givenname: Tabetha
+mail: tabetha.mccant@planetexpress.com
+userPassword: Tabetha
+ou: Group5
+uid: 386
+ Q==

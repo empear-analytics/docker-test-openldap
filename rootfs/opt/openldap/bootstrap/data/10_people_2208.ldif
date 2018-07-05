@@ -1,0 +1,13 @@
+dn: cn=Omega+sn=Sturrup,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Omega Sturrup
+cn: Sturrup
+givenname: Omega
+mail: omega.sturrup@planetexpress.com
+userPassword: Omega
+ou: OtherGroup
+uid: 2208
+ Q==

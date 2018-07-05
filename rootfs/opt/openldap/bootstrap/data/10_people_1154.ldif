@@ -1,0 +1,13 @@
+dn: cn=Danyel+sn=Slogeris,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Danyel Slogeris
+cn: Slogeris
+givenname: Danyel
+mail: danyel.slogeris@planetexpress.com
+userPassword: Danyel
+ou: flight_crew
+uid: 1154
+ Q==

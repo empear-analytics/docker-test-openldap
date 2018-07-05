@@ -1,0 +1,13 @@
+dn: cn=Michale+sn=Mara,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Michale Mara
+cn: Mara
+givenname: Michale
+mail: michale.mara@planetexpress.com
+userPassword: Michale
+ou: Group5
+uid: 1307
+ Q==

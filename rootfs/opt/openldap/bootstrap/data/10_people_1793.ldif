@@ -1,0 +1,13 @@
+dn: cn=Mirta+sn=Wickman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mirta Wickman
+cn: Wickman
+givenname: Mirta
+mail: mirta.wickman@planetexpress.com
+userPassword: Mirta
+ou: Group5
+uid: 1793
+ Q==

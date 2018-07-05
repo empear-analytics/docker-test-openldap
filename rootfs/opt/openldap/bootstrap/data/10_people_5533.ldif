@@ -1,0 +1,13 @@
+dn: cn=Sarah+sn=Rys,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sarah Rys
+cn: Rys
+givenname: Sarah
+mail: sarah.rys@planetexpress.com
+userPassword: Sarah
+ou: admin_staff
+uid: 5533
+ Q==

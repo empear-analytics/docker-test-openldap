@@ -1,0 +1,13 @@
+dn: cn=Darline+sn=Mulling,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darline Mulling
+cn: Mulling
+givenname: Darline
+mail: darline.mulling@planetexpress.com
+userPassword: Darline
+ou: flight_crew
+uid: 198
+ Q==

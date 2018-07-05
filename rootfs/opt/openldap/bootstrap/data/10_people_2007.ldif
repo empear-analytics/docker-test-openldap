@@ -1,0 +1,13 @@
+dn: cn=Erinn+sn=Hunsley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Erinn Hunsley
+cn: Hunsley
+givenname: Erinn
+mail: erinn.hunsley@planetexpress.com
+userPassword: Erinn
+ou: OtherGroup
+uid: 2007
+ Q==

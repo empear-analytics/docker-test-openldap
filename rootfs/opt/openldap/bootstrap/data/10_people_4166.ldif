@@ -1,0 +1,13 @@
+dn: cn=Latasha+sn=Barck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Latasha Barck
+cn: Barck
+givenname: Latasha
+mail: latasha.barck@planetexpress.com
+userPassword: Latasha
+ou: Group5
+uid: 4166
+ Q==

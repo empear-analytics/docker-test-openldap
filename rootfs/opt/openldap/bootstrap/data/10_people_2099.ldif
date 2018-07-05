@@ -1,0 +1,13 @@
+dn: cn=Myrna+sn=Colborn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Myrna Colborn
+cn: Colborn
+givenname: Myrna
+mail: myrna.colborn@planetexpress.com
+userPassword: Myrna
+ou: admin_staff
+uid: 2099
+ Q==

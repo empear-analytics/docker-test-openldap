@@ -1,0 +1,13 @@
+dn: cn=Josef+sn=Corona,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Josef Corona
+cn: Corona
+givenname: Josef
+mail: josef.corona@planetexpress.com
+userPassword: Josef
+ou: OtherGroup
+uid: 2514
+ Q==

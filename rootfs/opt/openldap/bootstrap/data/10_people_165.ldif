@@ -1,0 +1,13 @@
+dn: cn=Elana+sn=Francesco,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elana Francesco
+cn: Francesco
+givenname: Elana
+mail: elana.francesco@planetexpress.com
+userPassword: Elana
+ou: OtherGroup
+uid: 165
+ Q==

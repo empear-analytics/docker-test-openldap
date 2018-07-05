@@ -1,0 +1,13 @@
+dn: cn=Otha+sn=Libera,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Otha Libera
+cn: Libera
+givenname: Otha
+mail: otha.libera@planetexpress.com
+userPassword: Otha
+ou: flight_crew
+uid: 3386
+ Q==

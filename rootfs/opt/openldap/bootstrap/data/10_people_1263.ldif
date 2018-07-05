@@ -1,0 +1,13 @@
+dn: cn=Wilma+sn=Dullea,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wilma Dullea
+cn: Dullea
+givenname: Wilma
+mail: wilma.dullea@planetexpress.com
+userPassword: Wilma
+ou: flight_crew
+uid: 1263
+ Q==

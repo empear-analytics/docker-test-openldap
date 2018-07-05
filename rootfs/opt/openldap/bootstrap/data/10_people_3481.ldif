@@ -1,0 +1,13 @@
+dn: cn=Toya+sn=Alter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Toya Alter
+cn: Alter
+givenname: Toya
+mail: toya.alter@planetexpress.com
+userPassword: Toya
+ou: OtherGroup
+uid: 3481
+ Q==

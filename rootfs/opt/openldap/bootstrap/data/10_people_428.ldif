@@ -1,0 +1,13 @@
+dn: cn=Yuki+sn=Beckstrom,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yuki Beckstrom
+cn: Beckstrom
+givenname: Yuki
+mail: yuki.beckstrom@planetexpress.com
+userPassword: Yuki
+ou: admin_staff
+uid: 428
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Terrilyn+sn=Gillies,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Terrilyn Gillies
+cn: Gillies
+givenname: Terrilyn
+mail: terrilyn.gillies@planetexpress.com
+userPassword: Terrilyn
+ou: OtherGroup
+uid: 3002
+ Q==

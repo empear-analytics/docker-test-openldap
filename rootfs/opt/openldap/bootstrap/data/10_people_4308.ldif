@@ -1,0 +1,13 @@
+dn: cn=Vanna+sn=Latzke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vanna Latzke
+cn: Latzke
+givenname: Vanna
+mail: vanna.latzke@planetexpress.com
+userPassword: Vanna
+ou: OtherGroup
+uid: 4308
+ Q==

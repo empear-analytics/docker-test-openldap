@@ -1,0 +1,13 @@
+dn: cn=Tia+sn=Ferriman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tia Ferriman
+cn: Ferriman
+givenname: Tia
+mail: tia.ferriman@planetexpress.com
+userPassword: Tia
+ou: OtherGroup
+uid: 4258
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Svetlana+sn=Fernsler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Svetlana Fernsler
+cn: Fernsler
+givenname: Svetlana
+mail: svetlana.fernsler@planetexpress.com
+userPassword: Svetlana
+ou: Group5
+uid: 5904
+ Q==

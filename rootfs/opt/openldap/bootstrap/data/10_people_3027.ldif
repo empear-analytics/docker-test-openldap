@@ -1,0 +1,13 @@
+dn: cn=Darrick+sn=Duenwald,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darrick Duenwald
+cn: Duenwald
+givenname: Darrick
+mail: darrick.duenwald@planetexpress.com
+userPassword: Darrick
+ou: Group5
+uid: 3027
+ Q==

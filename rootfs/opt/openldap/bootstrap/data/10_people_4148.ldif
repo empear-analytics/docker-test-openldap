@@ -1,0 +1,13 @@
+dn: cn=Cher+sn=Levecke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cher Levecke
+cn: Levecke
+givenname: Cher
+mail: cher.levecke@planetexpress.com
+userPassword: Cher
+ou: Group5
+uid: 4148
+ Q==

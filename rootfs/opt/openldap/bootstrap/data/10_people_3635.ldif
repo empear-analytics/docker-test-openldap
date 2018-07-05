@@ -1,0 +1,13 @@
+dn: cn=Josephine+sn=Muoio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Josephine Muoio
+cn: Muoio
+givenname: Josephine
+mail: josephine.muoio@planetexpress.com
+userPassword: Josephine
+ou: Group5
+uid: 3635
+ Q==

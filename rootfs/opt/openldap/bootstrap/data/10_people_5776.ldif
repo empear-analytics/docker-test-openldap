@@ -1,0 +1,13 @@
+dn: cn=Lucienne+sn=Zaxas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lucienne Zaxas
+cn: Zaxas
+givenname: Lucienne
+mail: lucienne.zaxas@planetexpress.com
+userPassword: Lucienne
+ou: flight_crew
+uid: 5776
+ Q==

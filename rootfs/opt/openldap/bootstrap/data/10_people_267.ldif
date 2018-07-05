@@ -1,0 +1,13 @@
+dn: cn=Wendell+sn=Dorat,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wendell Dorat
+cn: Dorat
+givenname: Wendell
+mail: wendell.dorat@planetexpress.com
+userPassword: Wendell
+ou: admin_staff
+uid: 267
+ Q==

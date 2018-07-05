@@ -1,0 +1,13 @@
+dn: cn=Nedra+sn=Hofmeister,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nedra Hofmeister
+cn: Hofmeister
+givenname: Nedra
+mail: nedra.hofmeister@planetexpress.com
+userPassword: Nedra
+ou: flight_crew
+uid: 612
+ Q==

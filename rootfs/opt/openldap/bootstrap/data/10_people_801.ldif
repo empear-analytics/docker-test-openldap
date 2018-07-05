@@ -1,0 +1,13 @@
+dn: cn=Tasha+sn=Camaeho,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tasha Camaeho
+cn: Camaeho
+givenname: Tasha
+mail: tasha.camaeho@planetexpress.com
+userPassword: Tasha
+ou: Group5
+uid: 801
+ Q==

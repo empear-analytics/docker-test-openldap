@@ -1,0 +1,13 @@
+dn: cn=Flora+sn=Thompson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Flora Thompson
+cn: Thompson
+givenname: Flora
+mail: flora.thompson@planetexpress.com
+userPassword: Flora
+ou: Group5
+uid: 1728
+ Q==

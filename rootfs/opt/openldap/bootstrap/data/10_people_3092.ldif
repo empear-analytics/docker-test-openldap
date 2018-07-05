@@ -1,0 +1,13 @@
+dn: cn=Delaine+sn=Lychwala,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delaine Lychwala
+cn: Lychwala
+givenname: Delaine
+mail: delaine.lychwala@planetexpress.com
+userPassword: Delaine
+ou: admin_staff
+uid: 3092
+ Q==

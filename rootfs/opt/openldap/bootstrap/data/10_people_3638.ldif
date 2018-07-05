@@ -1,0 +1,13 @@
+dn: cn=Everette+sn=Meiners,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Everette Meiners
+cn: Meiners
+givenname: Everette
+mail: everette.meiners@planetexpress.com
+userPassword: Everette
+ou: Group5
+uid: 3638
+ Q==

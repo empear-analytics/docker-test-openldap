@@ -1,0 +1,13 @@
+dn: cn=Danika+sn=Kastens,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Danika Kastens
+cn: Kastens
+givenname: Danika
+mail: danika.kastens@planetexpress.com
+userPassword: Danika
+ou: OtherGroup
+uid: 4741
+ Q==

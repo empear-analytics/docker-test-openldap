@@ -1,0 +1,13 @@
+dn: cn=Silvia+sn=Postel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Silvia Postel
+cn: Postel
+givenname: Silvia
+mail: silvia.postel@planetexpress.com
+userPassword: Silvia
+ou: flight_crew
+uid: 2021
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Antionette+sn=Beltre,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Antionette Beltre
+cn: Beltre
+givenname: Antionette
+mail: antionette.beltre@planetexpress.com
+userPassword: Antionette
+ou: flight_crew
+uid: 1412
+ Q==

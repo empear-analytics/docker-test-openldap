@@ -1,0 +1,13 @@
+dn: cn=Sol+sn=Ansley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sol Ansley
+cn: Ansley
+givenname: Sol
+mail: sol.ansley@planetexpress.com
+userPassword: Sol
+ou: OtherGroup
+uid: 647
+ Q==

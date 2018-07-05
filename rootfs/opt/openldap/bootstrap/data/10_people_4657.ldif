@@ -1,0 +1,13 @@
+dn: cn=Rory+sn=Talamentez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rory Talamentez
+cn: Talamentez
+givenname: Rory
+mail: rory.talamentez@planetexpress.com
+userPassword: Rory
+ou: admin_staff
+uid: 4657
+ Q==

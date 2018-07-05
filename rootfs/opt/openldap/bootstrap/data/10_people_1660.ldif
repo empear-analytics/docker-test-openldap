@@ -1,0 +1,13 @@
+dn: cn=Timika+sn=Gehrig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Timika Gehrig
+cn: Gehrig
+givenname: Timika
+mail: timika.gehrig@planetexpress.com
+userPassword: Timika
+ou: admin_staff
+uid: 1660
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jonelle+sn=Njango,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jonelle Njango
+cn: Njango
+givenname: Jonelle
+mail: jonelle.njango@planetexpress.com
+userPassword: Jonelle
+ou: flight_crew
+uid: 123
+ Q==

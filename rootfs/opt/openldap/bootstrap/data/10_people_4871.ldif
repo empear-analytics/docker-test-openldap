@@ -1,0 +1,13 @@
+dn: cn=Magda+sn=Sins,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Magda Sins
+cn: Sins
+givenname: Magda
+mail: magda.sins@planetexpress.com
+userPassword: Magda
+ou: flight_crew
+uid: 4871
+ Q==

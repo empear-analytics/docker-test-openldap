@@ -1,0 +1,13 @@
+dn: cn=Heidy+sn=Maddison,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Heidy Maddison
+cn: Maddison
+givenname: Heidy
+mail: heidy.maddison@planetexpress.com
+userPassword: Heidy
+ou: admin_staff
+uid: 377
+ Q==

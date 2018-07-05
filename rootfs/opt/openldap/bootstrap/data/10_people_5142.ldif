@@ -1,0 +1,13 @@
+dn: cn=Eugene+sn=Newill,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eugene Newill
+cn: Newill
+givenname: Eugene
+mail: eugene.newill@planetexpress.com
+userPassword: Eugene
+ou: admin_staff
+uid: 5142
+ Q==

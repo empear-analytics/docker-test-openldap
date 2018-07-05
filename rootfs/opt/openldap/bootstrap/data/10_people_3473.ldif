@@ -1,0 +1,13 @@
+dn: cn=Georgette+sn=Groom,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Georgette Groom
+cn: Groom
+givenname: Georgette
+mail: georgette.groom@planetexpress.com
+userPassword: Georgette
+ou: flight_crew
+uid: 3473
+ Q==

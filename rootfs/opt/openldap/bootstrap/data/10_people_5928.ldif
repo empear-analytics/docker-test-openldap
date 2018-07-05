@@ -1,0 +1,13 @@
+dn: cn=Russell+sn=Ginns,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Russell Ginns
+cn: Ginns
+givenname: Russell
+mail: russell.ginns@planetexpress.com
+userPassword: Russell
+ou: OtherGroup
+uid: 5928
+ Q==

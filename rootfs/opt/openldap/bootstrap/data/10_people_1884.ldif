@@ -1,0 +1,13 @@
+dn: cn=Willian+sn=Colinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Willian Colinger
+cn: Colinger
+givenname: Willian
+mail: willian.colinger@planetexpress.com
+userPassword: Willian
+ou: admin_staff
+uid: 1884
+ Q==

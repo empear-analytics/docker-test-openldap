@@ -1,0 +1,13 @@
+dn: cn=Cara+sn=Brossmann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cara Brossmann
+cn: Brossmann
+givenname: Cara
+mail: cara.brossmann@planetexpress.com
+userPassword: Cara
+ou: Group5
+uid: 1462
+ Q==

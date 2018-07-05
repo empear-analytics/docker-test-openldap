@@ -1,0 +1,13 @@
+dn: cn=Agripina+sn=Vaneffen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Agripina Vaneffen
+cn: Vaneffen
+givenname: Agripina
+mail: agripina.vaneffen@planetexpress.com
+userPassword: Agripina
+ou: admin_staff
+uid: 1489
+ Q==

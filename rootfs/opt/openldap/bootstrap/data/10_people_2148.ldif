@@ -1,0 +1,13 @@
+dn: cn=Lisbeth+sn=Bryington,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lisbeth Bryington
+cn: Bryington
+givenname: Lisbeth
+mail: lisbeth.bryington@planetexpress.com
+userPassword: Lisbeth
+ou: flight_crew
+uid: 2148
+ Q==

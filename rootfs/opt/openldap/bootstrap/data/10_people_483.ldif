@@ -1,0 +1,13 @@
+dn: cn=Shaunna+sn=Bransfield,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shaunna Bransfield
+cn: Bransfield
+givenname: Shaunna
+mail: shaunna.bransfield@planetexpress.com
+userPassword: Shaunna
+ou: admin_staff
+uid: 483
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Mauro+sn=Marbach,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mauro Marbach
+cn: Marbach
+givenname: Mauro
+mail: mauro.marbach@planetexpress.com
+userPassword: Mauro
+ou: Group5
+uid: 4525
+ Q==

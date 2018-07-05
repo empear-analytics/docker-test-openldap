@@ -1,0 +1,13 @@
+dn: cn=Lavonia+sn=Danis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lavonia Danis
+cn: Danis
+givenname: Lavonia
+mail: lavonia.danis@planetexpress.com
+userPassword: Lavonia
+ou: flight_crew
+uid: 2065
+ Q==

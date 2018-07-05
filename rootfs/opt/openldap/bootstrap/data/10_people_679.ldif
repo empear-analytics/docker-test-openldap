@@ -1,0 +1,13 @@
+dn: cn=Adan+sn=Delpaggio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adan Delpaggio
+cn: Delpaggio
+givenname: Adan
+mail: adan.delpaggio@planetexpress.com
+userPassword: Adan
+ou: flight_crew
+uid: 679
+ Q==

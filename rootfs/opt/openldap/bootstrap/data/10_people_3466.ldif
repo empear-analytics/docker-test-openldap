@@ -1,0 +1,13 @@
+dn: cn=Fransisca+sn=Sundermeyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fransisca Sundermeyer
+cn: Sundermeyer
+givenname: Fransisca
+mail: fransisca.sundermeyer@planetexpress.com
+userPassword: Fransisca
+ou: Group5
+uid: 3466
+ Q==

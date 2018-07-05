@@ -1,0 +1,13 @@
+dn: cn=Ashlea+sn=Rois,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ashlea Rois
+cn: Rois
+givenname: Ashlea
+mail: ashlea.rois@planetexpress.com
+userPassword: Ashlea
+ou: flight_crew
+uid: 2051
+ Q==

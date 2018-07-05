@@ -1,0 +1,13 @@
+dn: cn=Eufemia+sn=Cowper,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eufemia Cowper
+cn: Cowper
+givenname: Eufemia
+mail: eufemia.cowper@planetexpress.com
+userPassword: Eufemia
+ou: flight_crew
+uid: 3875
+ Q==

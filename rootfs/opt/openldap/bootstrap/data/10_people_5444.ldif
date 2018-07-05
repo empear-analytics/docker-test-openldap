@@ -1,0 +1,13 @@
+dn: cn=Roman+sn=Segur,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roman Segur
+cn: Segur
+givenname: Roman
+mail: roman.segur@planetexpress.com
+userPassword: Roman
+ou: admin_staff
+uid: 5444
+ Q==

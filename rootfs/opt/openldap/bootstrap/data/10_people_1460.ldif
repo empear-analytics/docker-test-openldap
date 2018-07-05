@@ -1,0 +1,13 @@
+dn: cn=Bryant+sn=Decenzo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bryant Decenzo
+cn: Decenzo
+givenname: Bryant
+mail: bryant.decenzo@planetexpress.com
+userPassword: Bryant
+ou: OtherGroup
+uid: 1460
+ Q==

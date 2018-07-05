@@ -1,0 +1,13 @@
+dn: cn=Jacquiline+sn=Vacchiano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacquiline Vacchiano
+cn: Vacchiano
+givenname: Jacquiline
+mail: jacquiline.vacchiano@planetexpress.com
+userPassword: Jacquiline
+ou: OtherGroup
+uid: 3654
+ Q==

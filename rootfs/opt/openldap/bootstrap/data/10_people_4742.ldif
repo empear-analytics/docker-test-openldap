@@ -1,0 +1,13 @@
+dn: cn=Carisa+sn=Zaic,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carisa Zaic
+cn: Zaic
+givenname: Carisa
+mail: carisa.zaic@planetexpress.com
+userPassword: Carisa
+ou: OtherGroup
+uid: 4742
+ Q==

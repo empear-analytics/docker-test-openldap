@@ -1,0 +1,13 @@
+dn: cn=Bettye+sn=Luccous,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bettye Luccous
+cn: Luccous
+givenname: Bettye
+mail: bettye.luccous@planetexpress.com
+userPassword: Bettye
+ou: Group5
+uid: 4188
+ Q==

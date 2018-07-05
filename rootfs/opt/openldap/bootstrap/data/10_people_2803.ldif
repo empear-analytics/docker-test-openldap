@@ -1,0 +1,13 @@
+dn: cn=Dominica+sn=Sarcinella,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dominica Sarcinella
+cn: Sarcinella
+givenname: Dominica
+mail: dominica.sarcinella@planetexpress.com
+userPassword: Dominica
+ou: flight_crew
+uid: 2803
+ Q==

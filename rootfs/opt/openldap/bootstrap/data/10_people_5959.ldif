@@ -1,0 +1,13 @@
+dn: cn=Laure+sn=Futch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Laure Futch
+cn: Futch
+givenname: Laure
+mail: laure.futch@planetexpress.com
+userPassword: Laure
+ou: admin_staff
+uid: 5959
+ Q==

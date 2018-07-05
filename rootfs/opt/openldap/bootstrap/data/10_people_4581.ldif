@@ -1,0 +1,13 @@
+dn: cn=Rachel+sn=Tucay,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rachel Tucay
+cn: Tucay
+givenname: Rachel
+mail: rachel.tucay@planetexpress.com
+userPassword: Rachel
+ou: flight_crew
+uid: 4581
+ Q==

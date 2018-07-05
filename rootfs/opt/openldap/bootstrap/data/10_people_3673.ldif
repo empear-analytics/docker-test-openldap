@@ -1,0 +1,13 @@
+dn: cn=Daisy+sn=Shetrone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daisy Shetrone
+cn: Shetrone
+givenname: Daisy
+mail: daisy.shetrone@planetexpress.com
+userPassword: Daisy
+ou: OtherGroup
+uid: 3673
+ Q==

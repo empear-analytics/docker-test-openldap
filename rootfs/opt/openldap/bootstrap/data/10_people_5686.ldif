@@ -1,0 +1,13 @@
+dn: cn=Myriam+sn=Colier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Myriam Colier
+cn: Colier
+givenname: Myriam
+mail: myriam.colier@planetexpress.com
+userPassword: Myriam
+ou: OtherGroup
+uid: 5686
+ Q==

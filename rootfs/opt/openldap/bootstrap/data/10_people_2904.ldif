@@ -1,0 +1,13 @@
+dn: cn=Otha+sn=Cilenti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Otha Cilenti
+cn: Cilenti
+givenname: Otha
+mail: otha.cilenti@planetexpress.com
+userPassword: Otha
+ou: Group5
+uid: 2904
+ Q==

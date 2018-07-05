@@ -1,0 +1,13 @@
+dn: cn=Clarine+sn=Eveleth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clarine Eveleth
+cn: Eveleth
+givenname: Clarine
+mail: clarine.eveleth@planetexpress.com
+userPassword: Clarine
+ou: admin_staff
+uid: 4634
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Sueann+sn=Steffey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sueann Steffey
+cn: Steffey
+givenname: Sueann
+mail: sueann.steffey@planetexpress.com
+userPassword: Sueann
+ou: flight_crew
+uid: 528
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Demetrice+sn=Bergstresser,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Demetrice Bergstresser
+cn: Bergstresser
+givenname: Demetrice
+mail: demetrice.bergstresser@planetexpress.com
+userPassword: Demetrice
+ou: OtherGroup
+uid: 519
+ Q==

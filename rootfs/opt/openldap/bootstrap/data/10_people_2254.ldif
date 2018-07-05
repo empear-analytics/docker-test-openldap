@@ -1,0 +1,13 @@
+dn: cn=Dionne+sn=Wickline,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dionne Wickline
+cn: Wickline
+givenname: Dionne
+mail: dionne.wickline@planetexpress.com
+userPassword: Dionne
+ou: Group5
+uid: 2254
+ Q==

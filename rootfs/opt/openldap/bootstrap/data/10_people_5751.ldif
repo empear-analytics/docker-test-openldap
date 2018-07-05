@@ -1,0 +1,13 @@
+dn: cn=Aundrea+sn=Panchana,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aundrea Panchana
+cn: Panchana
+givenname: Aundrea
+mail: aundrea.panchana@planetexpress.com
+userPassword: Aundrea
+ou: OtherGroup
+uid: 5751
+ Q==

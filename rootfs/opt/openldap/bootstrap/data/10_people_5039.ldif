@@ -1,0 +1,13 @@
+dn: cn=Jorge+sn=Roderick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jorge Roderick
+cn: Roderick
+givenname: Jorge
+mail: jorge.roderick@planetexpress.com
+userPassword: Jorge
+ou: flight_crew
+uid: 5039
+ Q==

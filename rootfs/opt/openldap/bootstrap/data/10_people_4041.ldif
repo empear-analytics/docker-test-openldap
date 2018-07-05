@@ -1,0 +1,13 @@
+dn: cn=Irmgard+sn=Reichman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Irmgard Reichman
+cn: Reichman
+givenname: Irmgard
+mail: irmgard.reichman@planetexpress.com
+userPassword: Irmgard
+ou: OtherGroup
+uid: 4041
+ Q==

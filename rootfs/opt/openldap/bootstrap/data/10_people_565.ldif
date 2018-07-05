@@ -1,0 +1,13 @@
+dn: cn=Minnie+sn=Salaza,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Minnie Salaza
+cn: Salaza
+givenname: Minnie
+mail: minnie.salaza@planetexpress.com
+userPassword: Minnie
+ou: OtherGroup
+uid: 565
+ Q==

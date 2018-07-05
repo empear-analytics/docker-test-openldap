@@ -1,0 +1,13 @@
+dn: cn=Reta+sn=Arjes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reta Arjes
+cn: Arjes
+givenname: Reta
+mail: reta.arjes@planetexpress.com
+userPassword: Reta
+ou: Group5
+uid: 870
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Liana+sn=Bibiano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Liana Bibiano
+cn: Bibiano
+givenname: Liana
+mail: liana.bibiano@planetexpress.com
+userPassword: Liana
+ou: Group5
+uid: 4637
+ Q==

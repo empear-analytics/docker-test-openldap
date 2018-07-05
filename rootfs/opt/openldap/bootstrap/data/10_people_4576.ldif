@@ -1,0 +1,13 @@
+dn: cn=Pete+sn=Bartow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pete Bartow
+cn: Bartow
+givenname: Pete
+mail: pete.bartow@planetexpress.com
+userPassword: Pete
+ou: flight_crew
+uid: 4576
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Andre+sn=Mcglone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andre Mcglone
+cn: Mcglone
+givenname: Andre
+mail: andre.mcglone@planetexpress.com
+userPassword: Andre
+ou: OtherGroup
+uid: 4969
+ Q==

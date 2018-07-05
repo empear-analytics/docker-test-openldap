@@ -1,0 +1,13 @@
+dn: cn=Wava+sn=Monington,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wava Monington
+cn: Monington
+givenname: Wava
+mail: wava.monington@planetexpress.com
+userPassword: Wava
+ou: OtherGroup
+uid: 5624
+ Q==

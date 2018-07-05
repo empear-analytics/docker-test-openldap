@@ -1,0 +1,13 @@
+dn: cn=Katrina+sn=Mille,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katrina Mille
+cn: Mille
+givenname: Katrina
+mail: katrina.mille@planetexpress.com
+userPassword: Katrina
+ou: admin_staff
+uid: 529
+ Q==

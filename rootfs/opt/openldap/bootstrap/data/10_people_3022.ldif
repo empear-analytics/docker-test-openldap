@@ -1,0 +1,13 @@
+dn: cn=Marcelino+sn=Catholic,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marcelino Catholic
+cn: Catholic
+givenname: Marcelino
+mail: marcelino.catholic@planetexpress.com
+userPassword: Marcelino
+ou: admin_staff
+uid: 3022
+ Q==

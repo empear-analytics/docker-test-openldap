@@ -1,0 +1,13 @@
+dn: cn=Zona+sn=Morrill,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zona Morrill
+cn: Morrill
+givenname: Zona
+mail: zona.morrill@planetexpress.com
+userPassword: Zona
+ou: flight_crew
+uid: 1088
+ Q==

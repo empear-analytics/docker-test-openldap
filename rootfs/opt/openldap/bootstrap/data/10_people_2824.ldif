@@ -1,0 +1,13 @@
+dn: cn=Barrie+sn=Demonte,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Barrie Demonte
+cn: Demonte
+givenname: Barrie
+mail: barrie.demonte@planetexpress.com
+userPassword: Barrie
+ou: flight_crew
+uid: 2824
+ Q==

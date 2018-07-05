@@ -1,0 +1,13 @@
+dn: cn=Verlie+sn=Jonah,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Verlie Jonah
+cn: Jonah
+givenname: Verlie
+mail: verlie.jonah@planetexpress.com
+userPassword: Verlie
+ou: admin_staff
+uid: 3116
+ Q==

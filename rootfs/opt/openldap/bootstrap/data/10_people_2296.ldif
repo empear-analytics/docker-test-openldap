@@ -1,0 +1,13 @@
+dn: cn=Bobbie+sn=Pilsner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bobbie Pilsner
+cn: Pilsner
+givenname: Bobbie
+mail: bobbie.pilsner@planetexpress.com
+userPassword: Bobbie
+ou: flight_crew
+uid: 2296
+ Q==

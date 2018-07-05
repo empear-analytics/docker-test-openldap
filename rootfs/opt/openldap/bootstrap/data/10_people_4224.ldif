@@ -1,0 +1,13 @@
+dn: cn=Jamar+sn=Gunlock,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamar Gunlock
+cn: Gunlock
+givenname: Jamar
+mail: jamar.gunlock@planetexpress.com
+userPassword: Jamar
+ou: flight_crew
+uid: 4224
+ Q==

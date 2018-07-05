@@ -1,0 +1,13 @@
+dn: cn=Beatrice+sn=Lease,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beatrice Lease
+cn: Lease
+givenname: Beatrice
+mail: beatrice.lease@planetexpress.com
+userPassword: Beatrice
+ou: flight_crew
+uid: 4816
+ Q==

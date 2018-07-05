@@ -1,0 +1,13 @@
+dn: cn=Natacha+sn=Oehlschlager,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Natacha Oehlschlager
+cn: Oehlschlager
+givenname: Natacha
+mail: natacha.oehlschlager@planetexpress.com
+userPassword: Natacha
+ou: flight_crew
+uid: 4987
+ Q==

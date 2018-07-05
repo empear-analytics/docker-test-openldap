@@ -1,0 +1,13 @@
+dn: cn=Neal+sn=Hardsock,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Neal Hardsock
+cn: Hardsock
+givenname: Neal
+mail: neal.hardsock@planetexpress.com
+userPassword: Neal
+ou: OtherGroup
+uid: 1080
+ Q==

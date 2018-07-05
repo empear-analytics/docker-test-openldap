@@ -1,0 +1,13 @@
+dn: cn=Byron+sn=Sedlack,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Byron Sedlack
+cn: Sedlack
+givenname: Byron
+mail: byron.sedlack@planetexpress.com
+userPassword: Byron
+ou: flight_crew
+uid: 4059
+ Q==

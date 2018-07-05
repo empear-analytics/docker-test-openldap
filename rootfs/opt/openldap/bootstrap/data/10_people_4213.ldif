@@ -1,0 +1,13 @@
+dn: cn=Whitley+sn=Tarbox,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Whitley Tarbox
+cn: Tarbox
+givenname: Whitley
+mail: whitley.tarbox@planetexpress.com
+userPassword: Whitley
+ou: Group5
+uid: 4213
+ Q==

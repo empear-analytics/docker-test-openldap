@@ -1,0 +1,13 @@
+dn: cn=Serita+sn=Cude,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Serita Cude
+cn: Cude
+givenname: Serita
+mail: serita.cude@planetexpress.com
+userPassword: Serita
+ou: flight_crew
+uid: 4137
+ Q==

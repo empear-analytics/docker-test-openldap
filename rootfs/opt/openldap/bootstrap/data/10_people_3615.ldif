@@ -1,0 +1,13 @@
+dn: cn=Steven+sn=Intveld,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Steven Intveld
+cn: Intveld
+givenname: Steven
+mail: steven.intveld@planetexpress.com
+userPassword: Steven
+ou: Group5
+uid: 3615
+ Q==

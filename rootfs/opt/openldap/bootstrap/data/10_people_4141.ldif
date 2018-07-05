@@ -1,0 +1,13 @@
+dn: cn=Nydia+sn=Caple,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nydia Caple
+cn: Caple
+givenname: Nydia
+mail: nydia.caple@planetexpress.com
+userPassword: Nydia
+ou: admin_staff
+uid: 4141
+ Q==

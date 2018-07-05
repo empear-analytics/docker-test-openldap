@@ -1,0 +1,13 @@
+dn: cn=Merri+sn=Shellhamer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Merri Shellhamer
+cn: Shellhamer
+givenname: Merri
+mail: merri.shellhamer@planetexpress.com
+userPassword: Merri
+ou: OtherGroup
+uid: 682
+ Q==

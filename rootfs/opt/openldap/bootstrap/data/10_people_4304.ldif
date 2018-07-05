@@ -1,0 +1,13 @@
+dn: cn=Alyssa+sn=Axt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alyssa Axt
+cn: Axt
+givenname: Alyssa
+mail: alyssa.axt@planetexpress.com
+userPassword: Alyssa
+ou: flight_crew
+uid: 4304
+ Q==

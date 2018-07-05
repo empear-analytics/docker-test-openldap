@@ -1,0 +1,13 @@
+dn: cn=Felton+sn=Hansrote,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Felton Hansrote
+cn: Hansrote
+givenname: Felton
+mail: felton.hansrote@planetexpress.com
+userPassword: Felton
+ou: Group5
+uid: 5359
+ Q==

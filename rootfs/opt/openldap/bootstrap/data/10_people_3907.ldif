@@ -1,0 +1,13 @@
+dn: cn=Quinton+sn=Lall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Quinton Lall
+cn: Lall
+givenname: Quinton
+mail: quinton.lall@planetexpress.com
+userPassword: Quinton
+ou: flight_crew
+uid: 3907
+ Q==

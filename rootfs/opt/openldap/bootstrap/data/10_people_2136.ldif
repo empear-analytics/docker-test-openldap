@@ -1,0 +1,13 @@
+dn: cn=Giuseppe+sn=Wills,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Giuseppe Wills
+cn: Wills
+givenname: Giuseppe
+mail: giuseppe.wills@planetexpress.com
+userPassword: Giuseppe
+ou: flight_crew
+uid: 2136
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Adela+sn=Bardney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adela Bardney
+cn: Bardney
+givenname: Adela
+mail: adela.bardney@planetexpress.com
+userPassword: Adela
+ou: OtherGroup
+uid: 5623
+ Q==

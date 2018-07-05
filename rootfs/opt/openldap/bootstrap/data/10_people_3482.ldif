@@ -1,0 +1,13 @@
+dn: cn=Saran+sn=Decasas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Saran Decasas
+cn: Decasas
+givenname: Saran
+mail: saran.decasas@planetexpress.com
+userPassword: Saran
+ou: OtherGroup
+uid: 3482
+ Q==

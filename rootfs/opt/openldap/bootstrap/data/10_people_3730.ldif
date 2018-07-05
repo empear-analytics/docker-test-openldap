@@ -1,0 +1,13 @@
+dn: cn=Vincenza+sn=Seate,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vincenza Seate
+cn: Seate
+givenname: Vincenza
+mail: vincenza.seate@planetexpress.com
+userPassword: Vincenza
+ou: Group5
+uid: 3730
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Andera+sn=Shigematsu,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andera Shigematsu
+cn: Shigematsu
+givenname: Andera
+mail: andera.shigematsu@planetexpress.com
+userPassword: Andera
+ou: flight_crew
+uid: 2154
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Taneka+sn=Zeger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Taneka Zeger
+cn: Zeger
+givenname: Taneka
+mail: taneka.zeger@planetexpress.com
+userPassword: Taneka
+ou: flight_crew
+uid: 3851
+ Q==

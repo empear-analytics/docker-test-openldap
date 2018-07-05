@@ -1,0 +1,13 @@
+dn: cn=Kisha+sn=Lemmert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kisha Lemmert
+cn: Lemmert
+givenname: Kisha
+mail: kisha.lemmert@planetexpress.com
+userPassword: Kisha
+ou: OtherGroup
+uid: 102
+ Q==

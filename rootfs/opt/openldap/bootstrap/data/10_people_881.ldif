@@ -1,0 +1,13 @@
+dn: cn=Lyndsay+sn=Greenler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lyndsay Greenler
+cn: Greenler
+givenname: Lyndsay
+mail: lyndsay.greenler@planetexpress.com
+userPassword: Lyndsay
+ou: OtherGroup
+uid: 881
+ Q==

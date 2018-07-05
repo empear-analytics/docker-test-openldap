@@ -1,0 +1,13 @@
+dn: cn=Caryl+sn=Mccallon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Caryl Mccallon
+cn: Mccallon
+givenname: Caryl
+mail: caryl.mccallon@planetexpress.com
+userPassword: Caryl
+ou: Group5
+uid: 5597
+ Q==

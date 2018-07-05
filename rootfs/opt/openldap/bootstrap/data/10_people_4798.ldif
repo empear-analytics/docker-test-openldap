@@ -1,0 +1,13 @@
+dn: cn=Angelena+sn=Saft,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelena Saft
+cn: Saft
+givenname: Angelena
+mail: angelena.saft@planetexpress.com
+userPassword: Angelena
+ou: flight_crew
+uid: 4798
+ Q==

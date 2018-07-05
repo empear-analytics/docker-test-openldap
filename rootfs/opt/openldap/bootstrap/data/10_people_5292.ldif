@@ -1,0 +1,13 @@
+dn: cn=Marlo+sn=Leimberger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marlo Leimberger
+cn: Leimberger
+givenname: Marlo
+mail: marlo.leimberger@planetexpress.com
+userPassword: Marlo
+ou: Group5
+uid: 5292
+ Q==

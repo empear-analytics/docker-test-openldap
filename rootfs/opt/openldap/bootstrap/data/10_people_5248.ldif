@@ -1,0 +1,13 @@
+dn: cn=Ciara+sn=Heuring,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ciara Heuring
+cn: Heuring
+givenname: Ciara
+mail: ciara.heuring@planetexpress.com
+userPassword: Ciara
+ou: flight_crew
+uid: 5248
+ Q==

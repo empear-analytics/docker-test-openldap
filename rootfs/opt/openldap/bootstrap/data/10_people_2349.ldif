@@ -1,0 +1,13 @@
+dn: cn=Micki+sn=Trendell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Micki Trendell
+cn: Trendell
+givenname: Micki
+mail: micki.trendell@planetexpress.com
+userPassword: Micki
+ou: flight_crew
+uid: 2349
+ Q==

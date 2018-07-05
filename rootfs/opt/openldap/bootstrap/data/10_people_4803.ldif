@@ -1,0 +1,13 @@
+dn: cn=Dewayne+sn=Mosbarger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dewayne Mosbarger
+cn: Mosbarger
+givenname: Dewayne
+mail: dewayne.mosbarger@planetexpress.com
+userPassword: Dewayne
+ou: OtherGroup
+uid: 4803
+ Q==

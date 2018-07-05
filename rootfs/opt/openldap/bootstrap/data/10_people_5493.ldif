@@ -1,0 +1,13 @@
+dn: cn=Mariette+sn=Hollopeter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mariette Hollopeter
+cn: Hollopeter
+givenname: Mariette
+mail: mariette.hollopeter@planetexpress.com
+userPassword: Mariette
+ou: admin_staff
+uid: 5493
+ Q==

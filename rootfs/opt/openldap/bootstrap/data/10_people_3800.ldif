@@ -1,0 +1,13 @@
+dn: cn=Katlyn+sn=Cregin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katlyn Cregin
+cn: Cregin
+givenname: Katlyn
+mail: katlyn.cregin@planetexpress.com
+userPassword: Katlyn
+ou: OtherGroup
+uid: 3800
+ Q==

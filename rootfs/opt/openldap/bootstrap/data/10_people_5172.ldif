@@ -1,0 +1,13 @@
+dn: cn=Genevieve+sn=Flaa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Genevieve Flaa
+cn: Flaa
+givenname: Genevieve
+mail: genevieve.flaa@planetexpress.com
+userPassword: Genevieve
+ou: admin_staff
+uid: 5172
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Rosetta+sn=Juart,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosetta Juart
+cn: Juart
+givenname: Rosetta
+mail: rosetta.juart@planetexpress.com
+userPassword: Rosetta
+ou: Group5
+uid: 667
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jeri+sn=Chilinskas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeri Chilinskas
+cn: Chilinskas
+givenname: Jeri
+mail: jeri.chilinskas@planetexpress.com
+userPassword: Jeri
+ou: admin_staff
+uid: 1047
+ Q==

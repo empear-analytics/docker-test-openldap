@@ -1,0 +1,13 @@
+dn: cn=Adria+sn=Loeckle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adria Loeckle
+cn: Loeckle
+givenname: Adria
+mail: adria.loeckle@planetexpress.com
+userPassword: Adria
+ou: OtherGroup
+uid: 2660
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ok+sn=Darakjy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ok Darakjy
+cn: Darakjy
+givenname: Ok
+mail: ok.darakjy@planetexpress.com
+userPassword: Ok
+ou: Group5
+uid: 2058
+ Q==

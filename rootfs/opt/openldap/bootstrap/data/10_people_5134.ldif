@@ -1,0 +1,13 @@
+dn: cn=Corina+sn=Cap,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Corina Cap
+cn: Cap
+givenname: Corina
+mail: corina.cap@planetexpress.com
+userPassword: Corina
+ou: OtherGroup
+uid: 5134
+ Q==

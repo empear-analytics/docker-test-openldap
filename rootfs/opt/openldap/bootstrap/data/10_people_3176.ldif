@@ -1,0 +1,13 @@
+dn: cn=Mechelle+sn=Stamdifer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mechelle Stamdifer
+cn: Stamdifer
+givenname: Mechelle
+mail: mechelle.stamdifer@planetexpress.com
+userPassword: Mechelle
+ou: admin_staff
+uid: 3176
+ Q==

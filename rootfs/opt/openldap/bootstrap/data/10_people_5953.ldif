@@ -1,0 +1,13 @@
+dn: cn=Jovita+sn=Furia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jovita Furia
+cn: Furia
+givenname: Jovita
+mail: jovita.furia@planetexpress.com
+userPassword: Jovita
+ou: OtherGroup
+uid: 5953
+ Q==

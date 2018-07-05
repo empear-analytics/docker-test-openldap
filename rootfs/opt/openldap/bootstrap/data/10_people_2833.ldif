@@ -1,0 +1,13 @@
+dn: cn=Renate+sn=Zielonko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Renate Zielonko
+cn: Zielonko
+givenname: Renate
+mail: renate.zielonko@planetexpress.com
+userPassword: Renate
+ou: OtherGroup
+uid: 2833
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Bradford+sn=Lascaro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bradford Lascaro
+cn: Lascaro
+givenname: Bradford
+mail: bradford.lascaro@planetexpress.com
+userPassword: Bradford
+ou: Group5
+uid: 3566
+ Q==

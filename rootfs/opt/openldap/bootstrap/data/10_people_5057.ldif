@@ -1,0 +1,13 @@
+dn: cn=Alona+sn=Vainio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alona Vainio
+cn: Vainio
+givenname: Alona
+mail: alona.vainio@planetexpress.com
+userPassword: Alona
+ou: flight_crew
+uid: 5057
+ Q==

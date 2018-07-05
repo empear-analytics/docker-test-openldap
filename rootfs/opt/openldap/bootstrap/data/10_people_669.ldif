@@ -1,0 +1,13 @@
+dn: cn=Shane+sn=Underberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shane Underberg
+cn: Underberg
+givenname: Shane
+mail: shane.underberg@planetexpress.com
+userPassword: Shane
+ou: OtherGroup
+uid: 669
+ Q==

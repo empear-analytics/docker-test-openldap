@@ -1,0 +1,13 @@
+dn: cn=Antoinette+sn=Swayne,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Antoinette Swayne
+cn: Swayne
+givenname: Antoinette
+mail: antoinette.swayne@planetexpress.com
+userPassword: Antoinette
+ou: OtherGroup
+uid: 4282
+ Q==

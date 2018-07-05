@@ -1,0 +1,13 @@
+dn: cn=Valda+sn=Bennison,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Valda Bennison
+cn: Bennison
+givenname: Valda
+mail: valda.bennison@planetexpress.com
+userPassword: Valda
+ou: admin_staff
+uid: 398
+ Q==

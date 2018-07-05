@@ -1,0 +1,13 @@
+dn: cn=Loyce+sn=Colleen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loyce Colleen
+cn: Colleen
+givenname: Loyce
+mail: loyce.colleen@planetexpress.com
+userPassword: Loyce
+ou: Group5
+uid: 4799
+ Q==

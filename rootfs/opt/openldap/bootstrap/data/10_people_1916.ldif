@@ -1,0 +1,13 @@
+dn: cn=Toby+sn=Agyeman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Toby Agyeman
+cn: Agyeman
+givenname: Toby
+mail: toby.agyeman@planetexpress.com
+userPassword: Toby
+ou: OtherGroup
+uid: 1916
+ Q==

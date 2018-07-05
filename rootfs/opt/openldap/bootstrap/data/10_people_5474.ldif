@@ -1,0 +1,13 @@
+dn: cn=Maire+sn=Schaefer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maire Schaefer
+cn: Schaefer
+givenname: Maire
+mail: maire.schaefer@planetexpress.com
+userPassword: Maire
+ou: admin_staff
+uid: 5474
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Darrick+sn=Mayfield,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darrick Mayfield
+cn: Mayfield
+givenname: Darrick
+mail: darrick.mayfield@planetexpress.com
+userPassword: Darrick
+ou: Group5
+uid: 3522
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tien+sn=Rubin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tien Rubin
+cn: Rubin
+givenname: Tien
+mail: tien.rubin@planetexpress.com
+userPassword: Tien
+ou: Group5
+uid: 949
+ Q==

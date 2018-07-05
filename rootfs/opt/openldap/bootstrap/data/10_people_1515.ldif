@@ -1,0 +1,13 @@
+dn: cn=Versie+sn=Pilot,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Versie Pilot
+cn: Pilot
+givenname: Versie
+mail: versie.pilot@planetexpress.com
+userPassword: Versie
+ou: OtherGroup
+uid: 1515
+ Q==

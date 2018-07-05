@@ -1,0 +1,13 @@
+dn: cn=Ta+sn=Loupe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ta Loupe
+cn: Loupe
+givenname: Ta
+mail: ta.loupe@planetexpress.com
+userPassword: Ta
+ou: flight_crew
+uid: 4585
+ Q==

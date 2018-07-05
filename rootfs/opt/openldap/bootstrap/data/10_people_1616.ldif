@@ -1,0 +1,13 @@
+dn: cn=Leah+sn=Ellinwood,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leah Ellinwood
+cn: Ellinwood
+givenname: Leah
+mail: leah.ellinwood@planetexpress.com
+userPassword: Leah
+ou: admin_staff
+uid: 1616
+ Q==

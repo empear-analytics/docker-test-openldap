@@ -1,0 +1,13 @@
+dn: cn=Consuela+sn=Winegard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Consuela Winegard
+cn: Winegard
+givenname: Consuela
+mail: consuela.winegard@planetexpress.com
+userPassword: Consuela
+ou: flight_crew
+uid: 2651
+ Q==

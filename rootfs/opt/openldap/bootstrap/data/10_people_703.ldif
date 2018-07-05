@@ -1,0 +1,13 @@
+dn: cn=Giovanni+sn=Penix,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Giovanni Penix
+cn: Penix
+givenname: Giovanni
+mail: giovanni.penix@planetexpress.com
+userPassword: Giovanni
+ou: OtherGroup
+uid: 703
+ Q==

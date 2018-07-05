@@ -1,0 +1,13 @@
+dn: cn=Alycia+sn=Siler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alycia Siler
+cn: Siler
+givenname: Alycia
+mail: alycia.siler@planetexpress.com
+userPassword: Alycia
+ou: admin_staff
+uid: 3392
+ Q==

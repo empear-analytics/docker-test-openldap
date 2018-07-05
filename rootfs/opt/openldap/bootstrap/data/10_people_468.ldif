@@ -1,0 +1,13 @@
+dn: cn=Bambi+sn=Betts,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bambi Betts
+cn: Betts
+givenname: Bambi
+mail: bambi.betts@planetexpress.com
+userPassword: Bambi
+ou: Group5
+uid: 468
+ Q==

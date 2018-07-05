@@ -1,0 +1,13 @@
+dn: cn=Amos+sn=Palamino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Amos Palamino
+cn: Palamino
+givenname: Amos
+mail: amos.palamino@planetexpress.com
+userPassword: Amos
+ou: admin_staff
+uid: 5223
+ Q==

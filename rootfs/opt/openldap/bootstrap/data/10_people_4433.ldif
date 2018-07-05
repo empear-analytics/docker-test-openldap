@@ -1,0 +1,13 @@
+dn: cn=Elane+sn=Yott,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elane Yott
+cn: Yott
+givenname: Elane
+mail: elane.yott@planetexpress.com
+userPassword: Elane
+ou: admin_staff
+uid: 4433
+ Q==

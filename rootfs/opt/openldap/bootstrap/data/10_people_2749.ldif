@@ -1,0 +1,13 @@
+dn: cn=Hipolito+sn=Mcfan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hipolito Mcfan
+cn: Mcfan
+givenname: Hipolito
+mail: hipolito.mcfan@planetexpress.com
+userPassword: Hipolito
+ou: OtherGroup
+uid: 2749
+ Q==

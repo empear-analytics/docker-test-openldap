@@ -1,0 +1,13 @@
+dn: cn=Argentina+sn=Siniard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Argentina Siniard
+cn: Siniard
+givenname: Argentina
+mail: argentina.siniard@planetexpress.com
+userPassword: Argentina
+ou: Group5
+uid: 441
+ Q==

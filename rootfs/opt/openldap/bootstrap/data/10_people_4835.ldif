@@ -1,0 +1,13 @@
+dn: cn=Angelena+sn=Mcclymonds,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelena Mcclymonds
+cn: Mcclymonds
+givenname: Angelena
+mail: angelena.mcclymonds@planetexpress.com
+userPassword: Angelena
+ou: OtherGroup
+uid: 4835
+ Q==

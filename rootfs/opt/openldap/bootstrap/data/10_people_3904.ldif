@@ -1,0 +1,13 @@
+dn: cn=Marin+sn=Woosley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marin Woosley
+cn: Woosley
+givenname: Marin
+mail: marin.woosley@planetexpress.com
+userPassword: Marin
+ou: OtherGroup
+uid: 3904
+ Q==

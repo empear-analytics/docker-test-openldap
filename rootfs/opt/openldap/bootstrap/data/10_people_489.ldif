@@ -1,0 +1,13 @@
+dn: cn=Robert+sn=Votaw,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Robert Votaw
+cn: Votaw
+givenname: Robert
+mail: robert.votaw@planetexpress.com
+userPassword: Robert
+ou: Group5
+uid: 489
+ Q==

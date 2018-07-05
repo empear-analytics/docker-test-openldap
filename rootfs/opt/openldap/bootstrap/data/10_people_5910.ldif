@@ -1,0 +1,13 @@
+dn: cn=Clyde+sn=Mccausland,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clyde Mccausland
+cn: Mccausland
+givenname: Clyde
+mail: clyde.mccausland@planetexpress.com
+userPassword: Clyde
+ou: flight_crew
+uid: 5910
+ Q==

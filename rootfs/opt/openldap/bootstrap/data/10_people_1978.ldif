@@ -1,0 +1,13 @@
+dn: cn=Luanne+sn=Filion,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Luanne Filion
+cn: Filion
+givenname: Luanne
+mail: luanne.filion@planetexpress.com
+userPassword: Luanne
+ou: Group5
+uid: 1978
+ Q==

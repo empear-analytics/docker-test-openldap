@@ -1,0 +1,13 @@
+dn: cn=Lizeth+sn=Serven,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lizeth Serven
+cn: Serven
+givenname: Lizeth
+mail: lizeth.serven@planetexpress.com
+userPassword: Lizeth
+ou: Group5
+uid: 5173
+ Q==

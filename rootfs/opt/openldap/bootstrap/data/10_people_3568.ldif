@@ -1,0 +1,13 @@
+dn: cn=Leslie+sn=Herout,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leslie Herout
+cn: Herout
+givenname: Leslie
+mail: leslie.herout@planetexpress.com
+userPassword: Leslie
+ou: Group5
+uid: 3568
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Charita+sn=Spofford,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charita Spofford
+cn: Spofford
+givenname: Charita
+mail: charita.spofford@planetexpress.com
+userPassword: Charita
+ou: admin_staff
+uid: 4096
+ Q==

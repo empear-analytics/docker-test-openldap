@@ -1,0 +1,13 @@
+dn: cn=Deeanna+sn=Dispenza,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deeanna Dispenza
+cn: Dispenza
+givenname: Deeanna
+mail: deeanna.dispenza@planetexpress.com
+userPassword: Deeanna
+ou: OtherGroup
+uid: 1805
+ Q==

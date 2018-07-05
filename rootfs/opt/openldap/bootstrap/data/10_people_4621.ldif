@@ -1,0 +1,13 @@
+dn: cn=Scottie+sn=Quesada,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Scottie Quesada
+cn: Quesada
+givenname: Scottie
+mail: scottie.quesada@planetexpress.com
+userPassword: Scottie
+ou: admin_staff
+uid: 4621
+ Q==

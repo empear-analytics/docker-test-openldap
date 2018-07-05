@@ -1,0 +1,13 @@
+dn: cn=Leona+sn=Zerko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leona Zerko
+cn: Zerko
+givenname: Leona
+mail: leona.zerko@planetexpress.com
+userPassword: Leona
+ou: flight_crew
+uid: 1060
+ Q==

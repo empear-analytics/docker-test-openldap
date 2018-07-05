@@ -1,0 +1,13 @@
+dn: cn=Lorna+sn=Pechal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lorna Pechal
+cn: Pechal
+givenname: Lorna
+mail: lorna.pechal@planetexpress.com
+userPassword: Lorna
+ou: Group5
+uid: 2837
+ Q==

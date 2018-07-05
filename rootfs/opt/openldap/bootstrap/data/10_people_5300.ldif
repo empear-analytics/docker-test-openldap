@@ -1,0 +1,13 @@
+dn: cn=Scarlet+sn=Keefner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Scarlet Keefner
+cn: Keefner
+givenname: Scarlet
+mail: scarlet.keefner@planetexpress.com
+userPassword: Scarlet
+ou: admin_staff
+uid: 5300
+ Q==

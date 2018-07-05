@@ -1,0 +1,13 @@
+dn: cn=Miles+sn=Besemer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Miles Besemer
+cn: Besemer
+givenname: Miles
+mail: miles.besemer@planetexpress.com
+userPassword: Miles
+ou: flight_crew
+uid: 5906
+ Q==

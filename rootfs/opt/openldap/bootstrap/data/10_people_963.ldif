@@ -1,0 +1,13 @@
+dn: cn=Armandina+sn=Edgington,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Armandina Edgington
+cn: Edgington
+givenname: Armandina
+mail: armandina.edgington@planetexpress.com
+userPassword: Armandina
+ou: flight_crew
+uid: 963
+ Q==

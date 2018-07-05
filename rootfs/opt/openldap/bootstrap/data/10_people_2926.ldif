@@ -1,0 +1,13 @@
+dn: cn=Miguelina+sn=Consalvo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Miguelina Consalvo
+cn: Consalvo
+givenname: Miguelina
+mail: miguelina.consalvo@planetexpress.com
+userPassword: Miguelina
+ou: OtherGroup
+uid: 2926
+ Q==

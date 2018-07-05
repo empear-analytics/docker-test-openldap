@@ -1,0 +1,13 @@
+dn: cn=Naoma+sn=Derousselle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Naoma Derousselle
+cn: Derousselle
+givenname: Naoma
+mail: naoma.derousselle@planetexpress.com
+userPassword: Naoma
+ou: flight_crew
+uid: 2416
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ruthanne+sn=Salam,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ruthanne Salam
+cn: Salam
+givenname: Ruthanne
+mail: ruthanne.salam@planetexpress.com
+userPassword: Ruthanne
+ou: OtherGroup
+uid: 4804
+ Q==

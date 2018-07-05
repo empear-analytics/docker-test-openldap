@@ -1,0 +1,13 @@
+dn: cn=Danial+sn=Spirko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Danial Spirko
+cn: Spirko
+givenname: Danial
+mail: danial.spirko@planetexpress.com
+userPassword: Danial
+ou: admin_staff
+uid: 269
+ Q==

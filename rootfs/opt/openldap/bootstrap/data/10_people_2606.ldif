@@ -1,0 +1,13 @@
+dn: cn=Rudolf+sn=Surbaugh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rudolf Surbaugh
+cn: Surbaugh
+givenname: Rudolf
+mail: rudolf.surbaugh@planetexpress.com
+userPassword: Rudolf
+ou: OtherGroup
+uid: 2606
+ Q==

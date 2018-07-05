@@ -1,0 +1,13 @@
+dn: cn=Theodore+sn=Sanantonio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Theodore Sanantonio
+cn: Sanantonio
+givenname: Theodore
+mail: theodore.sanantonio@planetexpress.com
+userPassword: Theodore
+ou: flight_crew
+uid: 5282
+ Q==

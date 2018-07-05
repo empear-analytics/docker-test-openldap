@@ -1,0 +1,13 @@
+dn: cn=Shauna+sn=Sammer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shauna Sammer
+cn: Sammer
+givenname: Shauna
+mail: shauna.sammer@planetexpress.com
+userPassword: Shauna
+ou: OtherGroup
+uid: 2074
+ Q==

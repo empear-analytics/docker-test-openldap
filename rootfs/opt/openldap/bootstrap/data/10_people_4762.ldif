@@ -1,0 +1,13 @@
+dn: cn=Alejandrina+sn=Just,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alejandrina Just
+cn: Just
+givenname: Alejandrina
+mail: alejandrina.just@planetexpress.com
+userPassword: Alejandrina
+ou: admin_staff
+uid: 4762
+ Q==

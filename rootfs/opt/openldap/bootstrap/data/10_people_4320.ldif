@@ -1,0 +1,13 @@
+dn: cn=Rosalind+sn=Griffie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosalind Griffie
+cn: Griffie
+givenname: Rosalind
+mail: rosalind.griffie@planetexpress.com
+userPassword: Rosalind
+ou: OtherGroup
+uid: 4320
+ Q==

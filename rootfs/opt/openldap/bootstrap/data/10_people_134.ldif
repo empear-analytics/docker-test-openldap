@@ -1,0 +1,13 @@
+dn: cn=Shala+sn=Whittiker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shala Whittiker
+cn: Whittiker
+givenname: Shala
+mail: shala.whittiker@planetexpress.com
+userPassword: Shala
+ou: flight_crew
+uid: 134
+ Q==

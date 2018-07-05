@@ -1,0 +1,13 @@
+dn: cn=Myrna+sn=Depina,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Myrna Depina
+cn: Depina
+givenname: Myrna
+mail: myrna.depina@planetexpress.com
+userPassword: Myrna
+ou: admin_staff
+uid: 5116
+ Q==

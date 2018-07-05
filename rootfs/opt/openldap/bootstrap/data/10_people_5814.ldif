@@ -1,0 +1,13 @@
+dn: cn=Louis+sn=Harvilchuck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Louis Harvilchuck
+cn: Harvilchuck
+givenname: Louis
+mail: louis.harvilchuck@planetexpress.com
+userPassword: Louis
+ou: OtherGroup
+uid: 5814
+ Q==

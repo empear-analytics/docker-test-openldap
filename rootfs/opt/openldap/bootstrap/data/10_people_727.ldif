@@ -1,0 +1,13 @@
+dn: cn=Nicky+sn=Marsteller,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nicky Marsteller
+cn: Marsteller
+givenname: Nicky
+mail: nicky.marsteller@planetexpress.com
+userPassword: Nicky
+ou: OtherGroup
+uid: 727
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Chadwick+sn=Oehler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chadwick Oehler
+cn: Oehler
+givenname: Chadwick
+mail: chadwick.oehler@planetexpress.com
+userPassword: Chadwick
+ou: admin_staff
+uid: 3676
+ Q==

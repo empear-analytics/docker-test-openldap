@@ -1,0 +1,13 @@
+dn: cn=Francina+sn=Ortner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Francina Ortner
+cn: Ortner
+givenname: Francina
+mail: francina.ortner@planetexpress.com
+userPassword: Francina
+ou: admin_staff
+uid: 635
+ Q==

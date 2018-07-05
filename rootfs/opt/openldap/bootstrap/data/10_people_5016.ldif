@@ -1,0 +1,13 @@
+dn: cn=Patti+sn=Preist,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Patti Preist
+cn: Preist
+givenname: Patti
+mail: patti.preist@planetexpress.com
+userPassword: Patti
+ou: OtherGroup
+uid: 5016
+ Q==

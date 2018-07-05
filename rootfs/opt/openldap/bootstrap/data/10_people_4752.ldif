@@ -1,0 +1,13 @@
+dn: cn=Kenda+sn=Zukowsky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kenda Zukowsky
+cn: Zukowsky
+givenname: Kenda
+mail: kenda.zukowsky@planetexpress.com
+userPassword: Kenda
+ou: OtherGroup
+uid: 4752
+ Q==

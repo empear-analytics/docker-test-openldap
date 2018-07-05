@@ -1,0 +1,13 @@
+dn: cn=Kay+sn=Dalbec,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kay Dalbec
+cn: Dalbec
+givenname: Kay
+mail: kay.dalbec@planetexpress.com
+userPassword: Kay
+ou: Group5
+uid: 4805
+ Q==

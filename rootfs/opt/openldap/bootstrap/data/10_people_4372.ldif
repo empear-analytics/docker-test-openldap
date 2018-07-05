@@ -1,0 +1,13 @@
+dn: cn=Yetta+sn=Worthen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yetta Worthen
+cn: Worthen
+givenname: Yetta
+mail: yetta.worthen@planetexpress.com
+userPassword: Yetta
+ou: OtherGroup
+uid: 4372
+ Q==

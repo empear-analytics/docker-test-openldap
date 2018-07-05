@@ -1,0 +1,13 @@
+dn: cn=Antonina+sn=Wakula,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Antonina Wakula
+cn: Wakula
+givenname: Antonina
+mail: antonina.wakula@planetexpress.com
+userPassword: Antonina
+ou: Group5
+uid: 2686
+ Q==

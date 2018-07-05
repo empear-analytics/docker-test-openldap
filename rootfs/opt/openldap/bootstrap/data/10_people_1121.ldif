@@ -1,0 +1,13 @@
+dn: cn=Francis+sn=Crapser,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Francis Crapser
+cn: Crapser
+givenname: Francis
+mail: francis.crapser@planetexpress.com
+userPassword: Francis
+ou: flight_crew
+uid: 1121
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Dario+sn=Petitti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dario Petitti
+cn: Petitti
+givenname: Dario
+mail: dario.petitti@planetexpress.com
+userPassword: Dario
+ou: flight_crew
+uid: 3322
+ Q==

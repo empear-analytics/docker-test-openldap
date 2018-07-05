@@ -1,0 +1,13 @@
+dn: cn=Catalina+sn=Waisner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Catalina Waisner
+cn: Waisner
+givenname: Catalina
+mail: catalina.waisner@planetexpress.com
+userPassword: Catalina
+ou: Group5
+uid: 3109
+ Q==

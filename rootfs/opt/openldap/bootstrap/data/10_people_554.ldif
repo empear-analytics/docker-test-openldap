@@ -1,0 +1,13 @@
+dn: cn=Shanel+sn=Whittlesey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shanel Whittlesey
+cn: Whittlesey
+givenname: Shanel
+mail: shanel.whittlesey@planetexpress.com
+userPassword: Shanel
+ou: OtherGroup
+uid: 554
+ Q==

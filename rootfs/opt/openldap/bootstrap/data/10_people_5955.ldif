@@ -1,0 +1,13 @@
+dn: cn=Chiquita+sn=Ammerman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chiquita Ammerman
+cn: Ammerman
+givenname: Chiquita
+mail: chiquita.ammerman@planetexpress.com
+userPassword: Chiquita
+ou: OtherGroup
+uid: 5955
+ Q==

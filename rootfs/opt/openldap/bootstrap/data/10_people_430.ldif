@@ -1,0 +1,13 @@
+dn: cn=Karren+sn=Placha,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karren Placha
+cn: Placha
+givenname: Karren
+mail: karren.placha@planetexpress.com
+userPassword: Karren
+ou: Group5
+uid: 430
+ Q==

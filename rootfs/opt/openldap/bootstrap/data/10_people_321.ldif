@@ -1,0 +1,13 @@
+dn: cn=Alberta+sn=Kensinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alberta Kensinger
+cn: Kensinger
+givenname: Alberta
+mail: alberta.kensinger@planetexpress.com
+userPassword: Alberta
+ou: Group5
+uid: 321
+ Q==

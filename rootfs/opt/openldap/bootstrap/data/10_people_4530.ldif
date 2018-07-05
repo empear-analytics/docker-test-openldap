@@ -1,0 +1,13 @@
+dn: cn=Sally+sn=Hersch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sally Hersch
+cn: Hersch
+givenname: Sally
+mail: sally.hersch@planetexpress.com
+userPassword: Sally
+ou: Group5
+uid: 4530
+ Q==

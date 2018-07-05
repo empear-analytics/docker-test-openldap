@@ -1,0 +1,13 @@
+dn: cn=Sung+sn=Lush,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sung Lush
+cn: Lush
+givenname: Sung
+mail: sung.lush@planetexpress.com
+userPassword: Sung
+ou: Group5
+uid: 5308
+ Q==

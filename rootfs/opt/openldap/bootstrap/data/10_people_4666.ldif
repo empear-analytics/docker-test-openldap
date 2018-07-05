@@ -1,0 +1,13 @@
+dn: cn=Rivka+sn=Erichson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rivka Erichson
+cn: Erichson
+givenname: Rivka
+mail: rivka.erichson@planetexpress.com
+userPassword: Rivka
+ou: Group5
+uid: 4666
+ Q==

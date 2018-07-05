@@ -1,0 +1,13 @@
+dn: cn=Wilton+sn=Avitia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wilton Avitia
+cn: Avitia
+givenname: Wilton
+mail: wilton.avitia@planetexpress.com
+userPassword: Wilton
+ou: Group5
+uid: 5055
+ Q==

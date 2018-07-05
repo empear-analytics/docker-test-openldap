@@ -1,0 +1,13 @@
+dn: cn=Joann+sn=Schnitz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joann Schnitz
+cn: Schnitz
+givenname: Joann
+mail: joann.schnitz@planetexpress.com
+userPassword: Joann
+ou: flight_crew
+uid: 1028
+ Q==

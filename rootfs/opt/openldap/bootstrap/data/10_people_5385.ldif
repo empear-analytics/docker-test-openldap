@@ -1,0 +1,13 @@
+dn: cn=Arturo+sn=Swolley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arturo Swolley
+cn: Swolley
+givenname: Arturo
+mail: arturo.swolley@planetexpress.com
+userPassword: Arturo
+ou: flight_crew
+uid: 5385
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Cristi+sn=Basden,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cristi Basden
+cn: Basden
+givenname: Cristi
+mail: cristi.basden@planetexpress.com
+userPassword: Cristi
+ou: flight_crew
+uid: 69
+ Q==

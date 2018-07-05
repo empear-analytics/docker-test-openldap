@@ -1,0 +1,13 @@
+dn: cn=Tammi+sn=Butterfield,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tammi Butterfield
+cn: Butterfield
+givenname: Tammi
+mail: tammi.butterfield@planetexpress.com
+userPassword: Tammi
+ou: Group5
+uid: 2849
+ Q==

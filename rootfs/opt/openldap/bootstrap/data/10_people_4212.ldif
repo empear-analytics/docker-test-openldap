@@ -1,0 +1,13 @@
+dn: cn=Gail+sn=Mestanza,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gail Mestanza
+cn: Mestanza
+givenname: Gail
+mail: gail.mestanza@planetexpress.com
+userPassword: Gail
+ou: flight_crew
+uid: 4212
+ Q==

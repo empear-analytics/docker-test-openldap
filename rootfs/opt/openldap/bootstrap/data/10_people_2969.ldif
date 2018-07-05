@@ -1,0 +1,13 @@
+dn: cn=Paige+sn=Groshong,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Paige Groshong
+cn: Groshong
+givenname: Paige
+mail: paige.groshong@planetexpress.com
+userPassword: Paige
+ou: flight_crew
+uid: 2969
+ Q==

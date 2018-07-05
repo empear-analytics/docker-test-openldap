@@ -1,0 +1,13 @@
+dn: cn=Sherilyn+sn=Wherley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherilyn Wherley
+cn: Wherley
+givenname: Sherilyn
+mail: sherilyn.wherley@planetexpress.com
+userPassword: Sherilyn
+ou: admin_staff
+uid: 3066
+ Q==

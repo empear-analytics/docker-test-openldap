@@ -1,0 +1,13 @@
+dn: cn=Towanda+sn=Belovs,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Towanda Belovs
+cn: Belovs
+givenname: Towanda
+mail: towanda.belovs@planetexpress.com
+userPassword: Towanda
+ou: Group5
+uid: 4578
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lillie+sn=Distler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lillie Distler
+cn: Distler
+givenname: Lillie
+mail: lillie.distler@planetexpress.com
+userPassword: Lillie
+ou: Group5
+uid: 2537
+ Q==

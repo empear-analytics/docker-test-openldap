@@ -1,0 +1,13 @@
+dn: cn=Cleveland+sn=Goud,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cleveland Goud
+cn: Goud
+givenname: Cleveland
+mail: cleveland.goud@planetexpress.com
+userPassword: Cleveland
+ou: OtherGroup
+uid: 2394
+ Q==

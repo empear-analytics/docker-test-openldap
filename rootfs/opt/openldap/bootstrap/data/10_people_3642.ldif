@@ -1,0 +1,13 @@
+dn: cn=Karine+sn=Okuda,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karine Okuda
+cn: Okuda
+givenname: Karine
+mail: karine.okuda@planetexpress.com
+userPassword: Karine
+ou: Group5
+uid: 3642
+ Q==

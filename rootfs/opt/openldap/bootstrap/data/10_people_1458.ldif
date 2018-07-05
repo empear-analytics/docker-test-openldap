@@ -1,0 +1,13 @@
+dn: cn=Gino+sn=Lilienthal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gino Lilienthal
+cn: Lilienthal
+givenname: Gino
+mail: gino.lilienthal@planetexpress.com
+userPassword: Gino
+ou: OtherGroup
+uid: 1458
+ Q==

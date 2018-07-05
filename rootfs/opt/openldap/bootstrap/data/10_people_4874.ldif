@@ -1,0 +1,13 @@
+dn: cn=Kip+sn=Daubney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kip Daubney
+cn: Daubney
+givenname: Kip
+mail: kip.daubney@planetexpress.com
+userPassword: Kip
+ou: OtherGroup
+uid: 4874
+ Q==

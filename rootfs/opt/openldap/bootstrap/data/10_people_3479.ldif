@@ -1,0 +1,13 @@
+dn: cn=Loren+sn=Payseur,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loren Payseur
+cn: Payseur
+givenname: Loren
+mail: loren.payseur@planetexpress.com
+userPassword: Loren
+ou: flight_crew
+uid: 3479
+ Q==

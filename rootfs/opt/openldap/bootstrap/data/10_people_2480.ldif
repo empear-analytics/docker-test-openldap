@@ -1,0 +1,13 @@
+dn: cn=Lonnie+sn=Domkowski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lonnie Domkowski
+cn: Domkowski
+givenname: Lonnie
+mail: lonnie.domkowski@planetexpress.com
+userPassword: Lonnie
+ou: OtherGroup
+uid: 2480
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Andreas+sn=Trefethen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andreas Trefethen
+cn: Trefethen
+givenname: Andreas
+mail: andreas.trefethen@planetexpress.com
+userPassword: Andreas
+ou: OtherGroup
+uid: 5524
+ Q==

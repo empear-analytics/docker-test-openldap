@@ -1,0 +1,13 @@
+dn: cn=Trent+sn=Berlinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Trent Berlinger
+cn: Berlinger
+givenname: Trent
+mail: trent.berlinger@planetexpress.com
+userPassword: Trent
+ou: Group5
+uid: 2720
+ Q==

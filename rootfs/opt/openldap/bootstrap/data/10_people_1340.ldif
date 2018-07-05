@@ -1,0 +1,13 @@
+dn: cn=Regenia+sn=Mcgough,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Regenia Mcgough
+cn: Mcgough
+givenname: Regenia
+mail: regenia.mcgough@planetexpress.com
+userPassword: Regenia
+ou: admin_staff
+uid: 1340
+ Q==

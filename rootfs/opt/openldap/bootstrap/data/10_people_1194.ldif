@@ -1,0 +1,13 @@
+dn: cn=Reyna+sn=Lavgle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reyna Lavgle
+cn: Lavgle
+givenname: Reyna
+mail: reyna.lavgle@planetexpress.com
+userPassword: Reyna
+ou: flight_crew
+uid: 1194
+ Q==

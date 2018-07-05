@@ -1,0 +1,13 @@
+dn: cn=Lemuel+sn=Lasenby,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lemuel Lasenby
+cn: Lasenby
+givenname: Lemuel
+mail: lemuel.lasenby@planetexpress.com
+userPassword: Lemuel
+ou: admin_staff
+uid: 1071
+ Q==

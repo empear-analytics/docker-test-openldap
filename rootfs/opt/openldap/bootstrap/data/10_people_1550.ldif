@@ -1,0 +1,13 @@
+dn: cn=Mitsue+sn=Davney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mitsue Davney
+cn: Davney
+givenname: Mitsue
+mail: mitsue.davney@planetexpress.com
+userPassword: Mitsue
+ou: Group5
+uid: 1550
+ Q==

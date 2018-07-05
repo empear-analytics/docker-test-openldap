@@ -1,0 +1,13 @@
+dn: cn=James+sn=Klarr,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: James Klarr
+cn: Klarr
+givenname: James
+mail: james.klarr@planetexpress.com
+userPassword: James
+ou: admin_staff
+uid: 215
+ Q==

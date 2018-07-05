@@ -1,0 +1,13 @@
+dn: cn=Moses+sn=Reilley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Moses Reilley
+cn: Reilley
+givenname: Moses
+mail: moses.reilley@planetexpress.com
+userPassword: Moses
+ou: admin_staff
+uid: 2581
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Christel+sn=Rozo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christel Rozo
+cn: Rozo
+givenname: Christel
+mail: christel.rozo@planetexpress.com
+userPassword: Christel
+ou: Group5
+uid: 2440
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Irish+sn=Sahady,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Irish Sahady
+cn: Sahady
+givenname: Irish
+mail: irish.sahady@planetexpress.com
+userPassword: Irish
+ou: OtherGroup
+uid: 5620
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Hosea+sn=Garrod,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hosea Garrod
+cn: Garrod
+givenname: Hosea
+mail: hosea.garrod@planetexpress.com
+userPassword: Hosea
+ou: flight_crew
+uid: 3728
+ Q==

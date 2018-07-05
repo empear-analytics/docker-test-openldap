@@ -1,0 +1,13 @@
+dn: cn=Briana+sn=Polinski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Briana Polinski
+cn: Polinski
+givenname: Briana
+mail: briana.polinski@planetexpress.com
+userPassword: Briana
+ou: OtherGroup
+uid: 1239
+ Q==

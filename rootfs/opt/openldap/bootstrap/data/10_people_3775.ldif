@@ -1,0 +1,13 @@
+dn: cn=Hae+sn=Galvan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hae Galvan
+cn: Galvan
+givenname: Hae
+mail: hae.galvan@planetexpress.com
+userPassword: Hae
+ou: Group5
+uid: 3775
+ Q==

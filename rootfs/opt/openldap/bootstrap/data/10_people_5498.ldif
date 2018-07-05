@@ -1,0 +1,13 @@
+dn: cn=Lora+sn=Juriga,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lora Juriga
+cn: Juriga
+givenname: Lora
+mail: lora.juriga@planetexpress.com
+userPassword: Lora
+ou: flight_crew
+uid: 5498
+ Q==

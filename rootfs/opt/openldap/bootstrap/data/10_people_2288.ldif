@@ -1,0 +1,13 @@
+dn: cn=Sanda+sn=Albertine,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sanda Albertine
+cn: Albertine
+givenname: Sanda
+mail: sanda.albertine@planetexpress.com
+userPassword: Sanda
+ou: OtherGroup
+uid: 2288
+ Q==

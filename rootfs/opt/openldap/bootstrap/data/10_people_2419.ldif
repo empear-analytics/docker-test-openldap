@@ -1,0 +1,13 @@
+dn: cn=Samantha+sn=Puppe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Samantha Puppe
+cn: Puppe
+givenname: Samantha
+mail: samantha.puppe@planetexpress.com
+userPassword: Samantha
+ou: OtherGroup
+uid: 2419
+ Q==

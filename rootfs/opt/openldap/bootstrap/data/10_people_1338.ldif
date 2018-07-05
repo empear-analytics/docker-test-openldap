@@ -1,0 +1,13 @@
+dn: cn=Milagro+sn=Mccardell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Milagro Mccardell
+cn: Mccardell
+givenname: Milagro
+mail: milagro.mccardell@planetexpress.com
+userPassword: Milagro
+ou: OtherGroup
+uid: 1338
+ Q==

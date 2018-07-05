@@ -1,0 +1,13 @@
+dn: cn=Alisha+sn=Clinard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alisha Clinard
+cn: Clinard
+givenname: Alisha
+mail: alisha.clinard@planetexpress.com
+userPassword: Alisha
+ou: admin_staff
+uid: 1426
+ Q==

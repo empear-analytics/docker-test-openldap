@@ -1,0 +1,13 @@
+dn: cn=Kirstie+sn=Saldi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kirstie Saldi
+cn: Saldi
+givenname: Kirstie
+mail: kirstie.saldi@planetexpress.com
+userPassword: Kirstie
+ou: Group5
+uid: 5346
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Franklin+sn=Delemos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Franklin Delemos
+cn: Delemos
+givenname: Franklin
+mail: franklin.delemos@planetexpress.com
+userPassword: Franklin
+ou: admin_staff
+uid: 2437
+ Q==

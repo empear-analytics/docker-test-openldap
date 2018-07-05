@@ -1,0 +1,13 @@
+dn: cn=Eufemia+sn=Dafonte,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eufemia Dafonte
+cn: Dafonte
+givenname: Eufemia
+mail: eufemia.dafonte@planetexpress.com
+userPassword: Eufemia
+ou: flight_crew
+uid: 1783
+ Q==

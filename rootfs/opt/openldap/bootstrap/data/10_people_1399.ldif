@@ -1,0 +1,13 @@
+dn: cn=Olen+sn=Gervin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Olen Gervin
+cn: Gervin
+givenname: Olen
+mail: olen.gervin@planetexpress.com
+userPassword: Olen
+ou: OtherGroup
+uid: 1399
+ Q==

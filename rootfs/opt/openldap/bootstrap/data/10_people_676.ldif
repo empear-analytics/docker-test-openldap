@@ -1,0 +1,13 @@
+dn: cn=Roscoe+sn=Elizondo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roscoe Elizondo
+cn: Elizondo
+givenname: Roscoe
+mail: roscoe.elizondo@planetexpress.com
+userPassword: Roscoe
+ou: flight_crew
+uid: 676
+ Q==

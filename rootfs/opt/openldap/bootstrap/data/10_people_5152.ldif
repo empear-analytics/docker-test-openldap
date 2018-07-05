@@ -1,0 +1,13 @@
+dn: cn=Rocco+sn=Heitmann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rocco Heitmann
+cn: Heitmann
+givenname: Rocco
+mail: rocco.heitmann@planetexpress.com
+userPassword: Rocco
+ou: admin_staff
+uid: 5152
+ Q==

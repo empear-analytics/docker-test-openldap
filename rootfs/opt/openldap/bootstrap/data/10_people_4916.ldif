@@ -1,0 +1,13 @@
+dn: cn=Shelby+sn=Melton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shelby Melton
+cn: Melton
+givenname: Shelby
+mail: shelby.melton@planetexpress.com
+userPassword: Shelby
+ou: OtherGroup
+uid: 4916
+ Q==

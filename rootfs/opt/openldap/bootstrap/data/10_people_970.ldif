@@ -1,0 +1,13 @@
+dn: cn=Winnie+sn=Janeczko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Winnie Janeczko
+cn: Janeczko
+givenname: Winnie
+mail: winnie.janeczko@planetexpress.com
+userPassword: Winnie
+ou: Group5
+uid: 970
+ Q==

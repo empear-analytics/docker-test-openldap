@@ -1,0 +1,13 @@
+dn: cn=Kristina+sn=Grzesik,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kristina Grzesik
+cn: Grzesik
+givenname: Kristina
+mail: kristina.grzesik@planetexpress.com
+userPassword: Kristina
+ou: admin_staff
+uid: 1294
+ Q==

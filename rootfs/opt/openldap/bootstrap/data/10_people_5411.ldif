@@ -1,0 +1,13 @@
+dn: cn=Keiko+sn=Cottillion,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keiko Cottillion
+cn: Cottillion
+givenname: Keiko
+mail: keiko.cottillion@planetexpress.com
+userPassword: Keiko
+ou: admin_staff
+uid: 5411
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Thanh+sn=Tutuska,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thanh Tutuska
+cn: Tutuska
+givenname: Thanh
+mail: thanh.tutuska@planetexpress.com
+userPassword: Thanh
+ou: OtherGroup
+uid: 3667
+ Q==

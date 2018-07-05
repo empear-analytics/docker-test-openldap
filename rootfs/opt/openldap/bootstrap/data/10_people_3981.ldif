@@ -1,0 +1,13 @@
+dn: cn=Annabel+sn=Wilner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annabel Wilner
+cn: Wilner
+givenname: Annabel
+mail: annabel.wilner@planetexpress.com
+userPassword: Annabel
+ou: Group5
+uid: 3981
+ Q==

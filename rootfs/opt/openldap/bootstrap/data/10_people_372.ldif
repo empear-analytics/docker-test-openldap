@@ -1,0 +1,13 @@
+dn: cn=Angeles+sn=Jez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angeles Jez
+cn: Jez
+givenname: Angeles
+mail: angeles.jez@planetexpress.com
+userPassword: Angeles
+ou: flight_crew
+uid: 372
+ Q==

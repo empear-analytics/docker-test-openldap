@@ -1,0 +1,13 @@
+dn: cn=Armando+sn=Pientka,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Armando Pientka
+cn: Pientka
+givenname: Armando
+mail: armando.pientka@planetexpress.com
+userPassword: Armando
+ou: flight_crew
+uid: 1734
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Crysta+sn=Wireman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Crysta Wireman
+cn: Wireman
+givenname: Crysta
+mail: crysta.wireman@planetexpress.com
+userPassword: Crysta
+ou: Group5
+uid: 4774
+ Q==

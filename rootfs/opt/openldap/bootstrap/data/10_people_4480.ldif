@@ -1,0 +1,13 @@
+dn: cn=Asley+sn=Longbotham,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Asley Longbotham
+cn: Longbotham
+givenname: Asley
+mail: asley.longbotham@planetexpress.com
+userPassword: Asley
+ou: flight_crew
+uid: 4480
+ Q==

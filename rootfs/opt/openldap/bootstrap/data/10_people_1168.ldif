@@ -1,0 +1,13 @@
+dn: cn=Ollie+sn=Haubrich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ollie Haubrich
+cn: Haubrich
+givenname: Ollie
+mail: ollie.haubrich@planetexpress.com
+userPassword: Ollie
+ou: admin_staff
+uid: 1168
+ Q==

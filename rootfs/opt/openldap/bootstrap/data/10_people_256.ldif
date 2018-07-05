@@ -1,0 +1,13 @@
+dn: cn=Branden+sn=Gundry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Branden Gundry
+cn: Gundry
+givenname: Branden
+mail: branden.gundry@planetexpress.com
+userPassword: Branden
+ou: OtherGroup
+uid: 256
+ Q==

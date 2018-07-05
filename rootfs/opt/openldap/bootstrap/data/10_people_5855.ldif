@@ -1,0 +1,13 @@
+dn: cn=Alecia+sn=Kaunisto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alecia Kaunisto
+cn: Kaunisto
+givenname: Alecia
+mail: alecia.kaunisto@planetexpress.com
+userPassword: Alecia
+ou: Group5
+uid: 5855
+ Q==

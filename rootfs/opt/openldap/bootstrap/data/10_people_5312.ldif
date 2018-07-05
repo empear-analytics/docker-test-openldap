@@ -1,0 +1,13 @@
+dn: cn=Trista+sn=Stencel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Trista Stencel
+cn: Stencel
+givenname: Trista
+mail: trista.stencel@planetexpress.com
+userPassword: Trista
+ou: OtherGroup
+uid: 5312
+ Q==

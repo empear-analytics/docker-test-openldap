@@ -1,0 +1,13 @@
+dn: cn=Jacquetta+sn=Terris,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacquetta Terris
+cn: Terris
+givenname: Jacquetta
+mail: jacquetta.terris@planetexpress.com
+userPassword: Jacquetta
+ou: OtherGroup
+uid: 302
+ Q==

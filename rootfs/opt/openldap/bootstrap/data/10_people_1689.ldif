@@ -1,0 +1,13 @@
+dn: cn=Leandra+sn=Taketa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leandra Taketa
+cn: Taketa
+givenname: Leandra
+mail: leandra.taketa@planetexpress.com
+userPassword: Leandra
+ou: flight_crew
+uid: 1689
+ Q==

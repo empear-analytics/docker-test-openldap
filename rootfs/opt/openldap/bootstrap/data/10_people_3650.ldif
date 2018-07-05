@@ -1,0 +1,13 @@
+dn: cn=Tiffanie+sn=Heimbach,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tiffanie Heimbach
+cn: Heimbach
+givenname: Tiffanie
+mail: tiffanie.heimbach@planetexpress.com
+userPassword: Tiffanie
+ou: admin_staff
+uid: 3650
+ Q==

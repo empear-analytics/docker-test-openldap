@@ -1,0 +1,13 @@
+dn: cn=Nancee+sn=Laubersheimer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nancee Laubersheimer
+cn: Laubersheimer
+givenname: Nancee
+mail: nancee.laubersheimer@planetexpress.com
+userPassword: Nancee
+ou: Group5
+uid: 3919
+ Q==

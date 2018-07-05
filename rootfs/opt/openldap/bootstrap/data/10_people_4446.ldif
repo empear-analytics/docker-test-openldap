@@ -1,0 +1,13 @@
+dn: cn=Annmarie+sn=Demling,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annmarie Demling
+cn: Demling
+givenname: Annmarie
+mail: annmarie.demling@planetexpress.com
+userPassword: Annmarie
+ou: Group5
+uid: 4446
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Dwayne+sn=Prosser,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dwayne Prosser
+cn: Prosser
+givenname: Dwayne
+mail: dwayne.prosser@planetexpress.com
+userPassword: Dwayne
+ou: admin_staff
+uid: 4287
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Josephine+sn=Littlefield,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Josephine Littlefield
+cn: Littlefield
+givenname: Josephine
+mail: josephine.littlefield@planetexpress.com
+userPassword: Josephine
+ou: admin_staff
+uid: 1554
+ Q==

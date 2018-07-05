@@ -1,0 +1,13 @@
+dn: cn=Aja+sn=Butner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aja Butner
+cn: Butner
+givenname: Aja
+mail: aja.butner@planetexpress.com
+userPassword: Aja
+ou: flight_crew
+uid: 5983
+ Q==

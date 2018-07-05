@@ -1,0 +1,13 @@
+dn: cn=Tamar+sn=Halla,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tamar Halla
+cn: Halla
+givenname: Tamar
+mail: tamar.halla@planetexpress.com
+userPassword: Tamar
+ou: admin_staff
+uid: 5576
+ Q==

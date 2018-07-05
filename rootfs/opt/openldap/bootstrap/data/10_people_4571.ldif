@@ -1,0 +1,13 @@
+dn: cn=Mona+sn=Batun,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mona Batun
+cn: Batun
+givenname: Mona
+mail: mona.batun@planetexpress.com
+userPassword: Mona
+ou: flight_crew
+uid: 4571
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kelly+sn=Benjamin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kelly Benjamin
+cn: Benjamin
+givenname: Kelly
+mail: kelly.benjamin@planetexpress.com
+userPassword: Kelly
+ou: OtherGroup
+uid: 3695
+ Q==

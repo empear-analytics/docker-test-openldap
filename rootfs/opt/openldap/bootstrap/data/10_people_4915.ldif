@@ -1,0 +1,13 @@
+dn: cn=Wendell+sn=Nebel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wendell Nebel
+cn: Nebel
+givenname: Wendell
+mail: wendell.nebel@planetexpress.com
+userPassword: Wendell
+ou: admin_staff
+uid: 4915
+ Q==

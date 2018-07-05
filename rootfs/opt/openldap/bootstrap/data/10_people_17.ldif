@@ -1,0 +1,13 @@
+dn: cn=Hilda+sn=Streit,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hilda Streit
+cn: Streit
+givenname: Hilda
+mail: hilda.streit@planetexpress.com
+userPassword: Hilda
+ou: Group5
+uid: 17
+ Q==

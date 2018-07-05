@@ -1,0 +1,13 @@
+dn: cn=Joaquin+sn=Veale,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joaquin Veale
+cn: Veale
+givenname: Joaquin
+mail: joaquin.veale@planetexpress.com
+userPassword: Joaquin
+ou: OtherGroup
+uid: 2767
+ Q==

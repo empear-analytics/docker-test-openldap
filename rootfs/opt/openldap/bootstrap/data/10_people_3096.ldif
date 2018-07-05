@@ -1,0 +1,13 @@
+dn: cn=Zona+sn=Hokutan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zona Hokutan
+cn: Hokutan
+givenname: Zona
+mail: zona.hokutan@planetexpress.com
+userPassword: Zona
+ou: Group5
+uid: 3096
+ Q==

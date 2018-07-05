@@ -1,0 +1,13 @@
+dn: cn=Edmond+sn=Harviston,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edmond Harviston
+cn: Harviston
+givenname: Edmond
+mail: edmond.harviston@planetexpress.com
+userPassword: Edmond
+ou: OtherGroup
+uid: 3189
+ Q==

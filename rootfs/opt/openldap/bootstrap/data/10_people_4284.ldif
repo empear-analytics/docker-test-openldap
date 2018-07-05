@@ -1,0 +1,13 @@
+dn: cn=Oda+sn=Theimer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Oda Theimer
+cn: Theimer
+givenname: Oda
+mail: oda.theimer@planetexpress.com
+userPassword: Oda
+ou: OtherGroup
+uid: 4284
+ Q==

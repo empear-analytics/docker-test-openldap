@@ -1,0 +1,13 @@
+dn: cn=Luba+sn=Acri,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Luba Acri
+cn: Acri
+givenname: Luba
+mail: luba.acri@planetexpress.com
+userPassword: Luba
+ou: Group5
+uid: 5017
+ Q==

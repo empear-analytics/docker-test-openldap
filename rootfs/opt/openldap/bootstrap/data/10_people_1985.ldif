@@ -1,0 +1,13 @@
+dn: cn=Livia+sn=Creach,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Livia Creach
+cn: Creach
+givenname: Livia
+mail: livia.creach@planetexpress.com
+userPassword: Livia
+ou: flight_crew
+uid: 1985
+ Q==

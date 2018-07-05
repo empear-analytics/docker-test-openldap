@@ -1,0 +1,13 @@
+dn: cn=Corrin+sn=Trenh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Corrin Trenh
+cn: Trenh
+givenname: Corrin
+mail: corrin.trenh@planetexpress.com
+userPassword: Corrin
+ou: flight_crew
+uid: 1806
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Darcel+sn=Hermosillo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darcel Hermosillo
+cn: Hermosillo
+givenname: Darcel
+mail: darcel.hermosillo@planetexpress.com
+userPassword: Darcel
+ou: admin_staff
+uid: 4772
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Penney+sn=Plush,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Penney Plush
+cn: Plush
+givenname: Penney
+mail: penney.plush@planetexpress.com
+userPassword: Penney
+ou: Group5
+uid: 893
+ Q==

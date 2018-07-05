@@ -1,0 +1,13 @@
+dn: cn=Arthur+sn=Kapoi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arthur Kapoi
+cn: Kapoi
+givenname: Arthur
+mail: arthur.kapoi@planetexpress.com
+userPassword: Arthur
+ou: flight_crew
+uid: 3384
+ Q==

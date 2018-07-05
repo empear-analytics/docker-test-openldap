@@ -1,0 +1,13 @@
+dn: cn=Leigh+sn=Fleisher,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leigh Fleisher
+cn: Fleisher
+givenname: Leigh
+mail: leigh.fleisher@planetexpress.com
+userPassword: Leigh
+ou: Group5
+uid: 2962
+ Q==

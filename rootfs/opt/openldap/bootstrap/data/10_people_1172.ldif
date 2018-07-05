@@ -1,0 +1,13 @@
+dn: cn=Hwa+sn=Dicorcia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hwa Dicorcia
+cn: Dicorcia
+givenname: Hwa
+mail: hwa.dicorcia@planetexpress.com
+userPassword: Hwa
+ou: admin_staff
+uid: 1172
+ Q==

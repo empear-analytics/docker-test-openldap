@@ -1,0 +1,13 @@
+dn: cn=Lynda+sn=Thiesfeld,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lynda Thiesfeld
+cn: Thiesfeld
+givenname: Lynda
+mail: lynda.thiesfeld@planetexpress.com
+userPassword: Lynda
+ou: admin_staff
+uid: 2946
+ Q==

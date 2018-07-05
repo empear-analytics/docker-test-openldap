@@ -1,0 +1,13 @@
+dn: cn=Bethel+sn=Hanneken,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bethel Hanneken
+cn: Hanneken
+givenname: Bethel
+mail: bethel.hanneken@planetexpress.com
+userPassword: Bethel
+ou: OtherGroup
+uid: 5957
+ Q==

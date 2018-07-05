@@ -1,0 +1,13 @@
+dn: cn=Maye+sn=Dufner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maye Dufner
+cn: Dufner
+givenname: Maye
+mail: maye.dufner@planetexpress.com
+userPassword: Maye
+ou: flight_crew
+uid: 5154
+ Q==

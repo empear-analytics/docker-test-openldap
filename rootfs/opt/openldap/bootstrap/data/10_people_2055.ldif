@@ -1,0 +1,13 @@
+dn: cn=Mitchell+sn=Tureson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mitchell Tureson
+cn: Tureson
+givenname: Mitchell
+mail: mitchell.tureson@planetexpress.com
+userPassword: Mitchell
+ou: OtherGroup
+uid: 2055
+ Q==

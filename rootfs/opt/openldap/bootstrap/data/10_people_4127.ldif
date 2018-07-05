@@ -1,0 +1,13 @@
+dn: cn=Elyse+sn=Lydick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elyse Lydick
+cn: Lydick
+givenname: Elyse
+mail: elyse.lydick@planetexpress.com
+userPassword: Elyse
+ou: Group5
+uid: 4127
+ Q==

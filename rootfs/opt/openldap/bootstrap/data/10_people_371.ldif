@@ -1,0 +1,13 @@
+dn: cn=Terisa+sn=Traynor,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Terisa Traynor
+cn: Traynor
+givenname: Terisa
+mail: terisa.traynor@planetexpress.com
+userPassword: Terisa
+ou: flight_crew
+uid: 371
+ Q==

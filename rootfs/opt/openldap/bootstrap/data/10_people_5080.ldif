@@ -1,0 +1,13 @@
+dn: cn=Miki+sn=Bousquet,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Miki Bousquet
+cn: Bousquet
+givenname: Miki
+mail: miki.bousquet@planetexpress.com
+userPassword: Miki
+ou: admin_staff
+uid: 5080
+ Q==

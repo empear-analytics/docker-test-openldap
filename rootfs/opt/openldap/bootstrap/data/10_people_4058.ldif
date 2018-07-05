@@ -1,0 +1,13 @@
+dn: cn=Asha+sn=Veater,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Asha Veater
+cn: Veater
+givenname: Asha
+mail: asha.veater@planetexpress.com
+userPassword: Asha
+ou: Group5
+uid: 4058
+ Q==

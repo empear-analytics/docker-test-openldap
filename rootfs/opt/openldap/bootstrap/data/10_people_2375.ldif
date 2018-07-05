@@ -1,0 +1,13 @@
+dn: cn=Shawnee+sn=Selestewa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shawnee Selestewa
+cn: Selestewa
+givenname: Shawnee
+mail: shawnee.selestewa@planetexpress.com
+userPassword: Shawnee
+ou: admin_staff
+uid: 2375
+ Q==

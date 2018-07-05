@@ -1,0 +1,13 @@
+dn: cn=Sierra+sn=Faus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sierra Faus
+cn: Faus
+givenname: Sierra
+mail: sierra.faus@planetexpress.com
+userPassword: Sierra
+ou: admin_staff
+uid: 5260
+ Q==

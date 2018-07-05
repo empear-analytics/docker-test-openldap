@@ -1,0 +1,13 @@
+dn: cn=Jesusita+sn=Tauteoli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jesusita Tauteoli
+cn: Tauteoli
+givenname: Jesusita
+mail: jesusita.tauteoli@planetexpress.com
+userPassword: Jesusita
+ou: flight_crew
+uid: 5634
+ Q==

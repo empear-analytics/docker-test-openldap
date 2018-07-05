@@ -1,0 +1,13 @@
+dn: cn=Thresa+sn=Marmon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thresa Marmon
+cn: Marmon
+givenname: Thresa
+mail: thresa.marmon@planetexpress.com
+userPassword: Thresa
+ou: flight_crew
+uid: 3467
+ Q==

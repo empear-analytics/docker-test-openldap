@@ -1,0 +1,13 @@
+dn: cn=Cameron+sn=Landoni,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cameron Landoni
+cn: Landoni
+givenname: Cameron
+mail: cameron.landoni@planetexpress.com
+userPassword: Cameron
+ou: Group5
+uid: 872
+ Q==

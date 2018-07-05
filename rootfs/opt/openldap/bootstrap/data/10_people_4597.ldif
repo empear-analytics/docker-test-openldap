@@ -1,0 +1,13 @@
+dn: cn=Tomika+sn=Akimseu,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tomika Akimseu
+cn: Akimseu
+givenname: Tomika
+mail: tomika.akimseu@planetexpress.com
+userPassword: Tomika
+ou: flight_crew
+uid: 4597
+ Q==

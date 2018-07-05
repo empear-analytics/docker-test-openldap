@@ -1,0 +1,13 @@
+dn: cn=Deeanna+sn=Mcmenomy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deeanna Mcmenomy
+cn: Mcmenomy
+givenname: Deeanna
+mail: deeanna.mcmenomy@planetexpress.com
+userPassword: Deeanna
+ou: admin_staff
+uid: 5801
+ Q==

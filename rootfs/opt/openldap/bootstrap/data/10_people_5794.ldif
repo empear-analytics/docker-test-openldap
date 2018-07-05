@@ -1,0 +1,13 @@
+dn: cn=Carmelia+sn=Arqueta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carmelia Arqueta
+cn: Arqueta
+givenname: Carmelia
+mail: carmelia.arqueta@planetexpress.com
+userPassword: Carmelia
+ou: flight_crew
+uid: 5794
+ Q==

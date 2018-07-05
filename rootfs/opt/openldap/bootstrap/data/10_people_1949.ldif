@@ -1,0 +1,13 @@
+dn: cn=Sheena+sn=Pirrone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sheena Pirrone
+cn: Pirrone
+givenname: Sheena
+mail: sheena.pirrone@planetexpress.com
+userPassword: Sheena
+ou: OtherGroup
+uid: 1949
+ Q==

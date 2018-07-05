@@ -1,0 +1,13 @@
+dn: cn=Leida+sn=Hildner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leida Hildner
+cn: Hildner
+givenname: Leida
+mail: leida.hildner@planetexpress.com
+userPassword: Leida
+ou: flight_crew
+uid: 3543
+ Q==

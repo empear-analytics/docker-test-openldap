@@ -1,0 +1,13 @@
+dn: cn=Shane+sn=Rodebush,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shane Rodebush
+cn: Rodebush
+givenname: Shane
+mail: shane.rodebush@planetexpress.com
+userPassword: Shane
+ou: flight_crew
+uid: 2802
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kandy+sn=Kringas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kandy Kringas
+cn: Kringas
+givenname: Kandy
+mail: kandy.kringas@planetexpress.com
+userPassword: Kandy
+ou: flight_crew
+uid: 2484
+ Q==

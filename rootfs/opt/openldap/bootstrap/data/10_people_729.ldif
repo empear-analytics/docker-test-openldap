@@ -1,0 +1,13 @@
+dn: cn=Blake+sn=Babineau,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Blake Babineau
+cn: Babineau
+givenname: Blake
+mail: blake.babineau@planetexpress.com
+userPassword: Blake
+ou: OtherGroup
+uid: 729
+ Q==

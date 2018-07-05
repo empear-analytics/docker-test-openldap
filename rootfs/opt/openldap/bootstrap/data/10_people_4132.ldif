@@ -1,0 +1,13 @@
+dn: cn=Bridget+sn=Beutnagel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bridget Beutnagel
+cn: Beutnagel
+givenname: Bridget
+mail: bridget.beutnagel@planetexpress.com
+userPassword: Bridget
+ou: Group5
+uid: 4132
+ Q==

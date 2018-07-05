@@ -1,0 +1,13 @@
+dn: cn=Rea+sn=Sperberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rea Sperberg
+cn: Sperberg
+givenname: Rea
+mail: rea.sperberg@planetexpress.com
+userPassword: Rea
+ou: flight_crew
+uid: 4124
+ Q==

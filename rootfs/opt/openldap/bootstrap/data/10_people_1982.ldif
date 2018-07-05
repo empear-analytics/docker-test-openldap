@@ -1,0 +1,13 @@
+dn: cn=Lenore+sn=Fjeld,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lenore Fjeld
+cn: Fjeld
+givenname: Lenore
+mail: lenore.fjeld@planetexpress.com
+userPassword: Lenore
+ou: Group5
+uid: 1982
+ Q==

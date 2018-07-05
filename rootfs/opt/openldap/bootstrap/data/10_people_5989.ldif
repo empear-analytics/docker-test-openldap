@@ -1,0 +1,13 @@
+dn: cn=Enrique+sn=Oar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Enrique Oar
+cn: Oar
+givenname: Enrique
+mail: enrique.oar@planetexpress.com
+userPassword: Enrique
+ou: Group5
+uid: 5989
+ Q==

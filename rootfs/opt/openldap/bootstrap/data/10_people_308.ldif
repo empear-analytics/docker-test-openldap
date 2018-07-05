@@ -1,0 +1,13 @@
+dn: cn=Brenda+sn=Hufana,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brenda Hufana
+cn: Hufana
+givenname: Brenda
+mail: brenda.hufana@planetexpress.com
+userPassword: Brenda
+ou: admin_staff
+uid: 308
+ Q==

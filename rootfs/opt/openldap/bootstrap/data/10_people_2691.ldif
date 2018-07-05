@@ -1,0 +1,13 @@
+dn: cn=Cleta+sn=Larrosa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cleta Larrosa
+cn: Larrosa
+givenname: Cleta
+mail: cleta.larrosa@planetexpress.com
+userPassword: Cleta
+ou: Group5
+uid: 2691
+ Q==

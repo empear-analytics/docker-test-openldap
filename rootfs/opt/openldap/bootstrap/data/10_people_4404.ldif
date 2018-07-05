@@ -1,0 +1,13 @@
+dn: cn=Wilburn+sn=Chaudhry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wilburn Chaudhry
+cn: Chaudhry
+givenname: Wilburn
+mail: wilburn.chaudhry@planetexpress.com
+userPassword: Wilburn
+ou: OtherGroup
+uid: 4404
+ Q==

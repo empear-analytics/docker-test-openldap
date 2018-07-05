@@ -1,0 +1,13 @@
+dn: cn=Sheridan+sn=Rozanski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sheridan Rozanski
+cn: Rozanski
+givenname: Sheridan
+mail: sheridan.rozanski@planetexpress.com
+userPassword: Sheridan
+ou: Group5
+uid: 3978
+ Q==

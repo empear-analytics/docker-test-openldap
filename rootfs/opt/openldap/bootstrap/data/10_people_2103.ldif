@@ -1,0 +1,13 @@
+dn: cn=Casey+sn=Monteverde,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Casey Monteverde
+cn: Monteverde
+givenname: Casey
+mail: casey.monteverde@planetexpress.com
+userPassword: Casey
+ou: Group5
+uid: 2103
+ Q==

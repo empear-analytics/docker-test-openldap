@@ -1,0 +1,13 @@
+dn: cn=Athena+sn=Tijernia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Athena Tijernia
+cn: Tijernia
+givenname: Athena
+mail: athena.tijernia@planetexpress.com
+userPassword: Athena
+ou: OtherGroup
+uid: 1291
+ Q==

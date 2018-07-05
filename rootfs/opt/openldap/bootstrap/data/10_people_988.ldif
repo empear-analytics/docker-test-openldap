@@ -1,0 +1,13 @@
+dn: cn=Freddy+sn=Linkovich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Freddy Linkovich
+cn: Linkovich
+givenname: Freddy
+mail: freddy.linkovich@planetexpress.com
+userPassword: Freddy
+ou: admin_staff
+uid: 988
+ Q==

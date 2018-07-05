@@ -1,0 +1,13 @@
+dn: cn=Lesa+sn=Parihar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lesa Parihar
+cn: Parihar
+givenname: Lesa
+mail: lesa.parihar@planetexpress.com
+userPassword: Lesa
+ou: Group5
+uid: 3838
+ Q==

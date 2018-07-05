@@ -1,0 +1,13 @@
+dn: cn=Lakenya+sn=Valotta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lakenya Valotta
+cn: Valotta
+givenname: Lakenya
+mail: lakenya.valotta@planetexpress.com
+userPassword: Lakenya
+ou: flight_crew
+uid: 1021
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Darcie+sn=Lamie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darcie Lamie
+cn: Lamie
+givenname: Darcie
+mail: darcie.lamie@planetexpress.com
+userPassword: Darcie
+ou: flight_crew
+uid: 904
+ Q==

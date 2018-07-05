@@ -1,0 +1,13 @@
+dn: cn=Loren+sn=Garces,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loren Garces
+cn: Garces
+givenname: Loren
+mail: loren.garces@planetexpress.com
+userPassword: Loren
+ou: OtherGroup
+uid: 780
+ Q==

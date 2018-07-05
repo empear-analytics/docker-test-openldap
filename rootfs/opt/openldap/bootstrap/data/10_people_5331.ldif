@@ -1,0 +1,13 @@
+dn: cn=Mack+sn=Meinke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mack Meinke
+cn: Meinke
+givenname: Mack
+mail: mack.meinke@planetexpress.com
+userPassword: Mack
+ou: admin_staff
+uid: 5331
+ Q==

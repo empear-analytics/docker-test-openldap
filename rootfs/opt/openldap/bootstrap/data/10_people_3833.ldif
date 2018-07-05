@@ -1,0 +1,13 @@
+dn: cn=Laraine+sn=Mcclamy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Laraine Mcclamy
+cn: Mcclamy
+givenname: Laraine
+mail: laraine.mcclamy@planetexpress.com
+userPassword: Laraine
+ou: Group5
+uid: 3833
+ Q==

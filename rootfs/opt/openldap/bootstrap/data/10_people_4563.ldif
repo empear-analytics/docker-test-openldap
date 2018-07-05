@@ -1,0 +1,13 @@
+dn: cn=Cecil+sn=Gellespie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cecil Gellespie
+cn: Gellespie
+givenname: Cecil
+mail: cecil.gellespie@planetexpress.com
+userPassword: Cecil
+ou: Group5
+uid: 4563
+ Q==

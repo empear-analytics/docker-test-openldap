@@ -1,0 +1,13 @@
+dn: cn=Leanne+sn=Kirst,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leanne Kirst
+cn: Kirst
+givenname: Leanne
+mail: leanne.kirst@planetexpress.com
+userPassword: Leanne
+ou: admin_staff
+uid: 5689
+ Q==

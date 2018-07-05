@@ -1,0 +1,13 @@
+dn: cn=Leonora+sn=Gehrmann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leonora Gehrmann
+cn: Gehrmann
+givenname: Leonora
+mail: leonora.gehrmann@planetexpress.com
+userPassword: Leonora
+ou: flight_crew
+uid: 3003
+ Q==

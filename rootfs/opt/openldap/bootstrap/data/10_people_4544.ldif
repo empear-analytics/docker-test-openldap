@@ -1,0 +1,13 @@
+dn: cn=Lorenza+sn=Putnam,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lorenza Putnam
+cn: Putnam
+givenname: Lorenza
+mail: lorenza.putnam@planetexpress.com
+userPassword: Lorenza
+ou: OtherGroup
+uid: 4544
+ Q==

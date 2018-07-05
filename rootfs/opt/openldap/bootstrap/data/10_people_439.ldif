@@ -1,0 +1,13 @@
+dn: cn=Maurine+sn=Harrisow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maurine Harrisow
+cn: Harrisow
+givenname: Maurine
+mail: maurine.harrisow@planetexpress.com
+userPassword: Maurine
+ou: flight_crew
+uid: 439
+ Q==

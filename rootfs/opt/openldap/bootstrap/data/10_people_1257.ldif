@@ -1,0 +1,13 @@
+dn: cn=Belia+sn=Finneran,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Belia Finneran
+cn: Finneran
+givenname: Belia
+mail: belia.finneran@planetexpress.com
+userPassword: Belia
+ou: OtherGroup
+uid: 1257
+ Q==

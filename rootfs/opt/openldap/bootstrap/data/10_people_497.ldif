@@ -1,0 +1,13 @@
+dn: cn=Tashia+sn=Truchan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tashia Truchan
+cn: Truchan
+givenname: Tashia
+mail: tashia.truchan@planetexpress.com
+userPassword: Tashia
+ou: OtherGroup
+uid: 497
+ Q==

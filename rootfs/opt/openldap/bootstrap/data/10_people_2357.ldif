@@ -1,0 +1,13 @@
+dn: cn=Rana+sn=Vanish,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rana Vanish
+cn: Vanish
+givenname: Rana
+mail: rana.vanish@planetexpress.com
+userPassword: Rana
+ou: OtherGroup
+uid: 2357
+ Q==

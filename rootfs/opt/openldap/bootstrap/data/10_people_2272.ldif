@@ -1,0 +1,13 @@
+dn: cn=Adrianna+sn=Derogatis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adrianna Derogatis
+cn: Derogatis
+givenname: Adrianna
+mail: adrianna.derogatis@planetexpress.com
+userPassword: Adrianna
+ou: OtherGroup
+uid: 2272
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Melodi+sn=Hayslett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melodi Hayslett
+cn: Hayslett
+givenname: Melodi
+mail: melodi.hayslett@planetexpress.com
+userPassword: Melodi
+ou: OtherGroup
+uid: 2036
+ Q==

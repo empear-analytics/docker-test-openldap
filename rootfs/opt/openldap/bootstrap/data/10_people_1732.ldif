@@ -1,0 +1,13 @@
+dn: cn=Debbi+sn=Pflughoeft,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Debbi Pflughoeft
+cn: Pflughoeft
+givenname: Debbi
+mail: debbi.pflughoeft@planetexpress.com
+userPassword: Debbi
+ou: flight_crew
+uid: 1732
+ Q==

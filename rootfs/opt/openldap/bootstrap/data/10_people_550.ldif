@@ -1,0 +1,13 @@
+dn: cn=Darrel+sn=Brinck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darrel Brinck
+cn: Brinck
+givenname: Darrel
+mail: darrel.brinck@planetexpress.com
+userPassword: Darrel
+ou: OtherGroup
+uid: 550
+ Q==

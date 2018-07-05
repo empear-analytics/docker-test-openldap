@@ -1,0 +1,13 @@
+dn: cn=Sandy+sn=Rewenko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sandy Rewenko
+cn: Rewenko
+givenname: Sandy
+mail: sandy.rewenko@planetexpress.com
+userPassword: Sandy
+ou: flight_crew
+uid: 4350
+ Q==

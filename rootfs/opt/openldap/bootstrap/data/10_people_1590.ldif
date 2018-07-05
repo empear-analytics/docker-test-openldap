@@ -1,0 +1,13 @@
+dn: cn=Patrica+sn=Hudecek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Patrica Hudecek
+cn: Hudecek
+givenname: Patrica
+mail: patrica.hudecek@planetexpress.com
+userPassword: Patrica
+ou: OtherGroup
+uid: 1590
+ Q==

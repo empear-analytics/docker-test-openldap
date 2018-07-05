@@ -1,0 +1,13 @@
+dn: cn=Rosaura+sn=Bold,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosaura Bold
+cn: Bold
+givenname: Rosaura
+mail: rosaura.bold@planetexpress.com
+userPassword: Rosaura
+ou: Group5
+uid: 1440
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Roxane+sn=Felton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roxane Felton
+cn: Felton
+givenname: Roxane
+mail: roxane.felton@planetexpress.com
+userPassword: Roxane
+ou: OtherGroup
+uid: 2746
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kurt+sn=Stires,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kurt Stires
+cn: Stires
+givenname: Kurt
+mail: kurt.stires@planetexpress.com
+userPassword: Kurt
+ou: flight_crew
+uid: 5435
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Etsuko+sn=Salomone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Etsuko Salomone
+cn: Salomone
+givenname: Etsuko
+mail: etsuko.salomone@planetexpress.com
+userPassword: Etsuko
+ou: admin_staff
+uid: 3296
+ Q==

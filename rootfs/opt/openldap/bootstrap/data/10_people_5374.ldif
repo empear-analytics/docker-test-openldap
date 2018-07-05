@@ -1,0 +1,13 @@
+dn: cn=Charmaine+sn=Aujla,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charmaine Aujla
+cn: Aujla
+givenname: Charmaine
+mail: charmaine.aujla@planetexpress.com
+userPassword: Charmaine
+ou: admin_staff
+uid: 5374
+ Q==

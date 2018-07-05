@@ -1,0 +1,13 @@
+dn: cn=Ivory+sn=Picker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ivory Picker
+cn: Picker
+givenname: Ivory
+mail: ivory.picker@planetexpress.com
+userPassword: Ivory
+ou: admin_staff
+uid: 5490
+ Q==

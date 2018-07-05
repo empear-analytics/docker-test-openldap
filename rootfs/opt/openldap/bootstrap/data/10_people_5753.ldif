@@ -1,0 +1,13 @@
+dn: cn=Micah+sn=Dinkins,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Micah Dinkins
+cn: Dinkins
+givenname: Micah
+mail: micah.dinkins@planetexpress.com
+userPassword: Micah
+ou: Group5
+uid: 5753
+ Q==

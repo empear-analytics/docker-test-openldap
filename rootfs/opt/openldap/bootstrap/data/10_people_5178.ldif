@@ -1,0 +1,13 @@
+dn: cn=Shiloh+sn=Aboulahoud,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shiloh Aboulahoud
+cn: Aboulahoud
+givenname: Shiloh
+mail: shiloh.aboulahoud@planetexpress.com
+userPassword: Shiloh
+ou: flight_crew
+uid: 5178
+ Q==

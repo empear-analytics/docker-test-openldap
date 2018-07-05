@@ -1,0 +1,13 @@
+dn: cn=Bonita+sn=Gleckler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bonita Gleckler
+cn: Gleckler
+givenname: Bonita
+mail: bonita.gleckler@planetexpress.com
+userPassword: Bonita
+ou: OtherGroup
+uid: 3552
+ Q==

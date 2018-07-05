@@ -1,0 +1,13 @@
+dn: cn=Shawnna+sn=Ransford,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shawnna Ransford
+cn: Ransford
+givenname: Shawnna
+mail: shawnna.ransford@planetexpress.com
+userPassword: Shawnna
+ou: flight_crew
+uid: 1308
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Mitchell+sn=Wilging,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mitchell Wilging
+cn: Wilging
+givenname: Mitchell
+mail: mitchell.wilging@planetexpress.com
+userPassword: Mitchell
+ou: OtherGroup
+uid: 5522
+ Q==

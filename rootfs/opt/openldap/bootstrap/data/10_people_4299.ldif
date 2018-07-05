@@ -1,0 +1,13 @@
+dn: cn=Adelaida+sn=Cloman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adelaida Cloman
+cn: Cloman
+givenname: Adelaida
+mail: adelaida.cloman@planetexpress.com
+userPassword: Adelaida
+ou: Group5
+uid: 4299
+ Q==

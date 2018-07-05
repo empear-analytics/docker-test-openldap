@@ -1,0 +1,13 @@
+dn: cn=Abraham+sn=Benari,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Abraham Benari
+cn: Benari
+givenname: Abraham
+mail: abraham.benari@planetexpress.com
+userPassword: Abraham
+ou: OtherGroup
+uid: 2778
+ Q==

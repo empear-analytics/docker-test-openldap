@@ -1,0 +1,13 @@
+dn: cn=Angelique+sn=Espaillat,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelique Espaillat
+cn: Espaillat
+givenname: Angelique
+mail: angelique.espaillat@planetexpress.com
+userPassword: Angelique
+ou: OtherGroup
+uid: 605
+ Q==

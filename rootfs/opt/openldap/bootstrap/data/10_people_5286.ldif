@@ -1,0 +1,13 @@
+dn: cn=Penney+sn=Gatlin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Penney Gatlin
+cn: Gatlin
+givenname: Penney
+mail: penney.gatlin@planetexpress.com
+userPassword: Penney
+ou: admin_staff
+uid: 5286
+ Q==

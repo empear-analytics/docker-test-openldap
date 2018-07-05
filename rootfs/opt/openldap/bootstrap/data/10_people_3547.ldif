@@ -1,0 +1,13 @@
+dn: cn=Yadira+sn=Krstic,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yadira Krstic
+cn: Krstic
+givenname: Yadira
+mail: yadira.krstic@planetexpress.com
+userPassword: Yadira
+ou: admin_staff
+uid: 3547
+ Q==

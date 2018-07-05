@@ -1,0 +1,13 @@
+dn: cn=Tracey+sn=Zmich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tracey Zmich
+cn: Zmich
+givenname: Tracey
+mail: tracey.zmich@planetexpress.com
+userPassword: Tracey
+ou: Group5
+uid: 3005
+ Q==

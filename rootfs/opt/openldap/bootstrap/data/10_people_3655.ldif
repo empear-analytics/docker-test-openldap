@@ -1,0 +1,13 @@
+dn: cn=Ulrike+sn=Reshid,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ulrike Reshid
+cn: Reshid
+givenname: Ulrike
+mail: ulrike.reshid@planetexpress.com
+userPassword: Ulrike
+ou: Group5
+uid: 3655
+ Q==

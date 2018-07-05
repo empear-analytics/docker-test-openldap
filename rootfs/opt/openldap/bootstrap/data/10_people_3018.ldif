@@ -1,0 +1,13 @@
+dn: cn=Annika+sn=Hanel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annika Hanel
+cn: Hanel
+givenname: Annika
+mail: annika.hanel@planetexpress.com
+userPassword: Annika
+ou: OtherGroup
+uid: 3018
+ Q==

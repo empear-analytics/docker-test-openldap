@@ -1,0 +1,13 @@
+dn: cn=Ulrike+sn=Ellstrom,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ulrike Ellstrom
+cn: Ellstrom
+givenname: Ulrike
+mail: ulrike.ellstrom@planetexpress.com
+userPassword: Ulrike
+ou: flight_crew
+uid: 1560
+ Q==

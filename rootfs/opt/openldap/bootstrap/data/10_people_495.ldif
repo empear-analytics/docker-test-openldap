@@ -1,0 +1,13 @@
+dn: cn=Santana+sn=Birchfield,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Santana Birchfield
+cn: Birchfield
+givenname: Santana
+mail: santana.birchfield@planetexpress.com
+userPassword: Santana
+ou: OtherGroup
+uid: 495
+ Q==

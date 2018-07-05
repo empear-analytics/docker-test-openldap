@@ -1,0 +1,13 @@
+dn: cn=Arnoldo+sn=Dufilho,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arnoldo Dufilho
+cn: Dufilho
+givenname: Arnoldo
+mail: arnoldo.dufilho@planetexpress.com
+userPassword: Arnoldo
+ou: OtherGroup
+uid: 511
+ Q==

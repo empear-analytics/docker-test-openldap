@@ -1,0 +1,13 @@
+dn: cn=Ciera+sn=Arend,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ciera Arend
+cn: Arend
+givenname: Ciera
+mail: ciera.arend@planetexpress.com
+userPassword: Ciera
+ou: Group5
+uid: 5483
+ Q==

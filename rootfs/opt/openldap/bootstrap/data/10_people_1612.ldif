@@ -1,0 +1,13 @@
+dn: cn=Gaston+sn=Josephsen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gaston Josephsen
+cn: Josephsen
+givenname: Gaston
+mail: gaston.josephsen@planetexpress.com
+userPassword: Gaston
+ou: OtherGroup
+uid: 1612
+ Q==

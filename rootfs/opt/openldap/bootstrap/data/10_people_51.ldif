@@ -1,0 +1,13 @@
+dn: cn=Susan+sn=Bastida,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Susan Bastida
+cn: Bastida
+givenname: Susan
+mail: susan.bastida@planetexpress.com
+userPassword: Susan
+ou: OtherGroup
+uid: 51
+ Q==

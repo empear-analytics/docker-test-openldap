@@ -1,0 +1,13 @@
+dn: cn=Jermaine+sn=Sivak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jermaine Sivak
+cn: Sivak
+givenname: Jermaine
+mail: jermaine.sivak@planetexpress.com
+userPassword: Jermaine
+ou: Group5
+uid: 2811
+ Q==

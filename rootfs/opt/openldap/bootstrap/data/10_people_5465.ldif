@@ -1,0 +1,13 @@
+dn: cn=Gita+sn=Sartorius,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gita Sartorius
+cn: Sartorius
+givenname: Gita
+mail: gita.sartorius@planetexpress.com
+userPassword: Gita
+ou: OtherGroup
+uid: 5465
+ Q==

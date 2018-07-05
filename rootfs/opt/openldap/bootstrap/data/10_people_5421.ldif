@@ -1,0 +1,13 @@
+dn: cn=Bulah+sn=Schimmel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bulah Schimmel
+cn: Schimmel
+givenname: Bulah
+mail: bulah.schimmel@planetexpress.com
+userPassword: Bulah
+ou: admin_staff
+uid: 5421
+ Q==

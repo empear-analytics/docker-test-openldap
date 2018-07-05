@@ -1,0 +1,13 @@
+dn: cn=Shirlee+sn=Kille,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shirlee Kille
+cn: Kille
+givenname: Shirlee
+mail: shirlee.kille@planetexpress.com
+userPassword: Shirlee
+ou: OtherGroup
+uid: 4161
+ Q==

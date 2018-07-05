@@ -1,0 +1,13 @@
+dn: cn=Thanh+sn=Autullo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thanh Autullo
+cn: Autullo
+givenname: Thanh
+mail: thanh.autullo@planetexpress.com
+userPassword: Thanh
+ou: OtherGroup
+uid: 4239
+ Q==

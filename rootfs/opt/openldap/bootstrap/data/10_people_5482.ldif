@@ -1,0 +1,13 @@
+dn: cn=Manda+sn=Capiga,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Manda Capiga
+cn: Capiga
+givenname: Manda
+mail: manda.capiga@planetexpress.com
+userPassword: Manda
+ou: Group5
+uid: 5482
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Leon+sn=Meres,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leon Meres
+cn: Meres
+givenname: Leon
+mail: leon.meres@planetexpress.com
+userPassword: Leon
+ou: OtherGroup
+uid: 4492
+ Q==

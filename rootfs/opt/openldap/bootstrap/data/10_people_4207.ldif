@@ -1,0 +1,13 @@
+dn: cn=Beatrice+sn=Pereira,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beatrice Pereira
+cn: Pereira
+givenname: Beatrice
+mail: beatrice.pereira@planetexpress.com
+userPassword: Beatrice
+ou: admin_staff
+uid: 4207
+ Q==

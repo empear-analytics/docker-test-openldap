@@ -1,0 +1,13 @@
+dn: cn=Rashad+sn=Rollings,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rashad Rollings
+cn: Rollings
+givenname: Rashad
+mail: rashad.rollings@planetexpress.com
+userPassword: Rashad
+ou: Group5
+uid: 4360
+ Q==

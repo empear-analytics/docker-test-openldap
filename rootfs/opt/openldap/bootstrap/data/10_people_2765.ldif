@@ -1,0 +1,13 @@
+dn: cn=Teodoro+sn=Acor,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Teodoro Acor
+cn: Acor
+givenname: Teodoro
+mail: teodoro.acor@planetexpress.com
+userPassword: Teodoro
+ou: admin_staff
+uid: 2765
+ Q==

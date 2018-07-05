@@ -1,0 +1,13 @@
+dn: cn=Eulah+sn=Agilar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eulah Agilar
+cn: Agilar
+givenname: Eulah
+mail: eulah.agilar@planetexpress.com
+userPassword: Eulah
+ou: OtherGroup
+uid: 1904
+ Q==

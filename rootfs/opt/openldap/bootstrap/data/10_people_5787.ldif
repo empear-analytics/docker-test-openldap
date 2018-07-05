@@ -1,0 +1,13 @@
+dn: cn=Ilona+sn=Cackett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ilona Cackett
+cn: Cackett
+givenname: Ilona
+mail: ilona.cackett@planetexpress.com
+userPassword: Ilona
+ou: OtherGroup
+uid: 5787
+ Q==

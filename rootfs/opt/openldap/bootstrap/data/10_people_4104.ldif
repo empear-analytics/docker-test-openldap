@@ -1,0 +1,13 @@
+dn: cn=Francine+sn=Choo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Francine Choo
+cn: Choo
+givenname: Francine
+mail: francine.choo@planetexpress.com
+userPassword: Francine
+ou: OtherGroup
+uid: 4104
+ Q==

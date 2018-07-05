@@ -1,0 +1,13 @@
+dn: cn=Tami+sn=Zych,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tami Zych
+cn: Zych
+givenname: Tami
+mail: tami.zych@planetexpress.com
+userPassword: Tami
+ou: OtherGroup
+uid: 3181
+ Q==

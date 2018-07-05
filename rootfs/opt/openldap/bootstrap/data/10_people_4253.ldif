@@ -1,0 +1,13 @@
+dn: cn=Ruthann+sn=Melrose,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ruthann Melrose
+cn: Melrose
+givenname: Ruthann
+mail: ruthann.melrose@planetexpress.com
+userPassword: Ruthann
+ou: OtherGroup
+uid: 4253
+ Q==

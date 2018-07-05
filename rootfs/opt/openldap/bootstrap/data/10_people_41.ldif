@@ -1,0 +1,13 @@
+dn: cn=Jeffery+sn=Portner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeffery Portner
+cn: Portner
+givenname: Jeffery
+mail: jeffery.portner@planetexpress.com
+userPassword: Jeffery
+ou: OtherGroup
+uid: 41
+ Q==

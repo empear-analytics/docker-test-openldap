@@ -1,0 +1,13 @@
+dn: cn=Numbers+sn=Despain,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Numbers Despain
+cn: Despain
+givenname: Numbers
+mail: numbers.despain@planetexpress.com
+userPassword: Numbers
+ou: flight_crew
+uid: 5287
+ Q==

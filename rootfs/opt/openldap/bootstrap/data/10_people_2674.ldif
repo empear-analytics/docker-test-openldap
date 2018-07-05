@@ -1,0 +1,13 @@
+dn: cn=Shelley+sn=Lavere,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shelley Lavere
+cn: Lavere
+givenname: Shelley
+mail: shelley.lavere@planetexpress.com
+userPassword: Shelley
+ou: flight_crew
+uid: 2674
+ Q==

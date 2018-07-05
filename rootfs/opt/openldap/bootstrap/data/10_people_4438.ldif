@@ -1,0 +1,13 @@
+dn: cn=Caron+sn=Fosnough,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Caron Fosnough
+cn: Fosnough
+givenname: Caron
+mail: caron.fosnough@planetexpress.com
+userPassword: Caron
+ou: OtherGroup
+uid: 4438
+ Q==

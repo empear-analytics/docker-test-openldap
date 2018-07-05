@@ -1,0 +1,13 @@
+dn: cn=Mara+sn=Sueyoshi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mara Sueyoshi
+cn: Sueyoshi
+givenname: Mara
+mail: mara.sueyoshi@planetexpress.com
+userPassword: Mara
+ou: Group5
+uid: 5035
+ Q==

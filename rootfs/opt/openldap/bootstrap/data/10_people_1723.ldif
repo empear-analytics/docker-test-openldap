@@ -1,0 +1,13 @@
+dn: cn=Jayme+sn=Steckelberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jayme Steckelberg
+cn: Steckelberg
+givenname: Jayme
+mail: jayme.steckelberg@planetexpress.com
+userPassword: Jayme
+ou: flight_crew
+uid: 1723
+ Q==

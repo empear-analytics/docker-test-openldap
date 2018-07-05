@@ -1,0 +1,13 @@
+dn: cn=Josephine+sn=Gigstad,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Josephine Gigstad
+cn: Gigstad
+givenname: Josephine
+mail: josephine.gigstad@planetexpress.com
+userPassword: Josephine
+ou: flight_crew
+uid: 1441
+ Q==

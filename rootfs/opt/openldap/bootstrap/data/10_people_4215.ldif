@@ -1,0 +1,13 @@
+dn: cn=Lawana+sn=Sultaire,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lawana Sultaire
+cn: Sultaire
+givenname: Lawana
+mail: lawana.sultaire@planetexpress.com
+userPassword: Lawana
+ou: admin_staff
+uid: 4215
+ Q==

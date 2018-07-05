@@ -1,0 +1,13 @@
+dn: cn=Margurite+sn=Jobes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margurite Jobes
+cn: Jobes
+givenname: Margurite
+mail: margurite.jobes@planetexpress.com
+userPassword: Margurite
+ou: flight_crew
+uid: 4879
+ Q==

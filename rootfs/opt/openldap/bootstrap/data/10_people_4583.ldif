@@ -1,0 +1,13 @@
+dn: cn=Lani+sn=Redish,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lani Redish
+cn: Redish
+givenname: Lani
+mail: lani.redish@planetexpress.com
+userPassword: Lani
+ou: admin_staff
+uid: 4583
+ Q==

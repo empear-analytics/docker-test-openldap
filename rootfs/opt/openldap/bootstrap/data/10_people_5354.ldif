@@ -1,0 +1,13 @@
+dn: cn=Cameron+sn=Korkmas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cameron Korkmas
+cn: Korkmas
+givenname: Cameron
+mail: cameron.korkmas@planetexpress.com
+userPassword: Cameron
+ou: flight_crew
+uid: 5354
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Serafina+sn=Wist,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Serafina Wist
+cn: Wist
+givenname: Serafina
+mail: serafina.wist@planetexpress.com
+userPassword: Serafina
+ou: Group5
+uid: 632
+ Q==

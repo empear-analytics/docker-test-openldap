@@ -1,0 +1,13 @@
+dn: cn=Emma+sn=Sarden,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emma Sarden
+cn: Sarden
+givenname: Emma
+mail: emma.sarden@planetexpress.com
+userPassword: Emma
+ou: Group5
+uid: 2346
+ Q==

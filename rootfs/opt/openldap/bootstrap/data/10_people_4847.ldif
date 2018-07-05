@@ -1,0 +1,13 @@
+dn: cn=Lyman+sn=Zimmerli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lyman Zimmerli
+cn: Zimmerli
+givenname: Lyman
+mail: lyman.zimmerli@planetexpress.com
+userPassword: Lyman
+ou: OtherGroup
+uid: 4847
+ Q==

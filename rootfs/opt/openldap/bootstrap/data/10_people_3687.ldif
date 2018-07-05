@@ -1,0 +1,13 @@
+dn: cn=Afton+sn=Chaisty,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Afton Chaisty
+cn: Chaisty
+givenname: Afton
+mail: afton.chaisty@planetexpress.com
+userPassword: Afton
+ou: Group5
+uid: 3687
+ Q==

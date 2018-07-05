@@ -1,0 +1,13 @@
+dn: cn=Phillip+sn=Helstrom,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Phillip Helstrom
+cn: Helstrom
+givenname: Phillip
+mail: phillip.helstrom@planetexpress.com
+userPassword: Phillip
+ou: OtherGroup
+uid: 1001
+ Q==

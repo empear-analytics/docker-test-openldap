@@ -1,0 +1,13 @@
+dn: cn=Nadia+sn=Raupach,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nadia Raupach
+cn: Raupach
+givenname: Nadia
+mail: nadia.raupach@planetexpress.com
+userPassword: Nadia
+ou: admin_staff
+uid: 1592
+ Q==

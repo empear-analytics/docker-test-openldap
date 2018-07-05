@@ -1,0 +1,13 @@
+dn: cn=Lecia+sn=Cirrincione,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lecia Cirrincione
+cn: Cirrincione
+givenname: Lecia
+mail: lecia.cirrincione@planetexpress.com
+userPassword: Lecia
+ou: admin_staff
+uid: 1350
+ Q==

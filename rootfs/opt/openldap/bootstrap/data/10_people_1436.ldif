@@ -1,0 +1,13 @@
+dn: cn=Krishna+sn=Oehler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Krishna Oehler
+cn: Oehler
+givenname: Krishna
+mail: krishna.oehler@planetexpress.com
+userPassword: Krishna
+ou: admin_staff
+uid: 1436
+ Q==

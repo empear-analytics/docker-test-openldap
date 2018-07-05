@@ -1,0 +1,13 @@
+dn: cn=Rachel+sn=Nydick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rachel Nydick
+cn: Nydick
+givenname: Rachel
+mail: rachel.nydick@planetexpress.com
+userPassword: Rachel
+ou: admin_staff
+uid: 4539
+ Q==

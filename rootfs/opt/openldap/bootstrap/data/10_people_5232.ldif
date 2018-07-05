@@ -1,0 +1,13 @@
+dn: cn=Alease+sn=Curnutt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alease Curnutt
+cn: Curnutt
+givenname: Alease
+mail: alease.curnutt@planetexpress.com
+userPassword: Alease
+ou: flight_crew
+uid: 5232
+ Q==

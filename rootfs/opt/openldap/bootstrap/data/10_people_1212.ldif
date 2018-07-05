@@ -1,0 +1,13 @@
+dn: cn=Tia+sn=Hilby,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tia Hilby
+cn: Hilby
+givenname: Tia
+mail: tia.hilby@planetexpress.com
+userPassword: Tia
+ou: OtherGroup
+uid: 1212
+ Q==

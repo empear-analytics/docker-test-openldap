@@ -1,0 +1,13 @@
+dn: cn=Jani+sn=Sonza,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jani Sonza
+cn: Sonza
+givenname: Jani
+mail: jani.sonza@planetexpress.com
+userPassword: Jani
+ou: admin_staff
+uid: 1696
+ Q==

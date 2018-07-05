@@ -1,0 +1,13 @@
+dn: cn=Heriberto+sn=Grich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Heriberto Grich
+cn: Grich
+givenname: Heriberto
+mail: heriberto.grich@planetexpress.com
+userPassword: Heriberto
+ou: flight_crew
+uid: 3614
+ Q==

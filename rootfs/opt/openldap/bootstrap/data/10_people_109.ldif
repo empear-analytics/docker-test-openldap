@@ -1,0 +1,13 @@
+dn: cn=Johnnie+sn=Zauner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Johnnie Zauner
+cn: Zauner
+givenname: Johnnie
+mail: johnnie.zauner@planetexpress.com
+userPassword: Johnnie
+ou: Group5
+uid: 109
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Dwayne+sn=Wisinski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dwayne Wisinski
+cn: Wisinski
+givenname: Dwayne
+mail: dwayne.wisinski@planetexpress.com
+userPassword: Dwayne
+ou: admin_staff
+uid: 344
+ Q==

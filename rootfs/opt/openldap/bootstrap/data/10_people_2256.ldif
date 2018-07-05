@@ -1,0 +1,13 @@
+dn: cn=Bo+sn=Drewing,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bo Drewing
+cn: Drewing
+givenname: Bo
+mail: bo.drewing@planetexpress.com
+userPassword: Bo
+ou: Group5
+uid: 2256
+ Q==

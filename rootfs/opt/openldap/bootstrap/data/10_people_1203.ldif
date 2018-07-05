@@ -1,0 +1,13 @@
+dn: cn=Suzy+sn=Potts,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Suzy Potts
+cn: Potts
+givenname: Suzy
+mail: suzy.potts@planetexpress.com
+userPassword: Suzy
+ou: Group5
+uid: 1203
+ Q==

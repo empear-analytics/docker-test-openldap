@@ -1,0 +1,13 @@
+dn: cn=Jamie+sn=Caiazzo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamie Caiazzo
+cn: Caiazzo
+givenname: Jamie
+mail: jamie.caiazzo@planetexpress.com
+userPassword: Jamie
+ou: OtherGroup
+uid: 3282
+ Q==

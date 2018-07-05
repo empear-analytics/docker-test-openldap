@@ -1,0 +1,13 @@
+dn: cn=Luann+sn=Underdown,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Luann Underdown
+cn: Underdown
+givenname: Luann
+mail: luann.underdown@planetexpress.com
+userPassword: Luann
+ou: OtherGroup
+uid: 5353
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jami+sn=Johnstone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jami Johnstone
+cn: Johnstone
+givenname: Jami
+mail: jami.johnstone@planetexpress.com
+userPassword: Jami
+ou: OtherGroup
+uid: 1421
+ Q==

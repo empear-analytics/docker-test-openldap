@@ -1,0 +1,13 @@
+dn: cn=Tanya+sn=Wodarski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tanya Wodarski
+cn: Wodarski
+givenname: Tanya
+mail: tanya.wodarski@planetexpress.com
+userPassword: Tanya
+ou: Group5
+uid: 4452
+ Q==

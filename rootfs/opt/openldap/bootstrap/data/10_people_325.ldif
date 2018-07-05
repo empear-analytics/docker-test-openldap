@@ -1,0 +1,13 @@
+dn: cn=Sana+sn=Salvio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sana Salvio
+cn: Salvio
+givenname: Sana
+mail: sana.salvio@planetexpress.com
+userPassword: Sana
+ou: flight_crew
+uid: 325
+ Q==

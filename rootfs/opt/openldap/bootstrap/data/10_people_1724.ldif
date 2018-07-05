@@ -1,0 +1,13 @@
+dn: cn=Danyelle+sn=Hippler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Danyelle Hippler
+cn: Hippler
+givenname: Danyelle
+mail: danyelle.hippler@planetexpress.com
+userPassword: Danyelle
+ou: OtherGroup
+uid: 1724
+ Q==

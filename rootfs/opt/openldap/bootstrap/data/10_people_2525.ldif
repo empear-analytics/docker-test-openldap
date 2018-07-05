@@ -1,0 +1,13 @@
+dn: cn=Anjanette+sn=Depaz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anjanette Depaz
+cn: Depaz
+givenname: Anjanette
+mail: anjanette.depaz@planetexpress.com
+userPassword: Anjanette
+ou: Group5
+uid: 2525
+ Q==

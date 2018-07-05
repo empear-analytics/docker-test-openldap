@@ -1,0 +1,13 @@
+dn: cn=Lynwood+sn=Lacks,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lynwood Lacks
+cn: Lacks
+givenname: Lynwood
+mail: lynwood.lacks@planetexpress.com
+userPassword: Lynwood
+ou: flight_crew
+uid: 264
+ Q==

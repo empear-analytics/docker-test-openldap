@@ -1,0 +1,13 @@
+dn: cn=Ramona+sn=Urreta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ramona Urreta
+cn: Urreta
+givenname: Ramona
+mail: ramona.urreta@planetexpress.com
+userPassword: Ramona
+ou: OtherGroup
+uid: 5695
+ Q==

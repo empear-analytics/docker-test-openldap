@@ -1,0 +1,13 @@
+dn: cn=Beverlee+sn=Kaczynski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beverlee Kaczynski
+cn: Kaczynski
+givenname: Beverlee
+mail: beverlee.kaczynski@planetexpress.com
+userPassword: Beverlee
+ou: flight_crew
+uid: 2975
+ Q==

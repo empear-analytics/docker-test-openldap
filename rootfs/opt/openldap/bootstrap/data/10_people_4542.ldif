@@ -1,0 +1,13 @@
+dn: cn=Markus+sn=Dirico,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Markus Dirico
+cn: Dirico
+givenname: Markus
+mail: markus.dirico@planetexpress.com
+userPassword: Markus
+ou: flight_crew
+uid: 4542
+ Q==

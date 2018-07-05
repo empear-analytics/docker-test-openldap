@@ -1,0 +1,13 @@
+dn: cn=Flora+sn=Kelln,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Flora Kelln
+cn: Kelln
+givenname: Flora
+mail: flora.kelln@planetexpress.com
+userPassword: Flora
+ou: admin_staff
+uid: 4754
+ Q==

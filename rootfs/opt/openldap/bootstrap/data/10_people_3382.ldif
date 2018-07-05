@@ -1,0 +1,13 @@
+dn: cn=Cordell+sn=Leko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cordell Leko
+cn: Leko
+givenname: Cordell
+mail: cordell.leko@planetexpress.com
+userPassword: Cordell
+ou: flight_crew
+uid: 3382
+ Q==

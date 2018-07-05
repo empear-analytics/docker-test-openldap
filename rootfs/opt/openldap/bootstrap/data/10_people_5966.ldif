@@ -1,0 +1,13 @@
+dn: cn=Trudie+sn=Elguezabal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Trudie Elguezabal
+cn: Elguezabal
+givenname: Trudie
+mail: trudie.elguezabal@planetexpress.com
+userPassword: Trudie
+ou: flight_crew
+uid: 5966
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ashleigh+sn=Serasio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ashleigh Serasio
+cn: Serasio
+givenname: Ashleigh
+mail: ashleigh.serasio@planetexpress.com
+userPassword: Ashleigh
+ou: Group5
+uid: 4363
+ Q==

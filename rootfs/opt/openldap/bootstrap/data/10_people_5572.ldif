@@ -1,0 +1,13 @@
+dn: cn=Josefine+sn=Hysquierdo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Josefine Hysquierdo
+cn: Hysquierdo
+givenname: Josefine
+mail: josefine.hysquierdo@planetexpress.com
+userPassword: Josefine
+ou: Group5
+uid: 5572
+ Q==

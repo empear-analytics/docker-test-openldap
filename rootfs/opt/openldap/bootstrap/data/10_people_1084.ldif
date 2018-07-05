@@ -1,0 +1,13 @@
+dn: cn=Keiko+sn=Elleby,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keiko Elleby
+cn: Elleby
+givenname: Keiko
+mail: keiko.elleby@planetexpress.com
+userPassword: Keiko
+ou: admin_staff
+uid: 1084
+ Q==

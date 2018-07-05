@@ -1,0 +1,13 @@
+dn: cn=Kenneth+sn=Waygood,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kenneth Waygood
+cn: Waygood
+givenname: Kenneth
+mail: kenneth.waygood@planetexpress.com
+userPassword: Kenneth
+ou: admin_staff
+uid: 234
+ Q==

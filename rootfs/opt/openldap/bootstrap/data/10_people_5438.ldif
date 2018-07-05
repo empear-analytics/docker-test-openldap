@@ -1,0 +1,13 @@
+dn: cn=Mathilda+sn=Seybold,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mathilda Seybold
+cn: Seybold
+givenname: Mathilda
+mail: mathilda.seybold@planetexpress.com
+userPassword: Mathilda
+ou: Group5
+uid: 5438
+ Q==

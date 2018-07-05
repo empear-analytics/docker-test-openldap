@@ -1,0 +1,13 @@
+dn: cn=Brittanie+sn=Bielak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brittanie Bielak
+cn: Bielak
+givenname: Brittanie
+mail: brittanie.bielak@planetexpress.com
+userPassword: Brittanie
+ou: OtherGroup
+uid: 4540
+ Q==

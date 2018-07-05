@@ -1,0 +1,13 @@
+dn: cn=Ty+sn=Fuls,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ty Fuls
+cn: Fuls
+givenname: Ty
+mail: ty.fuls@planetexpress.com
+userPassword: Ty
+ou: Group5
+uid: 5605
+ Q==

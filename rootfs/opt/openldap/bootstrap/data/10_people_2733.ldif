@@ -1,0 +1,13 @@
+dn: cn=Sammy+sn=Grunberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sammy Grunberg
+cn: Grunberg
+givenname: Sammy
+mail: sammy.grunberg@planetexpress.com
+userPassword: Sammy
+ou: flight_crew
+uid: 2733
+ Q==

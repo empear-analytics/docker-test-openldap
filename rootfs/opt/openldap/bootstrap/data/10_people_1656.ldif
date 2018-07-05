@@ -1,0 +1,13 @@
+dn: cn=Malvina+sn=Tindel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Malvina Tindel
+cn: Tindel
+givenname: Malvina
+mail: malvina.tindel@planetexpress.com
+userPassword: Malvina
+ou: admin_staff
+uid: 1656
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Serita+sn=Kliewer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Serita Kliewer
+cn: Kliewer
+givenname: Serita
+mail: serita.kliewer@planetexpress.com
+userPassword: Serita
+ou: Group5
+uid: 2310
+ Q==

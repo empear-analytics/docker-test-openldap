@@ -1,0 +1,13 @@
+dn: cn=Ewa+sn=Woltemath,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ewa Woltemath
+cn: Woltemath
+givenname: Ewa
+mail: ewa.woltemath@planetexpress.com
+userPassword: Ewa
+ou: OtherGroup
+uid: 2010
+ Q==

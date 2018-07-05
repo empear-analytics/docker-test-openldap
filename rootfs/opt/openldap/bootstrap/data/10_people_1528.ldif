@@ -1,0 +1,13 @@
+dn: cn=Marin+sn=Comacho,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marin Comacho
+cn: Comacho
+givenname: Marin
+mail: marin.comacho@planetexpress.com
+userPassword: Marin
+ou: admin_staff
+uid: 1528
+ Q==

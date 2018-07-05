@@ -1,0 +1,13 @@
+dn: cn=Elnora+sn=Hovermale,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elnora Hovermale
+cn: Hovermale
+givenname: Elnora
+mail: elnora.hovermale@planetexpress.com
+userPassword: Elnora
+ou: Group5
+uid: 3853
+ Q==

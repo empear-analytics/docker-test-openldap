@@ -1,0 +1,13 @@
+dn: cn=Chieko+sn=Eyton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chieko Eyton
+cn: Eyton
+givenname: Chieko
+mail: chieko.eyton@planetexpress.com
+userPassword: Chieko
+ou: OtherGroup
+uid: 4866
+ Q==

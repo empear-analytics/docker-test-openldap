@@ -1,0 +1,13 @@
+dn: cn=Dorie+sn=Scheperle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dorie Scheperle
+cn: Scheperle
+givenname: Dorie
+mail: dorie.scheperle@planetexpress.com
+userPassword: Dorie
+ou: OtherGroup
+uid: 3703
+ Q==

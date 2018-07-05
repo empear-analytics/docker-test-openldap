@@ -1,0 +1,13 @@
+dn: cn=Charleen+sn=Beermann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charleen Beermann
+cn: Beermann
+givenname: Charleen
+mail: charleen.beermann@planetexpress.com
+userPassword: Charleen
+ou: OtherGroup
+uid: 2423
+ Q==

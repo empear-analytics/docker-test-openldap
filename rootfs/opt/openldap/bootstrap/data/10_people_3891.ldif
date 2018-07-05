@@ -1,0 +1,13 @@
+dn: cn=Eva+sn=Quilliams,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eva Quilliams
+cn: Quilliams
+givenname: Eva
+mail: eva.quilliams@planetexpress.com
+userPassword: Eva
+ou: Group5
+uid: 3891
+ Q==

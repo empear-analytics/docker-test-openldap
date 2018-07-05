@@ -1,0 +1,13 @@
+dn: cn=Lewis+sn=Gizzo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lewis Gizzo
+cn: Gizzo
+givenname: Lewis
+mail: lewis.gizzo@planetexpress.com
+userPassword: Lewis
+ou: flight_crew
+uid: 666
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Dalton+sn=Kerbo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dalton Kerbo
+cn: Kerbo
+givenname: Dalton
+mail: dalton.kerbo@planetexpress.com
+userPassword: Dalton
+ou: admin_staff
+uid: 4748
+ Q==

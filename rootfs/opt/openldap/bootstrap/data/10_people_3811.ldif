@@ -1,0 +1,13 @@
+dn: cn=Ruthe+sn=Langreck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ruthe Langreck
+cn: Langreck
+givenname: Ruthe
+mail: ruthe.langreck@planetexpress.com
+userPassword: Ruthe
+ou: flight_crew
+uid: 3811
+ Q==

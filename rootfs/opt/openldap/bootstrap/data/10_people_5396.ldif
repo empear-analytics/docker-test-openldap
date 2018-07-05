@@ -1,0 +1,13 @@
+dn: cn=Quincy+sn=Berberich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Quincy Berberich
+cn: Berberich
+givenname: Quincy
+mail: quincy.berberich@planetexpress.com
+userPassword: Quincy
+ou: Group5
+uid: 5396
+ Q==

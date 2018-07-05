@@ -1,0 +1,13 @@
+dn: cn=Charley+sn=Ebersole,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charley Ebersole
+cn: Ebersole
+givenname: Charley
+mail: charley.ebersole@planetexpress.com
+userPassword: Charley
+ou: flight_crew
+uid: 2427
+ Q==

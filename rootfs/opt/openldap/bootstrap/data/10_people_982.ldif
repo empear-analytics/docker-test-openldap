@@ -1,0 +1,13 @@
+dn: cn=Ira+sn=Edgell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ira Edgell
+cn: Edgell
+givenname: Ira
+mail: ira.edgell@planetexpress.com
+userPassword: Ira
+ou: Group5
+uid: 982
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Aaron+sn=Hotaki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aaron Hotaki
+cn: Hotaki
+givenname: Aaron
+mail: aaron.hotaki@planetexpress.com
+userPassword: Aaron
+ou: OtherGroup
+uid: 2352
+ Q==

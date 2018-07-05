@@ -1,0 +1,13 @@
+dn: cn=Blanche+sn=Spry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Blanche Spry
+cn: Spry
+givenname: Blanche
+mail: blanche.spry@planetexpress.com
+userPassword: Blanche
+ou: OtherGroup
+uid: 4210
+ Q==

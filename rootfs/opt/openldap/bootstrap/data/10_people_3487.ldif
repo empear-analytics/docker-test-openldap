@@ -1,0 +1,13 @@
+dn: cn=Darcey+sn=Worthen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darcey Worthen
+cn: Worthen
+givenname: Darcey
+mail: darcey.worthen@planetexpress.com
+userPassword: Darcey
+ou: admin_staff
+uid: 3487
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tonja+sn=Gottemoeller,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tonja Gottemoeller
+cn: Gottemoeller
+givenname: Tonja
+mail: tonja.gottemoeller@planetexpress.com
+userPassword: Tonja
+ou: OtherGroup
+uid: 3036
+ Q==

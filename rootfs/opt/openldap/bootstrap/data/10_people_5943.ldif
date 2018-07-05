@@ -1,0 +1,13 @@
+dn: cn=Anastacia+sn=Adkison,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anastacia Adkison
+cn: Adkison
+givenname: Anastacia
+mail: anastacia.adkison@planetexpress.com
+userPassword: Anastacia
+ou: admin_staff
+uid: 5943
+ Q==

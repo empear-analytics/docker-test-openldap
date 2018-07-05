@@ -1,0 +1,13 @@
+dn: cn=Annie+sn=Jesus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annie Jesus
+cn: Jesus
+givenname: Annie
+mail: annie.jesus@planetexpress.com
+userPassword: Annie
+ou: OtherGroup
+uid: 4331
+ Q==

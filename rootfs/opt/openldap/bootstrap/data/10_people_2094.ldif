@@ -1,0 +1,13 @@
+dn: cn=Bridgette+sn=Cassarino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bridgette Cassarino
+cn: Cassarino
+givenname: Bridgette
+mail: bridgette.cassarino@planetexpress.com
+userPassword: Bridgette
+ou: OtherGroup
+uid: 2094
+ Q==

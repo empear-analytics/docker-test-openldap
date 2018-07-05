@@ -1,0 +1,13 @@
+dn: cn=Bobby+sn=Abels,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bobby Abels
+cn: Abels
+givenname: Bobby
+mail: bobby.abels@planetexpress.com
+userPassword: Bobby
+ou: OtherGroup
+uid: 5602
+ Q==

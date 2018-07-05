@@ -1,0 +1,13 @@
+dn: cn=Eddy+sn=Bubis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eddy Bubis
+cn: Bubis
+givenname: Eddy
+mail: eddy.bubis@planetexpress.com
+userPassword: Eddy
+ou: OtherGroup
+uid: 1343
+ Q==

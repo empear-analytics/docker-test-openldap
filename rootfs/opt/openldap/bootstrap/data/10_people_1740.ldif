@@ -1,0 +1,13 @@
+dn: cn=Elfreda+sn=Nahass,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elfreda Nahass
+cn: Nahass
+givenname: Elfreda
+mail: elfreda.nahass@planetexpress.com
+userPassword: Elfreda
+ou: admin_staff
+uid: 1740
+ Q==

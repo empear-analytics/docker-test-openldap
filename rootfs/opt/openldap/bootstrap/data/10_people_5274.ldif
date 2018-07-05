@@ -1,0 +1,13 @@
+dn: cn=Tangela+sn=Pigg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tangela Pigg
+cn: Pigg
+givenname: Tangela
+mail: tangela.pigg@planetexpress.com
+userPassword: Tangela
+ou: flight_crew
+uid: 5274
+ Q==

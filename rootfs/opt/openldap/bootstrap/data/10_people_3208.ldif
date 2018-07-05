@@ -1,0 +1,13 @@
+dn: cn=Jong+sn=Cappel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jong Cappel
+cn: Cappel
+givenname: Jong
+mail: jong.cappel@planetexpress.com
+userPassword: Jong
+ou: admin_staff
+uid: 3208
+ Q==

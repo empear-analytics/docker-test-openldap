@@ -1,0 +1,13 @@
+dn: cn=Celina+sn=Renosky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Celina Renosky
+cn: Renosky
+givenname: Celina
+mail: celina.renosky@planetexpress.com
+userPassword: Celina
+ou: Group5
+uid: 2918
+ Q==

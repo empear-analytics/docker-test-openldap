@@ -1,0 +1,13 @@
+dn: cn=Ginger+sn=Eiesland,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ginger Eiesland
+cn: Eiesland
+givenname: Ginger
+mail: ginger.eiesland@planetexpress.com
+userPassword: Ginger
+ou: OtherGroup
+uid: 4600
+ Q==

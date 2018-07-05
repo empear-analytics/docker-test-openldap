@@ -1,0 +1,13 @@
+dn: cn=Nelson+sn=Sotos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nelson Sotos
+cn: Sotos
+givenname: Nelson
+mail: nelson.sotos@planetexpress.com
+userPassword: Nelson
+ou: OtherGroup
+uid: 2199
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Marcie+sn=Bonas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marcie Bonas
+cn: Bonas
+givenname: Marcie
+mail: marcie.bonas@planetexpress.com
+userPassword: Marcie
+ou: OtherGroup
+uid: 284
+ Q==

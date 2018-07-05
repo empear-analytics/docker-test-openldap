@@ -1,0 +1,13 @@
+dn: cn=Lorrie+sn=Roehler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lorrie Roehler
+cn: Roehler
+givenname: Lorrie
+mail: lorrie.roehler@planetexpress.com
+userPassword: Lorrie
+ou: Group5
+uid: 180
+ Q==

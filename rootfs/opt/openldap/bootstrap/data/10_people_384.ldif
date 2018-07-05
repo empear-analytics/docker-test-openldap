@@ -1,0 +1,13 @@
+dn: cn=Rosalva+sn=Fusha,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosalva Fusha
+cn: Fusha
+givenname: Rosalva
+mail: rosalva.fusha@planetexpress.com
+userPassword: Rosalva
+ou: Group5
+uid: 384
+ Q==

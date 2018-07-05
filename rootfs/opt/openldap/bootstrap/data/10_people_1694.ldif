@@ -1,0 +1,13 @@
+dn: cn=Tiffany+sn=Barrington,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tiffany Barrington
+cn: Barrington
+givenname: Tiffany
+mail: tiffany.barrington@planetexpress.com
+userPassword: Tiffany
+ou: OtherGroup
+uid: 1694
+ Q==

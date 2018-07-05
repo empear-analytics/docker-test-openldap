@@ -1,0 +1,13 @@
+dn: cn=Xenia+sn=Hardie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Xenia Hardie
+cn: Hardie
+givenname: Xenia
+mail: xenia.hardie@planetexpress.com
+userPassword: Xenia
+ou: flight_crew
+uid: 2252
+ Q==

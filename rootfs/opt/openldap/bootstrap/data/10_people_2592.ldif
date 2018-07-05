@@ -1,0 +1,13 @@
+dn: cn=Ruthann+sn=Leithoff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ruthann Leithoff
+cn: Leithoff
+givenname: Ruthann
+mail: ruthann.leithoff@planetexpress.com
+userPassword: Ruthann
+ou: flight_crew
+uid: 2592
+ Q==

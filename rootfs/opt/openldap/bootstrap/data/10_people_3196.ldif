@@ -1,0 +1,13 @@
+dn: cn=Mae+sn=Hoek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mae Hoek
+cn: Hoek
+givenname: Mae
+mail: mae.hoek@planetexpress.com
+userPassword: Mae
+ou: Group5
+uid: 3196
+ Q==

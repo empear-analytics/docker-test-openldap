@@ -1,0 +1,13 @@
+dn: cn=Rikki+sn=Fleischmann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rikki Fleischmann
+cn: Fleischmann
+givenname: Rikki
+mail: rikki.fleischmann@planetexpress.com
+userPassword: Rikki
+ou: Group5
+uid: 5218
+ Q==

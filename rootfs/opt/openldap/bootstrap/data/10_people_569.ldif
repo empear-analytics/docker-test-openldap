@@ -1,0 +1,13 @@
+dn: cn=Vada+sn=Badamo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vada Badamo
+cn: Badamo
+givenname: Vada
+mail: vada.badamo@planetexpress.com
+userPassword: Vada
+ou: OtherGroup
+uid: 569
+ Q==

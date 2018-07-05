@@ -1,0 +1,13 @@
+dn: cn=Andre+sn=Frothingham,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andre Frothingham
+cn: Frothingham
+givenname: Andre
+mail: andre.frothingham@planetexpress.com
+userPassword: Andre
+ou: Group5
+uid: 70
+ Q==

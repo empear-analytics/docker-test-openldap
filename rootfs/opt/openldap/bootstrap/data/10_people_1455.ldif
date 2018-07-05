@@ -1,0 +1,13 @@
+dn: cn=Tracy+sn=Mackenzie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tracy Mackenzie
+cn: Mackenzie
+givenname: Tracy
+mail: tracy.mackenzie@planetexpress.com
+userPassword: Tracy
+ou: OtherGroup
+uid: 1455
+ Q==

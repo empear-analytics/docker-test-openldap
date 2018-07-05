@@ -1,0 +1,13 @@
+dn: cn=Ocie+sn=Braaten,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ocie Braaten
+cn: Braaten
+givenname: Ocie
+mail: ocie.braaten@planetexpress.com
+userPassword: Ocie
+ou: admin_staff
+uid: 5136
+ Q==

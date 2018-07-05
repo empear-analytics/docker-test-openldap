@@ -1,0 +1,13 @@
+dn: cn=Johanna+sn=Madera,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Johanna Madera
+cn: Madera
+givenname: Johanna
+mail: johanna.madera@planetexpress.com
+userPassword: Johanna
+ou: OtherGroup
+uid: 3739
+ Q==

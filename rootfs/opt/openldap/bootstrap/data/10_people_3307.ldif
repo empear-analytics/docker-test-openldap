@@ -1,0 +1,13 @@
+dn: cn=Ashely+sn=Feria,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ashely Feria
+cn: Feria
+givenname: Ashely
+mail: ashely.feria@planetexpress.com
+userPassword: Ashely
+ou: flight_crew
+uid: 3307
+ Q==

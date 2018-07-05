@@ -1,0 +1,13 @@
+dn: cn=Jenna+sn=Ropes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jenna Ropes
+cn: Ropes
+givenname: Jenna
+mail: jenna.ropes@planetexpress.com
+userPassword: Jenna
+ou: admin_staff
+uid: 5913
+ Q==

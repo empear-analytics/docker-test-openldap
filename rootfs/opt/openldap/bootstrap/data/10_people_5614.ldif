@@ -1,0 +1,13 @@
+dn: cn=Collin+sn=Wickersheim,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Collin Wickersheim
+cn: Wickersheim
+givenname: Collin
+mail: collin.wickersheim@planetexpress.com
+userPassword: Collin
+ou: OtherGroup
+uid: 5614
+ Q==

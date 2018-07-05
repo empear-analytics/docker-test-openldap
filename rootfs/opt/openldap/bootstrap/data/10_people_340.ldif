@@ -1,0 +1,13 @@
+dn: cn=Jovita+sn=Risper,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jovita Risper
+cn: Risper
+givenname: Jovita
+mail: jovita.risper@planetexpress.com
+userPassword: Jovita
+ou: Group5
+uid: 340
+ Q==

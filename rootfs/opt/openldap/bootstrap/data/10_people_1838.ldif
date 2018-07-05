@@ -1,0 +1,13 @@
+dn: cn=Willian+sn=Hardee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Willian Hardee
+cn: Hardee
+givenname: Willian
+mail: willian.hardee@planetexpress.com
+userPassword: Willian
+ou: OtherGroup
+uid: 1838
+ Q==

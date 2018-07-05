@@ -1,0 +1,13 @@
+dn: cn=Garnett+sn=Berey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Garnett Berey
+cn: Berey
+givenname: Garnett
+mail: garnett.berey@planetexpress.com
+userPassword: Garnett
+ou: OtherGroup
+uid: 4958
+ Q==

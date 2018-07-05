@@ -1,0 +1,13 @@
+dn: cn=Elwanda+sn=Doller,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elwanda Doller
+cn: Doller
+givenname: Elwanda
+mail: elwanda.doller@planetexpress.com
+userPassword: Elwanda
+ou: OtherGroup
+uid: 3205
+ Q==

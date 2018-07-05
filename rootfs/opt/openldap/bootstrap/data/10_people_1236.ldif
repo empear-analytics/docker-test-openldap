@@ -1,0 +1,13 @@
+dn: cn=George+sn=Henkin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: George Henkin
+cn: Henkin
+givenname: George
+mail: george.henkin@planetexpress.com
+userPassword: George
+ou: admin_staff
+uid: 1236
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Aleshia+sn=Ocallaghan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aleshia Ocallaghan
+cn: Ocallaghan
+givenname: Aleshia
+mail: aleshia.ocallaghan@planetexpress.com
+userPassword: Aleshia
+ou: admin_staff
+uid: 1849
+ Q==

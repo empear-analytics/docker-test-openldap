@@ -1,0 +1,13 @@
+dn: cn=Nicolle+sn=Jerich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nicolle Jerich
+cn: Jerich
+givenname: Nicolle
+mail: nicolle.jerich@planetexpress.com
+userPassword: Nicolle
+ou: admin_staff
+uid: 1617
+ Q==

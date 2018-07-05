@@ -1,0 +1,13 @@
+dn: cn=Allena+sn=Lothrop,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Allena Lothrop
+cn: Lothrop
+givenname: Allena
+mail: allena.lothrop@planetexpress.com
+userPassword: Allena
+ou: Group5
+uid: 5565
+ Q==

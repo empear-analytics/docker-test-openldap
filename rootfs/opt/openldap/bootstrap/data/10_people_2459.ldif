@@ -1,0 +1,13 @@
+dn: cn=Shanna+sn=Galliher,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shanna Galliher
+cn: Galliher
+givenname: Shanna
+mail: shanna.galliher@planetexpress.com
+userPassword: Shanna
+ou: Group5
+uid: 2459
+ Q==

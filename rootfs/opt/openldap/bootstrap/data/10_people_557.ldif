@@ -1,0 +1,13 @@
+dn: cn=Corazon+sn=Halpin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Corazon Halpin
+cn: Halpin
+givenname: Corazon
+mail: corazon.halpin@planetexpress.com
+userPassword: Corazon
+ou: Group5
+uid: 557
+ Q==

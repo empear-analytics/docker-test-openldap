@@ -1,0 +1,13 @@
+dn: cn=Shane+sn=Burham,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shane Burham
+cn: Burham
+givenname: Shane
+mail: shane.burham@planetexpress.com
+userPassword: Shane
+ou: OtherGroup
+uid: 2397
+ Q==

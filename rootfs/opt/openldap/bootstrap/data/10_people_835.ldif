@@ -1,0 +1,13 @@
+dn: cn=Elia+sn=Warley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elia Warley
+cn: Warley
+givenname: Elia
+mail: elia.warley@planetexpress.com
+userPassword: Elia
+ou: flight_crew
+uid: 835
+ Q==

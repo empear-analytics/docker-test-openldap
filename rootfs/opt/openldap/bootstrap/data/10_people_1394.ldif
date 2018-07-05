@@ -1,0 +1,13 @@
+dn: cn=Russ+sn=Schorsch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Russ Schorsch
+cn: Schorsch
+givenname: Russ
+mail: russ.schorsch@planetexpress.com
+userPassword: Russ
+ou: admin_staff
+uid: 1394
+ Q==

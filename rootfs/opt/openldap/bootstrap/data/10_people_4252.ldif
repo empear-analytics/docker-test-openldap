@@ -1,0 +1,13 @@
+dn: cn=Eilene+sn=Medvec,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eilene Medvec
+cn: Medvec
+givenname: Eilene
+mail: eilene.medvec@planetexpress.com
+userPassword: Eilene
+ou: Group5
+uid: 4252
+ Q==

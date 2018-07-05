@@ -1,0 +1,13 @@
+dn: cn=Sharda+sn=Rivest,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharda Rivest
+cn: Rivest
+givenname: Sharda
+mail: sharda.rivest@planetexpress.com
+userPassword: Sharda
+ou: admin_staff
+uid: 5216
+ Q==

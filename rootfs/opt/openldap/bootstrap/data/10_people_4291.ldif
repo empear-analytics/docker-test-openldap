@@ -1,0 +1,13 @@
+dn: cn=Jesse+sn=Gaumond,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jesse Gaumond
+cn: Gaumond
+givenname: Jesse
+mail: jesse.gaumond@planetexpress.com
+userPassword: Jesse
+ou: OtherGroup
+uid: 4291
+ Q==

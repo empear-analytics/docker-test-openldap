@@ -1,0 +1,13 @@
+dn: cn=Maple+sn=Bourbeau,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maple Bourbeau
+cn: Bourbeau
+givenname: Maple
+mail: maple.bourbeau@planetexpress.com
+userPassword: Maple
+ou: Group5
+uid: 622
+ Q==

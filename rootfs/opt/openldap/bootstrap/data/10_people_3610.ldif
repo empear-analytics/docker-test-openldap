@@ -1,0 +1,13 @@
+dn: cn=Nena+sn=Savary,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nena Savary
+cn: Savary
+givenname: Nena
+mail: nena.savary@planetexpress.com
+userPassword: Nena
+ou: OtherGroup
+uid: 3610
+ Q==

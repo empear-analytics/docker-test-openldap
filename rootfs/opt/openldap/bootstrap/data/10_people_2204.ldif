@@ -1,0 +1,13 @@
+dn: cn=Carma+sn=Fiedtkou,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carma Fiedtkou
+cn: Fiedtkou
+givenname: Carma
+mail: carma.fiedtkou@planetexpress.com
+userPassword: Carma
+ou: admin_staff
+uid: 2204
+ Q==

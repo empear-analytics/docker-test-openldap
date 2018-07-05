@@ -1,0 +1,13 @@
+dn: cn=Jordan+sn=Kalupa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jordan Kalupa
+cn: Kalupa
+givenname: Jordan
+mail: jordan.kalupa@planetexpress.com
+userPassword: Jordan
+ou: OtherGroup
+uid: 2000
+ Q==

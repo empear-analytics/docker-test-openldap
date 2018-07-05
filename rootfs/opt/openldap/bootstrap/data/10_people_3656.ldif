@@ -1,0 +1,13 @@
+dn: cn=Tamela+sn=Virostko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tamela Virostko
+cn: Virostko
+givenname: Tamela
+mail: tamela.virostko@planetexpress.com
+userPassword: Tamela
+ou: admin_staff
+uid: 3656
+ Q==

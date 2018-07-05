@@ -1,0 +1,13 @@
+dn: cn=Gertrud+sn=Marren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gertrud Marren
+cn: Marren
+givenname: Gertrud
+mail: gertrud.marren@planetexpress.com
+userPassword: Gertrud
+ou: OtherGroup
+uid: 2031
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jarrod+sn=Akamine,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jarrod Akamine
+cn: Akamine
+givenname: Jarrod
+mail: jarrod.akamine@planetexpress.com
+userPassword: Jarrod
+ou: flight_crew
+uid: 5361
+ Q==

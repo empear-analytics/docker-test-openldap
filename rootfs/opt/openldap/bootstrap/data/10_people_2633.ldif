@@ -1,0 +1,13 @@
+dn: cn=Hailey+sn=Chacon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hailey Chacon
+cn: Chacon
+givenname: Hailey
+mail: hailey.chacon@planetexpress.com
+userPassword: Hailey
+ou: admin_staff
+uid: 2633
+ Q==

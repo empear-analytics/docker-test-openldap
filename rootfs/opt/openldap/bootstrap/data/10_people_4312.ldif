@@ -1,0 +1,13 @@
+dn: cn=Kyra+sn=Seefried,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kyra Seefried
+cn: Seefried
+givenname: Kyra
+mail: kyra.seefried@planetexpress.com
+userPassword: Kyra
+ou: admin_staff
+uid: 4312
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Caryn+sn=Flurry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Caryn Flurry
+cn: Flurry
+givenname: Caryn
+mail: caryn.flurry@planetexpress.com
+userPassword: Caryn
+ou: Group5
+uid: 5947
+ Q==

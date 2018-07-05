@@ -1,0 +1,13 @@
+dn: cn=Ping+sn=Barach,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ping Barach
+cn: Barach
+givenname: Ping
+mail: ping.barach@planetexpress.com
+userPassword: Ping
+ou: flight_crew
+uid: 3761
+ Q==

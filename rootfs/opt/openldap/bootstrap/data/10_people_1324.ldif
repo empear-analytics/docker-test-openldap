@@ -1,0 +1,13 @@
+dn: cn=Nina+sn=Lauterbach,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nina Lauterbach
+cn: Lauterbach
+givenname: Nina
+mail: nina.lauterbach@planetexpress.com
+userPassword: Nina
+ou: Group5
+uid: 1324
+ Q==

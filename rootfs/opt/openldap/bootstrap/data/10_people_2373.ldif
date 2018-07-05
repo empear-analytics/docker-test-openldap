@@ -1,0 +1,13 @@
+dn: cn=Lisabeth+sn=Leingang,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lisabeth Leingang
+cn: Leingang
+givenname: Lisabeth
+mail: lisabeth.leingang@planetexpress.com
+userPassword: Lisabeth
+ou: flight_crew
+uid: 2373
+ Q==

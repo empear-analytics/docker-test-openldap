@@ -1,0 +1,13 @@
+dn: cn=Pamela+sn=Buntenbach,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pamela Buntenbach
+cn: Buntenbach
+givenname: Pamela
+mail: pamela.buntenbach@planetexpress.com
+userPassword: Pamela
+ou: OtherGroup
+uid: 2738
+ Q==

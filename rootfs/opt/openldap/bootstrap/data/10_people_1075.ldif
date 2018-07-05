@@ -1,0 +1,13 @@
+dn: cn=Hilda+sn=Giessler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hilda Giessler
+cn: Giessler
+givenname: Hilda
+mail: hilda.giessler@planetexpress.com
+userPassword: Hilda
+ou: admin_staff
+uid: 1075
+ Q==

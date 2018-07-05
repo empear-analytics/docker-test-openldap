@@ -1,0 +1,13 @@
+dn: cn=Janiece+sn=Bakalars,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janiece Bakalars
+cn: Bakalars
+givenname: Janiece
+mail: janiece.bakalars@planetexpress.com
+userPassword: Janiece
+ou: admin_staff
+uid: 3548
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Mahalia+sn=Beazley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mahalia Beazley
+cn: Beazley
+givenname: Mahalia
+mail: mahalia.beazley@planetexpress.com
+userPassword: Mahalia
+ou: Group5
+uid: 5705
+ Q==

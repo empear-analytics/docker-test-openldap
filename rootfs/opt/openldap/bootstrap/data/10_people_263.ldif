@@ -1,0 +1,13 @@
+dn: cn=Emanuel+sn=Eichinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emanuel Eichinger
+cn: Eichinger
+givenname: Emanuel
+mail: emanuel.eichinger@planetexpress.com
+userPassword: Emanuel
+ou: flight_crew
+uid: 263
+ Q==

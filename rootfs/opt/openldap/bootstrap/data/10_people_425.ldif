@@ -1,0 +1,13 @@
+dn: cn=Jolanda+sn=Boardwine,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jolanda Boardwine
+cn: Boardwine
+givenname: Jolanda
+mail: jolanda.boardwine@planetexpress.com
+userPassword: Jolanda
+ou: OtherGroup
+uid: 425
+ Q==

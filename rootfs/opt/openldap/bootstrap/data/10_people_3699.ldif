@@ -1,0 +1,13 @@
+dn: cn=Justine+sn=Duque,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Justine Duque
+cn: Duque
+givenname: Justine
+mail: justine.duque@planetexpress.com
+userPassword: Justine
+ou: Group5
+uid: 3699
+ Q==

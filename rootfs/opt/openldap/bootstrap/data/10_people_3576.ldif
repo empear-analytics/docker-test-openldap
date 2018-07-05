@@ -1,0 +1,13 @@
+dn: cn=Brigette+sn=Konow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brigette Konow
+cn: Konow
+givenname: Brigette
+mail: brigette.konow@planetexpress.com
+userPassword: Brigette
+ou: flight_crew
+uid: 3576
+ Q==

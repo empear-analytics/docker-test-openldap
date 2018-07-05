@@ -1,0 +1,13 @@
+dn: cn=Terina+sn=Nicoletta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Terina Nicoletta
+cn: Nicoletta
+givenname: Terina
+mail: terina.nicoletta@planetexpress.com
+userPassword: Terina
+ou: Group5
+uid: 2407
+ Q==

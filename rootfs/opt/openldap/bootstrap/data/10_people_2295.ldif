@@ -1,0 +1,13 @@
+dn: cn=Lee+sn=Nickolas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lee Nickolas
+cn: Nickolas
+givenname: Lee
+mail: lee.nickolas@planetexpress.com
+userPassword: Lee
+ou: OtherGroup
+uid: 2295
+ Q==

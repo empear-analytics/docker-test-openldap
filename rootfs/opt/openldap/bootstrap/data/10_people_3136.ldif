@@ -1,0 +1,13 @@
+dn: cn=Matilde+sn=Barthen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Matilde Barthen
+cn: Barthen
+givenname: Matilde
+mail: matilde.barthen@planetexpress.com
+userPassword: Matilde
+ou: Group5
+uid: 3136
+ Q==

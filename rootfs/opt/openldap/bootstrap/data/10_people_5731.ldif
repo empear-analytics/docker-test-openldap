@@ -1,0 +1,13 @@
+dn: cn=Teresa+sn=Meisner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Teresa Meisner
+cn: Meisner
+givenname: Teresa
+mail: teresa.meisner@planetexpress.com
+userPassword: Teresa
+ou: flight_crew
+uid: 5731
+ Q==

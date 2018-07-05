@@ -1,0 +1,13 @@
+dn: cn=Danita+sn=Dimarino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Danita Dimarino
+cn: Dimarino
+givenname: Danita
+mail: danita.dimarino@planetexpress.com
+userPassword: Danita
+ou: OtherGroup
+uid: 5485
+ Q==

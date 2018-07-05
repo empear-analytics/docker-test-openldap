@@ -1,0 +1,13 @@
+dn: cn=Sherise+sn=Pfister,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherise Pfister
+cn: Pfister
+givenname: Sherise
+mail: sherise.pfister@planetexpress.com
+userPassword: Sherise
+ou: OtherGroup
+uid: 1779
+ Q==

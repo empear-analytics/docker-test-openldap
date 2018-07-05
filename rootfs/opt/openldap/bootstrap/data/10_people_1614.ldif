@@ -1,0 +1,13 @@
+dn: cn=Heike+sn=Scullin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Heike Scullin
+cn: Scullin
+givenname: Heike
+mail: heike.scullin@planetexpress.com
+userPassword: Heike
+ou: flight_crew
+uid: 1614
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Paige+sn=Hults,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Paige Hults
+cn: Hults
+givenname: Paige
+mail: paige.hults@planetexpress.com
+userPassword: Paige
+ou: Group5
+uid: 330
+ Q==

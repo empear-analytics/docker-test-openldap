@@ -1,0 +1,13 @@
+dn: cn=Lucienne+sn=Feist,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lucienne Feist
+cn: Feist
+givenname: Lucienne
+mail: lucienne.feist@planetexpress.com
+userPassword: Lucienne
+ou: flight_crew
+uid: 4527
+ Q==

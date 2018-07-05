@@ -1,0 +1,13 @@
+dn: cn=Dudley+sn=Chapa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dudley Chapa
+cn: Chapa
+givenname: Dudley
+mail: dudley.chapa@planetexpress.com
+userPassword: Dudley
+ou: flight_crew
+uid: 3114
+ Q==

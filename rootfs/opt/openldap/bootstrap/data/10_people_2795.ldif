@@ -1,0 +1,13 @@
+dn: cn=Lakesha+sn=Hsu,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lakesha Hsu
+cn: Hsu
+givenname: Lakesha
+mail: lakesha.hsu@planetexpress.com
+userPassword: Lakesha
+ou: Group5
+uid: 2795
+ Q==

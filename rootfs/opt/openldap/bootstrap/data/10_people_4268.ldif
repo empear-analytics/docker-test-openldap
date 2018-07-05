@@ -1,0 +1,13 @@
+dn: cn=Cary+sn=Marsack,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cary Marsack
+cn: Marsack
+givenname: Cary
+mail: cary.marsack@planetexpress.com
+userPassword: Cary
+ou: admin_staff
+uid: 4268
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Cathryn+sn=Wentzell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cathryn Wentzell
+cn: Wentzell
+givenname: Cathryn
+mail: cathryn.wentzell@planetexpress.com
+userPassword: Cathryn
+ou: OtherGroup
+uid: 2658
+ Q==

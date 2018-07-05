@@ -1,0 +1,13 @@
+dn: cn=Janett+sn=Molenda,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janett Molenda
+cn: Molenda
+givenname: Janett
+mail: janett.molenda@planetexpress.com
+userPassword: Janett
+ou: admin_staff
+uid: 4873
+ Q==

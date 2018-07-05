@@ -1,0 +1,13 @@
+dn: cn=Imogene+sn=Montee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Imogene Montee
+cn: Montee
+givenname: Imogene
+mail: imogene.montee@planetexpress.com
+userPassword: Imogene
+ou: flight_crew
+uid: 668
+ Q==

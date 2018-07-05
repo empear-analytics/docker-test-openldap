@@ -1,0 +1,13 @@
+dn: cn=Tawna+sn=Friedler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tawna Friedler
+cn: Friedler
+givenname: Tawna
+mail: tawna.friedler@planetexpress.com
+userPassword: Tawna
+ou: Group5
+uid: 2998
+ Q==

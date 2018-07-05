@@ -1,0 +1,13 @@
+dn: cn=Stefan+sn=Perrigo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stefan Perrigo
+cn: Perrigo
+givenname: Stefan
+mail: stefan.perrigo@planetexpress.com
+userPassword: Stefan
+ou: admin_staff
+uid: 3791
+ Q==

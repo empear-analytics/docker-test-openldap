@@ -1,0 +1,13 @@
+dn: cn=Marine+sn=Rumpca,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marine Rumpca
+cn: Rumpca
+givenname: Marine
+mail: marine.rumpca@planetexpress.com
+userPassword: Marine
+ou: flight_crew
+uid: 4648
+ Q==

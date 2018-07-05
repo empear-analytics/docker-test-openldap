@@ -1,0 +1,13 @@
+dn: cn=Shawn+sn=Trobough,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shawn Trobough
+cn: Trobough
+givenname: Shawn
+mail: shawn.trobough@planetexpress.com
+userPassword: Shawn
+ou: Group5
+uid: 2005
+ Q==

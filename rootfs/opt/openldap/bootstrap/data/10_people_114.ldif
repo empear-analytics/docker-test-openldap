@@ -1,0 +1,13 @@
+dn: cn=Lavern+sn=Carlsley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lavern Carlsley
+cn: Carlsley
+givenname: Lavern
+mail: lavern.carlsley@planetexpress.com
+userPassword: Lavern
+ou: flight_crew
+uid: 114
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Dorsey+sn=Capuchin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dorsey Capuchin
+cn: Capuchin
+givenname: Dorsey
+mail: dorsey.capuchin@planetexpress.com
+userPassword: Dorsey
+ou: Group5
+uid: 2487
+ Q==

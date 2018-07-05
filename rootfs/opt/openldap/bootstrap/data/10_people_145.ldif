@@ -1,0 +1,13 @@
+dn: cn=Tracee+sn=Hyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tracee Hyer
+cn: Hyer
+givenname: Tracee
+mail: tracee.hyer@planetexpress.com
+userPassword: Tracee
+ou: flight_crew
+uid: 145
+ Q==

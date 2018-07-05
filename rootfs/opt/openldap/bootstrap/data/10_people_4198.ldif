@@ -1,0 +1,13 @@
+dn: cn=Eula+sn=Huch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eula Huch
+cn: Huch
+givenname: Eula
+mail: eula.huch@planetexpress.com
+userPassword: Eula
+ou: OtherGroup
+uid: 4198
+ Q==

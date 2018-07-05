@@ -1,0 +1,13 @@
+dn: cn=Clotilde+sn=Melone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clotilde Melone
+cn: Melone
+givenname: Clotilde
+mail: clotilde.melone@planetexpress.com
+userPassword: Clotilde
+ou: OtherGroup
+uid: 5880
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lashandra+sn=Takenaka,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lashandra Takenaka
+cn: Takenaka
+givenname: Lashandra
+mail: lashandra.takenaka@planetexpress.com
+userPassword: Lashandra
+ou: flight_crew
+uid: 3371
+ Q==

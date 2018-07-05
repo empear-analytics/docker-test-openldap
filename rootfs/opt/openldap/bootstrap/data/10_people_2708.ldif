@@ -1,0 +1,13 @@
+dn: cn=Dorsey+sn=Etzkorn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dorsey Etzkorn
+cn: Etzkorn
+givenname: Dorsey
+mail: dorsey.etzkorn@planetexpress.com
+userPassword: Dorsey
+ou: flight_crew
+uid: 2708
+ Q==

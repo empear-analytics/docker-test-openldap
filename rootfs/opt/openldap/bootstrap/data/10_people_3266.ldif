@@ -1,0 +1,13 @@
+dn: cn=Wonda+sn=Mansir,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wonda Mansir
+cn: Mansir
+givenname: Wonda
+mail: wonda.mansir@planetexpress.com
+userPassword: Wonda
+ou: flight_crew
+uid: 3266
+ Q==

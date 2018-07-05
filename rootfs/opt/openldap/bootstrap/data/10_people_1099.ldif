@@ -1,0 +1,13 @@
+dn: cn=Toby+sn=Lanahan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Toby Lanahan
+cn: Lanahan
+givenname: Toby
+mail: toby.lanahan@planetexpress.com
+userPassword: Toby
+ou: OtherGroup
+uid: 1099
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Raisa+sn=Whittle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raisa Whittle
+cn: Whittle
+givenname: Raisa
+mail: raisa.whittle@planetexpress.com
+userPassword: Raisa
+ou: Group5
+uid: 5567
+ Q==

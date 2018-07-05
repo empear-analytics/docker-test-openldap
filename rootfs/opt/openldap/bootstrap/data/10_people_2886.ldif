@@ -1,0 +1,13 @@
+dn: cn=Evie+sn=Clausi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Evie Clausi
+cn: Clausi
+givenname: Evie
+mail: evie.clausi@planetexpress.com
+userPassword: Evie
+ou: OtherGroup
+uid: 2886
+ Q==

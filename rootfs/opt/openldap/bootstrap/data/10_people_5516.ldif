@@ -1,0 +1,13 @@
+dn: cn=Gwenn+sn=Bambach,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gwenn Bambach
+cn: Bambach
+givenname: Gwenn
+mail: gwenn.bambach@planetexpress.com
+userPassword: Gwenn
+ou: admin_staff
+uid: 5516
+ Q==

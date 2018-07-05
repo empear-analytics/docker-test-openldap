@@ -1,0 +1,13 @@
+dn: cn=Lewis+sn=Haan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lewis Haan
+cn: Haan
+givenname: Lewis
+mail: lewis.haan@planetexpress.com
+userPassword: Lewis
+ou: admin_staff
+uid: 608
+ Q==

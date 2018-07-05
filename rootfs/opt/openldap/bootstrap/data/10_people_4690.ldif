@@ -1,0 +1,13 @@
+dn: cn=Jewell+sn=Collington,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jewell Collington
+cn: Collington
+givenname: Jewell
+mail: jewell.collington@planetexpress.com
+userPassword: Jewell
+ou: flight_crew
+uid: 4690
+ Q==

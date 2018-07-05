@@ -1,0 +1,13 @@
+dn: cn=Brett+sn=Reaves,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brett Reaves
+cn: Reaves
+givenname: Brett
+mail: brett.reaves@planetexpress.com
+userPassword: Brett
+ou: OtherGroup
+uid: 1470
+ Q==

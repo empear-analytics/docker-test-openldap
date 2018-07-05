@@ -1,0 +1,13 @@
+dn: cn=Melanie+sn=Tewes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melanie Tewes
+cn: Tewes
+givenname: Melanie
+mail: melanie.tewes@planetexpress.com
+userPassword: Melanie
+ou: Group5
+uid: 4610
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Gabriel+sn=Gerdis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gabriel Gerdis
+cn: Gerdis
+givenname: Gabriel
+mail: gabriel.gerdis@planetexpress.com
+userPassword: Gabriel
+ou: Group5
+uid: 1682
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Alberta+sn=Guidroz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alberta Guidroz
+cn: Guidroz
+givenname: Alberta
+mail: alberta.guidroz@planetexpress.com
+userPassword: Alberta
+ou: admin_staff
+uid: 5735
+ Q==

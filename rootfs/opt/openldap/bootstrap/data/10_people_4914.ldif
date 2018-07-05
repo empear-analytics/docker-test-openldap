@@ -1,0 +1,13 @@
+dn: cn=Chaya+sn=Lacau,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chaya Lacau
+cn: Lacau
+givenname: Chaya
+mail: chaya.lacau@planetexpress.com
+userPassword: Chaya
+ou: OtherGroup
+uid: 4914
+ Q==

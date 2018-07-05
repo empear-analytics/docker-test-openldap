@@ -1,0 +1,13 @@
+dn: cn=Sharie+sn=Higdon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharie Higdon
+cn: Higdon
+givenname: Sharie
+mail: sharie.higdon@planetexpress.com
+userPassword: Sharie
+ou: flight_crew
+uid: 3848
+ Q==

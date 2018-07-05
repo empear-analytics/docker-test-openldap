@@ -1,0 +1,13 @@
+dn: cn=Pia+sn=Stouffer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pia Stouffer
+cn: Stouffer
+givenname: Pia
+mail: pia.stouffer@planetexpress.com
+userPassword: Pia
+ou: admin_staff
+uid: 3302
+ Q==

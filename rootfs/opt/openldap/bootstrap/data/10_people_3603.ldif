@@ -1,0 +1,13 @@
+dn: cn=Twyla+sn=Compagna,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Twyla Compagna
+cn: Compagna
+givenname: Twyla
+mail: twyla.compagna@planetexpress.com
+userPassword: Twyla
+ou: flight_crew
+uid: 3603
+ Q==

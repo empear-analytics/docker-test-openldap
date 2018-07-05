@@ -1,0 +1,13 @@
+dn: cn=Juliana+sn=Jaus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Juliana Jaus
+cn: Jaus
+givenname: Juliana
+mail: juliana.jaus@planetexpress.com
+userPassword: Juliana
+ou: OtherGroup
+uid: 3725
+ Q==

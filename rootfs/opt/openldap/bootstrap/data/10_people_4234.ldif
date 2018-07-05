@@ -1,0 +1,13 @@
+dn: cn=Johnette+sn=Housholder,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Johnette Housholder
+cn: Housholder
+givenname: Johnette
+mail: johnette.housholder@planetexpress.com
+userPassword: Johnette
+ou: flight_crew
+uid: 4234
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Julio+sn=Walvoord,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Julio Walvoord
+cn: Walvoord
+givenname: Julio
+mail: julio.walvoord@planetexpress.com
+userPassword: Julio
+ou: admin_staff
+uid: 5800
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jamika+sn=Gutenson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamika Gutenson
+cn: Gutenson
+givenname: Jamika
+mail: jamika.gutenson@planetexpress.com
+userPassword: Jamika
+ou: Group5
+uid: 1051
+ Q==

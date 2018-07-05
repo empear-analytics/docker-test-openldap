@@ -1,0 +1,13 @@
+dn: cn=Keisha+sn=Swopes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keisha Swopes
+cn: Swopes
+givenname: Keisha
+mail: keisha.swopes@planetexpress.com
+userPassword: Keisha
+ou: OtherGroup
+uid: 4187
+ Q==

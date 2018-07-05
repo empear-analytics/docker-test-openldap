@@ -1,0 +1,13 @@
+dn: cn=Erlinda+sn=Southworth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Erlinda Southworth
+cn: Southworth
+givenname: Erlinda
+mail: erlinda.southworth@planetexpress.com
+userPassword: Erlinda
+ou: flight_crew
+uid: 3165
+ Q==

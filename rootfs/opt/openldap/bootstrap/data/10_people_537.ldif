@@ -1,0 +1,13 @@
+dn: cn=Pearly+sn=Glimp,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pearly Glimp
+cn: Glimp
+givenname: Pearly
+mail: pearly.glimp@planetexpress.com
+userPassword: Pearly
+ou: OtherGroup
+uid: 537
+ Q==

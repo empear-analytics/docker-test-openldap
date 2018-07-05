@@ -1,0 +1,13 @@
+dn: cn=Angelina+sn=Dillehay,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelina Dillehay
+cn: Dillehay
+givenname: Angelina
+mail: angelina.dillehay@planetexpress.com
+userPassword: Angelina
+ou: Group5
+uid: 2610
+ Q==

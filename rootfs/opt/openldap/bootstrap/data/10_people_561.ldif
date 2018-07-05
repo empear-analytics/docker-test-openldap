@@ -1,0 +1,13 @@
+dn: cn=Raul+sn=Ebbers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raul Ebbers
+cn: Ebbers
+givenname: Raul
+mail: raul.ebbers@planetexpress.com
+userPassword: Raul
+ou: flight_crew
+uid: 561
+ Q==

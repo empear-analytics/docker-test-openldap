@@ -1,0 +1,13 @@
+dn: cn=Antonio+sn=Dudman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Antonio Dudman
+cn: Dudman
+givenname: Antonio
+mail: antonio.dudman@planetexpress.com
+userPassword: Antonio
+ou: Group5
+uid: 3449
+ Q==

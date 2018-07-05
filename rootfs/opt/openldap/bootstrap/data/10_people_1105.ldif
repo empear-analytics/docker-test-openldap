@@ -1,0 +1,13 @@
+dn: cn=Catherina+sn=Crawshaw,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Catherina Crawshaw
+cn: Crawshaw
+givenname: Catherina
+mail: catherina.crawshaw@planetexpress.com
+userPassword: Catherina
+ou: admin_staff
+uid: 1105
+ Q==

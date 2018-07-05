@@ -1,0 +1,13 @@
+dn: cn=Zoe+sn=Verdi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zoe Verdi
+cn: Verdi
+givenname: Zoe
+mail: zoe.verdi@planetexpress.com
+userPassword: Zoe
+ou: OtherGroup
+uid: 961
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ocie+sn=Varughese,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ocie Varughese
+cn: Varughese
+givenname: Ocie
+mail: ocie.varughese@planetexpress.com
+userPassword: Ocie
+ou: flight_crew
+uid: 3787
+ Q==

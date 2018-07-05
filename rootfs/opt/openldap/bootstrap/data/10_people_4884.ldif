@@ -1,0 +1,13 @@
+dn: cn=Kevin+sn=Abdelaziz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kevin Abdelaziz
+cn: Abdelaziz
+givenname: Kevin
+mail: kevin.abdelaziz@planetexpress.com
+userPassword: Kevin
+ou: admin_staff
+uid: 4884
+ Q==

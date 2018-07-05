@@ -1,0 +1,13 @@
+dn: cn=Loreen+sn=Hazelrig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loreen Hazelrig
+cn: Hazelrig
+givenname: Loreen
+mail: loreen.hazelrig@planetexpress.com
+userPassword: Loreen
+ou: Group5
+uid: 2490
+ Q==

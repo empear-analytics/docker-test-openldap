@@ -1,0 +1,13 @@
+dn: cn=Jodie+sn=Vanhout,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jodie Vanhout
+cn: Vanhout
+givenname: Jodie
+mail: jodie.vanhout@planetexpress.com
+userPassword: Jodie
+ou: flight_crew
+uid: 1072
+ Q==

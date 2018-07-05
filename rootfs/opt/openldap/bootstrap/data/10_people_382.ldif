@@ -1,0 +1,13 @@
+dn: cn=Brinda+sn=Heasley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brinda Heasley
+cn: Heasley
+givenname: Brinda
+mail: brinda.heasley@planetexpress.com
+userPassword: Brinda
+ou: admin_staff
+uid: 382
+ Q==

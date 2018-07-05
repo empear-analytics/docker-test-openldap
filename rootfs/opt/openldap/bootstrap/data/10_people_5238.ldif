@@ -1,0 +1,13 @@
+dn: cn=Shawnee+sn=Alcantar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shawnee Alcantar
+cn: Alcantar
+givenname: Shawnee
+mail: shawnee.alcantar@planetexpress.com
+userPassword: Shawnee
+ou: flight_crew
+uid: 5238
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jamar+sn=Haataja,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamar Haataja
+cn: Haataja
+givenname: Jamar
+mail: jamar.haataja@planetexpress.com
+userPassword: Jamar
+ou: admin_staff
+uid: 1179
+ Q==

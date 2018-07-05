@@ -1,0 +1,13 @@
+dn: cn=Renate+sn=Conklin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Renate Conklin
+cn: Conklin
+givenname: Renate
+mail: renate.conklin@planetexpress.com
+userPassword: Renate
+ou: flight_crew
+uid: 120
+ Q==

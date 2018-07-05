@@ -1,0 +1,13 @@
+dn: cn=Haley+sn=Abes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Haley Abes
+cn: Abes
+givenname: Haley
+mail: haley.abes@planetexpress.com
+userPassword: Haley
+ou: OtherGroup
+uid: 3770
+ Q==

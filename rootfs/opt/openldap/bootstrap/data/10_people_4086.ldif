@@ -1,0 +1,13 @@
+dn: cn=Diane+sn=Buhr,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Diane Buhr
+cn: Buhr
+givenname: Diane
+mail: diane.buhr@planetexpress.com
+userPassword: Diane
+ou: Group5
+uid: 4086
+ Q==

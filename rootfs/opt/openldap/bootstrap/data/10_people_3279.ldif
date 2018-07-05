@@ -1,0 +1,13 @@
+dn: cn=Sherly+sn=Winnie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherly Winnie
+cn: Winnie
+givenname: Sherly
+mail: sherly.winnie@planetexpress.com
+userPassword: Sherly
+ou: admin_staff
+uid: 3279
+ Q==

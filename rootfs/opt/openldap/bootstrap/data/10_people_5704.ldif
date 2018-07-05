@@ -1,0 +1,13 @@
+dn: cn=Joana+sn=Deen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joana Deen
+cn: Deen
+givenname: Joana
+mail: joana.deen@planetexpress.com
+userPassword: Joana
+ou: admin_staff
+uid: 5704
+ Q==

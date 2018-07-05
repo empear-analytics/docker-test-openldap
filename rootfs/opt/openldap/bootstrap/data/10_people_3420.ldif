@@ -1,0 +1,13 @@
+dn: cn=Aline+sn=Dugay,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aline Dugay
+cn: Dugay
+givenname: Aline
+mail: aline.dugay@planetexpress.com
+userPassword: Aline
+ou: OtherGroup
+uid: 3420
+ Q==

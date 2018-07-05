@@ -1,0 +1,13 @@
+dn: cn=Felicia+sn=Kea,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Felicia Kea
+cn: Kea
+givenname: Felicia
+mail: felicia.kea@planetexpress.com
+userPassword: Felicia
+ou: OtherGroup
+uid: 2549
+ Q==

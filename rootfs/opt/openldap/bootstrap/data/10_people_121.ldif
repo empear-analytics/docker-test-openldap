@@ -1,0 +1,13 @@
+dn: cn=Sharmaine+sn=Muhl,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharmaine Muhl
+cn: Muhl
+givenname: Sharmaine
+mail: sharmaine.muhl@planetexpress.com
+userPassword: Sharmaine
+ou: flight_crew
+uid: 121
+ Q==

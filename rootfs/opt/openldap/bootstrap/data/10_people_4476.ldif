@@ -1,0 +1,13 @@
+dn: cn=Reynaldo+sn=Maltie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reynaldo Maltie
+cn: Maltie
+givenname: Reynaldo
+mail: reynaldo.maltie@planetexpress.com
+userPassword: Reynaldo
+ou: OtherGroup
+uid: 4476
+ Q==

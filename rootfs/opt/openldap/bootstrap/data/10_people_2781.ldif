@@ -1,0 +1,13 @@
+dn: cn=Shiela+sn=Daws,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shiela Daws
+cn: Daws
+givenname: Shiela
+mail: shiela.daws@planetexpress.com
+userPassword: Shiela
+ou: OtherGroup
+uid: 2781
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Shirleen+sn=Raybon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shirleen Raybon
+cn: Raybon
+givenname: Shirleen
+mail: shirleen.raybon@planetexpress.com
+userPassword: Shirleen
+ou: Group5
+uid: 1730
+ Q==

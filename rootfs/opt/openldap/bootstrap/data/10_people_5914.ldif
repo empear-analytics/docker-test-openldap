@@ -1,0 +1,13 @@
+dn: cn=Jeanelle+sn=Borowicz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeanelle Borowicz
+cn: Borowicz
+givenname: Jeanelle
+mail: jeanelle.borowicz@planetexpress.com
+userPassword: Jeanelle
+ou: Group5
+uid: 5914
+ Q==

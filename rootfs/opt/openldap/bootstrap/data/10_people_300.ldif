@@ -1,0 +1,13 @@
+dn: cn=Walter+sn=Kuman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Walter Kuman
+cn: Kuman
+givenname: Walter
+mail: walter.kuman@planetexpress.com
+userPassword: Walter
+ou: OtherGroup
+uid: 300
+ Q==

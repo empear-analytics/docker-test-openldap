@@ -1,0 +1,13 @@
+dn: cn=Lashaunda+sn=Fantin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lashaunda Fantin
+cn: Fantin
+givenname: Lashaunda
+mail: lashaunda.fantin@planetexpress.com
+userPassword: Lashaunda
+ou: OtherGroup
+uid: 20
+ Q==

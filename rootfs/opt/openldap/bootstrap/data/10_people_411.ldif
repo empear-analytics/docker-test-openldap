@@ -1,0 +1,13 @@
+dn: cn=Lamar+sn=Crogan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lamar Crogan
+cn: Crogan
+givenname: Lamar
+mail: lamar.crogan@planetexpress.com
+userPassword: Lamar
+ou: flight_crew
+uid: 411
+ Q==

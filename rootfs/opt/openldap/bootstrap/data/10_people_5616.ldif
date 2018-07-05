@@ -1,0 +1,13 @@
+dn: cn=Grady+sn=Calligy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Grady Calligy
+cn: Calligy
+givenname: Grady
+mail: grady.calligy@planetexpress.com
+userPassword: Grady
+ou: admin_staff
+uid: 5616
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Adrian+sn=Overlie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adrian Overlie
+cn: Overlie
+givenname: Adrian
+mail: adrian.overlie@planetexpress.com
+userPassword: Adrian
+ou: flight_crew
+uid: 503
+ Q==

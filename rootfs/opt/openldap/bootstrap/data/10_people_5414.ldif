@@ -1,0 +1,13 @@
+dn: cn=Lynn+sn=Dody,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lynn Dody
+cn: Dody
+givenname: Lynn
+mail: lynn.dody@planetexpress.com
+userPassword: Lynn
+ou: admin_staff
+uid: 5414
+ Q==

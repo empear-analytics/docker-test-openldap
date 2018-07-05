@@ -1,0 +1,13 @@
+dn: cn=Fletcher+sn=Chapmon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fletcher Chapmon
+cn: Chapmon
+givenname: Fletcher
+mail: fletcher.chapmon@planetexpress.com
+userPassword: Fletcher
+ou: Group5
+uid: 3171
+ Q==

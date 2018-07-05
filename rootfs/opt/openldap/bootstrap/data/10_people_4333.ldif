@@ -1,0 +1,13 @@
+dn: cn=Karrie+sn=Clar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karrie Clar
+cn: Clar
+givenname: Karrie
+mail: karrie.clar@planetexpress.com
+userPassword: Karrie
+ou: admin_staff
+uid: 4333
+ Q==

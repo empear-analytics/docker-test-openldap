@@ -1,0 +1,13 @@
+dn: cn=Vernon+sn=Mancino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vernon Mancino
+cn: Mancino
+givenname: Vernon
+mail: vernon.mancino@planetexpress.com
+userPassword: Vernon
+ou: Group5
+uid: 5336
+ Q==

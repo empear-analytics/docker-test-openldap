@@ -1,0 +1,13 @@
+dn: cn=Corrine+sn=Barto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Corrine Barto
+cn: Barto
+givenname: Corrine
+mail: corrine.barto@planetexpress.com
+userPassword: Corrine
+ou: flight_crew
+uid: 5905
+ Q==

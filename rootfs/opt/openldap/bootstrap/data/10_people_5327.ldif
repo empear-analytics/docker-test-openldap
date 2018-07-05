@@ -1,0 +1,13 @@
+dn: cn=Zola+sn=Wiegman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zola Wiegman
+cn: Wiegman
+givenname: Zola
+mail: zola.wiegman@planetexpress.com
+userPassword: Zola
+ou: OtherGroup
+uid: 5327
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Serena+sn=Urfer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Serena Urfer
+cn: Urfer
+givenname: Serena
+mail: serena.urfer@planetexpress.com
+userPassword: Serena
+ou: flight_crew
+uid: 1716
+ Q==

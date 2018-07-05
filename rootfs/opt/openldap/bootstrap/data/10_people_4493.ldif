@@ -1,0 +1,13 @@
+dn: cn=Alyson+sn=Pezzuti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alyson Pezzuti
+cn: Pezzuti
+givenname: Alyson
+mail: alyson.pezzuti@planetexpress.com
+userPassword: Alyson
+ou: Group5
+uid: 4493
+ Q==

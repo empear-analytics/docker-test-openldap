@@ -1,0 +1,13 @@
+dn: cn=Carmina+sn=Norr,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carmina Norr
+cn: Norr
+givenname: Carmina
+mail: carmina.norr@planetexpress.com
+userPassword: Carmina
+ou: flight_crew
+uid: 2455
+ Q==

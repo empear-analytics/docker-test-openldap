@@ -1,0 +1,13 @@
+dn: cn=Jacquline+sn=Detemple,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacquline Detemple
+cn: Detemple
+givenname: Jacquline
+mail: jacquline.detemple@planetexpress.com
+userPassword: Jacquline
+ou: OtherGroup
+uid: 2585
+ Q==

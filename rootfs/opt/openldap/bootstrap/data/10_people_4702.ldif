@@ -1,0 +1,13 @@
+dn: cn=Lucius+sn=Abruzzo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lucius Abruzzo
+cn: Abruzzo
+givenname: Lucius
+mail: lucius.abruzzo@planetexpress.com
+userPassword: Lucius
+ou: OtherGroup
+uid: 4702
+ Q==

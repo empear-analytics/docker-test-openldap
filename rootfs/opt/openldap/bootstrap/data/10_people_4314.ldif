@@ -1,0 +1,13 @@
+dn: cn=Nicol+sn=Bliske,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nicol Bliske
+cn: Bliske
+givenname: Nicol
+mail: nicol.bliske@planetexpress.com
+userPassword: Nicol
+ou: admin_staff
+uid: 4314
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Bronwyn+sn=Merren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bronwyn Merren
+cn: Merren
+givenname: Bronwyn
+mail: bronwyn.merren@planetexpress.com
+userPassword: Bronwyn
+ou: flight_crew
+uid: 2839
+ Q==

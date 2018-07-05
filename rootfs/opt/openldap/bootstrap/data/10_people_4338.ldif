@@ -1,0 +1,13 @@
+dn: cn=Rocky+sn=Rhoad,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rocky Rhoad
+cn: Rhoad
+givenname: Rocky
+mail: rocky.rhoad@planetexpress.com
+userPassword: Rocky
+ou: Group5
+uid: 4338
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Arleen+sn=Stavropoulos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arleen Stavropoulos
+cn: Stavropoulos
+givenname: Arleen
+mail: arleen.stavropoulos@planetexpress.com
+userPassword: Arleen
+ou: admin_staff
+uid: 911
+ Q==

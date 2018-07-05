@@ -1,0 +1,13 @@
+dn: cn=Yer+sn=Largay,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yer Largay
+cn: Largay
+givenname: Yer
+mail: yer.largay@planetexpress.com
+userPassword: Yer
+ou: flight_crew
+uid: 4937
+ Q==

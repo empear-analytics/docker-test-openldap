@@ -1,0 +1,13 @@
+dn: cn=Idalia+sn=Dwyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Idalia Dwyer
+cn: Dwyer
+givenname: Idalia
+mail: idalia.dwyer@planetexpress.com
+userPassword: Idalia
+ou: admin_staff
+uid: 1268
+ Q==

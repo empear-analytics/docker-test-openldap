@@ -1,0 +1,13 @@
+dn: cn=Junita+sn=Herrboldt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Junita Herrboldt
+cn: Herrboldt
+givenname: Junita
+mail: junita.herrboldt@planetexpress.com
+userPassword: Junita
+ou: Group5
+uid: 3786
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jammie+sn=Guinyard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jammie Guinyard
+cn: Guinyard
+givenname: Jammie
+mail: jammie.guinyard@planetexpress.com
+userPassword: Jammie
+ou: admin_staff
+uid: 4556
+ Q==

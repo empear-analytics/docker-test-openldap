@@ -1,0 +1,13 @@
+dn: cn=Halley+sn=Alconcel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Halley Alconcel
+cn: Alconcel
+givenname: Halley
+mail: halley.alconcel@planetexpress.com
+userPassword: Halley
+ou: admin_staff
+uid: 597
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Daphne+sn=Debari,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daphne Debari
+cn: Debari
+givenname: Daphne
+mail: daphne.debari@planetexpress.com
+userPassword: Daphne
+ou: Group5
+uid: 1577
+ Q==

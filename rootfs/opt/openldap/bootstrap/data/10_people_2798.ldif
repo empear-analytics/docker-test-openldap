@@ -1,0 +1,13 @@
+dn: cn=Eldridge+sn=Wambach,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eldridge Wambach
+cn: Wambach
+givenname: Eldridge
+mail: eldridge.wambach@planetexpress.com
+userPassword: Eldridge
+ou: flight_crew
+uid: 2798
+ Q==

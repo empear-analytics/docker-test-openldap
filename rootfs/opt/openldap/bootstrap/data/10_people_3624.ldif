@@ -1,0 +1,13 @@
+dn: cn=Cornelius+sn=Bernath,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cornelius Bernath
+cn: Bernath
+givenname: Cornelius
+mail: cornelius.bernath@planetexpress.com
+userPassword: Cornelius
+ou: Group5
+uid: 3624
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kazuko+sn=Parmalee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kazuko Parmalee
+cn: Parmalee
+givenname: Kazuko
+mail: kazuko.parmalee@planetexpress.com
+userPassword: Kazuko
+ou: admin_staff
+uid: 534
+ Q==

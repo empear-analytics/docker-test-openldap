@@ -1,0 +1,13 @@
+dn: cn=Gerry+sn=Emfield,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gerry Emfield
+cn: Emfield
+givenname: Gerry
+mail: gerry.emfield@planetexpress.com
+userPassword: Gerry
+ou: flight_crew
+uid: 4670
+ Q==

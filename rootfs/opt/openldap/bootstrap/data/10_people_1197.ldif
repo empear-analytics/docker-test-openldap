@@ -1,0 +1,13 @@
+dn: cn=Damian+sn=Supry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Damian Supry
+cn: Supry
+givenname: Damian
+mail: damian.supry@planetexpress.com
+userPassword: Damian
+ou: OtherGroup
+uid: 1197
+ Q==

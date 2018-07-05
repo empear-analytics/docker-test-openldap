@@ -1,0 +1,13 @@
+dn: cn=Gia+sn=Lowenthal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gia Lowenthal
+cn: Lowenthal
+givenname: Gia
+mail: gia.lowenthal@planetexpress.com
+userPassword: Gia
+ou: admin_staff
+uid: 2616
+ Q==

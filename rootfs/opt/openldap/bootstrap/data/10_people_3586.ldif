@@ -1,0 +1,13 @@
+dn: cn=Vernia+sn=Wenstrand,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vernia Wenstrand
+cn: Wenstrand
+givenname: Vernia
+mail: vernia.wenstrand@planetexpress.com
+userPassword: Vernia
+ou: OtherGroup
+uid: 3586
+ Q==

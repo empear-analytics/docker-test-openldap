@@ -1,0 +1,13 @@
+dn: cn=Peter+sn=Swatek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Peter Swatek
+cn: Swatek
+givenname: Peter
+mail: peter.swatek@planetexpress.com
+userPassword: Peter
+ou: flight_crew
+uid: 2615
+ Q==

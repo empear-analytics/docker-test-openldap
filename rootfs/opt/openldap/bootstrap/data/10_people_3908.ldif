@@ -1,0 +1,13 @@
+dn: cn=Thersa+sn=Hornig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thersa Hornig
+cn: Hornig
+givenname: Thersa
+mail: thersa.hornig@planetexpress.com
+userPassword: Thersa
+ou: Group5
+uid: 3908
+ Q==

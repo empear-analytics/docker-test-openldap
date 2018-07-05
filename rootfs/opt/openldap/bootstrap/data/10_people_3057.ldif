@@ -1,0 +1,13 @@
+dn: cn=Jesus+sn=Ruud,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jesus Ruud
+cn: Ruud
+givenname: Jesus
+mail: jesus.ruud@planetexpress.com
+userPassword: Jesus
+ou: admin_staff
+uid: 3057
+ Q==

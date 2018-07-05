@@ -1,0 +1,13 @@
+dn: cn=Monte+sn=Brathwaite,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Monte Brathwaite
+cn: Brathwaite
+givenname: Monte
+mail: monte.brathwaite@planetexpress.com
+userPassword: Monte
+ou: Group5
+uid: 3526
+ Q==

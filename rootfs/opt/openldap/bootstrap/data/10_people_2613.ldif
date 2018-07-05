@@ -1,0 +1,13 @@
+dn: cn=Betty+sn=Kilborne,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Betty Kilborne
+cn: Kilborne
+givenname: Betty
+mail: betty.kilborne@planetexpress.com
+userPassword: Betty
+ou: Group5
+uid: 2613
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Elba+sn=Grewell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elba Grewell
+cn: Grewell
+givenname: Elba
+mail: elba.grewell@planetexpress.com
+userPassword: Elba
+ou: admin_staff
+uid: 4078
+ Q==

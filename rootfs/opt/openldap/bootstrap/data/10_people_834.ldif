@@ -1,0 +1,13 @@
+dn: cn=Danial+sn=Clewis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Danial Clewis
+cn: Clewis
+givenname: Danial
+mail: danial.clewis@planetexpress.com
+userPassword: Danial
+ou: OtherGroup
+uid: 834
+ Q==

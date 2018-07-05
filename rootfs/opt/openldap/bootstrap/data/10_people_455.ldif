@@ -1,0 +1,13 @@
+dn: cn=Toya+sn=Rhudy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Toya Rhudy
+cn: Rhudy
+givenname: Toya
+mail: toya.rhudy@planetexpress.com
+userPassword: Toya
+ou: flight_crew
+uid: 455
+ Q==

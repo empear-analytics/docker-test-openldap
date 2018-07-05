@@ -1,0 +1,13 @@
+dn: cn=Odis+sn=Maditz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Odis Maditz
+cn: Maditz
+givenname: Odis
+mail: odis.maditz@planetexpress.com
+userPassword: Odis
+ou: flight_crew
+uid: 4083
+ Q==

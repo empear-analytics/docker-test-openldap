@@ -1,0 +1,13 @@
+dn: cn=Shaquana+sn=Tesmar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shaquana Tesmar
+cn: Tesmar
+givenname: Shaquana
+mail: shaquana.tesmar@planetexpress.com
+userPassword: Shaquana
+ou: admin_staff
+uid: 1575
+ Q==

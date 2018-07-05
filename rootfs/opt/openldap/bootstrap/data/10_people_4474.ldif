@@ -1,0 +1,13 @@
+dn: cn=Jeanie+sn=Stalnaker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeanie Stalnaker
+cn: Stalnaker
+givenname: Jeanie
+mail: jeanie.stalnaker@planetexpress.com
+userPassword: Jeanie
+ou: flight_crew
+uid: 4474
+ Q==

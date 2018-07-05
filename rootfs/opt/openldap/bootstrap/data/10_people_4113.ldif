@@ -1,0 +1,13 @@
+dn: cn=Devon+sn=Tillson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Devon Tillson
+cn: Tillson
+givenname: Devon
+mail: devon.tillson@planetexpress.com
+userPassword: Devon
+ou: OtherGroup
+uid: 4113
+ Q==

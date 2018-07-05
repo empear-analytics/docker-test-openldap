@@ -1,0 +1,13 @@
+dn: cn=Arielle+sn=Liehr,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arielle Liehr
+cn: Liehr
+givenname: Arielle
+mail: arielle.liehr@planetexpress.com
+userPassword: Arielle
+ou: flight_crew
+uid: 3103
+ Q==

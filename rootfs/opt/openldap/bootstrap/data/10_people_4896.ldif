@@ -1,0 +1,13 @@
+dn: cn=Magaret+sn=Troche,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Magaret Troche
+cn: Troche
+givenname: Magaret
+mail: magaret.troche@planetexpress.com
+userPassword: Magaret
+ou: flight_crew
+uid: 4896
+ Q==

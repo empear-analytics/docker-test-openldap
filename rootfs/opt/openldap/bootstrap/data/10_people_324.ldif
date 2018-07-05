@@ -1,0 +1,13 @@
+dn: cn=Chanda+sn=Shutler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chanda Shutler
+cn: Shutler
+givenname: Chanda
+mail: chanda.shutler@planetexpress.com
+userPassword: Chanda
+ou: Group5
+uid: 324
+ Q==

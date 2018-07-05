@@ -1,0 +1,13 @@
+dn: cn=Mariella+sn=Woodcock,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mariella Woodcock
+cn: Woodcock
+givenname: Mariella
+mail: mariella.woodcock@planetexpress.com
+userPassword: Mariella
+ou: flight_crew
+uid: 2378
+ Q==

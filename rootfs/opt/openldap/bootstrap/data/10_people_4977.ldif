@@ -1,0 +1,13 @@
+dn: cn=Norene+sn=Aggarwal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Norene Aggarwal
+cn: Aggarwal
+givenname: Norene
+mail: norene.aggarwal@planetexpress.com
+userPassword: Norene
+ou: flight_crew
+uid: 4977
+ Q==

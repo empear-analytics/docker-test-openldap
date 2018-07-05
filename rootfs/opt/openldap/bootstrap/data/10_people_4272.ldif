@@ -1,0 +1,13 @@
+dn: cn=Quinn+sn=Knezovich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Quinn Knezovich
+cn: Knezovich
+givenname: Quinn
+mail: quinn.knezovich@planetexpress.com
+userPassword: Quinn
+ou: OtherGroup
+uid: 4272
+ Q==

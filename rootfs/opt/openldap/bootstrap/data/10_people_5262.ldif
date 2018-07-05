@@ -1,0 +1,13 @@
+dn: cn=Penni+sn=Cregeen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Penni Cregeen
+cn: Cregeen
+givenname: Penni
+mail: penni.cregeen@planetexpress.com
+userPassword: Penni
+ou: admin_staff
+uid: 5262
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Cleo+sn=Darvile,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cleo Darvile
+cn: Darvile
+givenname: Cleo
+mail: cleo.darvile@planetexpress.com
+userPassword: Cleo
+ou: flight_crew
+uid: 4727
+ Q==

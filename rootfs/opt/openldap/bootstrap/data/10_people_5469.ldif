@@ -1,0 +1,13 @@
+dn: cn=Eboni+sn=Kneller,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eboni Kneller
+cn: Kneller
+givenname: Eboni
+mail: eboni.kneller@planetexpress.com
+userPassword: Eboni
+ou: admin_staff
+uid: 5469
+ Q==

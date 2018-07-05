@@ -1,0 +1,13 @@
+dn: cn=Addie+sn=Lalonde,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Addie Lalonde
+cn: Lalonde
+givenname: Addie
+mail: addie.lalonde@planetexpress.com
+userPassword: Addie
+ou: admin_staff
+uid: 5096
+ Q==

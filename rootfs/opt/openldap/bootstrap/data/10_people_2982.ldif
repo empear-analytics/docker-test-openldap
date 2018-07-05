@@ -1,0 +1,13 @@
+dn: cn=Yer+sn=Arrocha,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yer Arrocha
+cn: Arrocha
+givenname: Yer
+mail: yer.arrocha@planetexpress.com
+userPassword: Yer
+ou: Group5
+uid: 2982
+ Q==

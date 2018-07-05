@@ -1,0 +1,13 @@
+dn: cn=Zetta+sn=Cassetty,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zetta Cassetty
+cn: Cassetty
+givenname: Zetta
+mail: zetta.cassetty@planetexpress.com
+userPassword: Zetta
+ou: OtherGroup
+uid: 2640
+ Q==

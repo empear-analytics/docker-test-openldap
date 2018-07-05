@@ -1,0 +1,13 @@
+dn: cn=Tawny+sn=Lagares,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tawny Lagares
+cn: Lagares
+givenname: Tawny
+mail: tawny.lagares@planetexpress.com
+userPassword: Tawny
+ou: Group5
+uid: 453
+ Q==

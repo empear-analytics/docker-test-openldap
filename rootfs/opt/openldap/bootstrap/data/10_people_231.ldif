@@ -1,0 +1,13 @@
+dn: cn=Dorthea+sn=Rohaley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dorthea Rohaley
+cn: Rohaley
+givenname: Dorthea
+mail: dorthea.rohaley@planetexpress.com
+userPassword: Dorthea
+ou: Group5
+uid: 231
+ Q==

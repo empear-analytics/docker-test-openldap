@@ -1,0 +1,13 @@
+dn: cn=Belen+sn=Debarge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Belen Debarge
+cn: Debarge
+givenname: Belen
+mail: belen.debarge@planetexpress.com
+userPassword: Belen
+ou: Group5
+uid: 5809
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Shawna+sn=Holak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shawna Holak
+cn: Holak
+givenname: Shawna
+mail: shawna.holak@planetexpress.com
+userPassword: Shawna
+ou: admin_staff
+uid: 2521
+ Q==

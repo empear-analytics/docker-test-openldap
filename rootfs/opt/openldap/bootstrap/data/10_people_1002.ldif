@@ -1,0 +1,13 @@
+dn: cn=Talisha+sn=Blough,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Talisha Blough
+cn: Blough
+givenname: Talisha
+mail: talisha.blough@planetexpress.com
+userPassword: Talisha
+ou: flight_crew
+uid: 1002
+ Q==

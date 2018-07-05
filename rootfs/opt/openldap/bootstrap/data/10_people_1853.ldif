@@ -1,0 +1,13 @@
+dn: cn=Hazel+sn=Ennist,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hazel Ennist
+cn: Ennist
+givenname: Hazel
+mail: hazel.ennist@planetexpress.com
+userPassword: Hazel
+ou: OtherGroup
+uid: 1853
+ Q==

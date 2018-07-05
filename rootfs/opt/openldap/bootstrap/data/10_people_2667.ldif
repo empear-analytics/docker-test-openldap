@@ -1,0 +1,13 @@
+dn: cn=Shamika+sn=Dama,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shamika Dama
+cn: Dama
+givenname: Shamika
+mail: shamika.dama@planetexpress.com
+userPassword: Shamika
+ou: OtherGroup
+uid: 2667
+ Q==

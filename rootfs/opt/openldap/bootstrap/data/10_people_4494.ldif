@@ -1,0 +1,13 @@
+dn: cn=Lorine+sn=Mastro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lorine Mastro
+cn: Mastro
+givenname: Lorine
+mail: lorine.mastro@planetexpress.com
+userPassword: Lorine
+ou: OtherGroup
+uid: 4494
+ Q==

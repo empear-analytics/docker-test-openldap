@@ -1,0 +1,13 @@
+dn: cn=Herbert+sn=Duckworth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Herbert Duckworth
+cn: Duckworth
+givenname: Herbert
+mail: herbert.duckworth@planetexpress.com
+userPassword: Herbert
+ou: OtherGroup
+uid: 5290
+ Q==

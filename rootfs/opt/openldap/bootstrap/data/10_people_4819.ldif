@@ -1,0 +1,13 @@
+dn: cn=Kristin+sn=Janise,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kristin Janise
+cn: Janise
+givenname: Kristin
+mail: kristin.janise@planetexpress.com
+userPassword: Kristin
+ou: Group5
+uid: 4819
+ Q==

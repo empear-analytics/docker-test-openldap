@@ -1,0 +1,13 @@
+dn: cn=In+sn=Elofson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: In Elofson
+cn: Elofson
+givenname: In
+mail: in.elofson@planetexpress.com
+userPassword: In
+ou: Group5
+uid: 4730
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Theresia+sn=Hootman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Theresia Hootman
+cn: Hootman
+givenname: Theresia
+mail: theresia.hootman@planetexpress.com
+userPassword: Theresia
+ou: Group5
+uid: 3876
+ Q==

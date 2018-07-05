@@ -1,0 +1,13 @@
+dn: cn=Parthenia+sn=Hochstine,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Parthenia Hochstine
+cn: Hochstine
+givenname: Parthenia
+mail: parthenia.hochstine@planetexpress.com
+userPassword: Parthenia
+ou: flight_crew
+uid: 5356
+ Q==

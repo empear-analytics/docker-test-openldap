@@ -1,0 +1,13 @@
+dn: cn=Sunshine+sn=Norstrand,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sunshine Norstrand
+cn: Norstrand
+givenname: Sunshine
+mail: sunshine.norstrand@planetexpress.com
+userPassword: Sunshine
+ou: flight_crew
+uid: 2711
+ Q==

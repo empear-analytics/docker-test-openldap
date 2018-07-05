@@ -1,0 +1,13 @@
+dn: cn=Art+sn=Setaro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Art Setaro
+cn: Setaro
+givenname: Art
+mail: art.setaro@planetexpress.com
+userPassword: Art
+ou: OtherGroup
+uid: 4644
+ Q==

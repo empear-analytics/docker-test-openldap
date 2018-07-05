@@ -1,0 +1,13 @@
+dn: cn=Keeley+sn=Kulju,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keeley Kulju
+cn: Kulju
+givenname: Keeley
+mail: keeley.kulju@planetexpress.com
+userPassword: Keeley
+ou: Group5
+uid: 4814
+ Q==

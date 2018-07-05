@@ -1,0 +1,13 @@
+dn: cn=Willia+sn=Tysseling,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Willia Tysseling
+cn: Tysseling
+givenname: Willia
+mail: willia.tysseling@planetexpress.com
+userPassword: Willia
+ou: OtherGroup
+uid: 3119
+ Q==

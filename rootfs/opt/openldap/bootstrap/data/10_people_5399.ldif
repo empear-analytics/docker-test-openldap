@@ -1,0 +1,13 @@
+dn: cn=Demarcus+sn=Pickar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Demarcus Pickar
+cn: Pickar
+givenname: Demarcus
+mail: demarcus.pickar@planetexpress.com
+userPassword: Demarcus
+ou: Group5
+uid: 5399
+ Q==

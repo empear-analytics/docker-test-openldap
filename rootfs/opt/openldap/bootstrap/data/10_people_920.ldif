@@ -1,0 +1,13 @@
+dn: cn=Mila+sn=Mckennan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mila Mckennan
+cn: Mckennan
+givenname: Mila
+mail: mila.mckennan@planetexpress.com
+userPassword: Mila
+ou: Group5
+uid: 920
+ Q==

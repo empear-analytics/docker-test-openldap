@@ -1,0 +1,13 @@
+dn: cn=Allen+sn=Raven,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Allen Raven
+cn: Raven
+givenname: Allen
+mail: allen.raven@planetexpress.com
+userPassword: Allen
+ou: OtherGroup
+uid: 5408
+ Q==

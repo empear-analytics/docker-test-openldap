@@ -1,0 +1,13 @@
+dn: cn=Shane+sn=Kaelker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shane Kaelker
+cn: Kaelker
+givenname: Shane
+mail: shane.kaelker@planetexpress.com
+userPassword: Shane
+ou: OtherGroup
+uid: 4956
+ Q==

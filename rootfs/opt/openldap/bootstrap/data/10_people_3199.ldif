@@ -1,0 +1,13 @@
+dn: cn=Ty+sn=Iha,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ty Iha
+cn: Iha
+givenname: Ty
+mail: ty.iha@planetexpress.com
+userPassword: Ty
+ou: Group5
+uid: 3199
+ Q==

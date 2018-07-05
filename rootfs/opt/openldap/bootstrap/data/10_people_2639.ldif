@@ -1,0 +1,13 @@
+dn: cn=Elenora+sn=Butman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elenora Butman
+cn: Butman
+givenname: Elenora
+mail: elenora.butman@planetexpress.com
+userPassword: Elenora
+ou: admin_staff
+uid: 2639
+ Q==

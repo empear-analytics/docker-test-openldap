@@ -1,0 +1,13 @@
+dn: cn=Billy+sn=Hallinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Billy Hallinger
+cn: Hallinger
+givenname: Billy
+mail: billy.hallinger@planetexpress.com
+userPassword: Billy
+ou: Group5
+uid: 3898
+ Q==

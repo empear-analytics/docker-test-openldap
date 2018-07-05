@@ -1,0 +1,13 @@
+dn: cn=Frederick+sn=Stratakos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Frederick Stratakos
+cn: Stratakos
+givenname: Frederick
+mail: frederick.stratakos@planetexpress.com
+userPassword: Frederick
+ou: Group5
+uid: 2530
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tracee+sn=Cederstrom,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tracee Cederstrom
+cn: Cederstrom
+givenname: Tracee
+mail: tracee.cederstrom@planetexpress.com
+userPassword: Tracee
+ou: admin_staff
+uid: 3634
+ Q==

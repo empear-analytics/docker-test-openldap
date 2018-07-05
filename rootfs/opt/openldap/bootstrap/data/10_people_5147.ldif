@@ -1,0 +1,13 @@
+dn: cn=Lashon+sn=Leofsky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lashon Leofsky
+cn: Leofsky
+givenname: Lashon
+mail: lashon.leofsky@planetexpress.com
+userPassword: Lashon
+ou: OtherGroup
+uid: 5147
+ Q==

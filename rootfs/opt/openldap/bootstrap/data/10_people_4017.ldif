@@ -1,0 +1,13 @@
+dn: cn=Danille+sn=Mcgeachy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Danille Mcgeachy
+cn: Mcgeachy
+givenname: Danille
+mail: danille.mcgeachy@planetexpress.com
+userPassword: Danille
+ou: admin_staff
+uid: 4017
+ Q==

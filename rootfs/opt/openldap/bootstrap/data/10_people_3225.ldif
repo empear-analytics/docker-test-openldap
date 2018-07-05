@@ -1,0 +1,13 @@
+dn: cn=Nora+sn=Stremming,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nora Stremming
+cn: Stremming
+givenname: Nora
+mail: nora.stremming@planetexpress.com
+userPassword: Nora
+ou: flight_crew
+uid: 3225
+ Q==

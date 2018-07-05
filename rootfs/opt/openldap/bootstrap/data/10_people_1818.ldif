@@ -1,0 +1,13 @@
+dn: cn=Moira+sn=Vanasten,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Moira Vanasten
+cn: Vanasten
+givenname: Moira
+mail: moira.vanasten@planetexpress.com
+userPassword: Moira
+ou: Group5
+uid: 1818
+ Q==

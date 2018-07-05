@@ -1,0 +1,13 @@
+dn: cn=Jewell+sn=Salon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jewell Salon
+cn: Salon
+givenname: Jewell
+mail: jewell.salon@planetexpress.com
+userPassword: Jewell
+ou: flight_crew
+uid: 4398
+ Q==

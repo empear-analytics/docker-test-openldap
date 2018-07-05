@@ -1,0 +1,13 @@
+dn: cn=Alessandra+sn=Kleinhenz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alessandra Kleinhenz
+cn: Kleinhenz
+givenname: Alessandra
+mail: alessandra.kleinhenz@planetexpress.com
+userPassword: Alessandra
+ou: admin_staff
+uid: 4370
+ Q==

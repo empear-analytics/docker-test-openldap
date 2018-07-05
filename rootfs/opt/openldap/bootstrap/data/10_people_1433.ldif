@@ -1,0 +1,13 @@
+dn: cn=Ivelisse+sn=Verghese,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ivelisse Verghese
+cn: Verghese
+givenname: Ivelisse
+mail: ivelisse.verghese@planetexpress.com
+userPassword: Ivelisse
+ou: flight_crew
+uid: 1433
+ Q==

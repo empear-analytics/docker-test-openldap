@@ -1,0 +1,13 @@
+dn: cn=Antonia+sn=Pevez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Antonia Pevez
+cn: Pevez
+givenname: Antonia
+mail: antonia.pevez@planetexpress.com
+userPassword: Antonia
+ou: Group5
+uid: 2593
+ Q==

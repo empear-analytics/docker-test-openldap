@@ -1,0 +1,13 @@
+dn: cn=Lara+sn=Justiniano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lara Justiniano
+cn: Justiniano
+givenname: Lara
+mail: lara.justiniano@planetexpress.com
+userPassword: Lara
+ou: admin_staff
+uid: 3561
+ Q==

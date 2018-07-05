@@ -1,0 +1,13 @@
+dn: cn=Aurora+sn=Gossard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aurora Gossard
+cn: Gossard
+givenname: Aurora
+mail: aurora.gossard@planetexpress.com
+userPassword: Aurora
+ou: OtherGroup
+uid: 3060
+ Q==

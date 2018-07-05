@@ -1,0 +1,13 @@
+dn: cn=Carole+sn=Glaza,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carole Glaza
+cn: Glaza
+givenname: Carole
+mail: carole.glaza@planetexpress.com
+userPassword: Carole
+ou: admin_staff
+uid: 1044
+ Q==

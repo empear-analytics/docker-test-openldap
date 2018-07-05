@@ -1,0 +1,13 @@
+dn: cn=Nickole+sn=Coller,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nickole Coller
+cn: Coller
+givenname: Nickole
+mail: nickole.coller@planetexpress.com
+userPassword: Nickole
+ou: Group5
+uid: 2289
+ Q==

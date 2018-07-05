@@ -1,0 +1,13 @@
+dn: cn=Shawna+sn=Seiters,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shawna Seiters
+cn: Seiters
+givenname: Shawna
+mail: shawna.seiters@planetexpress.com
+userPassword: Shawna
+ou: flight_crew
+uid: 2008
+ Q==

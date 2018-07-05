@@ -1,0 +1,13 @@
+dn: cn=Suanne+sn=Sickmeir,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Suanne Sickmeir
+cn: Sickmeir
+givenname: Suanne
+mail: suanne.sickmeir@planetexpress.com
+userPassword: Suanne
+ou: OtherGroup
+uid: 1405
+ Q==

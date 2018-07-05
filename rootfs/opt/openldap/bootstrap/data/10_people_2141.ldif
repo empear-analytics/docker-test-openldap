@@ -1,0 +1,13 @@
+dn: cn=Beckie+sn=Radvany,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beckie Radvany
+cn: Radvany
+givenname: Beckie
+mail: beckie.radvany@planetexpress.com
+userPassword: Beckie
+ou: flight_crew
+uid: 2141
+ Q==

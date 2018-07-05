@@ -1,0 +1,13 @@
+dn: cn=Jamey+sn=Acee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamey Acee
+cn: Acee
+givenname: Jamey
+mail: jamey.acee@planetexpress.com
+userPassword: Jamey
+ou: flight_crew
+uid: 3799
+ Q==

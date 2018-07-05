@@ -1,0 +1,13 @@
+dn: cn=Roberto+sn=Fragnoli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roberto Fragnoli
+cn: Fragnoli
+givenname: Roberto
+mail: roberto.fragnoli@planetexpress.com
+userPassword: Roberto
+ou: OtherGroup
+uid: 5764
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Normand+sn=Frigon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Normand Frigon
+cn: Frigon
+givenname: Normand
+mail: normand.frigon@planetexpress.com
+userPassword: Normand
+ou: OtherGroup
+uid: 4823
+ Q==

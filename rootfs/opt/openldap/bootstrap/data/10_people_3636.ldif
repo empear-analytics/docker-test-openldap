@@ -1,0 +1,13 @@
+dn: cn=Lavonna+sn=Ritt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lavonna Ritt
+cn: Ritt
+givenname: Lavonna
+mail: lavonna.ritt@planetexpress.com
+userPassword: Lavonna
+ou: Group5
+uid: 3636
+ Q==

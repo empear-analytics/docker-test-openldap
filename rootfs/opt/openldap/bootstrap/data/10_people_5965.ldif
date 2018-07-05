@@ -1,0 +1,13 @@
+dn: cn=Beula+sn=Mccullough,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beula Mccullough
+cn: Mccullough
+givenname: Beula
+mail: beula.mccullough@planetexpress.com
+userPassword: Beula
+ou: OtherGroup
+uid: 5965
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Bobbie+sn=Starnaud,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bobbie Starnaud
+cn: Starnaud
+givenname: Bobbie
+mail: bobbie.starnaud@planetexpress.com
+userPassword: Bobbie
+ou: admin_staff
+uid: 159
+ Q==

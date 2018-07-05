@@ -1,0 +1,13 @@
+dn: cn=Alejandra+sn=Reho,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alejandra Reho
+cn: Reho
+givenname: Alejandra
+mail: alejandra.reho@planetexpress.com
+userPassword: Alejandra
+ou: flight_crew
+uid: 954
+ Q==

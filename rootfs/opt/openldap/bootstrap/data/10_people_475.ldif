@@ -1,0 +1,13 @@
+dn: cn=Kari+sn=Anguiano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kari Anguiano
+cn: Anguiano
+givenname: Kari
+mail: kari.anguiano@planetexpress.com
+userPassword: Kari
+ou: admin_staff
+uid: 475
+ Q==

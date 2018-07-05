@@ -1,0 +1,13 @@
+dn: cn=Denice+sn=Rehberger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Denice Rehberger
+cn: Rehberger
+givenname: Denice
+mail: denice.rehberger@planetexpress.com
+userPassword: Denice
+ou: Group5
+uid: 3024
+ Q==

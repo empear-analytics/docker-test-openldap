@@ -1,0 +1,13 @@
+dn: cn=Luciano+sn=Choung,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Luciano Choung
+cn: Choung
+givenname: Luciano
+mail: luciano.choung@planetexpress.com
+userPassword: Luciano
+ou: flight_crew
+uid: 3550
+ Q==

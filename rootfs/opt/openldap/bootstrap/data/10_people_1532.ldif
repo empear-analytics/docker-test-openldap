@@ -1,0 +1,13 @@
+dn: cn=Karole+sn=Hinders,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karole Hinders
+cn: Hinders
+givenname: Karole
+mail: karole.hinders@planetexpress.com
+userPassword: Karole
+ou: flight_crew
+uid: 1532
+ Q==

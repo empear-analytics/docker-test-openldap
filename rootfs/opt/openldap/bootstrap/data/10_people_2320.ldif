@@ -1,0 +1,13 @@
+dn: cn=Aubrey+sn=Garrette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aubrey Garrette
+cn: Garrette
+givenname: Aubrey
+mail: aubrey.garrette@planetexpress.com
+userPassword: Aubrey
+ou: Group5
+uid: 2320
+ Q==

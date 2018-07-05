@@ -1,0 +1,13 @@
+dn: cn=Anisha+sn=Nester,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anisha Nester
+cn: Nester
+givenname: Anisha
+mail: anisha.nester@planetexpress.com
+userPassword: Anisha
+ou: OtherGroup
+uid: 3231
+ Q==

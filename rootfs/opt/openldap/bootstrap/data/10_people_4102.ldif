@@ -1,0 +1,13 @@
+dn: cn=Sherita+sn=Banana,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherita Banana
+cn: Banana
+givenname: Sherita
+mail: sherita.banana@planetexpress.com
+userPassword: Sherita
+ou: flight_crew
+uid: 4102
+ Q==

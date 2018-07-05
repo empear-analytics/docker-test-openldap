@@ -1,0 +1,13 @@
+dn: cn=Zula+sn=Spinn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zula Spinn
+cn: Spinn
+givenname: Zula
+mail: zula.spinn@planetexpress.com
+userPassword: Zula
+ou: Group5
+uid: 5425
+ Q==

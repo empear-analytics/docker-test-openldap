@@ -1,0 +1,13 @@
+dn: cn=Dottie+sn=Hardgrave,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dottie Hardgrave
+cn: Hardgrave
+givenname: Dottie
+mail: dottie.hardgrave@planetexpress.com
+userPassword: Dottie
+ou: Group5
+uid: 4373
+ Q==

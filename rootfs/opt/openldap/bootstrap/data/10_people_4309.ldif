@@ -1,0 +1,13 @@
+dn: cn=Lisha+sn=Tariq,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lisha Tariq
+cn: Tariq
+givenname: Lisha
+mail: lisha.tariq@planetexpress.com
+userPassword: Lisha
+ou: flight_crew
+uid: 4309
+ Q==

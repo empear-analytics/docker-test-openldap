@@ -1,0 +1,13 @@
+dn: cn=Angie+sn=Embelton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angie Embelton
+cn: Embelton
+givenname: Angie
+mail: angie.embelton@planetexpress.com
+userPassword: Angie
+ou: Group5
+uid: 2032
+ Q==

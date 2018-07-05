@@ -1,0 +1,13 @@
+dn: cn=Mac+sn=Fraley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mac Fraley
+cn: Fraley
+givenname: Mac
+mail: mac.fraley@planetexpress.com
+userPassword: Mac
+ou: admin_staff
+uid: 1651
+ Q==

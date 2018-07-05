@@ -1,0 +1,13 @@
+dn: cn=Melvin+sn=Rossa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melvin Rossa
+cn: Rossa
+givenname: Melvin
+mail: melvin.rossa@planetexpress.com
+userPassword: Melvin
+ou: flight_crew
+uid: 5512
+ Q==

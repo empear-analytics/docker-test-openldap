@@ -1,0 +1,13 @@
+dn: cn=Melba+sn=Pacas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melba Pacas
+cn: Pacas
+givenname: Melba
+mail: melba.pacas@planetexpress.com
+userPassword: Melba
+ou: Group5
+uid: 294
+ Q==

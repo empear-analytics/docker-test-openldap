@@ -1,0 +1,13 @@
+dn: cn=Tamiko+sn=Morin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tamiko Morin
+cn: Morin
+givenname: Tamiko
+mail: tamiko.morin@planetexpress.com
+userPassword: Tamiko
+ou: flight_crew
+uid: 3684
+ Q==

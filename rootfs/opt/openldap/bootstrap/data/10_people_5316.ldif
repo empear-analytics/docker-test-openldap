@@ -1,0 +1,13 @@
+dn: cn=Dante+sn=Losecco,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dante Losecco
+cn: Losecco
+givenname: Dante
+mail: dante.losecco@planetexpress.com
+userPassword: Dante
+ou: admin_staff
+uid: 5316
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jackelyn+sn=Cringle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jackelyn Cringle
+cn: Cringle
+givenname: Jackelyn
+mail: jackelyn.cringle@planetexpress.com
+userPassword: Jackelyn
+ou: Group5
+uid: 4427
+ Q==

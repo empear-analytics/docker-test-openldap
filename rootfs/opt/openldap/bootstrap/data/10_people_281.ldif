@@ -1,0 +1,13 @@
+dn: cn=Evelyne+sn=Macke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Evelyne Macke
+cn: Macke
+givenname: Evelyne
+mail: evelyne.macke@planetexpress.com
+userPassword: Evelyne
+ou: OtherGroup
+uid: 281
+ Q==

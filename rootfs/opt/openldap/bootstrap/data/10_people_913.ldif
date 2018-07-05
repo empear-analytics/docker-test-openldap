@@ -1,0 +1,13 @@
+dn: cn=Marine+sn=Bhamaraniyama,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marine Bhamaraniyama
+cn: Bhamaraniyama
+givenname: Marine
+mail: marine.bhamaraniyama@planetexpress.com
+userPassword: Marine
+ou: OtherGroup
+uid: 913
+ Q==

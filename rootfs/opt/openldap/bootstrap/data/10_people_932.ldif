@@ -1,0 +1,13 @@
+dn: cn=Lashandra+sn=Colinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lashandra Colinger
+cn: Colinger
+givenname: Lashandra
+mail: lashandra.colinger@planetexpress.com
+userPassword: Lashandra
+ou: admin_staff
+uid: 932
+ Q==

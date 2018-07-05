@@ -1,0 +1,13 @@
+dn: cn=Piedad+sn=Nalepka,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Piedad Nalepka
+cn: Nalepka
+givenname: Piedad
+mail: piedad.nalepka@planetexpress.com
+userPassword: Piedad
+ou: OtherGroup
+uid: 176
+ Q==

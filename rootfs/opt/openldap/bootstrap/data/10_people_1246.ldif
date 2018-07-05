@@ -1,0 +1,13 @@
+dn: cn=Thea+sn=Dummer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thea Dummer
+cn: Dummer
+givenname: Thea
+mail: thea.dummer@planetexpress.com
+userPassword: Thea
+ou: admin_staff
+uid: 1246
+ Q==

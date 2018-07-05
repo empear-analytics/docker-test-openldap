@@ -1,0 +1,13 @@
+dn: cn=Alberta+sn=Zaccagnini,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alberta Zaccagnini
+cn: Zaccagnini
+givenname: Alberta
+mail: alberta.zaccagnini@planetexpress.com
+userPassword: Alberta
+ou: Group5
+uid: 858
+ Q==

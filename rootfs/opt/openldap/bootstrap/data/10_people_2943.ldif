@@ -1,0 +1,13 @@
+dn: cn=Juliet+sn=Krabel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Juliet Krabel
+cn: Krabel
+givenname: Juliet
+mail: juliet.krabel@planetexpress.com
+userPassword: Juliet
+ou: Group5
+uid: 2943
+ Q==

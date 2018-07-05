@@ -1,0 +1,13 @@
+dn: cn=Tien+sn=Honanie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tien Honanie
+cn: Honanie
+givenname: Tien
+mail: tien.honanie@planetexpress.com
+userPassword: Tien
+ou: OtherGroup
+uid: 2384
+ Q==

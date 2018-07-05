@@ -1,0 +1,13 @@
+dn: cn=Sammy+sn=Leichty,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sammy Leichty
+cn: Leichty
+givenname: Sammy
+mail: sammy.leichty@planetexpress.com
+userPassword: Sammy
+ou: Group5
+uid: 1347
+ Q==

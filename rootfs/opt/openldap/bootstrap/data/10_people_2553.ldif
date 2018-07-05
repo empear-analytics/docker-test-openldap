@@ -1,0 +1,13 @@
+dn: cn=Albert+sn=Fechtner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Albert Fechtner
+cn: Fechtner
+givenname: Albert
+mail: albert.fechtner@planetexpress.com
+userPassword: Albert
+ou: OtherGroup
+uid: 2553
+ Q==

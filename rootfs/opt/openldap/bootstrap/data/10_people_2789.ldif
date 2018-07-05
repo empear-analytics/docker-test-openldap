@@ -1,0 +1,13 @@
+dn: cn=Lorean+sn=Perrez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lorean Perrez
+cn: Perrez
+givenname: Lorean
+mail: lorean.perrez@planetexpress.com
+userPassword: Lorean
+ou: OtherGroup
+uid: 2789
+ Q==

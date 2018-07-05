@@ -1,0 +1,13 @@
+dn: cn=Earline+sn=Norstrand,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Earline Norstrand
+cn: Norstrand
+givenname: Earline
+mail: earline.norstrand@planetexpress.com
+userPassword: Earline
+ou: OtherGroup
+uid: 616
+ Q==

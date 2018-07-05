@@ -1,0 +1,13 @@
+dn: cn=Portia+sn=Hegan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Portia Hegan
+cn: Hegan
+givenname: Portia
+mail: portia.hegan@planetexpress.com
+userPassword: Portia
+ou: OtherGroup
+uid: 5386
+ Q==

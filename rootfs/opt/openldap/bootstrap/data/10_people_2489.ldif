@@ -1,0 +1,13 @@
+dn: cn=Annmarie+sn=Teles,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annmarie Teles
+cn: Teles
+givenname: Annmarie
+mail: annmarie.teles@planetexpress.com
+userPassword: Annmarie
+ou: flight_crew
+uid: 2489
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Manie+sn=Cape,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Manie Cape
+cn: Cape
+givenname: Manie
+mail: manie.cape@planetexpress.com
+userPassword: Manie
+ou: flight_crew
+uid: 3722
+ Q==

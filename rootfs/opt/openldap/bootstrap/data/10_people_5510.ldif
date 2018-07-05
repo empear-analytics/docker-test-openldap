@@ -1,0 +1,13 @@
+dn: cn=Raleigh+sn=Mourer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raleigh Mourer
+cn: Mourer
+givenname: Raleigh
+mail: raleigh.mourer@planetexpress.com
+userPassword: Raleigh
+ou: flight_crew
+uid: 5510
+ Q==

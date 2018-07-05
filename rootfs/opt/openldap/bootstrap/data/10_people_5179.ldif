@@ -1,0 +1,13 @@
+dn: cn=Casimira+sn=Stanberry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Casimira Stanberry
+cn: Stanberry
+givenname: Casimira
+mail: casimira.stanberry@planetexpress.com
+userPassword: Casimira
+ou: OtherGroup
+uid: 5179
+ Q==

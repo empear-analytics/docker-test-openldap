@@ -1,0 +1,13 @@
+dn: cn=Fredia+sn=Volkmer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fredia Volkmer
+cn: Volkmer
+givenname: Fredia
+mail: fredia.volkmer@planetexpress.com
+userPassword: Fredia
+ou: Group5
+uid: 291
+ Q==

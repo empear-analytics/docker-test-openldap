@@ -1,0 +1,13 @@
+dn: cn=Zoe+sn=Allbones,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zoe Allbones
+cn: Allbones
+givenname: Zoe
+mail: zoe.allbones@planetexpress.com
+userPassword: Zoe
+ou: OtherGroup
+uid: 1765
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lavonna+sn=Milillo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lavonna Milillo
+cn: Milillo
+givenname: Lavonna
+mail: lavonna.milillo@planetexpress.com
+userPassword: Lavonna
+ou: flight_crew
+uid: 2676
+ Q==

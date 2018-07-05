@@ -1,0 +1,13 @@
+dn: cn=Clarita+sn=Reinecke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clarita Reinecke
+cn: Reinecke
+givenname: Clarita
+mail: clarita.reinecke@planetexpress.com
+userPassword: Clarita
+ou: flight_crew
+uid: 5887
+ Q==

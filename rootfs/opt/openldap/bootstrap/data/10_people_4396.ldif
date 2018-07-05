@@ -1,0 +1,13 @@
+dn: cn=June+sn=Schwind,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: June Schwind
+cn: Schwind
+givenname: June
+mail: june.schwind@planetexpress.com
+userPassword: June
+ou: OtherGroup
+uid: 4396
+ Q==

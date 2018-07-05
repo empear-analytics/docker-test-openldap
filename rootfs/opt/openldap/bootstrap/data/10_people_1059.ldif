@@ -1,0 +1,13 @@
+dn: cn=Judi+sn=Nowzari,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Judi Nowzari
+cn: Nowzari
+givenname: Judi
+mail: judi.nowzari@planetexpress.com
+userPassword: Judi
+ou: Group5
+uid: 1059
+ Q==

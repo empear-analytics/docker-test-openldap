@@ -1,0 +1,13 @@
+dn: cn=Natacha+sn=Stjohn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Natacha Stjohn
+cn: Stjohn
+givenname: Natacha
+mail: natacha.stjohn@planetexpress.com
+userPassword: Natacha
+ou: OtherGroup
+uid: 5797
+ Q==

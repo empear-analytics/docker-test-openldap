@@ -1,0 +1,13 @@
+dn: cn=Ariane+sn=Stanforth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ariane Stanforth
+cn: Stanforth
+givenname: Ariane
+mail: ariane.stanforth@planetexpress.com
+userPassword: Ariane
+ou: flight_crew
+uid: 4028
+ Q==

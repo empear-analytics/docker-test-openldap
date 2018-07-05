@@ -1,0 +1,13 @@
+dn: cn=Tyra+sn=Dery,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tyra Dery
+cn: Dery
+givenname: Tyra
+mail: tyra.dery@planetexpress.com
+userPassword: Tyra
+ou: OtherGroup
+uid: 1958
+ Q==

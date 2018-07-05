@@ -1,0 +1,13 @@
+dn: cn=Abe+sn=Steighner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Abe Steighner
+cn: Steighner
+givenname: Abe
+mail: abe.steighner@planetexpress.com
+userPassword: Abe
+ou: flight_crew
+uid: 773
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Anika+sn=Corseri,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anika Corseri
+cn: Corseri
+givenname: Anika
+mail: anika.corseri@planetexpress.com
+userPassword: Anika
+ou: flight_crew
+uid: 3788
+ Q==

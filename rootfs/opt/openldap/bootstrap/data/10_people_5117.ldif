@@ -1,0 +1,13 @@
+dn: cn=France+sn=Habbyshaw,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: France Habbyshaw
+cn: Habbyshaw
+givenname: France
+mail: france.habbyshaw@planetexpress.com
+userPassword: France
+ou: Group5
+uid: 5117
+ Q==

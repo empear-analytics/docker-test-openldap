@@ -1,0 +1,13 @@
+dn: cn=Layla+sn=Healy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Layla Healy
+cn: Healy
+givenname: Layla
+mail: layla.healy@planetexpress.com
+userPassword: Layla
+ou: admin_staff
+uid: 2816
+ Q==

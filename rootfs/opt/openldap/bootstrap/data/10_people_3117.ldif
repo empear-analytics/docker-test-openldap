@@ -1,0 +1,13 @@
+dn: cn=Jared+sn=Oroz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jared Oroz
+cn: Oroz
+givenname: Jared
+mail: jared.oroz@planetexpress.com
+userPassword: Jared
+ou: Group5
+uid: 3117
+ Q==

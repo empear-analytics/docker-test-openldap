@@ -1,0 +1,13 @@
+dn: cn=Valentine+sn=Krucker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Valentine Krucker
+cn: Krucker
+givenname: Valentine
+mail: valentine.krucker@planetexpress.com
+userPassword: Valentine
+ou: flight_crew
+uid: 1130
+ Q==

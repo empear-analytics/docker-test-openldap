@@ -1,0 +1,13 @@
+dn: cn=Ferdinand+sn=Chaco,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ferdinand Chaco
+cn: Chaco
+givenname: Ferdinand
+mail: ferdinand.chaco@planetexpress.com
+userPassword: Ferdinand
+ou: OtherGroup
+uid: 5029
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jaye+sn=Gisi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jaye Gisi
+cn: Gisi
+givenname: Jaye
+mail: jaye.gisi@planetexpress.com
+userPassword: Jaye
+ou: Group5
+uid: 862
+ Q==

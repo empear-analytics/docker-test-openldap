@@ -1,0 +1,13 @@
+dn: cn=Chantelle+sn=Hazelgrove,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chantelle Hazelgrove
+cn: Hazelgrove
+givenname: Chantelle
+mail: chantelle.hazelgrove@planetexpress.com
+userPassword: Chantelle
+ou: OtherGroup
+uid: 3900
+ Q==

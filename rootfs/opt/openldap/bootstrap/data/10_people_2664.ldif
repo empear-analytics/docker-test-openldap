@@ -1,0 +1,13 @@
+dn: cn=Gwyneth+sn=Lumadue,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gwyneth Lumadue
+cn: Lumadue
+givenname: Gwyneth
+mail: gwyneth.lumadue@planetexpress.com
+userPassword: Gwyneth
+ou: OtherGroup
+uid: 2664
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jenise+sn=Occhipinti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jenise Occhipinti
+cn: Occhipinti
+givenname: Jenise
+mail: jenise.occhipinti@planetexpress.com
+userPassword: Jenise
+ou: admin_staff
+uid: 4006
+ Q==

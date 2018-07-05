@@ -1,0 +1,13 @@
+dn: cn=Agustina+sn=Nalder,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Agustina Nalder
+cn: Nalder
+givenname: Agustina
+mail: agustina.nalder@planetexpress.com
+userPassword: Agustina
+ou: OtherGroup
+uid: 3756
+ Q==

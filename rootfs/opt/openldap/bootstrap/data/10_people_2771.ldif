@@ -1,0 +1,13 @@
+dn: cn=Luis+sn=Carollo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Luis Carollo
+cn: Carollo
+givenname: Luis
+mail: luis.carollo@planetexpress.com
+userPassword: Luis
+ou: flight_crew
+uid: 2771
+ Q==

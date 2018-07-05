@@ -1,0 +1,13 @@
+dn: cn=Guadalupe+sn=Haughney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Guadalupe Haughney
+cn: Haughney
+givenname: Guadalupe
+mail: guadalupe.haughney@planetexpress.com
+userPassword: Guadalupe
+ou: Group5
+uid: 5519
+ Q==

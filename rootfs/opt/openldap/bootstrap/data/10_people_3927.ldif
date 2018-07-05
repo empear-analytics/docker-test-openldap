@@ -1,0 +1,13 @@
+dn: cn=Karmen+sn=Sulivan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karmen Sulivan
+cn: Sulivan
+givenname: Karmen
+mail: karmen.sulivan@planetexpress.com
+userPassword: Karmen
+ou: admin_staff
+uid: 3927
+ Q==

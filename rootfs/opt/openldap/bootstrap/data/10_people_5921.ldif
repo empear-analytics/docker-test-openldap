@@ -1,0 +1,13 @@
+dn: cn=Zulma+sn=Heeter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zulma Heeter
+cn: Heeter
+givenname: Zulma
+mail: zulma.heeter@planetexpress.com
+userPassword: Zulma
+ou: Group5
+uid: 5921
+ Q==

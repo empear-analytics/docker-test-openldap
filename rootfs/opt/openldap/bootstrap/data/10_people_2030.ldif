@@ -1,0 +1,13 @@
+dn: cn=Adah+sn=Kaaihue,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adah Kaaihue
+cn: Kaaihue
+givenname: Adah
+mail: adah.kaaihue@planetexpress.com
+userPassword: Adah
+ou: admin_staff
+uid: 2030
+ Q==

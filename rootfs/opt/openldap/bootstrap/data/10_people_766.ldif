@@ -1,0 +1,13 @@
+dn: cn=Dorris+sn=Koso,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dorris Koso
+cn: Koso
+givenname: Dorris
+mail: dorris.koso@planetexpress.com
+userPassword: Dorris
+ou: flight_crew
+uid: 766
+ Q==

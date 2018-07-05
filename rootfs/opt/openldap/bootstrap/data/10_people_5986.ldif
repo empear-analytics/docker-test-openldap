@@ -1,0 +1,13 @@
+dn: cn=Bernardo+sn=Vandorp,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bernardo Vandorp
+cn: Vandorp
+givenname: Bernardo
+mail: bernardo.vandorp@planetexpress.com
+userPassword: Bernardo
+ou: Group5
+uid: 5986
+ Q==

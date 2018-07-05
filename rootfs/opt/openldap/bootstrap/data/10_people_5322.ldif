@@ -1,0 +1,13 @@
+dn: cn=Julee+sn=Raddle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Julee Raddle
+cn: Raddle
+givenname: Julee
+mail: julee.raddle@planetexpress.com
+userPassword: Julee
+ou: flight_crew
+uid: 5322
+ Q==

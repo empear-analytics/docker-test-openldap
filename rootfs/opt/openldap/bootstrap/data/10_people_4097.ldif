@@ -1,0 +1,13 @@
+dn: cn=Ramonita+sn=Coard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ramonita Coard
+cn: Coard
+givenname: Ramonita
+mail: ramonita.coard@planetexpress.com
+userPassword: Ramonita
+ou: Group5
+uid: 4097
+ Q==

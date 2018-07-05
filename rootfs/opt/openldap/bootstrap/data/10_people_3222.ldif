@@ -1,0 +1,13 @@
+dn: cn=Chun+sn=Gins,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chun Gins
+cn: Gins
+givenname: Chun
+mail: chun.gins@planetexpress.com
+userPassword: Chun
+ou: OtherGroup
+uid: 3222
+ Q==

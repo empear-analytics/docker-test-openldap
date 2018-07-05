@@ -1,0 +1,13 @@
+dn: cn=Bridgett+sn=Kroetz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bridgett Kroetz
+cn: Kroetz
+givenname: Bridgett
+mail: bridgett.kroetz@planetexpress.com
+userPassword: Bridgett
+ou: admin_staff
+uid: 4085
+ Q==

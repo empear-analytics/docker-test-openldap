@@ -1,0 +1,13 @@
+dn: cn=Kirsten+sn=Likar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kirsten Likar
+cn: Likar
+givenname: Kirsten
+mail: kirsten.likar@planetexpress.com
+userPassword: Kirsten
+ou: admin_staff
+uid: 1996
+ Q==

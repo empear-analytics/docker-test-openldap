@@ -1,0 +1,13 @@
+dn: cn=Tama+sn=Ozuna,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tama Ozuna
+cn: Ozuna
+givenname: Tama
+mail: tama.ozuna@planetexpress.com
+userPassword: Tama
+ou: OtherGroup
+uid: 4143
+ Q==

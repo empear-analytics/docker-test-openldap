@@ -1,0 +1,13 @@
+dn: cn=Michiko+sn=Aboulahoud,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Michiko Aboulahoud
+cn: Aboulahoud
+givenname: Michiko
+mail: michiko.aboulahoud@planetexpress.com
+userPassword: Michiko
+ou: admin_staff
+uid: 3191
+ Q==

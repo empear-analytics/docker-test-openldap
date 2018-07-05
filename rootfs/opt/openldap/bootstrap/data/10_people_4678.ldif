@@ -1,0 +1,13 @@
+dn: cn=Meaghan+sn=Barnhart,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Meaghan Barnhart
+cn: Barnhart
+givenname: Meaghan
+mail: meaghan.barnhart@planetexpress.com
+userPassword: Meaghan
+ou: OtherGroup
+uid: 4678
+ Q==

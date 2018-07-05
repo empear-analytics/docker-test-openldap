@@ -1,0 +1,13 @@
+dn: cn=Jeremy+sn=Kesey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeremy Kesey
+cn: Kesey
+givenname: Jeremy
+mail: jeremy.kesey@planetexpress.com
+userPassword: Jeremy
+ou: Group5
+uid: 3934
+ Q==

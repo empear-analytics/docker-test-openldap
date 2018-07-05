@@ -1,0 +1,13 @@
+dn: cn=Rickie+sn=Conell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rickie Conell
+cn: Conell
+givenname: Rickie
+mail: rickie.conell@planetexpress.com
+userPassword: Rickie
+ou: Group5
+uid: 2303
+ Q==

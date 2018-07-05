@@ -1,0 +1,13 @@
+dn: cn=Georgetta+sn=Houseknecht,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Georgetta Houseknecht
+cn: Houseknecht
+givenname: Georgetta
+mail: georgetta.houseknecht@planetexpress.com
+userPassword: Georgetta
+ou: OtherGroup
+uid: 5795
+ Q==

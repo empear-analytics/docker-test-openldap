@@ -1,0 +1,13 @@
+dn: cn=Haley+sn=Dziadek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Haley Dziadek
+cn: Dziadek
+givenname: Haley
+mail: haley.dziadek@planetexpress.com
+userPassword: Haley
+ou: flight_crew
+uid: 1238
+ Q==

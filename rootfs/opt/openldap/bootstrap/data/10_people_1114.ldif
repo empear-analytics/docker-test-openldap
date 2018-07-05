@@ -1,0 +1,13 @@
+dn: cn=Samual+sn=Schmelzer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Samual Schmelzer
+cn: Schmelzer
+givenname: Samual
+mail: samual.schmelzer@planetexpress.com
+userPassword: Samual
+ou: flight_crew
+uid: 1114
+ Q==

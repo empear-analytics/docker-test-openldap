@@ -1,0 +1,13 @@
+dn: cn=Dolly+sn=Winterbottom,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dolly Winterbottom
+cn: Winterbottom
+givenname: Dolly
+mail: dolly.winterbottom@planetexpress.com
+userPassword: Dolly
+ou: OtherGroup
+uid: 4040
+ Q==

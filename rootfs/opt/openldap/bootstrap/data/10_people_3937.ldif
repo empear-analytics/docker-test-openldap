@@ -1,0 +1,13 @@
+dn: cn=Margert+sn=Britnell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margert Britnell
+cn: Britnell
+givenname: Margert
+mail: margert.britnell@planetexpress.com
+userPassword: Margert
+ou: admin_staff
+uid: 3937
+ Q==

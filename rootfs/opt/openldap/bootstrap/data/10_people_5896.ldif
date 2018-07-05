@@ -1,0 +1,13 @@
+dn: cn=Deja+sn=Pickron,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deja Pickron
+cn: Pickron
+givenname: Deja
+mail: deja.pickron@planetexpress.com
+userPassword: Deja
+ou: flight_crew
+uid: 5896
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Russell+sn=Tapscott,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Russell Tapscott
+cn: Tapscott
+givenname: Russell
+mail: russell.tapscott@planetexpress.com
+userPassword: Russell
+ou: flight_crew
+uid: 5770
+ Q==

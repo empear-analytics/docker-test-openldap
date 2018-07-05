@@ -1,0 +1,13 @@
+dn: cn=Anh+sn=Relkin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anh Relkin
+cn: Relkin
+givenname: Anh
+mail: anh.relkin@planetexpress.com
+userPassword: Anh
+ou: OtherGroup
+uid: 2359
+ Q==

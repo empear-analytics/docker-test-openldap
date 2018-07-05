@@ -1,0 +1,13 @@
+dn: cn=Alayna+sn=Geeter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alayna Geeter
+cn: Geeter
+givenname: Alayna
+mail: alayna.geeter@planetexpress.com
+userPassword: Alayna
+ou: OtherGroup
+uid: 5820
+ Q==

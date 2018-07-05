@@ -1,0 +1,13 @@
+dn: cn=Shantelle+sn=Jablonsky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shantelle Jablonsky
+cn: Jablonsky
+givenname: Shantelle
+mail: shantelle.jablonsky@planetexpress.com
+userPassword: Shantelle
+ou: OtherGroup
+uid: 5003
+ Q==

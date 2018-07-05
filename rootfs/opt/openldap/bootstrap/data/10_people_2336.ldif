@@ -1,0 +1,13 @@
+dn: cn=Katelyn+sn=Sudbeck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katelyn Sudbeck
+cn: Sudbeck
+givenname: Katelyn
+mail: katelyn.sudbeck@planetexpress.com
+userPassword: Katelyn
+ou: OtherGroup
+uid: 2336
+ Q==

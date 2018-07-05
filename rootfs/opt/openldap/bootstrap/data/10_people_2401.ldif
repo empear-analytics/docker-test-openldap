@@ -1,0 +1,13 @@
+dn: cn=Ji+sn=Fuger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ji Fuger
+cn: Fuger
+givenname: Ji
+mail: ji.fuger@planetexpress.com
+userPassword: Ji
+ou: OtherGroup
+uid: 2401
+ Q==

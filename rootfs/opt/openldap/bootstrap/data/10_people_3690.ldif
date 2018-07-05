@@ -1,0 +1,13 @@
+dn: cn=Starr+sn=Failor,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Starr Failor
+cn: Failor
+givenname: Starr
+mail: starr.failor@planetexpress.com
+userPassword: Starr
+ou: Group5
+uid: 3690
+ Q==

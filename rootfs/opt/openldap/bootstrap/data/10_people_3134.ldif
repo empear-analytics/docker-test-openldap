@@ -1,0 +1,13 @@
+dn: cn=Loren+sn=Belina,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loren Belina
+cn: Belina
+givenname: Loren
+mail: loren.belina@planetexpress.com
+userPassword: Loren
+ou: Group5
+uid: 3134
+ Q==

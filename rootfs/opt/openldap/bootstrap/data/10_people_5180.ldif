@@ -1,0 +1,13 @@
+dn: cn=Jesica+sn=Kevin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jesica Kevin
+cn: Kevin
+givenname: Jesica
+mail: jesica.kevin@planetexpress.com
+userPassword: Jesica
+ou: flight_crew
+uid: 5180
+ Q==

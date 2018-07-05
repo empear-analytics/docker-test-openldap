@@ -1,0 +1,13 @@
+dn: cn=Janise+sn=Ausmus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janise Ausmus
+cn: Ausmus
+givenname: Janise
+mail: janise.ausmus@planetexpress.com
+userPassword: Janise
+ou: OtherGroup
+uid: 4602
+ Q==

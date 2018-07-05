@@ -1,0 +1,13 @@
+dn: cn=Annalisa+sn=Batson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annalisa Batson
+cn: Batson
+givenname: Annalisa
+mail: annalisa.batson@planetexpress.com
+userPassword: Annalisa
+ou: Group5
+uid: 5907
+ Q==

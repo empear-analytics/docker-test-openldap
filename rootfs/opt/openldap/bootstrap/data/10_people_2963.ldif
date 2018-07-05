@@ -1,0 +1,13 @@
+dn: cn=Georgine+sn=Beardall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Georgine Beardall
+cn: Beardall
+givenname: Georgine
+mail: georgine.beardall@planetexpress.com
+userPassword: Georgine
+ou: flight_crew
+uid: 2963
+ Q==

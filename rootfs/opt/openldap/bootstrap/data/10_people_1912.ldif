@@ -1,0 +1,13 @@
+dn: cn=Andy+sn=Hagner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andy Hagner
+cn: Hagner
+givenname: Andy
+mail: andy.hagner@planetexpress.com
+userPassword: Andy
+ou: Group5
+uid: 1912
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Katherin+sn=Asano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katherin Asano
+cn: Asano
+givenname: Katherin
+mail: katherin.asano@planetexpress.com
+userPassword: Katherin
+ou: OtherGroup
+uid: 4771
+ Q==

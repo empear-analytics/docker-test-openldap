@@ -1,0 +1,13 @@
+dn: cn=Lilla+sn=Aispuro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lilla Aispuro
+cn: Aispuro
+givenname: Lilla
+mail: lilla.aispuro@planetexpress.com
+userPassword: Lilla
+ou: admin_staff
+uid: 5550
+ Q==

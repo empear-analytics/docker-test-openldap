@@ -1,0 +1,13 @@
+dn: cn=Vonnie+sn=Dearin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vonnie Dearin
+cn: Dearin
+givenname: Vonnie
+mail: vonnie.dearin@planetexpress.com
+userPassword: Vonnie
+ou: Group5
+uid: 2129
+ Q==

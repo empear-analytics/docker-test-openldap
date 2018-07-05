@@ -1,0 +1,13 @@
+dn: cn=Melba+sn=Murriel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melba Murriel
+cn: Murriel
+givenname: Melba
+mail: melba.murriel@planetexpress.com
+userPassword: Melba
+ou: admin_staff
+uid: 2539
+ Q==

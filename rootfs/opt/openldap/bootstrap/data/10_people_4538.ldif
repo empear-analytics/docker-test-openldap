@@ -1,0 +1,13 @@
+dn: cn=Rosemarie+sn=Lozeau,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosemarie Lozeau
+cn: Lozeau
+givenname: Rosemarie
+mail: rosemarie.lozeau@planetexpress.com
+userPassword: Rosemarie
+ou: flight_crew
+uid: 4538
+ Q==

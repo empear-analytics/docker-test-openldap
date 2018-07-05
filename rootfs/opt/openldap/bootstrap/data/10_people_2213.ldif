@@ -1,0 +1,13 @@
+dn: cn=Ernestina+sn=Powsey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ernestina Powsey
+cn: Powsey
+givenname: Ernestina
+mail: ernestina.powsey@planetexpress.com
+userPassword: Ernestina
+ou: flight_crew
+uid: 2213
+ Q==

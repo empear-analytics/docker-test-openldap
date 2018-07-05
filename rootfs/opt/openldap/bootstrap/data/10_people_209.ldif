@@ -1,0 +1,13 @@
+dn: cn=Salley+sn=Maixner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Salley Maixner
+cn: Maixner
+givenname: Salley
+mail: salley.maixner@planetexpress.com
+userPassword: Salley
+ou: Group5
+uid: 209
+ Q==

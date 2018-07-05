@@ -1,0 +1,13 @@
+dn: cn=Misty+sn=Luellen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Misty Luellen
+cn: Luellen
+givenname: Misty
+mail: misty.luellen@planetexpress.com
+userPassword: Misty
+ou: Group5
+uid: 2262
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Everett+sn=Vanproosdy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Everett Vanproosdy
+cn: Vanproosdy
+givenname: Everett
+mail: everett.vanproosdy@planetexpress.com
+userPassword: Everett
+ou: OtherGroup
+uid: 1388
+ Q==

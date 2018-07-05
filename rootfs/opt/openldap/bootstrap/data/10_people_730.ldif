@@ -1,0 +1,13 @@
+dn: cn=Glynis+sn=Shephard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Glynis Shephard
+cn: Shephard
+givenname: Glynis
+mail: glynis.shephard@planetexpress.com
+userPassword: Glynis
+ou: Group5
+uid: 730
+ Q==

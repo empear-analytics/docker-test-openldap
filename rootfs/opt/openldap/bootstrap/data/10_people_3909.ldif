@@ -1,0 +1,13 @@
+dn: cn=Edelmira+sn=Timmins,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edelmira Timmins
+cn: Timmins
+givenname: Edelmira
+mail: edelmira.timmins@planetexpress.com
+userPassword: Edelmira
+ou: OtherGroup
+uid: 3909
+ Q==

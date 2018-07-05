@@ -1,0 +1,13 @@
+dn: cn=Kathrine+sn=Defide,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kathrine Defide
+cn: Defide
+givenname: Kathrine
+mail: kathrine.defide@planetexpress.com
+userPassword: Kathrine
+ou: OtherGroup
+uid: 2223
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Zena+sn=Seiden,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zena Seiden
+cn: Seiden
+givenname: Zena
+mail: zena.seiden@planetexpress.com
+userPassword: Zena
+ou: flight_crew
+uid: 486
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ruben+sn=Kecskes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ruben Kecskes
+cn: Kecskes
+givenname: Ruben
+mail: ruben.kecskes@planetexpress.com
+userPassword: Ruben
+ou: flight_crew
+uid: 5642
+ Q==

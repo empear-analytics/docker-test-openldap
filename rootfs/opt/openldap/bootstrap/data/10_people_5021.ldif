@@ -1,0 +1,13 @@
+dn: cn=Elenore+sn=Schiano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elenore Schiano
+cn: Schiano
+givenname: Elenore
+mail: elenore.schiano@planetexpress.com
+userPassword: Elenore
+ou: flight_crew
+uid: 5021
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Alfredia+sn=Mellenthin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alfredia Mellenthin
+cn: Mellenthin
+givenname: Alfredia
+mail: alfredia.mellenthin@planetexpress.com
+userPassword: Alfredia
+ou: admin_staff
+uid: 3138
+ Q==

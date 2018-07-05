@@ -1,0 +1,13 @@
+dn: cn=Nathan+sn=Buchberger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nathan Buchberger
+cn: Buchberger
+givenname: Nathan
+mail: nathan.buchberger@planetexpress.com
+userPassword: Nathan
+ou: OtherGroup
+uid: 4409
+ Q==

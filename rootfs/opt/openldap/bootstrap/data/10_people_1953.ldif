@@ -1,0 +1,13 @@
+dn: cn=Patricia+sn=Gilboy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Patricia Gilboy
+cn: Gilboy
+givenname: Patricia
+mail: patricia.gilboy@planetexpress.com
+userPassword: Patricia
+ou: admin_staff
+uid: 1953
+ Q==

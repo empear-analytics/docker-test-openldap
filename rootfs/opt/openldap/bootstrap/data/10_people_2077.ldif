@@ -1,0 +1,13 @@
+dn: cn=Coral+sn=Barze,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Coral Barze
+cn: Barze
+givenname: Coral
+mail: coral.barze@planetexpress.com
+userPassword: Coral
+ou: flight_crew
+uid: 2077
+ Q==

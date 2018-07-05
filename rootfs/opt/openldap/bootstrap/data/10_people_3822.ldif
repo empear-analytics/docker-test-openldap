@@ -1,0 +1,13 @@
+dn: cn=Vallie+sn=Siedel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vallie Siedel
+cn: Siedel
+givenname: Vallie
+mail: vallie.siedel@planetexpress.com
+userPassword: Vallie
+ou: OtherGroup
+uid: 3822
+ Q==

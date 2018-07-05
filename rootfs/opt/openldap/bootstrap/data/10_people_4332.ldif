@@ -1,0 +1,13 @@
+dn: cn=Allyn+sn=Simons,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Allyn Simons
+cn: Simons
+givenname: Allyn
+mail: allyn.simons@planetexpress.com
+userPassword: Allyn
+ou: OtherGroup
+uid: 4332
+ Q==

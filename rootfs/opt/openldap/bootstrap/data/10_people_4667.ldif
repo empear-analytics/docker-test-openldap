@@ -1,0 +1,13 @@
+dn: cn=Judson+sn=Sankey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Judson Sankey
+cn: Sankey
+givenname: Judson
+mail: judson.sankey@planetexpress.com
+userPassword: Judson
+ou: flight_crew
+uid: 4667
+ Q==

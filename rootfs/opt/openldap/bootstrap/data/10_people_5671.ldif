@@ -1,0 +1,13 @@
+dn: cn=Tamra+sn=Kimler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tamra Kimler
+cn: Kimler
+givenname: Tamra
+mail: tamra.kimler@planetexpress.com
+userPassword: Tamra
+ou: admin_staff
+uid: 5671
+ Q==

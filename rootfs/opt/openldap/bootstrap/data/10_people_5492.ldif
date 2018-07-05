@@ -1,0 +1,13 @@
+dn: cn=Yuette+sn=Lomascolo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yuette Lomascolo
+cn: Lomascolo
+givenname: Yuette
+mail: yuette.lomascolo@planetexpress.com
+userPassword: Yuette
+ou: flight_crew
+uid: 5492
+ Q==

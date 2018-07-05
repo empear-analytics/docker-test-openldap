@@ -1,0 +1,13 @@
+dn: cn=Doretha+sn=Sturgul,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Doretha Sturgul
+cn: Sturgul
+givenname: Doretha
+mail: doretha.sturgul@planetexpress.com
+userPassword: Doretha
+ou: admin_staff
+uid: 3868
+ Q==

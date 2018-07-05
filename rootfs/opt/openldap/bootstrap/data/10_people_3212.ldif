@@ -1,0 +1,13 @@
+dn: cn=Eleanor+sn=Lotto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eleanor Lotto
+cn: Lotto
+givenname: Eleanor
+mail: eleanor.lotto@planetexpress.com
+userPassword: Eleanor
+ou: flight_crew
+uid: 3212
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Nathan+sn=Tessmer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nathan Tessmer
+cn: Tessmer
+givenname: Nathan
+mail: nathan.tessmer@planetexpress.com
+userPassword: Nathan
+ou: Group5
+uid: 5961
+ Q==

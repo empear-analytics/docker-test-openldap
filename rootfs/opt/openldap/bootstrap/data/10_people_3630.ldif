@@ -1,0 +1,13 @@
+dn: cn=Sari+sn=Faggard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sari Faggard
+cn: Faggard
+givenname: Sari
+mail: sari.faggard@planetexpress.com
+userPassword: Sari
+ou: flight_crew
+uid: 3630
+ Q==

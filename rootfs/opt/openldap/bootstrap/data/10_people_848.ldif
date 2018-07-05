@@ -1,0 +1,13 @@
+dn: cn=Nina+sn=Lafevers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nina Lafevers
+cn: Lafevers
+givenname: Nina
+mail: nina.lafevers@planetexpress.com
+userPassword: Nina
+ou: flight_crew
+uid: 848
+ Q==

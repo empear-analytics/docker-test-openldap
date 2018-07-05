@@ -1,0 +1,13 @@
+dn: cn=Jesus+sn=Lonabaugh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jesus Lonabaugh
+cn: Lonabaugh
+givenname: Jesus
+mail: jesus.lonabaugh@planetexpress.com
+userPassword: Jesus
+ou: admin_staff
+uid: 3235
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Pauline+sn=Carnalla,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pauline Carnalla
+cn: Carnalla
+givenname: Pauline
+mail: pauline.carnalla@planetexpress.com
+userPassword: Pauline
+ou: admin_staff
+uid: 5025
+ Q==

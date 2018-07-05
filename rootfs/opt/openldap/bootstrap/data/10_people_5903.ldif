@@ -1,0 +1,13 @@
+dn: cn=Michell+sn=Andreas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Michell Andreas
+cn: Andreas
+givenname: Michell
+mail: michell.andreas@planetexpress.com
+userPassword: Michell
+ou: OtherGroup
+uid: 5903
+ Q==

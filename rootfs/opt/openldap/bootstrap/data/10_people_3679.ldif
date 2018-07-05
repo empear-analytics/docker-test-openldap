@@ -1,0 +1,13 @@
+dn: cn=Oretha+sn=Sorbello,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Oretha Sorbello
+cn: Sorbello
+givenname: Oretha
+mail: oretha.sorbello@planetexpress.com
+userPassword: Oretha
+ou: Group5
+uid: 3679
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Rosetta+sn=Cheeves,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosetta Cheeves
+cn: Cheeves
+givenname: Rosetta
+mail: rosetta.cheeves@planetexpress.com
+userPassword: Rosetta
+ou: OtherGroup
+uid: 3588
+ Q==

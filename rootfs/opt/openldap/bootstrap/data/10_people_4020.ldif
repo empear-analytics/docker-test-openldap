@@ -1,0 +1,13 @@
+dn: cn=Drew+sn=Sandblom,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Drew Sandblom
+cn: Sandblom
+givenname: Drew
+mail: drew.sandblom@planetexpress.com
+userPassword: Drew
+ou: OtherGroup
+uid: 4020
+ Q==

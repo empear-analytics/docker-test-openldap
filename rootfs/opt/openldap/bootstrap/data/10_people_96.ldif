@@ -1,0 +1,13 @@
+dn: cn=Bridgette+sn=Abend,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bridgette Abend
+cn: Abend
+givenname: Bridgette
+mail: bridgette.abend@planetexpress.com
+userPassword: Bridgette
+ou: flight_crew
+uid: 96
+ Q==

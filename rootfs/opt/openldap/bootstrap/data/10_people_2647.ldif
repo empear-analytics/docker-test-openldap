@@ -1,0 +1,13 @@
+dn: cn=Kimberly+sn=Bausch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kimberly Bausch
+cn: Bausch
+givenname: Kimberly
+mail: kimberly.bausch@planetexpress.com
+userPassword: Kimberly
+ou: OtherGroup
+uid: 2647
+ Q==

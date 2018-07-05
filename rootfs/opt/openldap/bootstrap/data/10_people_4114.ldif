@@ -1,0 +1,13 @@
+dn: cn=Ayanna+sn=Mervin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ayanna Mervin
+cn: Mervin
+givenname: Ayanna
+mail: ayanna.mervin@planetexpress.com
+userPassword: Ayanna
+ou: Group5
+uid: 4114
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Bobby+sn=Peagler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bobby Peagler
+cn: Peagler
+givenname: Bobby
+mail: bobby.peagler@planetexpress.com
+userPassword: Bobby
+ou: OtherGroup
+uid: 5710
+ Q==

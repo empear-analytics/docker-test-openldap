@@ -1,0 +1,13 @@
+dn: cn=Caterina+sn=Lappas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Caterina Lappas
+cn: Lappas
+givenname: Caterina
+mail: caterina.lappas@planetexpress.com
+userPassword: Caterina
+ou: Group5
+uid: 4035
+ Q==

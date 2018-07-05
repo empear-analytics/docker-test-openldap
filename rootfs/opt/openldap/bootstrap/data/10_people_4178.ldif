@@ -1,0 +1,13 @@
+dn: cn=Dorathy+sn=Fenix,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dorathy Fenix
+cn: Fenix
+givenname: Dorathy
+mail: dorathy.fenix@planetexpress.com
+userPassword: Dorathy
+ou: Group5
+uid: 4178
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Justin+sn=Mellinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Justin Mellinger
+cn: Mellinger
+givenname: Justin
+mail: justin.mellinger@planetexpress.com
+userPassword: Justin
+ou: flight_crew
+uid: 1871
+ Q==

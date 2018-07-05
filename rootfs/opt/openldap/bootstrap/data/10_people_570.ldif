@@ -1,0 +1,13 @@
+dn: cn=Ronda+sn=Guntharp,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ronda Guntharp
+cn: Guntharp
+givenname: Ronda
+mail: ronda.guntharp@planetexpress.com
+userPassword: Ronda
+ou: admin_staff
+uid: 570
+ Q==

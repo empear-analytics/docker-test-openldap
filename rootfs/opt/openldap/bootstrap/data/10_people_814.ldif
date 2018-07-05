@@ -1,0 +1,13 @@
+dn: cn=Maybelle+sn=Curcuru,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maybelle Curcuru
+cn: Curcuru
+givenname: Maybelle
+mail: maybelle.curcuru@planetexpress.com
+userPassword: Maybelle
+ou: OtherGroup
+uid: 814
+ Q==

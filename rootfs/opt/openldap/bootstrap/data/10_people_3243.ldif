@@ -1,0 +1,13 @@
+dn: cn=Ozella+sn=Wagganer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ozella Wagganer
+cn: Wagganer
+givenname: Ozella
+mail: ozella.wagganer@planetexpress.com
+userPassword: Ozella
+ou: Group5
+uid: 3243
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jay+sn=Hairr,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jay Hairr
+cn: Hairr
+givenname: Jay
+mail: jay.hairr@planetexpress.com
+userPassword: Jay
+ou: OtherGroup
+uid: 2277
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Matthew+sn=Shoulder,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Matthew Shoulder
+cn: Shoulder
+givenname: Matthew
+mail: matthew.shoulder@planetexpress.com
+userPassword: Matthew
+ou: Group5
+uid: 4206
+ Q==

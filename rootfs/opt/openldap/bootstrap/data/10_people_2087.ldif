@@ -1,0 +1,13 @@
+dn: cn=Kyla+sn=Mcgaughey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kyla Mcgaughey
+cn: Mcgaughey
+givenname: Kyla
+mail: kyla.mcgaughey@planetexpress.com
+userPassword: Kyla
+ou: flight_crew
+uid: 2087
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kayce+sn=Bawa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kayce Bawa
+cn: Bawa
+givenname: Kayce
+mail: kayce.bawa@planetexpress.com
+userPassword: Kayce
+ou: flight_crew
+uid: 108
+ Q==

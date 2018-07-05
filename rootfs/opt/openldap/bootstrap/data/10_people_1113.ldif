@@ -1,0 +1,13 @@
+dn: cn=Altagracia+sn=Mccrumb,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Altagracia Mccrumb
+cn: Mccrumb
+givenname: Altagracia
+mail: altagracia.mccrumb@planetexpress.com
+userPassword: Altagracia
+ou: Group5
+uid: 1113
+ Q==

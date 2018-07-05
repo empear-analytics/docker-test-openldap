@@ -1,0 +1,13 @@
+dn: cn=Rikki+sn=Kearns,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rikki Kearns
+cn: Kearns
+givenname: Rikki
+mail: rikki.kearns@planetexpress.com
+userPassword: Rikki
+ou: flight_crew
+uid: 1545
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Florencia+sn=Wieseman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Florencia Wieseman
+cn: Wieseman
+givenname: Florencia
+mail: florencia.wieseman@planetexpress.com
+userPassword: Florencia
+ou: flight_crew
+uid: 4471
+ Q==

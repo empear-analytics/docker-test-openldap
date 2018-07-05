@@ -1,0 +1,13 @@
+dn: cn=Enda+sn=Vanhoecke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Enda Vanhoecke
+cn: Vanhoecke
+givenname: Enda
+mail: enda.vanhoecke@planetexpress.com
+userPassword: Enda
+ou: Group5
+uid: 3463
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Karina+sn=Legare,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karina Legare
+cn: Legare
+givenname: Karina
+mail: karina.legare@planetexpress.com
+userPassword: Karina
+ou: admin_staff
+uid: 3691
+ Q==

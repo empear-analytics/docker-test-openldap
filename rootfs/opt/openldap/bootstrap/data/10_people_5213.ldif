@@ -1,0 +1,13 @@
+dn: cn=Roman+sn=Dutcher,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roman Dutcher
+cn: Dutcher
+givenname: Roman
+mail: roman.dutcher@planetexpress.com
+userPassword: Roman
+ou: admin_staff
+uid: 5213
+ Q==

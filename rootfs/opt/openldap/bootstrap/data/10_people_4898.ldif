@@ -1,0 +1,13 @@
+dn: cn=Huey+sn=Knopf,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Huey Knopf
+cn: Knopf
+givenname: Huey
+mail: huey.knopf@planetexpress.com
+userPassword: Huey
+ou: OtherGroup
+uid: 4898
+ Q==

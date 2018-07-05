@@ -1,0 +1,13 @@
+dn: cn=Anthony+sn=Tayloe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anthony Tayloe
+cn: Tayloe
+givenname: Anthony
+mail: anthony.tayloe@planetexpress.com
+userPassword: Anthony
+ou: Group5
+uid: 3095
+ Q==

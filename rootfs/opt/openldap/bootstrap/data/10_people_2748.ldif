@@ -1,0 +1,13 @@
+dn: cn=Ashton+sn=Gilbreath,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ashton Gilbreath
+cn: Gilbreath
+givenname: Ashton
+mail: ashton.gilbreath@planetexpress.com
+userPassword: Ashton
+ou: Group5
+uid: 2748
+ Q==

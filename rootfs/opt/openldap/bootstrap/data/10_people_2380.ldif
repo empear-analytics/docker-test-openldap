@@ -1,0 +1,13 @@
+dn: cn=Hunter+sn=Terlecki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hunter Terlecki
+cn: Terlecki
+givenname: Hunter
+mail: hunter.terlecki@planetexpress.com
+userPassword: Hunter
+ou: Group5
+uid: 2380
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Louis+sn=Pintos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Louis Pintos
+cn: Pintos
+givenname: Louis
+mail: louis.pintos@planetexpress.com
+userPassword: Louis
+ou: Group5
+uid: 4146
+ Q==

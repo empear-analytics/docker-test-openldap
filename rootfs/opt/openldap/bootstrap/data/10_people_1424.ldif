@@ -1,0 +1,13 @@
+dn: cn=Delfina+sn=Carver,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delfina Carver
+cn: Carver
+givenname: Delfina
+mail: delfina.carver@planetexpress.com
+userPassword: Delfina
+ou: flight_crew
+uid: 1424
+ Q==

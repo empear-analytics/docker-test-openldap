@@ -1,0 +1,13 @@
+dn: cn=Carolynn+sn=Nasta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carolynn Nasta
+cn: Nasta
+givenname: Carolynn
+mail: carolynn.nasta@planetexpress.com
+userPassword: Carolynn
+ou: Group5
+uid: 2013
+ Q==

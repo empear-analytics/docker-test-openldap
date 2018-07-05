@@ -1,0 +1,13 @@
+dn: cn=Margeret+sn=Hooker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margeret Hooker
+cn: Hooker
+givenname: Margeret
+mail: margeret.hooker@planetexpress.com
+userPassword: Margeret
+ou: flight_crew
+uid: 2341
+ Q==

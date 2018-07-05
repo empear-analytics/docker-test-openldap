@@ -1,0 +1,13 @@
+dn: cn=Aleida+sn=Chiarella,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aleida Chiarella
+cn: Chiarella
+givenname: Aleida
+mail: aleida.chiarella@planetexpress.com
+userPassword: Aleida
+ou: flight_crew
+uid: 2534
+ Q==

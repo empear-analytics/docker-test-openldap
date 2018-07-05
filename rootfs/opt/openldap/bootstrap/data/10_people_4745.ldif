@@ -1,0 +1,13 @@
+dn: cn=Trevor+sn=Orenstein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Trevor Orenstein
+cn: Orenstein
+givenname: Trevor
+mail: trevor.orenstein@planetexpress.com
+userPassword: Trevor
+ou: admin_staff
+uid: 4745
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ione+sn=Mench,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ione Mench
+cn: Mench
+givenname: Ione
+mail: ione.mench@planetexpress.com
+userPassword: Ione
+ou: admin_staff
+uid: 4981
+ Q==

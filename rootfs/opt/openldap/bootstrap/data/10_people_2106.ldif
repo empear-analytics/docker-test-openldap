@@ -1,0 +1,13 @@
+dn: cn=Ned+sn=Aines,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ned Aines
+cn: Aines
+givenname: Ned
+mail: ned.aines@planetexpress.com
+userPassword: Ned
+ou: admin_staff
+uid: 2106
+ Q==

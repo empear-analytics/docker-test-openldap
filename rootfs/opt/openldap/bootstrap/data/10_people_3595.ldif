@@ -1,0 +1,13 @@
+dn: cn=Nyla+sn=Rafla,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nyla Rafla
+cn: Rafla
+givenname: Nyla
+mail: nyla.rafla@planetexpress.com
+userPassword: Nyla
+ou: admin_staff
+uid: 3595
+ Q==

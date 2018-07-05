@@ -1,0 +1,13 @@
+dn: cn=Celena+sn=Rotanelli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Celena Rotanelli
+cn: Rotanelli
+givenname: Celena
+mail: celena.rotanelli@planetexpress.com
+userPassword: Celena
+ou: admin_staff
+uid: 2420
+ Q==

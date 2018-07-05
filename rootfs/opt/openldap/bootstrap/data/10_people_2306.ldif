@@ -1,0 +1,13 @@
+dn: cn=Rowena+sn=Roehr,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rowena Roehr
+cn: Roehr
+givenname: Rowena
+mail: rowena.roehr@planetexpress.com
+userPassword: Rowena
+ou: OtherGroup
+uid: 2306
+ Q==

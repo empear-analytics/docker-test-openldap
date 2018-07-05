@@ -1,0 +1,13 @@
+dn: cn=Cris+sn=Crabb,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cris Crabb
+cn: Crabb
+givenname: Cris
+mail: cris.crabb@planetexpress.com
+userPassword: Cris
+ou: OtherGroup
+uid: 1632
+ Q==

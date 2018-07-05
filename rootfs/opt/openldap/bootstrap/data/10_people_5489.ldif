@@ -1,0 +1,13 @@
+dn: cn=Brooke+sn=Hurlbut,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brooke Hurlbut
+cn: Hurlbut
+givenname: Brooke
+mail: brooke.hurlbut@planetexpress.com
+userPassword: Brooke
+ou: OtherGroup
+uid: 5489
+ Q==

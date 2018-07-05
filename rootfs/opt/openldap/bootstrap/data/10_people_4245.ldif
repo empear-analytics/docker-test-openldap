@@ -1,0 +1,13 @@
+dn: cn=Angelina+sn=Conzalez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelina Conzalez
+cn: Conzalez
+givenname: Angelina
+mail: angelina.conzalez@planetexpress.com
+userPassword: Angelina
+ou: OtherGroup
+uid: 4245
+ Q==

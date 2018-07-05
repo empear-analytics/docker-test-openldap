@@ -1,0 +1,13 @@
+dn: cn=Roselle+sn=Cheverton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roselle Cheverton
+cn: Cheverton
+givenname: Roselle
+mail: roselle.cheverton@planetexpress.com
+userPassword: Roselle
+ou: admin_staff
+uid: 4232
+ Q==

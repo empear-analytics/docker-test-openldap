@@ -1,0 +1,13 @@
+dn: cn=Andrew+sn=Nizo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andrew Nizo
+cn: Nizo
+givenname: Andrew
+mail: andrew.nizo@planetexpress.com
+userPassword: Andrew
+ou: OtherGroup
+uid: 5426
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Meggan+sn=Sluter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Meggan Sluter
+cn: Sluter
+givenname: Meggan
+mail: meggan.sluter@planetexpress.com
+userPassword: Meggan
+ou: admin_staff
+uid: 3581
+ Q==

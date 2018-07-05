@@ -1,0 +1,13 @@
+dn: cn=Alvera+sn=Rebell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alvera Rebell
+cn: Rebell
+givenname: Alvera
+mail: alvera.rebell@planetexpress.com
+userPassword: Alvera
+ou: flight_crew
+uid: 1297
+ Q==

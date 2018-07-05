@@ -1,0 +1,13 @@
+dn: cn=Julian+sn=Mahapatra,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Julian Mahapatra
+cn: Mahapatra
+givenname: Julian
+mail: julian.mahapatra@planetexpress.com
+userPassword: Julian
+ou: Group5
+uid: 3072
+ Q==

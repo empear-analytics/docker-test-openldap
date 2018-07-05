@@ -1,0 +1,13 @@
+dn: cn=Ben+sn=Omlin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ben Omlin
+cn: Omlin
+givenname: Ben
+mail: ben.omlin@planetexpress.com
+userPassword: Ben
+ou: OtherGroup
+uid: 4162
+ Q==

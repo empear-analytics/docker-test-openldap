@@ -1,0 +1,13 @@
+dn: cn=Julietta+sn=Argudo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Julietta Argudo
+cn: Argudo
+givenname: Julietta
+mail: julietta.argudo@planetexpress.com
+userPassword: Julietta
+ou: admin_staff
+uid: 5942
+ Q==

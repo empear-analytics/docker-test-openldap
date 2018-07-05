@@ -1,0 +1,13 @@
+dn: cn=Benton+sn=Nickenberry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Benton Nickenberry
+cn: Nickenberry
+givenname: Benton
+mail: benton.nickenberry@planetexpress.com
+userPassword: Benton
+ou: admin_staff
+uid: 2156
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jacquelyn+sn=Gravlin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacquelyn Gravlin
+cn: Gravlin
+givenname: Jacquelyn
+mail: jacquelyn.gravlin@planetexpress.com
+userPassword: Jacquelyn
+ou: flight_crew
+uid: 5577
+ Q==

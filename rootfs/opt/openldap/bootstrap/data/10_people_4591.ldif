@@ -1,0 +1,13 @@
+dn: cn=Audry+sn=Piao,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Audry Piao
+cn: Piao
+givenname: Audry
+mail: audry.piao@planetexpress.com
+userPassword: Audry
+ou: Group5
+uid: 4591
+ Q==

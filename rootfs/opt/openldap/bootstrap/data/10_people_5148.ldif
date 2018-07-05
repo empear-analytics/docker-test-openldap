@@ -1,0 +1,13 @@
+dn: cn=Kay+sn=Mecannic,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kay Mecannic
+cn: Mecannic
+givenname: Kay
+mail: kay.mecannic@planetexpress.com
+userPassword: Kay
+ou: admin_staff
+uid: 5148
+ Q==

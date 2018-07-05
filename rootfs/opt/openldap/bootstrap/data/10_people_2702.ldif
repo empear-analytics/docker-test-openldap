@@ -1,0 +1,13 @@
+dn: cn=Domenic+sn=Wielgus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Domenic Wielgus
+cn: Wielgus
+givenname: Domenic
+mail: domenic.wielgus@planetexpress.com
+userPassword: Domenic
+ou: OtherGroup
+uid: 2702
+ Q==

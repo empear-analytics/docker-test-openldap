@@ -1,0 +1,13 @@
+dn: cn=Hollis+sn=Freud,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hollis Freud
+cn: Freud
+givenname: Hollis
+mail: hollis.freud@planetexpress.com
+userPassword: Hollis
+ou: OtherGroup
+uid: 4850
+ Q==

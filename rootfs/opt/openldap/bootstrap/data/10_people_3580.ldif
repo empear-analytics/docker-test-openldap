@@ -1,0 +1,13 @@
+dn: cn=Markita+sn=Baudoin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Markita Baudoin
+cn: Baudoin
+givenname: Markita
+mail: markita.baudoin@planetexpress.com
+userPassword: Markita
+ou: OtherGroup
+uid: 3580
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Shara+sn=Luikart,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shara Luikart
+cn: Luikart
+givenname: Shara
+mail: shara.luikart@planetexpress.com
+userPassword: Shara
+ou: flight_crew
+uid: 2712
+ Q==

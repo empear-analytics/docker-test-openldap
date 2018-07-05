@@ -1,0 +1,13 @@
+dn: cn=Britany+sn=Shirar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Britany Shirar
+cn: Shirar
+givenname: Britany
+mail: britany.shirar@planetexpress.com
+userPassword: Britany
+ou: flight_crew
+uid: 1993
+ Q==

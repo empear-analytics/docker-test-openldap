@@ -1,0 +1,13 @@
+dn: cn=Teodora+sn=Gobeyn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Teodora Gobeyn
+cn: Gobeyn
+givenname: Teodora
+mail: teodora.gobeyn@planetexpress.com
+userPassword: Teodora
+ou: admin_staff
+uid: 2085
+ Q==

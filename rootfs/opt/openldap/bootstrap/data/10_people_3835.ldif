@@ -1,0 +1,13 @@
+dn: cn=Ruthe+sn=Deshner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ruthe Deshner
+cn: Deshner
+givenname: Ruthe
+mail: ruthe.deshner@planetexpress.com
+userPassword: Ruthe
+ou: flight_crew
+uid: 3835
+ Q==

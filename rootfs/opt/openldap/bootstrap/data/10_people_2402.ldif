@@ -1,0 +1,13 @@
+dn: cn=Hyo+sn=Protain,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hyo Protain
+cn: Protain
+givenname: Hyo
+mail: hyo.protain@planetexpress.com
+userPassword: Hyo
+ou: flight_crew
+uid: 2402
+ Q==

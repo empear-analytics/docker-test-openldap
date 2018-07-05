@@ -1,0 +1,13 @@
+dn: cn=Wallace+sn=Stowman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wallace Stowman
+cn: Stowman
+givenname: Wallace
+mail: wallace.stowman@planetexpress.com
+userPassword: Wallace
+ou: admin_staff
+uid: 3333
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Sybil+sn=Bottini,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sybil Bottini
+cn: Bottini
+givenname: Sybil
+mail: sybil.bottini@planetexpress.com
+userPassword: Sybil
+ou: Group5
+uid: 1639
+ Q==

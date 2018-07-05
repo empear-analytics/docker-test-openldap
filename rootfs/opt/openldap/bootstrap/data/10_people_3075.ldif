@@ -1,0 +1,13 @@
+dn: cn=Ardella+sn=Leise,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ardella Leise
+cn: Leise
+givenname: Ardella
+mail: ardella.leise@planetexpress.com
+userPassword: Ardella
+ou: admin_staff
+uid: 3075
+ Q==

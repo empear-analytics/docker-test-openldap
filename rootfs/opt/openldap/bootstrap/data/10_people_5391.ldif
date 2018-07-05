@@ -1,0 +1,13 @@
+dn: cn=Nathanael+sn=Saunier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nathanael Saunier
+cn: Saunier
+givenname: Nathanael
+mail: nathanael.saunier@planetexpress.com
+userPassword: Nathanael
+ou: OtherGroup
+uid: 5391
+ Q==

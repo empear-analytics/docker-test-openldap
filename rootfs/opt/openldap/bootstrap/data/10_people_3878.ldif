@@ -1,0 +1,13 @@
+dn: cn=Annmarie+sn=Smelcer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annmarie Smelcer
+cn: Smelcer
+givenname: Annmarie
+mail: annmarie.smelcer@planetexpress.com
+userPassword: Annmarie
+ou: flight_crew
+uid: 3878
+ Q==

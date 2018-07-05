@@ -1,0 +1,13 @@
+dn: cn=Celestina+sn=Steenland,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Celestina Steenland
+cn: Steenland
+givenname: Celestina
+mail: celestina.steenland@planetexpress.com
+userPassword: Celestina
+ou: Group5
+uid: 3485
+ Q==

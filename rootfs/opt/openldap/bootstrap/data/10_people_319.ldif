@@ -1,0 +1,13 @@
+dn: cn=Nidia+sn=Vosburg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nidia Vosburg
+cn: Vosburg
+givenname: Nidia
+mail: nidia.vosburg@planetexpress.com
+userPassword: Nidia
+ou: OtherGroup
+uid: 319
+ Q==

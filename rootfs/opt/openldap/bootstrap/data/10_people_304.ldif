@@ -1,0 +1,13 @@
+dn: cn=Jannet+sn=Catterson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jannet Catterson
+cn: Catterson
+givenname: Jannet
+mail: jannet.catterson@planetexpress.com
+userPassword: Jannet
+ou: Group5
+uid: 304
+ Q==

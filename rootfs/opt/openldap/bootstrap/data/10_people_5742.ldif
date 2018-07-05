@@ -1,0 +1,13 @@
+dn: cn=Bradly+sn=Krysl,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bradly Krysl
+cn: Krysl
+givenname: Bradly
+mail: bradly.krysl@planetexpress.com
+userPassword: Bradly
+ou: flight_crew
+uid: 5742
+ Q==

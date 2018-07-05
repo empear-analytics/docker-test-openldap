@@ -1,0 +1,13 @@
+dn: cn=Eileen+sn=Beam,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eileen Beam
+cn: Beam
+givenname: Eileen
+mail: eileen.beam@planetexpress.com
+userPassword: Eileen
+ou: Group5
+uid: 73
+ Q==

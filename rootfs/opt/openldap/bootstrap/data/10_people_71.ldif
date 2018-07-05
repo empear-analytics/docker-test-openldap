@@ -1,0 +1,13 @@
+dn: cn=Kyla+sn=Marguez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kyla Marguez
+cn: Marguez
+givenname: Kyla
+mail: kyla.marguez@planetexpress.com
+userPassword: Kyla
+ou: flight_crew
+uid: 71
+ Q==

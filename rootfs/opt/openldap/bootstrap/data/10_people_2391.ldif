@@ -1,0 +1,13 @@
+dn: cn=Min+sn=Chagnon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Min Chagnon
+cn: Chagnon
+givenname: Min
+mail: min.chagnon@planetexpress.com
+userPassword: Min
+ou: OtherGroup
+uid: 2391
+ Q==

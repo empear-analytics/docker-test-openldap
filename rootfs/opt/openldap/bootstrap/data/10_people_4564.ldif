@@ -1,0 +1,13 @@
+dn: cn=Tilda+sn=Dalenberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tilda Dalenberg
+cn: Dalenberg
+givenname: Tilda
+mail: tilda.dalenberg@planetexpress.com
+userPassword: Tilda
+ou: Group5
+uid: 4564
+ Q==

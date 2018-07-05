@@ -1,0 +1,13 @@
+dn: cn=Miguelina+sn=Mugleston,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Miguelina Mugleston
+cn: Mugleston
+givenname: Miguelina
+mail: miguelina.mugleston@planetexpress.com
+userPassword: Miguelina
+ou: admin_staff
+uid: 4592
+ Q==

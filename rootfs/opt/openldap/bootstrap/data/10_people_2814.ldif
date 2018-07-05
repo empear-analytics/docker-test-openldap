@@ -1,0 +1,13 @@
+dn: cn=Jeffrey+sn=Goughnour,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeffrey Goughnour
+cn: Goughnour
+givenname: Jeffrey
+mail: jeffrey.goughnour@planetexpress.com
+userPassword: Jeffrey
+ou: OtherGroup
+uid: 2814
+ Q==

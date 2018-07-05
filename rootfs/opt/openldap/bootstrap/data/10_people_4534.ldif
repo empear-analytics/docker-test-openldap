@@ -1,0 +1,13 @@
+dn: cn=Arlean+sn=Bealer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arlean Bealer
+cn: Bealer
+givenname: Arlean
+mail: arlean.bealer@planetexpress.com
+userPassword: Arlean
+ou: OtherGroup
+uid: 4534
+ Q==

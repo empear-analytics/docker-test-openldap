@@ -1,0 +1,13 @@
+dn: cn=Zenobia+sn=Tory,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zenobia Tory
+cn: Tory
+givenname: Zenobia
+mail: zenobia.tory@planetexpress.com
+userPassword: Zenobia
+ou: OtherGroup
+uid: 5167
+ Q==

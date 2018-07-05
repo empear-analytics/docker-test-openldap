@@ -1,0 +1,13 @@
+dn: cn=Mardell+sn=Wandersee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mardell Wandersee
+cn: Wandersee
+givenname: Mardell
+mail: mardell.wandersee@planetexpress.com
+userPassword: Mardell
+ou: OtherGroup
+uid: 1223
+ Q==

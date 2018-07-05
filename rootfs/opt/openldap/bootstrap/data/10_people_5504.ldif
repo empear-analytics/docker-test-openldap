@@ -1,0 +1,13 @@
+dn: cn=Stormy+sn=Astrologo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stormy Astrologo
+cn: Astrologo
+givenname: Stormy
+mail: stormy.astrologo@planetexpress.com
+userPassword: Stormy
+ou: flight_crew
+uid: 5504
+ Q==

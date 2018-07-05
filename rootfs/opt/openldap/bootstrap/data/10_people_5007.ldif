@@ -1,0 +1,13 @@
+dn: cn=Vilma+sn=Rehmeier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vilma Rehmeier
+cn: Rehmeier
+givenname: Vilma
+mail: vilma.rehmeier@planetexpress.com
+userPassword: Vilma
+ou: OtherGroup
+uid: 5007
+ Q==

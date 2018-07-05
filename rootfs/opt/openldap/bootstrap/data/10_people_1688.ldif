@@ -1,0 +1,13 @@
+dn: cn=Shemeka+sn=Vancamp,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shemeka Vancamp
+cn: Vancamp
+givenname: Shemeka
+mail: shemeka.vancamp@planetexpress.com
+userPassword: Shemeka
+ou: Group5
+uid: 1688
+ Q==

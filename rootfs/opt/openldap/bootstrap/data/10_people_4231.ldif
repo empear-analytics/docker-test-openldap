@@ -1,0 +1,13 @@
+dn: cn=Michel+sn=Wubnig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Michel Wubnig
+cn: Wubnig
+givenname: Michel
+mail: michel.wubnig@planetexpress.com
+userPassword: Michel
+ou: admin_staff
+uid: 4231
+ Q==

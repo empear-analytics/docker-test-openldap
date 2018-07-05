@@ -1,0 +1,13 @@
+dn: cn=Margherita+sn=Hudman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margherita Hudman
+cn: Hudman
+givenname: Margherita
+mail: margherita.hudman@planetexpress.com
+userPassword: Margherita
+ou: admin_staff
+uid: 3179
+ Q==

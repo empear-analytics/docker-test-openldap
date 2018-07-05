@@ -1,0 +1,13 @@
+dn: cn=Clark+sn=Meir,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clark Meir
+cn: Meir
+givenname: Clark
+mail: clark.meir@planetexpress.com
+userPassword: Clark
+ou: admin_staff
+uid: 3097
+ Q==

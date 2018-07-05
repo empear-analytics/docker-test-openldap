@@ -1,0 +1,13 @@
+dn: cn=Kristal+sn=Souhrada,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kristal Souhrada
+cn: Souhrada
+givenname: Kristal
+mail: kristal.souhrada@planetexpress.com
+userPassword: Kristal
+ou: flight_crew
+uid: 3442
+ Q==

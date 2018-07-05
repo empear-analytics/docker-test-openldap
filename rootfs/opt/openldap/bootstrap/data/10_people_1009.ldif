@@ -1,0 +1,13 @@
+dn: cn=Suk+sn=Lippy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Suk Lippy
+cn: Lippy
+givenname: Suk
+mail: suk.lippy@planetexpress.com
+userPassword: Suk
+ou: Group5
+uid: 1009
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Claudie+sn=Viebrock,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Claudie Viebrock
+cn: Viebrock
+givenname: Claudie
+mail: claudie.viebrock@planetexpress.com
+userPassword: Claudie
+ou: Group5
+uid: 4233
+ Q==

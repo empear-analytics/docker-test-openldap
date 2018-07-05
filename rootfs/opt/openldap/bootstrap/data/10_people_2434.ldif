@@ -1,0 +1,13 @@
+dn: cn=Sergio+sn=Grenon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sergio Grenon
+cn: Grenon
+givenname: Sergio
+mail: sergio.grenon@planetexpress.com
+userPassword: Sergio
+ou: flight_crew
+uid: 2434
+ Q==

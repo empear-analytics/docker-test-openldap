@@ -1,0 +1,13 @@
+dn: cn=Wilbur+sn=Rensch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wilbur Rensch
+cn: Rensch
+givenname: Wilbur
+mail: wilbur.rensch@planetexpress.com
+userPassword: Wilbur
+ou: OtherGroup
+uid: 2127
+ Q==

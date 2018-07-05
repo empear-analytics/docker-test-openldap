@@ -1,0 +1,13 @@
+dn: cn=Quiana+sn=Gurske,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Quiana Gurske
+cn: Gurske
+givenname: Quiana
+mail: quiana.gurske@planetexpress.com
+userPassword: Quiana
+ou: admin_staff
+uid: 3604
+ Q==

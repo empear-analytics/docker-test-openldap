@@ -1,0 +1,13 @@
+dn: cn=Marcel+sn=Foister,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marcel Foister
+cn: Foister
+givenname: Marcel
+mail: marcel.foister@planetexpress.com
+userPassword: Marcel
+ou: OtherGroup
+uid: 5230
+ Q==

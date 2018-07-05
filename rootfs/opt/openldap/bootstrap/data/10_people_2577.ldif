@@ -1,0 +1,13 @@
+dn: cn=Brendon+sn=Bellis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brendon Bellis
+cn: Bellis
+givenname: Brendon
+mail: brendon.bellis@planetexpress.com
+userPassword: Brendon
+ou: admin_staff
+uid: 2577
+ Q==

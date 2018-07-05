@@ -1,0 +1,13 @@
+dn: cn=Wendell+sn=Duster,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wendell Duster
+cn: Duster
+givenname: Wendell
+mail: wendell.duster@planetexpress.com
+userPassword: Wendell
+ou: flight_crew
+uid: 161
+ Q==

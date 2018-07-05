@@ -1,0 +1,13 @@
+dn: cn=Micki+sn=Bulgarella,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Micki Bulgarella
+cn: Bulgarella
+givenname: Micki
+mail: micki.bulgarella@planetexpress.com
+userPassword: Micki
+ou: OtherGroup
+uid: 5305
+ Q==

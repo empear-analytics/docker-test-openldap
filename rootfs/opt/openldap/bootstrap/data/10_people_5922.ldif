@@ -1,0 +1,13 @@
+dn: cn=Candis+sn=Wisseman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Candis Wisseman
+cn: Wisseman
+givenname: Candis
+mail: candis.wisseman@planetexpress.com
+userPassword: Candis
+ou: admin_staff
+uid: 5922
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ines+sn=Hemmer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ines Hemmer
+cn: Hemmer
+givenname: Ines
+mail: ines.hemmer@planetexpress.com
+userPassword: Ines
+ou: OtherGroup
+uid: 2848
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Sadie+sn=Gruenes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sadie Gruenes
+cn: Gruenes
+givenname: Sadie
+mail: sadie.gruenes@planetexpress.com
+userPassword: Sadie
+ou: OtherGroup
+uid: 4034
+ Q==

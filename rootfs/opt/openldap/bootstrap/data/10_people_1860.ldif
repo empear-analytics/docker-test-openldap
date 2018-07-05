@@ -1,0 +1,13 @@
+dn: cn=Katrina+sn=Santo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katrina Santo
+cn: Santo
+givenname: Katrina
+mail: katrina.santo@planetexpress.com
+userPassword: Katrina
+ou: Group5
+uid: 1860
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Julio+sn=Pavelko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Julio Pavelko
+cn: Pavelko
+givenname: Julio
+mail: julio.pavelko@planetexpress.com
+userPassword: Julio
+ou: flight_crew
+uid: 4851
+ Q==

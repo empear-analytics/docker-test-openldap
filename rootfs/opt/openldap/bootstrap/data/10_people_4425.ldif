@@ -1,0 +1,13 @@
+dn: cn=Devorah+sn=Maull,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Devorah Maull
+cn: Maull
+givenname: Devorah
+mail: devorah.maull@planetexpress.com
+userPassword: Devorah
+ou: flight_crew
+uid: 4425
+ Q==

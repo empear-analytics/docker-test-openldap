@@ -1,0 +1,13 @@
+dn: cn=Lawana+sn=Orebaugh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lawana Orebaugh
+cn: Orebaugh
+givenname: Lawana
+mail: lawana.orebaugh@planetexpress.com
+userPassword: Lawana
+ou: Group5
+uid: 4572
+ Q==

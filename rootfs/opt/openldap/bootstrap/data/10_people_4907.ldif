@@ -1,0 +1,13 @@
+dn: cn=Sammy+sn=Fucci,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sammy Fucci
+cn: Fucci
+givenname: Sammy
+mail: sammy.fucci@planetexpress.com
+userPassword: Sammy
+ou: flight_crew
+uid: 4907
+ Q==

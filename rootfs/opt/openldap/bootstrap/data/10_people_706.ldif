@@ -1,0 +1,13 @@
+dn: cn=Jacque+sn=Lehnert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacque Lehnert
+cn: Lehnert
+givenname: Jacque
+mail: jacque.lehnert@planetexpress.com
+userPassword: Jacque
+ou: flight_crew
+uid: 706
+ Q==

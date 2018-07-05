@@ -1,0 +1,13 @@
+dn: cn=Matha+sn=Kitchenman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Matha Kitchenman
+cn: Kitchenman
+givenname: Matha
+mail: matha.kitchenman@planetexpress.com
+userPassword: Matha
+ou: OtherGroup
+uid: 896
+ Q==

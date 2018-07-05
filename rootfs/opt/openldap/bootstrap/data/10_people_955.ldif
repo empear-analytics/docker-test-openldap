@@ -1,0 +1,13 @@
+dn: cn=Wanetta+sn=Stolcals,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wanetta Stolcals
+cn: Stolcals
+givenname: Wanetta
+mail: wanetta.stolcals@planetexpress.com
+userPassword: Wanetta
+ou: OtherGroup
+uid: 955
+ Q==

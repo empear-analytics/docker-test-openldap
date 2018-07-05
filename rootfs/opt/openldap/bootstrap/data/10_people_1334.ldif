@@ -1,0 +1,13 @@
+dn: cn=Ronna+sn=Latimer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ronna Latimer
+cn: Latimer
+givenname: Ronna
+mail: ronna.latimer@planetexpress.com
+userPassword: Ronna
+ou: admin_staff
+uid: 1334
+ Q==

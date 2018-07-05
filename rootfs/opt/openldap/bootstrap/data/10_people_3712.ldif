@@ -1,0 +1,13 @@
+dn: cn=Eric+sn=Fantasia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eric Fantasia
+cn: Fantasia
+givenname: Eric
+mail: eric.fantasia@planetexpress.com
+userPassword: Eric
+ou: flight_crew
+uid: 3712
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Claudio+sn=Vazzana,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Claudio Vazzana
+cn: Vazzana
+givenname: Claudio
+mail: claudio.vazzana@planetexpress.com
+userPassword: Claudio
+ou: admin_staff
+uid: 885
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tisa+sn=Nath,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tisa Nath
+cn: Nath
+givenname: Tisa
+mail: tisa.nath@planetexpress.com
+userPassword: Tisa
+ou: OtherGroup
+uid: 3812
+ Q==

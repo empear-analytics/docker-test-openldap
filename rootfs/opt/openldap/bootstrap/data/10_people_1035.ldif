@@ -1,0 +1,13 @@
+dn: cn=Marceline+sn=Messana,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marceline Messana
+cn: Messana
+givenname: Marceline
+mail: marceline.messana@planetexpress.com
+userPassword: Marceline
+ou: admin_staff
+uid: 1035
+ Q==

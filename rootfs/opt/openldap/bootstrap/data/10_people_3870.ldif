@@ -1,0 +1,13 @@
+dn: cn=Cherie+sn=Kaschak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cherie Kaschak
+cn: Kaschak
+givenname: Cherie
+mail: cherie.kaschak@planetexpress.com
+userPassword: Cherie
+ou: Group5
+uid: 3870
+ Q==

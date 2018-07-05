@@ -1,0 +1,13 @@
+dn: cn=Hipolito+sn=Holstein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hipolito Holstein
+cn: Holstein
+givenname: Hipolito
+mail: hipolito.holstein@planetexpress.com
+userPassword: Hipolito
+ou: OtherGroup
+uid: 5945
+ Q==

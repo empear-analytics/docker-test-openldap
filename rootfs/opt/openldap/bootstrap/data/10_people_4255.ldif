@@ -1,0 +1,13 @@
+dn: cn=Kandace+sn=Hovda,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kandace Hovda
+cn: Hovda
+givenname: Kandace
+mail: kandace.hovda@planetexpress.com
+userPassword: Kandace
+ou: OtherGroup
+uid: 4255
+ Q==

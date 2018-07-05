@@ -1,0 +1,13 @@
+dn: cn=Senaida+sn=Belshaw,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Senaida Belshaw
+cn: Belshaw
+givenname: Senaida
+mail: senaida.belshaw@planetexpress.com
+userPassword: Senaida
+ou: Group5
+uid: 239
+ Q==

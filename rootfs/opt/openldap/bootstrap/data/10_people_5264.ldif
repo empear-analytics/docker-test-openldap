@@ -1,0 +1,13 @@
+dn: cn=Cordie+sn=Glazewski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cordie Glazewski
+cn: Glazewski
+givenname: Cordie
+mail: cordie.glazewski@planetexpress.com
+userPassword: Cordie
+ou: admin_staff
+uid: 5264
+ Q==

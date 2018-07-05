@@ -1,0 +1,13 @@
+dn: cn=Lupita+sn=Cottew,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lupita Cottew
+cn: Cottew
+givenname: Lupita
+mail: lupita.cottew@planetexpress.com
+userPassword: Lupita
+ou: Group5
+uid: 3556
+ Q==

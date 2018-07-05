@@ -1,0 +1,13 @@
+dn: cn=Dawna+sn=Talk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dawna Talk
+cn: Talk
+givenname: Dawna
+mail: dawna.talk@planetexpress.com
+userPassword: Dawna
+ou: flight_crew
+uid: 424
+ Q==

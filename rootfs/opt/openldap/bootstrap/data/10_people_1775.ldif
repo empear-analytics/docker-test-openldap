@@ -1,0 +1,13 @@
+dn: cn=Preston+sn=Conch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Preston Conch
+cn: Conch
+givenname: Preston
+mail: preston.conch@planetexpress.com
+userPassword: Preston
+ou: Group5
+uid: 1775
+ Q==

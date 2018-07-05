@@ -1,0 +1,13 @@
+dn: cn=Talia+sn=Kamps,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Talia Kamps
+cn: Kamps
+givenname: Talia
+mail: talia.kamps@planetexpress.com
+userPassword: Talia
+ou: flight_crew
+uid: 5462
+ Q==

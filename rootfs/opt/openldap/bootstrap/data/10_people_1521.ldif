@@ -1,0 +1,13 @@
+dn: cn=Nannette+sn=Kaza,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nannette Kaza
+cn: Kaza
+givenname: Nannette
+mail: nannette.kaza@planetexpress.com
+userPassword: Nannette
+ou: admin_staff
+uid: 1521
+ Q==

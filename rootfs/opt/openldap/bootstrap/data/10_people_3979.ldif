@@ -1,0 +1,13 @@
+dn: cn=Jenine+sn=Havatone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jenine Havatone
+cn: Havatone
+givenname: Jenine
+mail: jenine.havatone@planetexpress.com
+userPassword: Jenine
+ou: admin_staff
+uid: 3979
+ Q==

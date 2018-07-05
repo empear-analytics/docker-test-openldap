@@ -1,0 +1,13 @@
+dn: cn=Elba+sn=Langbein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elba Langbein
+cn: Langbein
+givenname: Elba
+mail: elba.langbein@planetexpress.com
+userPassword: Elba
+ou: flight_crew
+uid: 545
+ Q==

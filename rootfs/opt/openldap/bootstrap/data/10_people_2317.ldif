@@ -1,0 +1,13 @@
+dn: cn=Marlo+sn=Thuman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marlo Thuman
+cn: Thuman
+givenname: Marlo
+mail: marlo.thuman@planetexpress.com
+userPassword: Marlo
+ou: flight_crew
+uid: 2317
+ Q==

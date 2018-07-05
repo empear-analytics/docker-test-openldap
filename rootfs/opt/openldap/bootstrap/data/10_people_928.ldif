@@ -1,0 +1,13 @@
+dn: cn=Velvet+sn=Moster,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Velvet Moster
+cn: Moster
+givenname: Velvet
+mail: velvet.moster@planetexpress.com
+userPassword: Velvet
+ou: OtherGroup
+uid: 928
+ Q==

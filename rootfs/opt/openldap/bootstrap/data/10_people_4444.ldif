@@ -1,0 +1,13 @@
+dn: cn=Tyesha+sn=Embree,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tyesha Embree
+cn: Embree
+givenname: Tyesha
+mail: tyesha.embree@planetexpress.com
+userPassword: Tyesha
+ou: Group5
+uid: 4444
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Junior+sn=Mccandles,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Junior Mccandles
+cn: Mccandles
+givenname: Junior
+mail: junior.mccandles@planetexpress.com
+userPassword: Junior
+ou: flight_crew
+uid: 3962
+ Q==

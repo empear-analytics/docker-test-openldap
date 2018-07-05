@@ -1,0 +1,13 @@
+dn: cn=Albert+sn=Icenogle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Albert Icenogle
+cn: Icenogle
+givenname: Albert
+mail: albert.icenogle@planetexpress.com
+userPassword: Albert
+ou: admin_staff
+uid: 652
+ Q==

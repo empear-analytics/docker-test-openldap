@@ -1,0 +1,13 @@
+dn: cn=Clint+sn=Amous,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clint Amous
+cn: Amous
+givenname: Clint
+mail: clint.amous@planetexpress.com
+userPassword: Clint
+ou: flight_crew
+uid: 5457
+ Q==

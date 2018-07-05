@@ -1,0 +1,13 @@
+dn: cn=Cecile+sn=Trebbe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cecile Trebbe
+cn: Trebbe
+givenname: Cecile
+mail: cecile.trebbe@planetexpress.com
+userPassword: Cecile
+ou: flight_crew
+uid: 4623
+ Q==

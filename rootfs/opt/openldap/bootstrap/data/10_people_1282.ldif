@@ -1,0 +1,13 @@
+dn: cn=Classie+sn=Dralle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Classie Dralle
+cn: Dralle
+givenname: Classie
+mail: classie.dralle@planetexpress.com
+userPassword: Classie
+ou: admin_staff
+uid: 1282
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Stuart+sn=Broekemeier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stuart Broekemeier
+cn: Broekemeier
+givenname: Stuart
+mail: stuart.broekemeier@planetexpress.com
+userPassword: Stuart
+ou: OtherGroup
+uid: 2332
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kymberly+sn=Demere,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kymberly Demere
+cn: Demere
+givenname: Kymberly
+mail: kymberly.demere@planetexpress.com
+userPassword: Kymberly
+ou: OtherGroup
+uid: 4278
+ Q==

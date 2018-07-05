@@ -1,0 +1,13 @@
+dn: cn=Mariam+sn=Casmore,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mariam Casmore
+cn: Casmore
+givenname: Mariam
+mail: mariam.casmore@planetexpress.com
+userPassword: Mariam
+ou: Group5
+uid: 4957
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Leon+sn=Ritzer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leon Ritzer
+cn: Ritzer
+givenname: Leon
+mail: leon.ritzer@planetexpress.com
+userPassword: Leon
+ou: Group5
+uid: 297
+ Q==

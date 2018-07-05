@@ -1,0 +1,13 @@
+dn: cn=Dalia+sn=Coan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dalia Coan
+cn: Coan
+givenname: Dalia
+mail: dalia.coan@planetexpress.com
+userPassword: Dalia
+ou: flight_crew
+uid: 1597
+ Q==

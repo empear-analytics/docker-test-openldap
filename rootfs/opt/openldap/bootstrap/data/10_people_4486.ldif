@@ -1,0 +1,13 @@
+dn: cn=September+sn=Fulwood,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: September Fulwood
+cn: Fulwood
+givenname: September
+mail: september.fulwood@planetexpress.com
+userPassword: September
+ou: admin_staff
+uid: 4486
+ Q==

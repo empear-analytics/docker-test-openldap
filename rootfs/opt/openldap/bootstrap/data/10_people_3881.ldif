@@ -1,0 +1,13 @@
+dn: cn=Teresita+sn=Morganti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Teresita Morganti
+cn: Morganti
+givenname: Teresita
+mail: teresita.morganti@planetexpress.com
+userPassword: Teresita
+ou: Group5
+uid: 3881
+ Q==

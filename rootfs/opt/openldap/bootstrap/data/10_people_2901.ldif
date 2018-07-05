@@ -1,0 +1,13 @@
+dn: cn=Ethel+sn=Cothran,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ethel Cothran
+cn: Cothran
+givenname: Ethel
+mail: ethel.cothran@planetexpress.com
+userPassword: Ethel
+ou: OtherGroup
+uid: 2901
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Cody+sn=Grollimund,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cody Grollimund
+cn: Grollimund
+givenname: Cody
+mail: cody.grollimund@planetexpress.com
+userPassword: Cody
+ou: Group5
+uid: 967
+ Q==

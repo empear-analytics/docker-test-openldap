@@ -1,0 +1,13 @@
+dn: cn=Mira+sn=Evasco,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mira Evasco
+cn: Evasco
+givenname: Mira
+mail: mira.evasco@planetexpress.com
+userPassword: Mira
+ou: Group5
+uid: 1364
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Stacia+sn=Agron,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stacia Agron
+cn: Agron
+givenname: Stacia
+mail: stacia.agron@planetexpress.com
+userPassword: Stacia
+ou: admin_staff
+uid: 1842
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Qiana+sn=Solinski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Qiana Solinski
+cn: Solinski
+givenname: Qiana
+mail: qiana.solinski@planetexpress.com
+userPassword: Qiana
+ou: flight_crew
+uid: 683
+ Q==

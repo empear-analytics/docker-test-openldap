@@ -1,0 +1,13 @@
+dn: cn=Anna+sn=Bridge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anna Bridge
+cn: Bridge
+givenname: Anna
+mail: anna.bridge@planetexpress.com
+userPassword: Anna
+ou: admin_staff
+uid: 232
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Edward+sn=Nardella,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edward Nardella
+cn: Nardella
+givenname: Edward
+mail: edward.nardella@planetexpress.com
+userPassword: Edward
+ou: Group5
+uid: 8
+ Q==

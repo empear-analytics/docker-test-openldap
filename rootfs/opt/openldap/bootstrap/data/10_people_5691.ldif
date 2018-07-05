@@ -1,0 +1,13 @@
+dn: cn=Jonie+sn=Perschall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jonie Perschall
+cn: Perschall
+givenname: Jonie
+mail: jonie.perschall@planetexpress.com
+userPassword: Jonie
+ou: OtherGroup
+uid: 5691
+ Q==

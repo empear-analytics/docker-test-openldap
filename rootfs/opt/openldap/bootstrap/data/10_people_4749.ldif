@@ -1,0 +1,13 @@
+dn: cn=Ebony+sn=Holets,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ebony Holets
+cn: Holets
+givenname: Ebony
+mail: ebony.holets@planetexpress.com
+userPassword: Ebony
+ou: admin_staff
+uid: 4749
+ Q==

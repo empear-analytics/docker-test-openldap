@@ -1,0 +1,13 @@
+dn: cn=Jorge+sn=Liff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jorge Liff
+cn: Liff
+givenname: Jorge
+mail: jorge.liff@planetexpress.com
+userPassword: Jorge
+ou: admin_staff
+uid: 4609
+ Q==

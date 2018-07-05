@@ -1,0 +1,13 @@
+dn: cn=Alfonzo+sn=Nimox,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alfonzo Nimox
+cn: Nimox
+givenname: Alfonzo
+mail: alfonzo.nimox@planetexpress.com
+userPassword: Alfonzo
+ou: admin_staff
+uid: 3422
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Naoma+sn=Fegles,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Naoma Fegles
+cn: Fegles
+givenname: Naoma
+mail: naoma.fegles@planetexpress.com
+userPassword: Naoma
+ou: admin_staff
+uid: 3248
+ Q==

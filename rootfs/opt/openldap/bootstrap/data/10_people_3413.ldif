@@ -1,0 +1,13 @@
+dn: cn=Nina+sn=Tolman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nina Tolman
+cn: Tolman
+givenname: Nina
+mail: nina.tolman@planetexpress.com
+userPassword: Nina
+ou: OtherGroup
+uid: 3413
+ Q==

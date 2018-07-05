@@ -1,0 +1,13 @@
+dn: cn=Johnnie+sn=Celia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Johnnie Celia
+cn: Celia
+givenname: Johnnie
+mail: johnnie.celia@planetexpress.com
+userPassword: Johnnie
+ou: Group5
+uid: 3594
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Apolonia+sn=Poma,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Apolonia Poma
+cn: Poma
+givenname: Apolonia
+mail: apolonia.poma@planetexpress.com
+userPassword: Apolonia
+ou: admin_staff
+uid: 2326
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Emilee+sn=Scavuzzo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emilee Scavuzzo
+cn: Scavuzzo
+givenname: Emilee
+mail: emilee.scavuzzo@planetexpress.com
+userPassword: Emilee
+ou: Group5
+uid: 5041
+ Q==

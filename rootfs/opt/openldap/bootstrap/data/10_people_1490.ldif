@@ -1,0 +1,13 @@
+dn: cn=Nestor+sn=Zayas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nestor Zayas
+cn: Zayas
+givenname: Nestor
+mail: nestor.zayas@planetexpress.com
+userPassword: Nestor
+ou: admin_staff
+uid: 1490
+ Q==

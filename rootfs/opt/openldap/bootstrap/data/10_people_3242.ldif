@@ -1,0 +1,13 @@
+dn: cn=Hien+sn=Rosseter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hien Rosseter
+cn: Rosseter
+givenname: Hien
+mail: hien.rosseter@planetexpress.com
+userPassword: Hien
+ou: Group5
+uid: 3242
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Maynard+sn=Urion,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maynard Urion
+cn: Urion
+givenname: Maynard
+mail: maynard.urion@planetexpress.com
+userPassword: Maynard
+ou: Group5
+uid: 3289
+ Q==

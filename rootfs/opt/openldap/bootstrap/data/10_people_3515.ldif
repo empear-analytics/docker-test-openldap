@@ -1,0 +1,13 @@
+dn: cn=Genesis+sn=Das,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Genesis Das
+cn: Das
+givenname: Genesis
+mail: genesis.das@planetexpress.com
+userPassword: Genesis
+ou: flight_crew
+uid: 3515
+ Q==

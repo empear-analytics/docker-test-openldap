@@ -1,0 +1,13 @@
+dn: cn=Bea+sn=Bowthorpe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bea Bowthorpe
+cn: Bowthorpe
+givenname: Bea
+mail: bea.bowthorpe@planetexpress.com
+userPassword: Bea
+ou: flight_crew
+uid: 378
+ Q==

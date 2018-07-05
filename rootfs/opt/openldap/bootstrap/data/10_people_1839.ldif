@@ -1,0 +1,13 @@
+dn: cn=Leeann+sn=Kohrman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leeann Kohrman
+cn: Kohrman
+givenname: Leeann
+mail: leeann.kohrman@planetexpress.com
+userPassword: Leeann
+ou: flight_crew
+uid: 1839
+ Q==

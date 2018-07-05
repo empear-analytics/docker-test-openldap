@@ -1,0 +1,13 @@
+dn: cn=Davina+sn=Tovrea,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Davina Tovrea
+cn: Tovrea
+givenname: Davina
+mail: davina.tovrea@planetexpress.com
+userPassword: Davina
+ou: OtherGroup
+uid: 2643
+ Q==

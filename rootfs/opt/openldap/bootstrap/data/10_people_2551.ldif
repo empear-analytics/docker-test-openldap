@@ -1,0 +1,13 @@
+dn: cn=Raye+sn=Bible,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raye Bible
+cn: Bible
+givenname: Raye
+mail: raye.bible@planetexpress.com
+userPassword: Raye
+ou: Group5
+uid: 2551
+ Q==

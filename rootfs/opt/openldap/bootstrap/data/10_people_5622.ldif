@@ -1,0 +1,13 @@
+dn: cn=Selina+sn=Benfield,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Selina Benfield
+cn: Benfield
+givenname: Selina
+mail: selina.benfield@planetexpress.com
+userPassword: Selina
+ou: OtherGroup
+uid: 5622
+ Q==

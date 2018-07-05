@@ -1,0 +1,13 @@
+dn: cn=Burt+sn=Vanelderen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Burt Vanelderen
+cn: Vanelderen
+givenname: Burt
+mail: burt.vanelderen@planetexpress.com
+userPassword: Burt
+ou: flight_crew
+uid: 4275
+ Q==

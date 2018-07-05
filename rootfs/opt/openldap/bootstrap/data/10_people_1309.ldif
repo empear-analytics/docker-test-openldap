@@ -1,0 +1,13 @@
+dn: cn=Morris+sn=Bourbois,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Morris Bourbois
+cn: Bourbois
+givenname: Morris
+mail: morris.bourbois@planetexpress.com
+userPassword: Morris
+ou: Group5
+uid: 1309
+ Q==

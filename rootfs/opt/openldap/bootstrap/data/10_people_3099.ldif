@@ -1,0 +1,13 @@
+dn: cn=Laverne+sn=Bellinghausen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Laverne Bellinghausen
+cn: Bellinghausen
+givenname: Laverne
+mail: laverne.bellinghausen@planetexpress.com
+userPassword: Laverne
+ou: Group5
+uid: 3099
+ Q==

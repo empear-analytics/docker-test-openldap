@@ -1,0 +1,13 @@
+dn: cn=Ashton+sn=Petanick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ashton Petanick
+cn: Petanick
+givenname: Ashton
+mail: ashton.petanick@planetexpress.com
+userPassword: Ashton
+ou: Group5
+uid: 5739
+ Q==

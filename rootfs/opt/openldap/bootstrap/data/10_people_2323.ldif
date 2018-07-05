@@ -1,0 +1,13 @@
+dn: cn=Keena+sn=Alcon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keena Alcon
+cn: Alcon
+givenname: Keena
+mail: keena.alcon@planetexpress.com
+userPassword: Keena
+ou: admin_staff
+uid: 2323
+ Q==

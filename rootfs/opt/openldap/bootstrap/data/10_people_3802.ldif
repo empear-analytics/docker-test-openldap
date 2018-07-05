@@ -1,0 +1,13 @@
+dn: cn=Jerry+sn=Meinershagen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jerry Meinershagen
+cn: Meinershagen
+givenname: Jerry
+mail: jerry.meinershagen@planetexpress.com
+userPassword: Jerry
+ou: flight_crew
+uid: 3802
+ Q==

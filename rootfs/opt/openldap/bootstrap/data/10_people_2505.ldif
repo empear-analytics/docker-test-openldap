@@ -1,0 +1,13 @@
+dn: cn=Yoshie+sn=Kytle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yoshie Kytle
+cn: Kytle
+givenname: Yoshie
+mail: yoshie.kytle@planetexpress.com
+userPassword: Yoshie
+ou: admin_staff
+uid: 2505
+ Q==

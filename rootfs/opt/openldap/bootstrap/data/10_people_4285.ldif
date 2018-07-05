@@ -1,0 +1,13 @@
+dn: cn=Jerrica+sn=Krupicka,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jerrica Krupicka
+cn: Krupicka
+givenname: Jerrica
+mail: jerrica.krupicka@planetexpress.com
+userPassword: Jerrica
+ou: flight_crew
+uid: 4285
+ Q==

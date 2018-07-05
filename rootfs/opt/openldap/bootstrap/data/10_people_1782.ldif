@@ -1,0 +1,13 @@
+dn: cn=Marlyn+sn=Zygmont,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marlyn Zygmont
+cn: Zygmont
+givenname: Marlyn
+mail: marlyn.zygmont@planetexpress.com
+userPassword: Marlyn
+ou: OtherGroup
+uid: 1782
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Myung+sn=Billotti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Myung Billotti
+cn: Billotti
+givenname: Myung
+mail: myung.billotti@planetexpress.com
+userPassword: Myung
+ou: Group5
+uid: 660
+ Q==

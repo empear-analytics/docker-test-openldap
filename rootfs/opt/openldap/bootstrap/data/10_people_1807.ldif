@@ -1,0 +1,13 @@
+dn: cn=Heather+sn=Keaty,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Heather Keaty
+cn: Keaty
+givenname: Heather
+mail: heather.keaty@planetexpress.com
+userPassword: Heather
+ou: Group5
+uid: 1807
+ Q==

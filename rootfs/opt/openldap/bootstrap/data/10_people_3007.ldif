@@ -1,0 +1,13 @@
+dn: cn=Tiffiny+sn=Francoise,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tiffiny Francoise
+cn: Francoise
+givenname: Tiffiny
+mail: tiffiny.francoise@planetexpress.com
+userPassword: Tiffiny
+ou: Group5
+uid: 3007
+ Q==

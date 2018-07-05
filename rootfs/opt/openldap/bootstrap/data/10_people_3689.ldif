@@ -1,0 +1,13 @@
+dn: cn=Charlie+sn=Dininger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charlie Dininger
+cn: Dininger
+givenname: Charlie
+mail: charlie.dininger@planetexpress.com
+userPassword: Charlie
+ou: Group5
+uid: 3689
+ Q==

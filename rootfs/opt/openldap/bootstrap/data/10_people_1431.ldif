@@ -1,0 +1,13 @@
+dn: cn=Teofila+sn=Aubuchon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Teofila Aubuchon
+cn: Aubuchon
+givenname: Teofila
+mail: teofila.aubuchon@planetexpress.com
+userPassword: Teofila
+ou: admin_staff
+uid: 1431
+ Q==

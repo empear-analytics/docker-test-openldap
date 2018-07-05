@@ -1,0 +1,13 @@
+dn: cn=Susan+sn=Woltman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Susan Woltman
+cn: Woltman
+givenname: Susan
+mail: susan.woltman@planetexpress.com
+userPassword: Susan
+ou: flight_crew
+uid: 2230
+ Q==

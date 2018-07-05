@@ -1,0 +1,13 @@
+dn: cn=Mattie+sn=Olenick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mattie Olenick
+cn: Olenick
+givenname: Mattie
+mail: mattie.olenick@planetexpress.com
+userPassword: Mattie
+ou: flight_crew
+uid: 5609
+ Q==

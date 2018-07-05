@@ -1,0 +1,13 @@
+dn: cn=Adolph+sn=Holmberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adolph Holmberg
+cn: Holmberg
+givenname: Adolph
+mail: adolph.holmberg@planetexpress.com
+userPassword: Adolph
+ou: flight_crew
+uid: 4189
+ Q==

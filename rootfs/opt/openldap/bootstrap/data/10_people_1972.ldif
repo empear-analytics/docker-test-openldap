@@ -1,0 +1,13 @@
+dn: cn=Sheldon+sn=Riviezzo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sheldon Riviezzo
+cn: Riviezzo
+givenname: Sheldon
+mail: sheldon.riviezzo@planetexpress.com
+userPassword: Sheldon
+ou: admin_staff
+uid: 1972
+ Q==

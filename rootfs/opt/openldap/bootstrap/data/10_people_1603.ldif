@@ -1,0 +1,13 @@
+dn: cn=Bettye+sn=Kindler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bettye Kindler
+cn: Kindler
+givenname: Bettye
+mail: bettye.kindler@planetexpress.com
+userPassword: Bettye
+ou: OtherGroup
+uid: 1603
+ Q==

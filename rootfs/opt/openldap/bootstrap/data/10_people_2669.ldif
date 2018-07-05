@@ -1,0 +1,13 @@
+dn: cn=Jovita+sn=Chipps,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jovita Chipps
+cn: Chipps
+givenname: Jovita
+mail: jovita.chipps@planetexpress.com
+userPassword: Jovita
+ou: flight_crew
+uid: 2669
+ Q==

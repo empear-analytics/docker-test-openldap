@@ -1,0 +1,13 @@
+dn: cn=Grazyna+sn=Lebaron,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Grazyna Lebaron
+cn: Lebaron
+givenname: Grazyna
+mail: grazyna.lebaron@planetexpress.com
+userPassword: Grazyna
+ou: admin_staff
+uid: 2218
+ Q==

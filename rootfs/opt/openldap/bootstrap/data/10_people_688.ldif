@@ -1,0 +1,13 @@
+dn: cn=Reynaldo+sn=Mcdonnall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reynaldo Mcdonnall
+cn: Mcdonnall
+givenname: Reynaldo
+mail: reynaldo.mcdonnall@planetexpress.com
+userPassword: Reynaldo
+ou: admin_staff
+uid: 688
+ Q==

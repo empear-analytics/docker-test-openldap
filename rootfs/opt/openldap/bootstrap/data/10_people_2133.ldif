@@ -1,0 +1,13 @@
+dn: cn=Marivel+sn=Maccarino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marivel Maccarino
+cn: Maccarino
+givenname: Marivel
+mail: marivel.maccarino@planetexpress.com
+userPassword: Marivel
+ou: admin_staff
+uid: 2133
+ Q==

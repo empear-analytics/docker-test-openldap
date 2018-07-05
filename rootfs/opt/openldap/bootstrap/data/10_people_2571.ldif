@@ -1,0 +1,13 @@
+dn: cn=Jeri+sn=Puskar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeri Puskar
+cn: Puskar
+givenname: Jeri
+mail: jeri.puskar@planetexpress.com
+userPassword: Jeri
+ou: OtherGroup
+uid: 2571
+ Q==

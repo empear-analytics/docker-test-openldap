@@ -1,0 +1,13 @@
+dn: cn=Violette+sn=Rahe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Violette Rahe
+cn: Rahe
+givenname: Violette
+mail: violette.rahe@planetexpress.com
+userPassword: Violette
+ou: admin_staff
+uid: 1565
+ Q==

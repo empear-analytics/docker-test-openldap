@@ -1,0 +1,13 @@
+dn: cn=Stepanie+sn=Montante,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stepanie Montante
+cn: Montante
+givenname: Stepanie
+mail: stepanie.montante@planetexpress.com
+userPassword: Stepanie
+ou: admin_staff
+uid: 4077
+ Q==

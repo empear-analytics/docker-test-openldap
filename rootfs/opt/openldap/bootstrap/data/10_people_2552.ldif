@@ -1,0 +1,13 @@
+dn: cn=Jonnie+sn=Chaco,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jonnie Chaco
+cn: Chaco
+givenname: Jonnie
+mail: jonnie.chaco@planetexpress.com
+userPassword: Jonnie
+ou: flight_crew
+uid: 2552
+ Q==

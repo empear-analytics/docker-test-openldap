@@ -1,0 +1,13 @@
+dn: cn=Thomas+sn=Sippy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thomas Sippy
+cn: Sippy
+givenname: Thomas
+mail: thomas.sippy@planetexpress.com
+userPassword: Thomas
+ou: OtherGroup
+uid: 523
+ Q==

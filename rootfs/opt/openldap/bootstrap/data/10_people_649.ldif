@@ -1,0 +1,13 @@
+dn: cn=Louann+sn=Zubrzycki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Louann Zubrzycki
+cn: Zubrzycki
+givenname: Louann
+mail: louann.zubrzycki@planetexpress.com
+userPassword: Louann
+ou: Group5
+uid: 649
+ Q==

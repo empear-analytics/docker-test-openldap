@@ -1,0 +1,13 @@
+dn: cn=Nelle+sn=Heiler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nelle Heiler
+cn: Heiler
+givenname: Nelle
+mail: nelle.heiler@planetexpress.com
+userPassword: Nelle
+ou: Group5
+uid: 5131
+ Q==

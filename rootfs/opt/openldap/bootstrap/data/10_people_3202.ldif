@@ -1,0 +1,13 @@
+dn: cn=Mariko+sn=Brumlow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mariko Brumlow
+cn: Brumlow
+givenname: Mariko
+mail: mariko.brumlow@planetexpress.com
+userPassword: Mariko
+ou: OtherGroup
+uid: 3202
+ Q==

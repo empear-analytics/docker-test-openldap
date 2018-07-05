@@ -1,0 +1,13 @@
+dn: cn=Cordelia+sn=Haq,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cordelia Haq
+cn: Haq
+givenname: Cordelia
+mail: cordelia.haq@planetexpress.com
+userPassword: Cordelia
+ou: Group5
+uid: 1801
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tiffiny+sn=Guarnieri,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tiffiny Guarnieri
+cn: Guarnieri
+givenname: Tiffiny
+mail: tiffiny.guarnieri@planetexpress.com
+userPassword: Tiffiny
+ou: Group5
+uid: 4158
+ Q==

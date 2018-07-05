@@ -1,0 +1,13 @@
+dn: cn=Josh+sn=Laubhan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Josh Laubhan
+cn: Laubhan
+givenname: Josh
+mail: josh.laubhan@planetexpress.com
+userPassword: Josh
+ou: OtherGroup
+uid: 1494
+ Q==

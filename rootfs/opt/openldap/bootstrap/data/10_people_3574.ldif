@@ -1,0 +1,13 @@
+dn: cn=Alexander+sn=Genera,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alexander Genera
+cn: Genera
+givenname: Alexander
+mail: alexander.genera@planetexpress.com
+userPassword: Alexander
+ou: OtherGroup
+uid: 3574
+ Q==

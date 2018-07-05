@@ -1,0 +1,13 @@
+dn: cn=Junko+sn=Abkemeier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Junko Abkemeier
+cn: Abkemeier
+givenname: Junko
+mail: junko.abkemeier@planetexpress.com
+userPassword: Junko
+ou: flight_crew
+uid: 2496
+ Q==

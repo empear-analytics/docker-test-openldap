@@ -1,0 +1,13 @@
+dn: cn=Harold+sn=Lazo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Harold Lazo
+cn: Lazo
+givenname: Harold
+mail: harold.lazo@planetexpress.com
+userPassword: Harold
+ou: admin_staff
+uid: 3784
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Mabel+sn=Lancia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mabel Lancia
+cn: Lancia
+givenname: Mabel
+mail: mabel.lancia@planetexpress.com
+userPassword: Mabel
+ou: admin_staff
+uid: 4174
+ Q==

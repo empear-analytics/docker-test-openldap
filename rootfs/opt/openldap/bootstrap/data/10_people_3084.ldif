@@ -1,0 +1,13 @@
+dn: cn=Keith+sn=Briese,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keith Briese
+cn: Briese
+givenname: Keith
+mail: keith.briese@planetexpress.com
+userPassword: Keith
+ou: OtherGroup
+uid: 3084
+ Q==

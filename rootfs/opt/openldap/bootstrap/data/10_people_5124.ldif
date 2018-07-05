@@ -1,0 +1,13 @@
+dn: cn=Lyla+sn=Sieverding,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lyla Sieverding
+cn: Sieverding
+givenname: Lyla
+mail: lyla.sieverding@planetexpress.com
+userPassword: Lyla
+ou: flight_crew
+uid: 5124
+ Q==

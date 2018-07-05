@@ -1,0 +1,13 @@
+dn: cn=Iris+sn=Calhaun,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Iris Calhaun
+cn: Calhaun
+givenname: Iris
+mail: iris.calhaun@planetexpress.com
+userPassword: Iris
+ou: Group5
+uid: 1572
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Myron+sn=Rolston,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Myron Rolston
+cn: Rolston
+givenname: Myron
+mail: myron.rolston@planetexpress.com
+userPassword: Myron
+ou: Group5
+uid: 2961
+ Q==

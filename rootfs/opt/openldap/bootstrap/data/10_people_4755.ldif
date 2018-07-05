@@ -1,0 +1,13 @@
+dn: cn=Ashlie+sn=Regalado,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ashlie Regalado
+cn: Regalado
+givenname: Ashlie
+mail: ashlie.regalado@planetexpress.com
+userPassword: Ashlie
+ou: Group5
+uid: 4755
+ Q==

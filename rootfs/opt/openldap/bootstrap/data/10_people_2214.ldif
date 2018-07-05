@@ -1,0 +1,13 @@
+dn: cn=Felicitas+sn=Kirklin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Felicitas Kirklin
+cn: Kirklin
+givenname: Felicitas
+mail: felicitas.kirklin@planetexpress.com
+userPassword: Felicitas
+ou: OtherGroup
+uid: 2214
+ Q==

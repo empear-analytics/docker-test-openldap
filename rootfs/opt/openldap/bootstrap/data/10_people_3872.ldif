@@ -1,0 +1,13 @@
+dn: cn=Michal+sn=Hogelin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Michal Hogelin
+cn: Hogelin
+givenname: Michal
+mail: michal.hogelin@planetexpress.com
+userPassword: Michal
+ou: flight_crew
+uid: 3872
+ Q==

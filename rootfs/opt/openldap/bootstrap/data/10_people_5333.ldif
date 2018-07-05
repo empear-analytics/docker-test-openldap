@@ -1,0 +1,13 @@
+dn: cn=Trisha+sn=Vandeweert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Trisha Vandeweert
+cn: Vandeweert
+givenname: Trisha
+mail: trisha.vandeweert@planetexpress.com
+userPassword: Trisha
+ou: flight_crew
+uid: 5333
+ Q==

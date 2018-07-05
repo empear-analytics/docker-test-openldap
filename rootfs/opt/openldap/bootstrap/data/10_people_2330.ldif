@@ -1,0 +1,13 @@
+dn: cn=Tonie+sn=Wiswell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tonie Wiswell
+cn: Wiswell
+givenname: Tonie
+mail: tonie.wiswell@planetexpress.com
+userPassword: Tonie
+ou: admin_staff
+uid: 2330
+ Q==

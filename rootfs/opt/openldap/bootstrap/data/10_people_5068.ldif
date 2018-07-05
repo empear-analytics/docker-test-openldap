@@ -1,0 +1,13 @@
+dn: cn=Fae+sn=Davel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fae Davel
+cn: Davel
+givenname: Fae
+mail: fae.davel@planetexpress.com
+userPassword: Fae
+ou: flight_crew
+uid: 5068
+ Q==

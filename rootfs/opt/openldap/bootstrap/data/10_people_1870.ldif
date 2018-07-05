@@ -1,0 +1,13 @@
+dn: cn=Clelia+sn=Talvy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clelia Talvy
+cn: Talvy
+givenname: Clelia
+mail: clelia.talvy@planetexpress.com
+userPassword: Clelia
+ou: Group5
+uid: 1870
+ Q==

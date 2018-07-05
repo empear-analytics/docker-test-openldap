@@ -1,0 +1,13 @@
+dn: cn=Christi+sn=Posa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christi Posa
+cn: Posa
+givenname: Christi
+mail: christi.posa@planetexpress.com
+userPassword: Christi
+ou: flight_crew
+uid: 3509
+ Q==

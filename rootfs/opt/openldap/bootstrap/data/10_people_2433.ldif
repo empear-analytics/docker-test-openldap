@@ -1,0 +1,13 @@
+dn: cn=Oneida+sn=Keck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Oneida Keck
+cn: Keck
+givenname: Oneida
+mail: oneida.keck@planetexpress.com
+userPassword: Oneida
+ou: OtherGroup
+uid: 2433
+ Q==

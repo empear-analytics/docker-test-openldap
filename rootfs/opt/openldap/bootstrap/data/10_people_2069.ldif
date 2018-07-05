@@ -1,0 +1,13 @@
+dn: cn=Oneida+sn=Nungesser,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Oneida Nungesser
+cn: Nungesser
+givenname: Oneida
+mail: oneida.nungesser@planetexpress.com
+userPassword: Oneida
+ou: admin_staff
+uid: 2069
+ Q==

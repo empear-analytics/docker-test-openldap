@@ -1,0 +1,13 @@
+dn: cn=Jeremiah+sn=Rudgers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeremiah Rudgers
+cn: Rudgers
+givenname: Jeremiah
+mail: jeremiah.rudgers@planetexpress.com
+userPassword: Jeremiah
+ou: flight_crew
+uid: 3135
+ Q==

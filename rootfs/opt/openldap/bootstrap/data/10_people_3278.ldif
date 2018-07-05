@@ -1,0 +1,13 @@
+dn: cn=Lelia+sn=Malaspina,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lelia Malaspina
+cn: Malaspina
+givenname: Lelia
+mail: lelia.malaspina@planetexpress.com
+userPassword: Lelia
+ou: admin_staff
+uid: 3278
+ Q==

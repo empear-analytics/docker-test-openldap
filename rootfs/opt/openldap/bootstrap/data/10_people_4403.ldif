@@ -1,0 +1,13 @@
+dn: cn=Melinda+sn=Schessler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melinda Schessler
+cn: Schessler
+givenname: Melinda
+mail: melinda.schessler@planetexpress.com
+userPassword: Melinda
+ou: Group5
+uid: 4403
+ Q==

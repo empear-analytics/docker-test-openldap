@@ -1,0 +1,13 @@
+dn: cn=Fatima+sn=Rosser,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fatima Rosser
+cn: Rosser
+givenname: Fatima
+mail: fatima.rosser@planetexpress.com
+userPassword: Fatima
+ou: OtherGroup
+uid: 1785
+ Q==

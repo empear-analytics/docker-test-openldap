@@ -1,0 +1,13 @@
+dn: cn=Ismael+sn=Azeem,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ismael Azeem
+cn: Azeem
+givenname: Ismael
+mail: ismael.azeem@planetexpress.com
+userPassword: Ismael
+ou: Group5
+uid: 132
+ Q==

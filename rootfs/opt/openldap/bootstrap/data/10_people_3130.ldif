@@ -1,0 +1,13 @@
+dn: cn=Un+sn=Shearing,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Un Shearing
+cn: Shearing
+givenname: Un
+mail: un.shearing@planetexpress.com
+userPassword: Un
+ou: Group5
+uid: 3130
+ Q==

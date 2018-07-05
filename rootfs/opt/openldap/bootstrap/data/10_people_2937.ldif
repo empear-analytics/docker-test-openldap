@@ -1,0 +1,13 @@
+dn: cn=Johnnie+sn=Porada,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Johnnie Porada
+cn: Porada
+givenname: Johnnie
+mail: johnnie.porada@planetexpress.com
+userPassword: Johnnie
+ou: OtherGroup
+uid: 2937
+ Q==

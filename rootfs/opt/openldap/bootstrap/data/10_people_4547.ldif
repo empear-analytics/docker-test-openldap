@@ -1,0 +1,13 @@
+dn: cn=Dewey+sn=Cea,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dewey Cea
+cn: Cea
+givenname: Dewey
+mail: dewey.cea@planetexpress.com
+userPassword: Dewey
+ou: OtherGroup
+uid: 4547
+ Q==

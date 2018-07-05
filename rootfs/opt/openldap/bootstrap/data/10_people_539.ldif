@@ -1,0 +1,13 @@
+dn: cn=Annemarie+sn=Glahn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annemarie Glahn
+cn: Glahn
+givenname: Annemarie
+mail: annemarie.glahn@planetexpress.com
+userPassword: Annemarie
+ou: Group5
+uid: 539
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Pamelia+sn=Velilla,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pamelia Velilla
+cn: Velilla
+givenname: Pamelia
+mail: pamelia.velilla@planetexpress.com
+userPassword: Pamelia
+ou: admin_staff
+uid: 3887
+ Q==

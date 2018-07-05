@@ -1,0 +1,13 @@
+dn: cn=Hank+sn=Mcquigg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hank Mcquigg
+cn: Mcquigg
+givenname: Hank
+mail: hank.mcquigg@planetexpress.com
+userPassword: Hank
+ou: flight_crew
+uid: 546
+ Q==

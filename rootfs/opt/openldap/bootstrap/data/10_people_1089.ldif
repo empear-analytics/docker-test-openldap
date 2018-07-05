@@ -1,0 +1,13 @@
+dn: cn=Una+sn=Knower,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Una Knower
+cn: Knower
+givenname: Una
+mail: una.knower@planetexpress.com
+userPassword: Una
+ou: Group5
+uid: 1089
+ Q==

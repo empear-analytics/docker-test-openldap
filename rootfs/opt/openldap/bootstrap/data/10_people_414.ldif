@@ -1,0 +1,13 @@
+dn: cn=Marsha+sn=Risse,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marsha Risse
+cn: Risse
+givenname: Marsha
+mail: marsha.risse@planetexpress.com
+userPassword: Marsha
+ou: OtherGroup
+uid: 414
+ Q==

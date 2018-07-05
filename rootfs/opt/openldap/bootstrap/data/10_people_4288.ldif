@@ -1,0 +1,13 @@
+dn: cn=Cathie+sn=Lavertue,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cathie Lavertue
+cn: Lavertue
+givenname: Cathie
+mail: cathie.lavertue@planetexpress.com
+userPassword: Cathie
+ou: OtherGroup
+uid: 4288
+ Q==

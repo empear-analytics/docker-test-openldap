@@ -1,0 +1,13 @@
+dn: cn=Vonda+sn=Sommerfeld,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vonda Sommerfeld
+cn: Sommerfeld
+givenname: Vonda
+mail: vonda.sommerfeld@planetexpress.com
+userPassword: Vonda
+ou: Group5
+uid: 3082
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Veola+sn=Nimox,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Veola Nimox
+cn: Nimox
+givenname: Veola
+mail: veola.nimox@planetexpress.com
+userPassword: Veola
+ou: Group5
+uid: 5978
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tommye+sn=Rengel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tommye Rengel
+cn: Rengel
+givenname: Tommye
+mail: tommye.rengel@planetexpress.com
+userPassword: Tommye
+ou: OtherGroup
+uid: 4051
+ Q==

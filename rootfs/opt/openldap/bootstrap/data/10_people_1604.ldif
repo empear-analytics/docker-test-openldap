@@ -1,0 +1,13 @@
+dn: cn=Lawrence+sn=Trippi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lawrence Trippi
+cn: Trippi
+givenname: Lawrence
+mail: lawrence.trippi@planetexpress.com
+userPassword: Lawrence
+ou: Group5
+uid: 1604
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Angelique+sn=Jenista,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelique Jenista
+cn: Jenista
+givenname: Angelique
+mail: angelique.jenista@planetexpress.com
+userPassword: Angelique
+ou: Group5
+uid: 5631
+ Q==

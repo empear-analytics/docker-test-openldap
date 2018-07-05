@@ -1,0 +1,13 @@
+dn: cn=Ranee+sn=Arambula,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ranee Arambula
+cn: Arambula
+givenname: Ranee
+mail: ranee.arambula@planetexpress.com
+userPassword: Ranee
+ou: Group5
+uid: 4341
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Roxana+sn=Wisinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roxana Wisinger
+cn: Wisinger
+givenname: Roxana
+mail: roxana.wisinger@planetexpress.com
+userPassword: Roxana
+ou: admin_staff
+uid: 4329
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Rosamond+sn=Polucha,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosamond Polucha
+cn: Polucha
+givenname: Rosamond
+mail: rosamond.polucha@planetexpress.com
+userPassword: Rosamond
+ou: OtherGroup
+uid: 1666
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Mohammad+sn=Sartor,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mohammad Sartor
+cn: Sartor
+givenname: Mohammad
+mail: mohammad.sartor@planetexpress.com
+userPassword: Mohammad
+ou: Group5
+uid: 5141
+ Q==

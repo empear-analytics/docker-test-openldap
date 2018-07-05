@@ -1,0 +1,13 @@
+dn: cn=Jerrell+sn=Dalponte,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jerrell Dalponte
+cn: Dalponte
+givenname: Jerrell
+mail: jerrell.dalponte@planetexpress.com
+userPassword: Jerrell
+ou: OtherGroup
+uid: 641
+ Q==

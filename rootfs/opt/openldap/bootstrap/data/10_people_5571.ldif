@@ -1,0 +1,13 @@
+dn: cn=Delila+sn=Dagen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delila Dagen
+cn: Dagen
+givenname: Delila
+mail: delila.dagen@planetexpress.com
+userPassword: Delila
+ou: Group5
+uid: 5571
+ Q==

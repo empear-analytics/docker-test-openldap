@@ -1,0 +1,13 @@
+dn: cn=Alise+sn=Lappe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alise Lappe
+cn: Lappe
+givenname: Alise
+mail: alise.lappe@planetexpress.com
+userPassword: Alise
+ou: OtherGroup
+uid: 3532
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Clarita+sn=Kaloi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clarita Kaloi
+cn: Kaloi
+givenname: Clarita
+mail: clarita.kaloi@planetexpress.com
+userPassword: Clarita
+ou: flight_crew
+uid: 751
+ Q==

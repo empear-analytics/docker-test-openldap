@@ -1,0 +1,13 @@
+dn: cn=Caren+sn=Torello,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Caren Torello
+cn: Torello
+givenname: Caren
+mail: caren.torello@planetexpress.com
+userPassword: Caren
+ou: OtherGroup
+uid: 826
+ Q==

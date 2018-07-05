@@ -1,0 +1,13 @@
+dn: cn=Chun+sn=Emerick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chun Emerick
+cn: Emerick
+givenname: Chun
+mail: chun.emerick@planetexpress.com
+userPassword: Chun
+ou: flight_crew
+uid: 4375
+ Q==

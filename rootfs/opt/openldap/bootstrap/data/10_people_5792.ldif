@@ -1,0 +1,13 @@
+dn: cn=Elodia+sn=Klaren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elodia Klaren
+cn: Klaren
+givenname: Elodia
+mail: elodia.klaren@planetexpress.com
+userPassword: Elodia
+ou: OtherGroup
+uid: 5792
+ Q==

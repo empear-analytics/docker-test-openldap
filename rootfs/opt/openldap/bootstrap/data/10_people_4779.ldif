@@ -1,0 +1,13 @@
+dn: cn=Deena+sn=Rossa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deena Rossa
+cn: Rossa
+givenname: Deena
+mail: deena.rossa@planetexpress.com
+userPassword: Deena
+ou: OtherGroup
+uid: 4779
+ Q==

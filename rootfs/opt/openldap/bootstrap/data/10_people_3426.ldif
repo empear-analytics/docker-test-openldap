@@ -1,0 +1,13 @@
+dn: cn=Teddy+sn=Mitch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Teddy Mitch
+cn: Mitch
+givenname: Teddy
+mail: teddy.mitch@planetexpress.com
+userPassword: Teddy
+ou: flight_crew
+uid: 3426
+ Q==

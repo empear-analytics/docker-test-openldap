@@ -1,0 +1,13 @@
+dn: cn=Lavon+sn=Reing,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lavon Reing
+cn: Reing
+givenname: Lavon
+mail: lavon.reing@planetexpress.com
+userPassword: Lavon
+ou: flight_crew
+uid: 4831
+ Q==

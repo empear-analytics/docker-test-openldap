@@ -1,0 +1,13 @@
+dn: cn=Macie+sn=Fiorino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Macie Fiorino
+cn: Fiorino
+givenname: Macie
+mail: macie.fiorino@planetexpress.com
+userPassword: Macie
+ou: admin_staff
+uid: 390
+ Q==

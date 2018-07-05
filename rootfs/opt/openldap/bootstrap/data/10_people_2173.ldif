@@ -1,0 +1,13 @@
+dn: cn=Lia+sn=Story,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lia Story
+cn: Story
+givenname: Lia
+mail: lia.story@planetexpress.com
+userPassword: Lia
+ou: flight_crew
+uid: 2173
+ Q==

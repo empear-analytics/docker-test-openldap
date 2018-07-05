@@ -1,0 +1,13 @@
+dn: cn=Edmund+sn=Condell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edmund Condell
+cn: Condell
+givenname: Edmund
+mail: edmund.condell@planetexpress.com
+userPassword: Edmund
+ou: flight_crew
+uid: 2287
+ Q==

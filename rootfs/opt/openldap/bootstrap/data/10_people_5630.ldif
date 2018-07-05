@@ -1,0 +1,13 @@
+dn: cn=Cesar+sn=Starken,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cesar Starken
+cn: Starken
+givenname: Cesar
+mail: cesar.starken@planetexpress.com
+userPassword: Cesar
+ou: admin_staff
+uid: 5630
+ Q==

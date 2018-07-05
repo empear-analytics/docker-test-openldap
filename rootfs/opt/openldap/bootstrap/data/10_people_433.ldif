@@ -1,0 +1,13 @@
+dn: cn=Drusilla+sn=Villareal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Drusilla Villareal
+cn: Villareal
+givenname: Drusilla
+mail: drusilla.villareal@planetexpress.com
+userPassword: Drusilla
+ou: admin_staff
+uid: 433
+ Q==

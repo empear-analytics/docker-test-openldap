@@ -1,0 +1,13 @@
+dn: cn=Carlena+sn=Proby,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carlena Proby
+cn: Proby
+givenname: Carlena
+mail: carlena.proby@planetexpress.com
+userPassword: Carlena
+ou: flight_crew
+uid: 3917
+ Q==

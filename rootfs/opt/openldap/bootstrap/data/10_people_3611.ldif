@@ -1,0 +1,13 @@
+dn: cn=Lisha+sn=Kwiecien,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lisha Kwiecien
+cn: Kwiecien
+givenname: Lisha
+mail: lisha.kwiecien@planetexpress.com
+userPassword: Lisha
+ou: OtherGroup
+uid: 3611
+ Q==

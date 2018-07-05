@@ -1,0 +1,13 @@
+dn: cn=Deja+sn=Tanenbaum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deja Tanenbaum
+cn: Tanenbaum
+givenname: Deja
+mail: deja.tanenbaum@planetexpress.com
+userPassword: Deja
+ou: Group5
+uid: 4503
+ Q==

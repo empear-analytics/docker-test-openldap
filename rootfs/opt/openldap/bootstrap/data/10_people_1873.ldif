@@ -1,0 +1,13 @@
+dn: cn=Tressa+sn=Ness,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tressa Ness
+cn: Ness
+givenname: Tressa
+mail: tressa.ness@planetexpress.com
+userPassword: Tressa
+ou: OtherGroup
+uid: 1873
+ Q==

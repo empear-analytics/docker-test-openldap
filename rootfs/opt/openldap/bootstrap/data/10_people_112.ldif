@@ -1,0 +1,13 @@
+dn: cn=Jenelle+sn=Lake,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jenelle Lake
+cn: Lake
+givenname: Jenelle
+mail: jenelle.lake@planetexpress.com
+userPassword: Jenelle
+ou: OtherGroup
+uid: 112
+ Q==

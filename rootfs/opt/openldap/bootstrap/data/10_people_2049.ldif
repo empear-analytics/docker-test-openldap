@@ -1,0 +1,13 @@
+dn: cn=Eustolia+sn=Forkell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eustolia Forkell
+cn: Forkell
+givenname: Eustolia
+mail: eustolia.forkell@planetexpress.com
+userPassword: Eustolia
+ou: admin_staff
+uid: 2049
+ Q==

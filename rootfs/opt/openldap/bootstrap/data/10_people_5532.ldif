@@ -1,0 +1,13 @@
+dn: cn=Mai+sn=Mulry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mai Mulry
+cn: Mulry
+givenname: Mai
+mail: mai.mulry@planetexpress.com
+userPassword: Mai
+ou: flight_crew
+uid: 5532
+ Q==

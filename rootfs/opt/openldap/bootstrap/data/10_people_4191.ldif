@@ -1,0 +1,13 @@
+dn: cn=Cedrick+sn=Kassem,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cedrick Kassem
+cn: Kassem
+givenname: Cedrick
+mail: cedrick.kassem@planetexpress.com
+userPassword: Cedrick
+ou: Group5
+uid: 4191
+ Q==

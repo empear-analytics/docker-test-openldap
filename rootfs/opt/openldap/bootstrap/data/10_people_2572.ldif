@@ -1,0 +1,13 @@
+dn: cn=Lucius+sn=Nassef,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lucius Nassef
+cn: Nassef
+givenname: Lucius
+mail: lucius.nassef@planetexpress.com
+userPassword: Lucius
+ou: admin_staff
+uid: 2572
+ Q==

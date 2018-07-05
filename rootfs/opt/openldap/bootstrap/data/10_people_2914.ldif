@@ -1,0 +1,13 @@
+dn: cn=Nikki+sn=Magnie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nikki Magnie
+cn: Magnie
+givenname: Nikki
+mail: nikki.magnie@planetexpress.com
+userPassword: Nikki
+ou: flight_crew
+uid: 2914
+ Q==

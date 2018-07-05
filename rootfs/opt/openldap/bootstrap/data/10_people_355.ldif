@@ -1,0 +1,13 @@
+dn: cn=Elinore+sn=Markgraf,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elinore Markgraf
+cn: Markgraf
+givenname: Elinore
+mail: elinore.markgraf@planetexpress.com
+userPassword: Elinore
+ou: flight_crew
+uid: 355
+ Q==

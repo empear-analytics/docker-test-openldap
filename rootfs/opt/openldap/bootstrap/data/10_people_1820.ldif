@@ -1,0 +1,13 @@
+dn: cn=Assunta+sn=Volckmann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Assunta Volckmann
+cn: Volckmann
+givenname: Assunta
+mail: assunta.volckmann@planetexpress.com
+userPassword: Assunta
+ou: OtherGroup
+uid: 1820
+ Q==

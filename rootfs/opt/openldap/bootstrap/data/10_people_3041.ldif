@@ -1,0 +1,13 @@
+dn: cn=Cherrie+sn=Kaaz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cherrie Kaaz
+cn: Kaaz
+givenname: Cherrie
+mail: cherrie.kaaz@planetexpress.com
+userPassword: Cherrie
+ou: admin_staff
+uid: 3041
+ Q==

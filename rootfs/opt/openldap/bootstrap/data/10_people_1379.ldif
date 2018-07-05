@@ -1,0 +1,13 @@
+dn: cn=See+sn=Mielczarek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: See Mielczarek
+cn: Mielczarek
+givenname: See
+mail: see.mielczarek@planetexpress.com
+userPassword: See
+ou: admin_staff
+uid: 1379
+ Q==

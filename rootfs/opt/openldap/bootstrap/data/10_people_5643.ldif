@@ -1,0 +1,13 @@
+dn: cn=Dee+sn=Haxby,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dee Haxby
+cn: Haxby
+givenname: Dee
+mail: dee.haxby@planetexpress.com
+userPassword: Dee
+ou: OtherGroup
+uid: 5643
+ Q==

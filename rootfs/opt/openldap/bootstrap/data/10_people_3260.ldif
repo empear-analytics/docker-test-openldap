@@ -1,0 +1,13 @@
+dn: cn=Darin+sn=Geddie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darin Geddie
+cn: Geddie
+givenname: Darin
+mail: darin.geddie@planetexpress.com
+userPassword: Darin
+ou: flight_crew
+uid: 3260
+ Q==

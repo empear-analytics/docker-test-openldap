@@ -1,0 +1,13 @@
+dn: cn=Chris+sn=Burrows,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chris Burrows
+cn: Burrows
+givenname: Chris
+mail: chris.burrows@planetexpress.com
+userPassword: Chris
+ou: OtherGroup
+uid: 1799
+ Q==

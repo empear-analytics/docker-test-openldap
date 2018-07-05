@@ -1,0 +1,13 @@
+dn: cn=Isidra+sn=Depperschmidt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Isidra Depperschmidt
+cn: Depperschmidt
+givenname: Isidra
+mail: isidra.depperschmidt@planetexpress.com
+userPassword: Isidra
+ou: Group5
+uid: 1375
+ Q==

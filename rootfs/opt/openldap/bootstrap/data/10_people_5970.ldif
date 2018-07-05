@@ -1,0 +1,13 @@
+dn: cn=Vernon+sn=Sangha,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vernon Sangha
+cn: Sangha
+givenname: Vernon
+mail: vernon.sangha@planetexpress.com
+userPassword: Vernon
+ou: flight_crew
+uid: 5970
+ Q==

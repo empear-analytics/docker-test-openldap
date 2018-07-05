@@ -1,0 +1,13 @@
+dn: cn=Maris+sn=Neely,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maris Neely
+cn: Neely
+givenname: Maris
+mail: maris.neely@planetexpress.com
+userPassword: Maris
+ou: Group5
+uid: 2579
+ Q==

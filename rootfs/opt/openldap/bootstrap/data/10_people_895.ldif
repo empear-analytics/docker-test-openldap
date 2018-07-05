@@ -1,0 +1,13 @@
+dn: cn=Ha+sn=Familia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ha Familia
+cn: Familia
+givenname: Ha
+mail: ha.familia@planetexpress.com
+userPassword: Ha
+ou: OtherGroup
+uid: 895
+ Q==

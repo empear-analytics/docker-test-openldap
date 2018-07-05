@@ -1,0 +1,13 @@
+dn: cn=Josephina+sn=Reddic,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Josephina Reddic
+cn: Reddic
+givenname: Josephina
+mail: josephina.reddic@planetexpress.com
+userPassword: Josephina
+ou: flight_crew
+uid: 3744
+ Q==

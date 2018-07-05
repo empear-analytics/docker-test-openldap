@@ -1,0 +1,13 @@
+dn: cn=Natalia+sn=Anzaldua,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Natalia Anzaldua
+cn: Anzaldua
+givenname: Natalia
+mail: natalia.anzaldua@planetexpress.com
+userPassword: Natalia
+ou: Group5
+uid: 3056
+ Q==

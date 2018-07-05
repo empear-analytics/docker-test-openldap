@@ -1,0 +1,13 @@
+dn: cn=Garland+sn=Hoeflich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Garland Hoeflich
+cn: Hoeflich
+givenname: Garland
+mail: garland.hoeflich@planetexpress.com
+userPassword: Garland
+ou: flight_crew
+uid: 3301
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Benny+sn=Duemmel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Benny Duemmel
+cn: Duemmel
+givenname: Benny
+mail: benny.duemmel@planetexpress.com
+userPassword: Benny
+ou: OtherGroup
+uid: 282
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Dinah+sn=Tuite,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dinah Tuite
+cn: Tuite
+givenname: Dinah
+mail: dinah.tuite@planetexpress.com
+userPassword: Dinah
+ou: OtherGroup
+uid: 952
+ Q==

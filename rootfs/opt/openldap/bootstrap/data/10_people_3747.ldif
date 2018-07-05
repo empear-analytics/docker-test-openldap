@@ -1,0 +1,13 @@
+dn: cn=Irina+sn=Dearborn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Irina Dearborn
+cn: Dearborn
+givenname: Irina
+mail: irina.dearborn@planetexpress.com
+userPassword: Irina
+ou: OtherGroup
+uid: 3747
+ Q==

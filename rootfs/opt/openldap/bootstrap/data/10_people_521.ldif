@@ -1,0 +1,13 @@
+dn: cn=Leonia+sn=Hozempa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leonia Hozempa
+cn: Hozempa
+givenname: Leonia
+mail: leonia.hozempa@planetexpress.com
+userPassword: Leonia
+ou: flight_crew
+uid: 521
+ Q==

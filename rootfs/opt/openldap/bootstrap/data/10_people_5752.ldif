@@ -1,0 +1,13 @@
+dn: cn=Angelika+sn=Ziemann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelika Ziemann
+cn: Ziemann
+givenname: Angelika
+mail: angelika.ziemann@planetexpress.com
+userPassword: Angelika
+ou: flight_crew
+uid: 5752
+ Q==

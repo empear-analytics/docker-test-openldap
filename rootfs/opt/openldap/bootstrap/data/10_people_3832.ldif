@@ -1,0 +1,13 @@
+dn: cn=Johnetta+sn=Wines,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Johnetta Wines
+cn: Wines
+givenname: Johnetta
+mail: johnetta.wines@planetexpress.com
+userPassword: Johnetta
+ou: OtherGroup
+uid: 3832
+ Q==

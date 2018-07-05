@@ -1,0 +1,13 @@
+dn: cn=Elmira+sn=Mayhall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elmira Mayhall
+cn: Mayhall
+givenname: Elmira
+mail: elmira.mayhall@planetexpress.com
+userPassword: Elmira
+ou: OtherGroup
+uid: 5394
+ Q==

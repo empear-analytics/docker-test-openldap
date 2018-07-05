@@ -1,0 +1,13 @@
+dn: cn=Magaly+sn=Takeuchi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Magaly Takeuchi
+cn: Takeuchi
+givenname: Magaly
+mail: magaly.takeuchi@planetexpress.com
+userPassword: Magaly
+ou: OtherGroup
+uid: 1488
+ Q==

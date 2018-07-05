@@ -1,0 +1,13 @@
+dn: cn=Emmitt+sn=Wienandt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emmitt Wienandt
+cn: Wienandt
+givenname: Emmitt
+mail: emmitt.wienandt@planetexpress.com
+userPassword: Emmitt
+ou: OtherGroup
+uid: 2526
+ Q==

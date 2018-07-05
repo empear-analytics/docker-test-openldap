@@ -1,0 +1,13 @@
+dn: cn=Randy+sn=Dionne,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Randy Dionne
+cn: Dionne
+givenname: Randy
+mail: randy.dionne@planetexpress.com
+userPassword: Randy
+ou: OtherGroup
+uid: 2541
+ Q==

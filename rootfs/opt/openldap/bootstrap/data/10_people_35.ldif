@@ -1,0 +1,13 @@
+dn: cn=Jimmie+sn=Alexiou,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jimmie Alexiou
+cn: Alexiou
+givenname: Jimmie
+mail: jimmie.alexiou@planetexpress.com
+userPassword: Jimmie
+ou: Group5
+uid: 35
+ Q==

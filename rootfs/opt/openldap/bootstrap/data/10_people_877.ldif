@@ -1,0 +1,13 @@
+dn: cn=Neely+sn=Brzoska,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Neely Brzoska
+cn: Brzoska
+givenname: Neely
+mail: neely.brzoska@planetexpress.com
+userPassword: Neely
+ou: flight_crew
+uid: 877
+ Q==

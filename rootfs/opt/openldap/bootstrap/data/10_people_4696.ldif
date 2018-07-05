@@ -1,0 +1,13 @@
+dn: cn=Olen+sn=Retka,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Olen Retka
+cn: Retka
+givenname: Olen
+mail: olen.retka@planetexpress.com
+userPassword: Olen
+ou: flight_crew
+uid: 4696
+ Q==

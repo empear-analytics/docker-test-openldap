@@ -1,0 +1,13 @@
+dn: cn=Pearlie+sn=Punch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pearlie Punch
+cn: Punch
+givenname: Pearlie
+mail: pearlie.punch@planetexpress.com
+userPassword: Pearlie
+ou: OtherGroup
+uid: 31
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Delmar+sn=Bouza,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delmar Bouza
+cn: Bouza
+givenname: Delmar
+mail: delmar.bouza@planetexpress.com
+userPassword: Delmar
+ou: Group5
+uid: 2497
+ Q==

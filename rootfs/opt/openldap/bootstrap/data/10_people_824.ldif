@@ -1,0 +1,13 @@
+dn: cn=Allison+sn=Kowalewski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Allison Kowalewski
+cn: Kowalewski
+givenname: Allison
+mail: allison.kowalewski@planetexpress.com
+userPassword: Allison
+ou: admin_staff
+uid: 824
+ Q==

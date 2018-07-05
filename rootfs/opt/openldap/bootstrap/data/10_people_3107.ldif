@@ -1,0 +1,13 @@
+dn: cn=Kendal+sn=Jantz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kendal Jantz
+cn: Jantz
+givenname: Kendal
+mail: kendal.jantz@planetexpress.com
+userPassword: Kendal
+ou: Group5
+uid: 3107
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lizabeth+sn=Chol,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lizabeth Chol
+cn: Chol
+givenname: Lizabeth
+mail: lizabeth.chol@planetexpress.com
+userPassword: Lizabeth
+ou: admin_staff
+uid: 3146
+ Q==

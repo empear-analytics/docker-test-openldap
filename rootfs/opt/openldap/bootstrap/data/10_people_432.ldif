@@ -1,0 +1,13 @@
+dn: cn=Ola+sn=Wahba,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ola Wahba
+cn: Wahba
+givenname: Ola
+mail: ola.wahba@planetexpress.com
+userPassword: Ola
+ou: admin_staff
+uid: 432
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jen+sn=Overbey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jen Overbey
+cn: Overbey
+givenname: Jen
+mail: jen.overbey@planetexpress.com
+userPassword: Jen
+ou: flight_crew
+uid: 403
+ Q==

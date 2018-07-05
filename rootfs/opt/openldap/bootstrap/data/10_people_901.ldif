@@ -1,0 +1,13 @@
+dn: cn=Sharee+sn=Guell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharee Guell
+cn: Guell
+givenname: Sharee
+mail: sharee.guell@planetexpress.com
+userPassword: Sharee
+ou: admin_staff
+uid: 901
+ Q==

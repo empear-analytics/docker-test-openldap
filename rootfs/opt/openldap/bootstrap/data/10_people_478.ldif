@@ -1,0 +1,13 @@
+dn: cn=Jarrod+sn=Braband,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jarrod Braband
+cn: Braband
+givenname: Jarrod
+mail: jarrod.braband@planetexpress.com
+userPassword: Jarrod
+ou: flight_crew
+uid: 478
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Justine+sn=Consorti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Justine Consorti
+cn: Consorti
+givenname: Justine
+mail: justine.consorti@planetexpress.com
+userPassword: Justine
+ou: Group5
+uid: 200
+ Q==

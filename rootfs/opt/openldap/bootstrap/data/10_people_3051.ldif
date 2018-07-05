@@ -1,0 +1,13 @@
+dn: cn=Sung+sn=Kennett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sung Kennett
+cn: Kennett
+givenname: Sung
+mail: sung.kennett@planetexpress.com
+userPassword: Sung
+ou: flight_crew
+uid: 3051
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Mayola+sn=Swick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mayola Swick
+cn: Swick
+givenname: Mayola
+mail: mayola.swick@planetexpress.com
+userPassword: Mayola
+ou: flight_crew
+uid: 2560
+ Q==

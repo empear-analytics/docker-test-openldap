@@ -1,0 +1,13 @@
+dn: cn=Ingrid+sn=Matuska,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ingrid Matuska
+cn: Matuska
+givenname: Ingrid
+mail: ingrid.matuska@planetexpress.com
+userPassword: Ingrid
+ou: flight_crew
+uid: 4414
+ Q==

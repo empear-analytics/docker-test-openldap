@@ -1,0 +1,13 @@
+dn: cn=Aurelia+sn=Hamiter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aurelia Hamiter
+cn: Hamiter
+givenname: Aurelia
+mail: aurelia.hamiter@planetexpress.com
+userPassword: Aurelia
+ou: Group5
+uid: 4064
+ Q==

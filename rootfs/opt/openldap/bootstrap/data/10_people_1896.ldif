@@ -1,0 +1,13 @@
+dn: cn=Terrence+sn=Zematis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Terrence Zematis
+cn: Zematis
+givenname: Terrence
+mail: terrence.zematis@planetexpress.com
+userPassword: Terrence
+ou: flight_crew
+uid: 1896
+ Q==

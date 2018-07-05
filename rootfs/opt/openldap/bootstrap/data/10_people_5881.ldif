@@ -1,0 +1,13 @@
+dn: cn=Shaquana+sn=Gradford,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shaquana Gradford
+cn: Gradford
+givenname: Shaquana
+mail: shaquana.gradford@planetexpress.com
+userPassword: Shaquana
+ou: admin_staff
+uid: 5881
+ Q==

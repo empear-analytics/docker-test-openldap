@@ -1,0 +1,13 @@
+dn: cn=Loriann+sn=Shaddock,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loriann Shaddock
+cn: Shaddock
+givenname: Loriann
+mail: loriann.shaddock@planetexpress.com
+userPassword: Loriann
+ou: OtherGroup
+uid: 5670
+ Q==

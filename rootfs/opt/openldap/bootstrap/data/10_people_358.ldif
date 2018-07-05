@@ -1,0 +1,13 @@
+dn: cn=Ahmed+sn=Zempel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ahmed Zempel
+cn: Zempel
+givenname: Ahmed
+mail: ahmed.zempel@planetexpress.com
+userPassword: Ahmed
+ou: OtherGroup
+uid: 358
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Simona+sn=Jeanfrancois,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Simona Jeanfrancois
+cn: Jeanfrancois
+givenname: Simona
+mail: simona.jeanfrancois@planetexpress.com
+userPassword: Simona
+ou: OtherGroup
+uid: 2590
+ Q==

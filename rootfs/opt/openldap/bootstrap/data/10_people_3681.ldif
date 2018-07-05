@@ -1,0 +1,13 @@
+dn: cn=Claudine+sn=Weible,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Claudine Weible
+cn: Weible
+givenname: Claudine
+mail: claudine.weible@planetexpress.com
+userPassword: Claudine
+ou: admin_staff
+uid: 3681
+ Q==

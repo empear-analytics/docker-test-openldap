@@ -1,0 +1,13 @@
+dn: cn=Ngan+sn=Dampier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ngan Dampier
+cn: Dampier
+givenname: Ngan
+mail: ngan.dampier@planetexpress.com
+userPassword: Ngan
+ou: admin_staff
+uid: 5314
+ Q==

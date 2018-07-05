@@ -1,0 +1,13 @@
+dn: cn=Carl+sn=Brandolino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carl Brandolino
+cn: Brandolino
+givenname: Carl
+mail: carl.brandolino@planetexpress.com
+userPassword: Carl
+ou: admin_staff
+uid: 3685
+ Q==

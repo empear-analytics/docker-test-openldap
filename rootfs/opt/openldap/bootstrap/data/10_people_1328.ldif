@@ -1,0 +1,13 @@
+dn: cn=Veola+sn=Sundholm,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Veola Sundholm
+cn: Sundholm
+givenname: Veola
+mail: veola.sundholm@planetexpress.com
+userPassword: Veola
+ou: OtherGroup
+uid: 1328
+ Q==

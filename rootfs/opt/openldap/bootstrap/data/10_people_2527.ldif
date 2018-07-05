@@ -1,0 +1,13 @@
+dn: cn=Delores+sn=Capati,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delores Capati
+cn: Capati
+givenname: Delores
+mail: delores.capati@planetexpress.com
+userPassword: Delores
+ou: flight_crew
+uid: 2527
+ Q==

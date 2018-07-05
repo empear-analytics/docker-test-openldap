@@ -1,0 +1,13 @@
+dn: cn=Shanita+sn=Strahl,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shanita Strahl
+cn: Strahl
+givenname: Shanita
+mail: shanita.strahl@planetexpress.com
+userPassword: Shanita
+ou: admin_staff
+uid: 2845
+ Q==

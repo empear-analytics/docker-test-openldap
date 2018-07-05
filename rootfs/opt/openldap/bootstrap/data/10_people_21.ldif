@@ -1,0 +1,13 @@
+dn: cn=Louella+sn=Fuquay,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Louella Fuquay
+cn: Fuquay
+givenname: Louella
+mail: louella.fuquay@planetexpress.com
+userPassword: Louella
+ou: flight_crew
+uid: 21
+ Q==

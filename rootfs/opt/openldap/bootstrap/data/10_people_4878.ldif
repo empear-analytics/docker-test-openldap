@@ -1,0 +1,13 @@
+dn: cn=Felipa+sn=Depietro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Felipa Depietro
+cn: Depietro
+givenname: Felipa
+mail: felipa.depietro@planetexpress.com
+userPassword: Felipa
+ou: admin_staff
+uid: 4878
+ Q==

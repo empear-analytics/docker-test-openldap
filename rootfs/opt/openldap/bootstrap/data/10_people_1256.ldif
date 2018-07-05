@@ -1,0 +1,13 @@
+dn: cn=Staci+sn=Barney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Staci Barney
+cn: Barney
+givenname: Staci
+mail: staci.barney@planetexpress.com
+userPassword: Staci
+ou: OtherGroup
+uid: 1256
+ Q==

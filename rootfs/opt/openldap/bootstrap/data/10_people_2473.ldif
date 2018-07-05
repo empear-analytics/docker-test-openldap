@@ -1,0 +1,13 @@
+dn: cn=Libby+sn=Chinnici,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Libby Chinnici
+cn: Chinnici
+givenname: Libby
+mail: libby.chinnici@planetexpress.com
+userPassword: Libby
+ou: OtherGroup
+uid: 2473
+ Q==

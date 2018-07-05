@@ -1,0 +1,13 @@
+dn: cn=Michell+sn=Cybart,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Michell Cybart
+cn: Cybart
+givenname: Michell
+mail: michell.cybart@planetexpress.com
+userPassword: Michell
+ou: OtherGroup
+uid: 3244
+ Q==

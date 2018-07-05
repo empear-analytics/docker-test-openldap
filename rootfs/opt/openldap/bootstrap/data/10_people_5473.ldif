@@ -1,0 +1,13 @@
+dn: cn=Enriqueta+sn=Ucci,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Enriqueta Ucci
+cn: Ucci
+givenname: Enriqueta
+mail: enriqueta.ucci@planetexpress.com
+userPassword: Enriqueta
+ou: flight_crew
+uid: 5473
+ Q==

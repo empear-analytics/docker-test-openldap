@@ -1,0 +1,13 @@
+dn: cn=Isa+sn=Lorence,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Isa Lorence
+cn: Lorence
+givenname: Isa
+mail: isa.lorence@planetexpress.com
+userPassword: Isa
+ou: flight_crew
+uid: 3369
+ Q==

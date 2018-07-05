@@ -1,0 +1,13 @@
+dn: cn=Magdalen+sn=Heckenberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Magdalen Heckenberg
+cn: Heckenberg
+givenname: Magdalen
+mail: magdalen.heckenberg@planetexpress.com
+userPassword: Magdalen
+ou: Group5
+uid: 5826
+ Q==

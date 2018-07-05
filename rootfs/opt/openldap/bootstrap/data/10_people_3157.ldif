@@ -1,0 +1,13 @@
+dn: cn=Efren+sn=Shub,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Efren Shub
+cn: Shub
+givenname: Efren
+mail: efren.shub@planetexpress.com
+userPassword: Efren
+ou: flight_crew
+uid: 3157
+ Q==

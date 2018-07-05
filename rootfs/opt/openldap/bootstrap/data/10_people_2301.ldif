@@ -1,0 +1,13 @@
+dn: cn=Jayna+sn=Cadriel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jayna Cadriel
+cn: Cadriel
+givenname: Jayna
+mail: jayna.cadriel@planetexpress.com
+userPassword: Jayna
+ou: OtherGroup
+uid: 2301
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jettie+sn=Dier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jettie Dier
+cn: Dier
+givenname: Jettie
+mail: jettie.dier@planetexpress.com
+userPassword: Jettie
+ou: Group5
+uid: 2138
+ Q==

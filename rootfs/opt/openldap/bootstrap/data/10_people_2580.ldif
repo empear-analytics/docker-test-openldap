@@ -1,0 +1,13 @@
+dn: cn=Rolanda+sn=Chajon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rolanda Chajon
+cn: Chajon
+givenname: Rolanda
+mail: rolanda.chajon@planetexpress.com
+userPassword: Rolanda
+ou: OtherGroup
+uid: 2580
+ Q==

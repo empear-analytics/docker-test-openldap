@@ -1,0 +1,13 @@
+dn: cn=Bradly+sn=Gudenkauf,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bradly Gudenkauf
+cn: Gudenkauf
+givenname: Bradly
+mail: bradly.gudenkauf@planetexpress.com
+userPassword: Bradly
+ou: OtherGroup
+uid: 2261
+ Q==

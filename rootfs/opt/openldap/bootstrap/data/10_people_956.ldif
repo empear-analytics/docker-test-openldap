@@ -1,0 +1,13 @@
+dn: cn=Tari+sn=Mauk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tari Mauk
+cn: Mauk
+givenname: Tari
+mail: tari.mauk@planetexpress.com
+userPassword: Tari
+ou: Group5
+uid: 956
+ Q==

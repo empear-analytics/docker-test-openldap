@@ -1,0 +1,13 @@
+dn: cn=Jospeh+sn=Shoptaw,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jospeh Shoptaw
+cn: Shoptaw
+givenname: Jospeh
+mail: jospeh.shoptaw@planetexpress.com
+userPassword: Jospeh
+ou: OtherGroup
+uid: 5259
+ Q==

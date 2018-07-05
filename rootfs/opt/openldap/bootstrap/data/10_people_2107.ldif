@@ -1,0 +1,13 @@
+dn: cn=Sherise+sn=Zeldin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherise Zeldin
+cn: Zeldin
+givenname: Sherise
+mail: sherise.zeldin@planetexpress.com
+userPassword: Sherise
+ou: Group5
+uid: 2107
+ Q==

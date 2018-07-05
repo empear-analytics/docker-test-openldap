@@ -1,0 +1,13 @@
+dn: cn=Rudolph+sn=Succar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rudolph Succar
+cn: Succar
+givenname: Rudolph
+mail: rudolph.succar@planetexpress.com
+userPassword: Rudolph
+ou: Group5
+uid: 1626
+ Q==

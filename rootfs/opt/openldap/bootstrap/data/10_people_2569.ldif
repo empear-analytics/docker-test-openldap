@@ -1,0 +1,13 @@
+dn: cn=Isadora+sn=Barzey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Isadora Barzey
+cn: Barzey
+givenname: Isadora
+mail: isadora.barzey@planetexpress.com
+userPassword: Isadora
+ou: Group5
+uid: 2569
+ Q==

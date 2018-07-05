@@ -1,0 +1,13 @@
+dn: cn=Romana+sn=Fettig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Romana Fettig
+cn: Fettig
+givenname: Romana
+mail: romana.fettig@planetexpress.com
+userPassword: Romana
+ou: flight_crew
+uid: 1336
+ Q==

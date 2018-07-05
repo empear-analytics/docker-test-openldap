@@ -1,0 +1,13 @@
+dn: cn=Ardelle+sn=Jou,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ardelle Jou
+cn: Jou
+givenname: Ardelle
+mail: ardelle.jou@planetexpress.com
+userPassword: Ardelle
+ou: Group5
+uid: 5746
+ Q==

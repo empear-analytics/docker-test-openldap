@@ -1,0 +1,13 @@
+dn: cn=Doreen+sn=Osayande,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Doreen Osayande
+cn: Osayande
+givenname: Doreen
+mail: doreen.osayande@planetexpress.com
+userPassword: Doreen
+ou: admin_staff
+uid: 2630
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Bea+sn=Moret,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bea Moret
+cn: Moret
+givenname: Bea
+mail: bea.moret@planetexpress.com
+userPassword: Bea
+ou: OtherGroup
+uid: 127
+ Q==

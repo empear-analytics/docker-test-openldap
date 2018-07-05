@@ -1,0 +1,13 @@
+dn: cn=Mirian+sn=Argueta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mirian Argueta
+cn: Argueta
+givenname: Mirian
+mail: mirian.argueta@planetexpress.com
+userPassword: Mirian
+ou: admin_staff
+uid: 3145
+ Q==

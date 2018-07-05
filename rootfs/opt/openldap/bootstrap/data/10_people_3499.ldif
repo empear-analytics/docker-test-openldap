@@ -1,0 +1,13 @@
+dn: cn=Gilbert+sn=Nigg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gilbert Nigg
+cn: Nigg
+givenname: Gilbert
+mail: gilbert.nigg@planetexpress.com
+userPassword: Gilbert
+ou: Group5
+uid: 3499
+ Q==

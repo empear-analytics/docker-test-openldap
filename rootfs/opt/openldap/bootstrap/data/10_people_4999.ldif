@@ -1,0 +1,13 @@
+dn: cn=Shalanda+sn=Nunz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shalanda Nunz
+cn: Nunz
+givenname: Shalanda
+mail: shalanda.nunz@planetexpress.com
+userPassword: Shalanda
+ou: OtherGroup
+uid: 4999
+ Q==

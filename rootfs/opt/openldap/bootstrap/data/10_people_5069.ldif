@@ -1,0 +1,13 @@
+dn: cn=Alberta+sn=Prysock,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alberta Prysock
+cn: Prysock
+givenname: Alberta
+mail: alberta.prysock@planetexpress.com
+userPassword: Alberta
+ou: Group5
+uid: 5069
+ Q==

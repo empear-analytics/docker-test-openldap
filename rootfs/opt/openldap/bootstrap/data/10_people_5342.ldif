@@ -1,0 +1,13 @@
+dn: cn=Hortencia+sn=Estela,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hortencia Estela
+cn: Estela
+givenname: Hortencia
+mail: hortencia.estela@planetexpress.com
+userPassword: Hortencia
+ou: admin_staff
+uid: 5342
+ Q==

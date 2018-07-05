@@ -1,0 +1,13 @@
+dn: cn=Deetta+sn=Asby,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deetta Asby
+cn: Asby
+givenname: Deetta
+mail: deetta.asby@planetexpress.com
+userPassword: Deetta
+ou: Group5
+uid: 4364
+ Q==

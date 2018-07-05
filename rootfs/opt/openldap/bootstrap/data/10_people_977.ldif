@@ -1,0 +1,13 @@
+dn: cn=Soila+sn=Shofestall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Soila Shofestall
+cn: Shofestall
+givenname: Soila
+mail: soila.shofestall@planetexpress.com
+userPassword: Soila
+ou: OtherGroup
+uid: 977
+ Q==

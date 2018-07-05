@@ -1,0 +1,13 @@
+dn: cn=Josefine+sn=Guzon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Josefine Guzon
+cn: Guzon
+givenname: Josefine
+mail: josefine.guzon@planetexpress.com
+userPassword: Josefine
+ou: admin_staff
+uid: 2930
+ Q==

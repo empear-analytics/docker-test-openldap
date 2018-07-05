@@ -1,0 +1,13 @@
+dn: cn=Nguyet+sn=Loyd,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nguyet Loyd
+cn: Loyd
+givenname: Nguyet
+mail: nguyet.loyd@planetexpress.com
+userPassword: Nguyet
+ou: flight_crew
+uid: 2425
+ Q==

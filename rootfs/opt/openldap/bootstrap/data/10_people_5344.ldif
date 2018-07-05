@@ -1,0 +1,13 @@
+dn: cn=Cole+sn=Denos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cole Denos
+cn: Denos
+givenname: Cole
+mail: cole.denos@planetexpress.com
+userPassword: Cole
+ou: Group5
+uid: 5344
+ Q==

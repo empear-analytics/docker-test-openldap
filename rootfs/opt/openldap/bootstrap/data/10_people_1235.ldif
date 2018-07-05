@@ -1,0 +1,13 @@
+dn: cn=Calista+sn=Rostek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Calista Rostek
+cn: Rostek
+givenname: Calista
+mail: calista.rostek@planetexpress.com
+userPassword: Calista
+ou: flight_crew
+uid: 1235
+ Q==

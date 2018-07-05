@@ -1,0 +1,13 @@
+dn: cn=Emory+sn=Pecci,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emory Pecci
+cn: Pecci
+givenname: Emory
+mail: emory.pecci@planetexpress.com
+userPassword: Emory
+ou: flight_crew
+uid: 4777
+ Q==

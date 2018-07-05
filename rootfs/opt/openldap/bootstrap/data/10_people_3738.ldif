@@ -1,0 +1,13 @@
+dn: cn=Emely+sn=Dizadare,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emely Dizadare
+cn: Dizadare
+givenname: Emely
+mail: emely.dizadare@planetexpress.com
+userPassword: Emely
+ou: admin_staff
+uid: 3738
+ Q==

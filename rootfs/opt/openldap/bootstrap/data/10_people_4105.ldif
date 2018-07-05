@@ -1,0 +1,13 @@
+dn: cn=Letisha+sn=Forst,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Letisha Forst
+cn: Forst
+givenname: Letisha
+mail: letisha.forst@planetexpress.com
+userPassword: Letisha
+ou: flight_crew
+uid: 4105
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Wes+sn=Kerans,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wes Kerans
+cn: Kerans
+givenname: Wes
+mail: wes.kerans@planetexpress.com
+userPassword: Wes
+ou: OtherGroup
+uid: 5204
+ Q==

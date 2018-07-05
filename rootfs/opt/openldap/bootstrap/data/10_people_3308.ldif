@@ -1,0 +1,13 @@
+dn: cn=Marian+sn=Tangaro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marian Tangaro
+cn: Tangaro
+givenname: Marian
+mail: marian.tangaro@planetexpress.com
+userPassword: Marian
+ou: admin_staff
+uid: 3308
+ Q==

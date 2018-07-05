@@ -1,0 +1,13 @@
+dn: cn=Shelby+sn=Rohrscheib,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shelby Rohrscheib
+cn: Rohrscheib
+givenname: Shelby
+mail: shelby.rohrscheib@planetexpress.com
+userPassword: Shelby
+ou: Group5
+uid: 1906
+ Q==

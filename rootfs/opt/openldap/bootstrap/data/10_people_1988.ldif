@@ -1,0 +1,13 @@
+dn: cn=Cathi+sn=Queller,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cathi Queller
+cn: Queller
+givenname: Cathi
+mail: cathi.queller@planetexpress.com
+userPassword: Cathi
+ou: flight_crew
+uid: 1988
+ Q==

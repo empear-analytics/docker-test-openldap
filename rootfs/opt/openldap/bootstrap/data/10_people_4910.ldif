@@ -1,0 +1,13 @@
+dn: cn=Abbie+sn=Arndorfer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Abbie Arndorfer
+cn: Arndorfer
+givenname: Abbie
+mail: abbie.arndorfer@planetexpress.com
+userPassword: Abbie
+ou: admin_staff
+uid: 4910
+ Q==

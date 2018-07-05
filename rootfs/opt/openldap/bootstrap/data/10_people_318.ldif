@@ -1,0 +1,13 @@
+dn: cn=Liliana+sn=Mantini,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Liliana Mantini
+cn: Mantini
+givenname: Liliana
+mail: liliana.mantini@planetexpress.com
+userPassword: Liliana
+ou: OtherGroup
+uid: 318
+ Q==

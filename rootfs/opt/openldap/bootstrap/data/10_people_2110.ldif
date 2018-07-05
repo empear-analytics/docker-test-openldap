@@ -1,0 +1,13 @@
+dn: cn=Theodora+sn=Longoria,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Theodora Longoria
+cn: Longoria
+givenname: Theodora
+mail: theodora.longoria@planetexpress.com
+userPassword: Theodora
+ou: admin_staff
+uid: 2110
+ Q==

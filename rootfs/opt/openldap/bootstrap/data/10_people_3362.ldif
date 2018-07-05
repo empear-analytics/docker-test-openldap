@@ -1,0 +1,13 @@
+dn: cn=Clarisa+sn=Aliano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clarisa Aliano
+cn: Aliano
+givenname: Clarisa
+mail: clarisa.aliano@planetexpress.com
+userPassword: Clarisa
+ou: Group5
+uid: 3362
+ Q==

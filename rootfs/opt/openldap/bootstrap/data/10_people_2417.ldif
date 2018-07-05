@@ -1,0 +1,13 @@
+dn: cn=Joni+sn=Pachew,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joni Pachew
+cn: Pachew
+givenname: Joni
+mail: joni.pachew@planetexpress.com
+userPassword: Joni
+ou: admin_staff
+uid: 2417
+ Q==

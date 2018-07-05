@@ -1,0 +1,13 @@
+dn: cn=Daine+sn=Melchin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daine Melchin
+cn: Melchin
+givenname: Daine
+mail: daine.melchin@planetexpress.com
+userPassword: Daine
+ou: Group5
+uid: 4243
+ Q==

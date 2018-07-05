@@ -1,0 +1,13 @@
+dn: cn=Yen+sn=Mccosker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yen Mccosker
+cn: Mccosker
+givenname: Yen
+mail: yen.mccosker@planetexpress.com
+userPassword: Yen
+ou: admin_staff
+uid: 5511
+ Q==

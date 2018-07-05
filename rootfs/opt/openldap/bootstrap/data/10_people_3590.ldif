@@ -1,0 +1,13 @@
+dn: cn=Adelia+sn=Mercer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adelia Mercer
+cn: Mercer
+givenname: Adelia
+mail: adelia.mercer@planetexpress.com
+userPassword: Adelia
+ou: flight_crew
+uid: 3590
+ Q==

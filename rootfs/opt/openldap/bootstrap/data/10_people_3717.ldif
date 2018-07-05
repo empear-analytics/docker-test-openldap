@@ -1,0 +1,13 @@
+dn: cn=Sherril+sn=Scanlan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherril Scanlan
+cn: Scanlan
+givenname: Sherril
+mail: sherril.scanlan@planetexpress.com
+userPassword: Sherril
+ou: admin_staff
+uid: 3717
+ Q==

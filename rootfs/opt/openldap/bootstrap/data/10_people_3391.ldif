@@ -1,0 +1,13 @@
+dn: cn=Dede+sn=Quaile,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dede Quaile
+cn: Quaile
+givenname: Dede
+mail: dede.quaile@planetexpress.com
+userPassword: Dede
+ou: admin_staff
+uid: 3391
+ Q==

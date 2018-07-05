@@ -1,0 +1,13 @@
+dn: cn=Marylyn+sn=Kisamore,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marylyn Kisamore
+cn: Kisamore
+givenname: Marylyn
+mail: marylyn.kisamore@planetexpress.com
+userPassword: Marylyn
+ou: admin_staff
+uid: 1725
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Humberto+sn=Schooler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Humberto Schooler
+cn: Schooler
+givenname: Humberto
+mail: humberto.schooler@planetexpress.com
+userPassword: Humberto
+ou: admin_staff
+uid: 3471
+ Q==

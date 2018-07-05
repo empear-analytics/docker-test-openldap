@@ -1,0 +1,13 @@
+dn: cn=Ashanti+sn=Hoosier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ashanti Hoosier
+cn: Hoosier
+givenname: Ashanti
+mail: ashanti.hoosier@planetexpress.com
+userPassword: Ashanti
+ou: OtherGroup
+uid: 3818
+ Q==

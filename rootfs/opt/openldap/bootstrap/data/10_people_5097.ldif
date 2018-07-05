@@ -1,0 +1,13 @@
+dn: cn=Carmela+sn=Malis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carmela Malis
+cn: Malis
+givenname: Carmela
+mail: carmela.malis@planetexpress.com
+userPassword: Carmela
+ou: Group5
+uid: 5097
+ Q==

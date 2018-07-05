@@ -1,0 +1,13 @@
+dn: cn=Pura+sn=Martis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pura Martis
+cn: Martis
+givenname: Pura
+mail: pura.martis@planetexpress.com
+userPassword: Pura
+ou: OtherGroup
+uid: 1510
+ Q==

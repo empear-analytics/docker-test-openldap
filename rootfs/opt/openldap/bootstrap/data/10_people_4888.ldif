@@ -1,0 +1,13 @@
+dn: cn=Kellie+sn=Backmon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kellie Backmon
+cn: Backmon
+givenname: Kellie
+mail: kellie.backmon@planetexpress.com
+userPassword: Kellie
+ou: flight_crew
+uid: 4888
+ Q==

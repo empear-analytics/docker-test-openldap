@@ -1,0 +1,13 @@
+dn: cn=Dee+sn=Truelove,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dee Truelove
+cn: Truelove
+givenname: Dee
+mail: dee.truelove@planetexpress.com
+userPassword: Dee
+ou: flight_crew
+uid: 5377
+ Q==

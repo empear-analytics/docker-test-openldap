@@ -1,0 +1,13 @@
+dn: cn=Agueda+sn=Breakell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Agueda Breakell
+cn: Breakell
+givenname: Agueda
+mail: agueda.breakell@planetexpress.com
+userPassword: Agueda
+ou: Group5
+uid: 687
+ Q==

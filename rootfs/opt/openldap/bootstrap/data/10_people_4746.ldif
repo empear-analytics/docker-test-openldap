@@ -1,0 +1,13 @@
+dn: cn=Ebonie+sn=Haberman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ebonie Haberman
+cn: Haberman
+givenname: Ebonie
+mail: ebonie.haberman@planetexpress.com
+userPassword: Ebonie
+ou: admin_staff
+uid: 4746
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Un+sn=Lekan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Un Lekan
+cn: Lekan
+givenname: Un
+mail: un.lekan@planetexpress.com
+userPassword: Un
+ou: OtherGroup
+uid: 5825
+ Q==

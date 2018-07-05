@@ -1,0 +1,13 @@
+dn: cn=Wilfred+sn=Chism,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wilfred Chism
+cn: Chism
+givenname: Wilfred
+mail: wilfred.chism@planetexpress.com
+userPassword: Wilfred
+ou: OtherGroup
+uid: 854
+ Q==

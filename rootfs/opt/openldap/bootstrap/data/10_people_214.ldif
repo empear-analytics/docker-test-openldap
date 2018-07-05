@@ -1,0 +1,13 @@
+dn: cn=Jaime+sn=Thyne,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jaime Thyne
+cn: Thyne
+givenname: Jaime
+mail: jaime.thyne@planetexpress.com
+userPassword: Jaime
+ou: OtherGroup
+uid: 214
+ Q==

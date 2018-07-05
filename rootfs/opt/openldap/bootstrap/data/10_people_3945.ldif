@@ -1,0 +1,13 @@
+dn: cn=Cherish+sn=Cadiz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cherish Cadiz
+cn: Cadiz
+givenname: Cherish
+mail: cherish.cadiz@planetexpress.com
+userPassword: Cherish
+ou: flight_crew
+uid: 3945
+ Q==

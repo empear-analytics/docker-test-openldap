@@ -1,0 +1,13 @@
+dn: cn=Treena+sn=Dresner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Treena Dresner
+cn: Dresner
+givenname: Treena
+mail: treena.dresner@planetexpress.com
+userPassword: Treena
+ou: OtherGroup
+uid: 2315
+ Q==

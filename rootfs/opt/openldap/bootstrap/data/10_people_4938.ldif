@@ -1,0 +1,13 @@
+dn: cn=Meghann+sn=Saintamand,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Meghann Saintamand
+cn: Saintamand
+givenname: Meghann
+mail: meghann.saintamand@planetexpress.com
+userPassword: Meghann
+ou: flight_crew
+uid: 4938
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Sherlyn+sn=Donaho,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherlyn Donaho
+cn: Donaho
+givenname: Sherlyn
+mail: sherlyn.donaho@planetexpress.com
+userPassword: Sherlyn
+ou: OtherGroup
+uid: 4736
+ Q==

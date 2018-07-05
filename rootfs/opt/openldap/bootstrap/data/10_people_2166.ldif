@@ -1,0 +1,13 @@
+dn: cn=Mechelle+sn=Kolodziej,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mechelle Kolodziej
+cn: Kolodziej
+givenname: Mechelle
+mail: mechelle.kolodziej@planetexpress.com
+userPassword: Mechelle
+ou: flight_crew
+uid: 2166
+ Q==

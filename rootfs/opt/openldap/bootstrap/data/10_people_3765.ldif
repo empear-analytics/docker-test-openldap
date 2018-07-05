@@ -1,0 +1,13 @@
+dn: cn=Ruth+sn=Pylant,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ruth Pylant
+cn: Pylant
+givenname: Ruth
+mail: ruth.pylant@planetexpress.com
+userPassword: Ruth
+ou: OtherGroup
+uid: 3765
+ Q==

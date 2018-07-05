@@ -1,0 +1,13 @@
+dn: cn=Cora+sn=Ricucci,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cora Ricucci
+cn: Ricucci
+givenname: Cora
+mail: cora.ricucci@planetexpress.com
+userPassword: Cora
+ou: OtherGroup
+uid: 3686
+ Q==

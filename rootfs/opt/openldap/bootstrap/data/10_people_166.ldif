@@ -1,0 +1,13 @@
+dn: cn=Gale+sn=Yumas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gale Yumas
+cn: Yumas
+givenname: Gale
+mail: gale.yumas@planetexpress.com
+userPassword: Gale
+ou: Group5
+uid: 166
+ Q==

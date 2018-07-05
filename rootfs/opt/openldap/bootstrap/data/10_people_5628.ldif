@@ -1,0 +1,13 @@
+dn: cn=Scotty+sn=Guidry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Scotty Guidry
+cn: Guidry
+givenname: Scotty
+mail: scotty.guidry@planetexpress.com
+userPassword: Scotty
+ou: OtherGroup
+uid: 5628
+ Q==

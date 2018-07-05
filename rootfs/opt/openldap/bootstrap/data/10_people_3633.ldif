@@ -1,0 +1,13 @@
+dn: cn=Yolando+sn=Kiles,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yolando Kiles
+cn: Kiles
+givenname: Yolando
+mail: yolando.kiles@planetexpress.com
+userPassword: Yolando
+ou: Group5
+uid: 3633
+ Q==

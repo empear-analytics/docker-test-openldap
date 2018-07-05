@@ -1,0 +1,13 @@
+dn: cn=Muoi+sn=Jervis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Muoi Jervis
+cn: Jervis
+givenname: Muoi
+mail: muoi.jervis@planetexpress.com
+userPassword: Muoi
+ou: OtherGroup
+uid: 5976
+ Q==

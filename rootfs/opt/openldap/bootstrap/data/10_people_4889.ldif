@@ -1,0 +1,13 @@
+dn: cn=Jenae+sn=Heuer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jenae Heuer
+cn: Heuer
+givenname: Jenae
+mail: jenae.heuer@planetexpress.com
+userPassword: Jenae
+ou: OtherGroup
+uid: 4889
+ Q==

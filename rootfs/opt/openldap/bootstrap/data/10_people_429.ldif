@@ -1,0 +1,13 @@
+dn: cn=Doretta+sn=Clougherty,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Doretta Clougherty
+cn: Clougherty
+givenname: Doretta
+mail: doretta.clougherty@planetexpress.com
+userPassword: Doretta
+ou: flight_crew
+uid: 429
+ Q==

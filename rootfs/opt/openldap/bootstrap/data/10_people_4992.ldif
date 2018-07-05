@@ -1,0 +1,13 @@
+dn: cn=Shin+sn=Merryman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shin Merryman
+cn: Merryman
+givenname: Shin
+mail: shin.merryman@planetexpress.com
+userPassword: Shin
+ou: admin_staff
+uid: 4992
+ Q==

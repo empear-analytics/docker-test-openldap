@@ -1,0 +1,13 @@
+dn: cn=Avery+sn=Hemby,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Avery Hemby
+cn: Hemby
+givenname: Avery
+mail: avery.hemby@planetexpress.com
+userPassword: Avery
+ou: OtherGroup
+uid: 1407
+ Q==

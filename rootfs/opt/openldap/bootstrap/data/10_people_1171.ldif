@@ -1,0 +1,13 @@
+dn: cn=Wanda+sn=Borycz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wanda Borycz
+cn: Borycz
+givenname: Wanda
+mail: wanda.borycz@planetexpress.com
+userPassword: Wanda
+ou: admin_staff
+uid: 1171
+ Q==

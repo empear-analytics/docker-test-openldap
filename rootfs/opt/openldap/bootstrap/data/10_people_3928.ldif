@@ -1,0 +1,13 @@
+dn: cn=Peggie+sn=Linnemann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Peggie Linnemann
+cn: Linnemann
+givenname: Peggie
+mail: peggie.linnemann@planetexpress.com
+userPassword: Peggie
+ou: OtherGroup
+uid: 3928
+ Q==

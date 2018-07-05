@@ -1,0 +1,13 @@
+dn: cn=Lashandra+sn=Coltey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lashandra Coltey
+cn: Coltey
+givenname: Lashandra
+mail: lashandra.coltey@planetexpress.com
+userPassword: Lashandra
+ou: admin_staff
+uid: 5257
+ Q==

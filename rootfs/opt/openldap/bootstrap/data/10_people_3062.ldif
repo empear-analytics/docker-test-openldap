@@ -1,0 +1,13 @@
+dn: cn=Stephani+sn=Mcdonagh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stephani Mcdonagh
+cn: Mcdonagh
+givenname: Stephani
+mail: stephani.mcdonagh@planetexpress.com
+userPassword: Stephani
+ou: flight_crew
+uid: 3062
+ Q==

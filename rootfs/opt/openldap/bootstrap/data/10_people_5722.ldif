@@ -1,0 +1,13 @@
+dn: cn=Vikki+sn=Alarie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vikki Alarie
+cn: Alarie
+givenname: Vikki
+mail: vikki.alarie@planetexpress.com
+userPassword: Vikki
+ou: flight_crew
+uid: 5722
+ Q==

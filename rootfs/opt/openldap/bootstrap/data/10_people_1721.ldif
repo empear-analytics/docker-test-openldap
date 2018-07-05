@@ -1,0 +1,13 @@
+dn: cn=Delphine+sn=Tataris,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delphine Tataris
+cn: Tataris
+givenname: Delphine
+mail: delphine.tataris@planetexpress.com
+userPassword: Delphine
+ou: admin_staff
+uid: 1721
+ Q==

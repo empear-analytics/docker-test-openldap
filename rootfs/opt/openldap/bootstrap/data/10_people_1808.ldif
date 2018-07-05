@@ -1,0 +1,13 @@
+dn: cn=Kerrie+sn=Leopold,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kerrie Leopold
+cn: Leopold
+givenname: Kerrie
+mail: kerrie.leopold@planetexpress.com
+userPassword: Kerrie
+ou: admin_staff
+uid: 1808
+ Q==

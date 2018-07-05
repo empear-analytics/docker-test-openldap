@@ -1,0 +1,13 @@
+dn: cn=Moises+sn=Westray,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Moises Westray
+cn: Westray
+givenname: Moises
+mail: moises.westray@planetexpress.com
+userPassword: Moises
+ou: Group5
+uid: 4073
+ Q==

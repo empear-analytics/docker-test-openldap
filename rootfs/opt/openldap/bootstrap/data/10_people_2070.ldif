@@ -1,0 +1,13 @@
+dn: cn=Pamella+sn=Vassen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pamella Vassen
+cn: Vassen
+givenname: Pamella
+mail: pamella.vassen@planetexpress.com
+userPassword: Pamella
+ou: flight_crew
+uid: 2070
+ Q==

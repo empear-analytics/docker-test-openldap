@@ -1,0 +1,13 @@
+dn: cn=Golda+sn=Servatius,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Golda Servatius
+cn: Servatius
+givenname: Golda
+mail: golda.servatius@planetexpress.com
+userPassword: Golda
+ou: Group5
+uid: 548
+ Q==

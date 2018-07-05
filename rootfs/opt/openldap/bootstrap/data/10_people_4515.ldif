@@ -1,0 +1,13 @@
+dn: cn=Yaeko+sn=Or,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yaeko Or
+cn: Or
+givenname: Yaeko
+mail: yaeko.or@planetexpress.com
+userPassword: Yaeko
+ou: OtherGroup
+uid: 4515
+ Q==

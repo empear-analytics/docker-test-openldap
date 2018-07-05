@@ -1,0 +1,13 @@
+dn: cn=Emilia+sn=Persing,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emilia Persing
+cn: Persing
+givenname: Emilia
+mail: emilia.persing@planetexpress.com
+userPassword: Emilia
+ou: admin_staff
+uid: 2810
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lina+sn=Midden,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lina Midden
+cn: Midden
+givenname: Lina
+mail: lina.midden@planetexpress.com
+userPassword: Lina
+ou: admin_staff
+uid: 4391
+ Q==

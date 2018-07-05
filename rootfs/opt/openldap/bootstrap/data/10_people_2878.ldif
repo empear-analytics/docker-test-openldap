@@ -1,0 +1,13 @@
+dn: cn=Jamey+sn=Mutchler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamey Mutchler
+cn: Mutchler
+givenname: Jamey
+mail: jamey.mutchler@planetexpress.com
+userPassword: Jamey
+ou: admin_staff
+uid: 2878
+ Q==

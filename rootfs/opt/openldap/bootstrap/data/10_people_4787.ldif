@@ -1,0 +1,13 @@
+dn: cn=Dianne+sn=Drennan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dianne Drennan
+cn: Drennan
+givenname: Dianne
+mail: dianne.drennan@planetexpress.com
+userPassword: Dianne
+ou: OtherGroup
+uid: 4787
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Bobbye+sn=Coppa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bobbye Coppa
+cn: Coppa
+givenname: Bobbye
+mail: bobbye.coppa@planetexpress.com
+userPassword: Bobbye
+ou: OtherGroup
+uid: 2374
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Theda+sn=Gren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Theda Gren
+cn: Gren
+givenname: Theda
+mail: theda.gren@planetexpress.com
+userPassword: Theda
+ou: flight_crew
+uid: 5315
+ Q==

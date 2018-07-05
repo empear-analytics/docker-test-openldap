@@ -1,0 +1,13 @@
+dn: cn=Sona+sn=Elshant,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sona Elshant
+cn: Elshant
+givenname: Sona
+mail: sona.elshant@planetexpress.com
+userPassword: Sona
+ou: flight_crew
+uid: 4943
+ Q==

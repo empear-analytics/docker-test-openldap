@@ -1,0 +1,13 @@
+dn: cn=Rob+sn=Eble,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rob Eble
+cn: Eble
+givenname: Rob
+mail: rob.eble@planetexpress.com
+userPassword: Rob
+ou: flight_crew
+uid: 2890
+ Q==

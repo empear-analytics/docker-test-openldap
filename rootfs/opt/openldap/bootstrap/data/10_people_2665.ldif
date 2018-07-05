@@ -1,0 +1,13 @@
+dn: cn=Clarence+sn=Pocasangre,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clarence Pocasangre
+cn: Pocasangre
+givenname: Clarence
+mail: clarence.pocasangre@planetexpress.com
+userPassword: Clarence
+ou: admin_staff
+uid: 2665
+ Q==

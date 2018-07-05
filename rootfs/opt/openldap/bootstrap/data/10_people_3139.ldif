@@ -1,0 +1,13 @@
+dn: cn=Thanh+sn=Baucum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thanh Baucum
+cn: Baucum
+givenname: Thanh
+mail: thanh.baucum@planetexpress.com
+userPassword: Thanh
+ou: OtherGroup
+uid: 3139
+ Q==

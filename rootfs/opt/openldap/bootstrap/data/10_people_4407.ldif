@@ -1,0 +1,13 @@
+dn: cn=Evangeline+sn=Verrecchia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Evangeline Verrecchia
+cn: Verrecchia
+givenname: Evangeline
+mail: evangeline.verrecchia@planetexpress.com
+userPassword: Evangeline
+ou: flight_crew
+uid: 4407
+ Q==

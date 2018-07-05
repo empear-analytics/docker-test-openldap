@@ -1,0 +1,13 @@
+dn: cn=Maurice+sn=Icard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maurice Icard
+cn: Icard
+givenname: Maurice
+mail: maurice.icard@planetexpress.com
+userPassword: Maurice
+ou: flight_crew
+uid: 5442
+ Q==

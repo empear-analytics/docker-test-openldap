@@ -1,0 +1,13 @@
+dn: cn=Laverne+sn=Plascencia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Laverne Plascencia
+cn: Plascencia
+givenname: Laverne
+mail: laverne.plascencia@planetexpress.com
+userPassword: Laverne
+ou: Group5
+uid: 4903
+ Q==

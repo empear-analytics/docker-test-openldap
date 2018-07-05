@@ -1,0 +1,13 @@
+dn: cn=Vanita+sn=Ovadilla,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vanita Ovadilla
+cn: Ovadilla
+givenname: Vanita
+mail: vanita.ovadilla@planetexpress.com
+userPassword: Vanita
+ou: Group5
+uid: 1482
+ Q==

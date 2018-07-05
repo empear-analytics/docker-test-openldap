@@ -1,0 +1,13 @@
+dn: cn=Carla+sn=Frankart,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carla Frankart
+cn: Frankart
+givenname: Carla
+mail: carla.frankart@planetexpress.com
+userPassword: Carla
+ou: flight_crew
+uid: 4753
+ Q==

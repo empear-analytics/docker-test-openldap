@@ -1,0 +1,13 @@
+dn: cn=Stuart+sn=Bowering,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stuart Bowering
+cn: Bowering
+givenname: Stuart
+mail: stuart.bowering@planetexpress.com
+userPassword: Stuart
+ou: Group5
+uid: 2588
+ Q==

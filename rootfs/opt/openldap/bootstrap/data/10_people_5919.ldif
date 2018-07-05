@@ -1,0 +1,13 @@
+dn: cn=Raeann+sn=Riopelle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raeann Riopelle
+cn: Riopelle
+givenname: Raeann
+mail: raeann.riopelle@planetexpress.com
+userPassword: Raeann
+ou: flight_crew
+uid: 5919
+ Q==

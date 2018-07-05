@@ -1,0 +1,13 @@
+dn: cn=Reanna+sn=Kowalchick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reanna Kowalchick
+cn: Kowalchick
+givenname: Reanna
+mail: reanna.kowalchick@planetexpress.com
+userPassword: Reanna
+ou: Group5
+uid: 1911
+ Q==

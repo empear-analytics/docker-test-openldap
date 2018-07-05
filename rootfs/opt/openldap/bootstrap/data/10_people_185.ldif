@@ -1,0 +1,13 @@
+dn: cn=Ivelisse+sn=Burnison,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ivelisse Burnison
+cn: Burnison
+givenname: Ivelisse
+mail: ivelisse.burnison@planetexpress.com
+userPassword: Ivelisse
+ou: Group5
+uid: 185
+ Q==

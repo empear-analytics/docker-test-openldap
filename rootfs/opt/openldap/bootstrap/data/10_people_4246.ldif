@@ -1,0 +1,13 @@
+dn: cn=Bobette+sn=Mouse,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bobette Mouse
+cn: Mouse
+givenname: Bobette
+mail: bobette.mouse@planetexpress.com
+userPassword: Bobette
+ou: OtherGroup
+uid: 4246
+ Q==

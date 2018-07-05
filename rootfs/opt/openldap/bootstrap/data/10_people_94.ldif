@@ -1,0 +1,13 @@
+dn: cn=Lisa+sn=Varian,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lisa Varian
+cn: Varian
+givenname: Lisa
+mail: lisa.varian@planetexpress.com
+userPassword: Lisa
+ou: OtherGroup
+uid: 94
+ Q==

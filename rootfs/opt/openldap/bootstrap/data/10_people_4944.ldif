@@ -1,0 +1,13 @@
+dn: cn=Dillon+sn=Quin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dillon Quin
+cn: Quin
+givenname: Dillon
+mail: dillon.quin@planetexpress.com
+userPassword: Dillon
+ou: flight_crew
+uid: 4944
+ Q==

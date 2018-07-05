@@ -1,0 +1,13 @@
+dn: cn=Nathanael+sn=Shamsiddeen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nathanael Shamsiddeen
+cn: Shamsiddeen
+givenname: Nathanael
+mail: nathanael.shamsiddeen@planetexpress.com
+userPassword: Nathanael
+ou: OtherGroup
+uid: 5082
+ Q==

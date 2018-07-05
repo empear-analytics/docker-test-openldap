@@ -1,0 +1,13 @@
+dn: cn=Deon+sn=Berth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deon Berth
+cn: Berth
+givenname: Deon
+mail: deon.berth@planetexpress.com
+userPassword: Deon
+ou: Group5
+uid: 981
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kira+sn=Novitsky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kira Novitsky
+cn: Novitsky
+givenname: Kira
+mail: kira.novitsky@planetexpress.com
+userPassword: Kira
+ou: admin_staff
+uid: 4163
+ Q==

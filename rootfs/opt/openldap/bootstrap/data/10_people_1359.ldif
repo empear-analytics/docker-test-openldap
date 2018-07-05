@@ -1,0 +1,13 @@
+dn: cn=Derek+sn=Havermann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Derek Havermann
+cn: Havermann
+givenname: Derek
+mail: derek.havermann@planetexpress.com
+userPassword: Derek
+ou: flight_crew
+uid: 1359
+ Q==

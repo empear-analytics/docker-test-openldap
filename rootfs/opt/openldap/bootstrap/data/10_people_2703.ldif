@@ -1,0 +1,13 @@
+dn: cn=Misha+sn=Pedraza,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Misha Pedraza
+cn: Pedraza
+givenname: Misha
+mail: misha.pedraza@planetexpress.com
+userPassword: Misha
+ou: Group5
+uid: 2703
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kathlene+sn=Kimple,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kathlene Kimple
+cn: Kimple
+givenname: Kathlene
+mail: kathlene.kimple@planetexpress.com
+userPassword: Kathlene
+ou: admin_staff
+uid: 2102
+ Q==

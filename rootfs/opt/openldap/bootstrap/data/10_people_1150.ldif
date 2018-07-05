@@ -1,0 +1,13 @@
+dn: cn=Roslyn+sn=Moroney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roslyn Moroney
+cn: Moroney
+givenname: Roslyn
+mail: roslyn.moroney@planetexpress.com
+userPassword: Roslyn
+ou: flight_crew
+uid: 1150
+ Q==

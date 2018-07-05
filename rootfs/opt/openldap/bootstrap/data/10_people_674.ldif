@@ -1,0 +1,13 @@
+dn: cn=Charolette+sn=Luebbers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charolette Luebbers
+cn: Luebbers
+givenname: Charolette
+mail: charolette.luebbers@planetexpress.com
+userPassword: Charolette
+ou: flight_crew
+uid: 674
+ Q==

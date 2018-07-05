@@ -1,0 +1,13 @@
+dn: cn=Young+sn=Viviano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Young Viviano
+cn: Viviano
+givenname: Young
+mail: young.viviano@planetexpress.com
+userPassword: Young
+ou: Group5
+uid: 170
+ Q==

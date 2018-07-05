@@ -1,0 +1,13 @@
+dn: cn=Kia+sn=Bilous,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kia Bilous
+cn: Bilous
+givenname: Kia
+mail: kia.bilous@planetexpress.com
+userPassword: Kia
+ou: admin_staff
+uid: 3128
+ Q==

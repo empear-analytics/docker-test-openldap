@@ -1,0 +1,13 @@
+dn: cn=Otto+sn=Morelock,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Otto Morelock
+cn: Morelock
+givenname: Otto
+mail: otto.morelock@planetexpress.com
+userPassword: Otto
+ou: Group5
+uid: 5798
+ Q==

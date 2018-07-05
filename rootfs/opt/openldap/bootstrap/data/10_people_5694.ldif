@@ -1,0 +1,13 @@
+dn: cn=Jeff+sn=Krakowski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeff Krakowski
+cn: Krakowski
+givenname: Jeff
+mail: jeff.krakowski@planetexpress.com
+userPassword: Jeff
+ou: Group5
+uid: 5694
+ Q==

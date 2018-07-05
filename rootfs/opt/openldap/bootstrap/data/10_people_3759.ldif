@@ -1,0 +1,13 @@
+dn: cn=Lidia+sn=Tangen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lidia Tangen
+cn: Tangen
+givenname: Lidia
+mail: lidia.tangen@planetexpress.com
+userPassword: Lidia
+ou: OtherGroup
+uid: 3759
+ Q==

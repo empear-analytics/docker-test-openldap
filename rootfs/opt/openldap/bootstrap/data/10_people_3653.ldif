@@ -1,0 +1,13 @@
+dn: cn=Austin+sn=Pynes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Austin Pynes
+cn: Pynes
+givenname: Austin
+mail: austin.pynes@planetexpress.com
+userPassword: Austin
+ou: flight_crew
+uid: 3653
+ Q==

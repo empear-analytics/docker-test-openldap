@@ -1,0 +1,13 @@
+dn: cn=Meaghan+sn=Vanderkar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Meaghan Vanderkar
+cn: Vanderkar
+givenname: Meaghan
+mail: meaghan.vanderkar@planetexpress.com
+userPassword: Meaghan
+ou: flight_crew
+uid: 1731
+ Q==

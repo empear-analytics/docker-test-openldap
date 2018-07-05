@@ -1,0 +1,13 @@
+dn: cn=Cindie+sn=Kaufmann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cindie Kaufmann
+cn: Kaufmann
+givenname: Cindie
+mail: cindie.kaufmann@planetexpress.com
+userPassword: Cindie
+ou: flight_crew
+uid: 788
+ Q==

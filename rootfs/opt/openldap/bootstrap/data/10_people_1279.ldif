@@ -1,0 +1,13 @@
+dn: cn=Al+sn=Hendee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Al Hendee
+cn: Hendee
+givenname: Al
+mail: al.hendee@planetexpress.com
+userPassword: Al
+ou: admin_staff
+uid: 1279
+ Q==

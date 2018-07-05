@@ -1,0 +1,13 @@
+dn: cn=Joe+sn=Cheaney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joe Cheaney
+cn: Cheaney
+givenname: Joe
+mail: joe.cheaney@planetexpress.com
+userPassword: Joe
+ou: Group5
+uid: 945
+ Q==

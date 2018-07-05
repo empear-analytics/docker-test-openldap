@@ -1,0 +1,13 @@
+dn: cn=Numbers+sn=Agni,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Numbers Agni
+cn: Agni
+givenname: Numbers
+mail: numbers.agni@planetexpress.com
+userPassword: Numbers
+ou: admin_staff
+uid: 3924
+ Q==

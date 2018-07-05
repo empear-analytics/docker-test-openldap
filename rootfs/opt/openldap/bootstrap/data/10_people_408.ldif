@@ -1,0 +1,13 @@
+dn: cn=Angella+sn=Wah,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angella Wah
+cn: Wah
+givenname: Angella
+mail: angella.wah@planetexpress.com
+userPassword: Angella
+ou: admin_staff
+uid: 408
+ Q==

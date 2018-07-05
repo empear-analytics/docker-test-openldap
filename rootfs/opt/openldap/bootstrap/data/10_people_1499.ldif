@@ -1,0 +1,13 @@
+dn: cn=Jorge+sn=Yaskiewicz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jorge Yaskiewicz
+cn: Yaskiewicz
+givenname: Jorge
+mail: jorge.yaskiewicz@planetexpress.com
+userPassword: Jorge
+ou: Group5
+uid: 1499
+ Q==

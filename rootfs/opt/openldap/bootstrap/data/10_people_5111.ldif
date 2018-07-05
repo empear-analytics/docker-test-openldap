@@ -1,0 +1,13 @@
+dn: cn=Tandy+sn=Skala,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tandy Skala
+cn: Skala
+givenname: Tandy
+mail: tandy.skala@planetexpress.com
+userPassword: Tandy
+ou: OtherGroup
+uid: 5111
+ Q==

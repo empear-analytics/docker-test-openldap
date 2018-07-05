@@ -1,0 +1,13 @@
+dn: cn=Luba+sn=Swedberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Luba Swedberg
+cn: Swedberg
+givenname: Luba
+mail: luba.swedberg@planetexpress.com
+userPassword: Luba
+ou: OtherGroup
+uid: 3965
+ Q==

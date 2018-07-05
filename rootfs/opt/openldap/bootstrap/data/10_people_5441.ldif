@@ -1,0 +1,13 @@
+dn: cn=Arianna+sn=Chahal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arianna Chahal
+cn: Chahal
+givenname: Arianna
+mail: arianna.chahal@planetexpress.com
+userPassword: Arianna
+ou: OtherGroup
+uid: 5441
+ Q==

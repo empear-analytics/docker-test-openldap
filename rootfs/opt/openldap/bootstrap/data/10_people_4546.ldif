@@ -1,0 +1,13 @@
+dn: cn=Enrique+sn=Willour,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Enrique Willour
+cn: Willour
+givenname: Enrique
+mail: enrique.willour@planetexpress.com
+userPassword: Enrique
+ou: flight_crew
+uid: 4546
+ Q==

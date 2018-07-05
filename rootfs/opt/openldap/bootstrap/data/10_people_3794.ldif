@@ -1,0 +1,13 @@
+dn: cn=Alexander+sn=Solak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alexander Solak
+cn: Solak
+givenname: Alexander
+mail: alexander.solak@planetexpress.com
+userPassword: Alexander
+ou: admin_staff
+uid: 3794
+ Q==

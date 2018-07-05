@@ -1,0 +1,13 @@
+dn: cn=Maurice+sn=Kainoa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maurice Kainoa
+cn: Kainoa
+givenname: Maurice
+mail: maurice.kainoa@planetexpress.com
+userPassword: Maurice
+ou: OtherGroup
+uid: 1662
+ Q==

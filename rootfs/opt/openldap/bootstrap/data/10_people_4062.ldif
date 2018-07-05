@@ -1,0 +1,13 @@
+dn: cn=Elois+sn=Massed,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elois Massed
+cn: Massed
+givenname: Elois
+mail: elois.massed@planetexpress.com
+userPassword: Elois
+ou: flight_crew
+uid: 4062
+ Q==

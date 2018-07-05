@@ -1,0 +1,13 @@
+dn: cn=Dick+sn=Buscher,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dick Buscher
+cn: Buscher
+givenname: Dick
+mail: dick.buscher@planetexpress.com
+userPassword: Dick
+ou: flight_crew
+uid: 5683
+ Q==

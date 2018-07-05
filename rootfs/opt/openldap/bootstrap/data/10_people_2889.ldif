@@ -1,0 +1,13 @@
+dn: cn=Louis+sn=Sicinski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Louis Sicinski
+cn: Sicinski
+givenname: Louis
+mail: louis.sicinski@planetexpress.com
+userPassword: Louis
+ou: flight_crew
+uid: 2889
+ Q==

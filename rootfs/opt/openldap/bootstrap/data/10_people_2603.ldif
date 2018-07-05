@@ -1,0 +1,13 @@
+dn: cn=Kennith+sn=Siok,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kennith Siok
+cn: Siok
+givenname: Kennith
+mail: kennith.siok@planetexpress.com
+userPassword: Kennith
+ou: OtherGroup
+uid: 2603
+ Q==

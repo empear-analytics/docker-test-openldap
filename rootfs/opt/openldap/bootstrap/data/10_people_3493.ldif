@@ -1,0 +1,13 @@
+dn: cn=Warren+sn=Rebert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Warren Rebert
+cn: Rebert
+givenname: Warren
+mail: warren.rebert@planetexpress.com
+userPassword: Warren
+ou: OtherGroup
+uid: 3493
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Brice+sn=Breaux,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brice Breaux
+cn: Breaux
+givenname: Brice
+mail: brice.breaux@planetexpress.com
+userPassword: Brice
+ou: flight_crew
+uid: 4760
+ Q==

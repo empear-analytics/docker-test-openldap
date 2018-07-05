@@ -1,0 +1,13 @@
+dn: cn=Addie+sn=Edu,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Addie Edu
+cn: Edu
+givenname: Addie
+mail: addie.edu@planetexpress.com
+userPassword: Addie
+ou: Group5
+uid: 3053
+ Q==

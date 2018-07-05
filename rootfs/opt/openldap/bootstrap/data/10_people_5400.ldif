@@ -1,0 +1,13 @@
+dn: cn=Coreen+sn=Brasfield,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Coreen Brasfield
+cn: Brasfield
+givenname: Coreen
+mail: coreen.brasfield@planetexpress.com
+userPassword: Coreen
+ou: Group5
+uid: 5400
+ Q==

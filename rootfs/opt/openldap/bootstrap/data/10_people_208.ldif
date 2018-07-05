@@ -1,0 +1,13 @@
+dn: cn=Eartha+sn=Rosado,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eartha Rosado
+cn: Rosado
+givenname: Eartha
+mail: eartha.rosado@planetexpress.com
+userPassword: Eartha
+ou: Group5
+uid: 208
+ Q==

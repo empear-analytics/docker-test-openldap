@@ -1,0 +1,13 @@
+dn: cn=Crissy+sn=Ducceschi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Crissy Ducceschi
+cn: Ducceschi
+givenname: Crissy
+mail: crissy.ducceschi@planetexpress.com
+userPassword: Crissy
+ou: admin_staff
+uid: 1708
+ Q==

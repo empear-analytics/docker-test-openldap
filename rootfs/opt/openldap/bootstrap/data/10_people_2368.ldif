@@ -1,0 +1,13 @@
+dn: cn=Hortense+sn=Notti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hortense Notti
+cn: Notti
+givenname: Hortense
+mail: hortense.notti@planetexpress.com
+userPassword: Hortense
+ou: admin_staff
+uid: 2368
+ Q==

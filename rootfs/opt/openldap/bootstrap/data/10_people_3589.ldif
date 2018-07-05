@@ -1,0 +1,13 @@
+dn: cn=Blake+sn=Juhnke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Blake Juhnke
+cn: Juhnke
+givenname: Blake
+mail: blake.juhnke@planetexpress.com
+userPassword: Blake
+ou: admin_staff
+uid: 3589
+ Q==

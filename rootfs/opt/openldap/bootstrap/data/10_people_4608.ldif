@@ -1,0 +1,13 @@
+dn: cn=Deirdre+sn=Mase,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deirdre Mase
+cn: Mase
+givenname: Deirdre
+mail: deirdre.mase@planetexpress.com
+userPassword: Deirdre
+ou: admin_staff
+uid: 4608
+ Q==

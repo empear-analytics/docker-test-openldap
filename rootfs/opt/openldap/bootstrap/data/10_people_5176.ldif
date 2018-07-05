@@ -1,0 +1,13 @@
+dn: cn=Margery+sn=Danns,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margery Danns
+cn: Danns
+givenname: Margery
+mail: margery.danns@planetexpress.com
+userPassword: Margery
+ou: OtherGroup
+uid: 5176
+ Q==

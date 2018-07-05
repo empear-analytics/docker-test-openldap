@@ -1,0 +1,13 @@
+dn: cn=Pauletta+sn=Slicer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pauletta Slicer
+cn: Slicer
+givenname: Pauletta
+mail: pauletta.slicer@planetexpress.com
+userPassword: Pauletta
+ou: flight_crew
+uid: 806
+ Q==

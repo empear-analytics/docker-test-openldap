@@ -1,0 +1,13 @@
+dn: cn=Antonietta+sn=Haas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Antonietta Haas
+cn: Haas
+givenname: Antonietta
+mail: antonietta.haas@planetexpress.com
+userPassword: Antonietta
+ou: Group5
+uid: 755
+ Q==

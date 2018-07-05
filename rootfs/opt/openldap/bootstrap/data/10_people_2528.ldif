@@ -1,0 +1,13 @@
+dn: cn=Mistie+sn=Gillogly,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mistie Gillogly
+cn: Gillogly
+givenname: Mistie
+mail: mistie.gillogly@planetexpress.com
+userPassword: Mistie
+ou: OtherGroup
+uid: 2528
+ Q==

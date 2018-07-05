@@ -1,0 +1,13 @@
+dn: cn=Tu+sn=Bloom,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tu Bloom
+cn: Bloom
+givenname: Tu
+mail: tu.bloom@planetexpress.com
+userPassword: Tu
+ou: OtherGroup
+uid: 1976
+ Q==

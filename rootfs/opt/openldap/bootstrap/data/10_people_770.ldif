@@ -1,0 +1,13 @@
+dn: cn=Bobette+sn=Bohlsen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bobette Bohlsen
+cn: Bohlsen
+givenname: Bobette
+mail: bobette.bohlsen@planetexpress.com
+userPassword: Bobette
+ou: OtherGroup
+uid: 770
+ Q==

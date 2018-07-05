@@ -1,0 +1,13 @@
+dn: cn=Stewart+sn=Demoss,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stewart Demoss
+cn: Demoss
+givenname: Stewart
+mail: stewart.demoss@planetexpress.com
+userPassword: Stewart
+ou: OtherGroup
+uid: 941
+ Q==

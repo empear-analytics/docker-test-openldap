@@ -1,0 +1,13 @@
+dn: cn=Jessika+sn=Mccandless,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jessika Mccandless
+cn: Mccandless
+givenname: Jessika
+mail: jessika.mccandless@planetexpress.com
+userPassword: Jessika
+ou: admin_staff
+uid: 5918
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Janet+sn=Elie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janet Elie
+cn: Elie
+givenname: Janet
+mail: janet.elie@planetexpress.com
+userPassword: Janet
+ou: flight_crew
+uid: 1854
+ Q==

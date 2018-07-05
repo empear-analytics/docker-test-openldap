@@ -1,0 +1,13 @@
+dn: cn=Charlotte+sn=Dulin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charlotte Dulin
+cn: Dulin
+givenname: Charlotte
+mail: charlotte.dulin@planetexpress.com
+userPassword: Charlotte
+ou: admin_staff
+uid: 4121
+ Q==

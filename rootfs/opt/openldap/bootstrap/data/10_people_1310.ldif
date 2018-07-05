@@ -1,0 +1,13 @@
+dn: cn=Apolonia+sn=Shallenberger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Apolonia Shallenberger
+cn: Shallenberger
+givenname: Apolonia
+mail: apolonia.shallenberger@planetexpress.com
+userPassword: Apolonia
+ou: flight_crew
+uid: 1310
+ Q==

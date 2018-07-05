@@ -1,0 +1,13 @@
+dn: cn=Elvina+sn=Harrington,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elvina Harrington
+cn: Harrington
+givenname: Elvina
+mail: elvina.harrington@planetexpress.com
+userPassword: Elvina
+ou: admin_staff
+uid: 3828
+ Q==

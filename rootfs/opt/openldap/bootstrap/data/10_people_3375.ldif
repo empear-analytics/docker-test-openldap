@@ -1,0 +1,13 @@
+dn: cn=Meg+sn=Styron,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Meg Styron
+cn: Styron
+givenname: Meg
+mail: meg.styron@planetexpress.com
+userPassword: Meg
+ou: Group5
+uid: 3375
+ Q==

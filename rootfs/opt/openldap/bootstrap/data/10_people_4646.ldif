@@ -1,0 +1,13 @@
+dn: cn=Latasha+sn=Denapoli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Latasha Denapoli
+cn: Denapoli
+givenname: Latasha
+mail: latasha.denapoli@planetexpress.com
+userPassword: Latasha
+ou: Group5
+uid: 4646
+ Q==

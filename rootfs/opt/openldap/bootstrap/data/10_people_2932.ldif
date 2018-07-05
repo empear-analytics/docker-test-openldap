@@ -1,0 +1,13 @@
+dn: cn=Laurene+sn=Bellace,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Laurene Bellace
+cn: Bellace
+givenname: Laurene
+mail: laurene.bellace@planetexpress.com
+userPassword: Laurene
+ou: flight_crew
+uid: 2932
+ Q==

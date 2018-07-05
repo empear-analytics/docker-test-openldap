@@ -1,0 +1,13 @@
+dn: cn=Verda+sn=Sluka,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Verda Sluka
+cn: Sluka
+givenname: Verda
+mail: verda.sluka@planetexpress.com
+userPassword: Verda
+ou: Group5
+uid: 5191
+ Q==

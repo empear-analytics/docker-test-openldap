@@ -1,0 +1,13 @@
+dn: cn=Yvone+sn=Hannig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yvone Hannig
+cn: Hannig
+givenname: Yvone
+mail: yvone.hannig@planetexpress.com
+userPassword: Yvone
+ou: admin_staff
+uid: 4688
+ Q==

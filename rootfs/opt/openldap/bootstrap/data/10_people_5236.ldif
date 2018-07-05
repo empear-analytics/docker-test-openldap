@@ -1,0 +1,13 @@
+dn: cn=Leo+sn=Boulter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leo Boulter
+cn: Boulter
+givenname: Leo
+mail: leo.boulter@planetexpress.com
+userPassword: Leo
+ou: admin_staff
+uid: 5236
+ Q==

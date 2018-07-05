@@ -1,0 +1,13 @@
+dn: cn=Edith+sn=Muckleroy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edith Muckleroy
+cn: Muckleroy
+givenname: Edith
+mail: edith.muckleroy@planetexpress.com
+userPassword: Edith
+ou: Group5
+uid: 3780
+ Q==

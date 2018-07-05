@@ -1,0 +1,13 @@
+dn: cn=Jarrod+sn=Riddock,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jarrod Riddock
+cn: Riddock
+givenname: Jarrod
+mail: jarrod.riddock@planetexpress.com
+userPassword: Jarrod
+ou: admin_staff
+uid: 2004
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Casimira+sn=Stansbury,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Casimira Stansbury
+cn: Stansbury
+givenname: Casimira
+mail: casimira.stansbury@planetexpress.com
+userPassword: Casimira
+ou: OtherGroup
+uid: 1456
+ Q==

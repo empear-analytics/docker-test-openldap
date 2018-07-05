@@ -1,0 +1,13 @@
+dn: cn=Doug+sn=Kelty,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Doug Kelty
+cn: Kelty
+givenname: Doug
+mail: doug.kelty@planetexpress.com
+userPassword: Doug
+ou: OtherGroup
+uid: 5651
+ Q==

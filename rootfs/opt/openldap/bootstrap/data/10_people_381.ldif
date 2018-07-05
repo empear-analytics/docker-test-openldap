@@ -1,0 +1,13 @@
+dn: cn=Gwendolyn+sn=Garnsey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gwendolyn Garnsey
+cn: Garnsey
+givenname: Gwendolyn
+mail: gwendolyn.garnsey@planetexpress.com
+userPassword: Gwendolyn
+ou: OtherGroup
+uid: 381
+ Q==

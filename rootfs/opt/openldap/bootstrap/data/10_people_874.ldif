@@ -1,0 +1,13 @@
+dn: cn=Randa+sn=Rewerts,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Randa Rewerts
+cn: Rewerts
+givenname: Randa
+mail: randa.rewerts@planetexpress.com
+userPassword: Randa
+ou: admin_staff
+uid: 874
+ Q==

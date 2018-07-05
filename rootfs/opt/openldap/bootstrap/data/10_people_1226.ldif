@@ -1,0 +1,13 @@
+dn: cn=Cuc+sn=Pangilinan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cuc Pangilinan
+cn: Pangilinan
+givenname: Cuc
+mail: cuc.pangilinan@planetexpress.com
+userPassword: Cuc
+ou: OtherGroup
+uid: 1226
+ Q==

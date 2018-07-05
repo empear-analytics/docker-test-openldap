@@ -1,0 +1,13 @@
+dn: cn=Thersa+sn=Konieczka,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thersa Konieczka
+cn: Konieczka
+givenname: Thersa
+mail: thersa.konieczka@planetexpress.com
+userPassword: Thersa
+ou: admin_staff
+uid: 1606
+ Q==

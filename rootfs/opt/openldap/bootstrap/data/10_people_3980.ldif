@@ -1,0 +1,13 @@
+dn: cn=Gracia+sn=Magliocco,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gracia Magliocco
+cn: Magliocco
+givenname: Gracia
+mail: gracia.magliocco@planetexpress.com
+userPassword: Gracia
+ou: admin_staff
+uid: 3980
+ Q==

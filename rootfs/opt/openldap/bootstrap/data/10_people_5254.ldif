@@ -1,0 +1,13 @@
+dn: cn=Antoinette+sn=Smink,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Antoinette Smink
+cn: Smink
+givenname: Antoinette
+mail: antoinette.smink@planetexpress.com
+userPassword: Antoinette
+ou: flight_crew
+uid: 5254
+ Q==

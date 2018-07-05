@@ -1,0 +1,13 @@
+dn: cn=Lolita+sn=Alonza,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lolita Alonza
+cn: Alonza
+givenname: Lolita
+mail: lolita.alonza@planetexpress.com
+userPassword: Lolita
+ou: admin_staff
+uid: 705
+ Q==

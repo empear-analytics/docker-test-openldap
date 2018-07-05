@@ -1,0 +1,13 @@
+dn: cn=Annamarie+sn=Stretch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annamarie Stretch
+cn: Stretch
+givenname: Annamarie
+mail: annamarie.stretch@planetexpress.com
+userPassword: Annamarie
+ou: flight_crew
+uid: 211
+ Q==

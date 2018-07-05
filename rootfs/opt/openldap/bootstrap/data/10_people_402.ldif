@@ -1,0 +1,13 @@
+dn: cn=Maricruz+sn=Perloff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maricruz Perloff
+cn: Perloff
+givenname: Maricruz
+mail: maricruz.perloff@planetexpress.com
+userPassword: Maricruz
+ou: flight_crew
+uid: 402
+ Q==

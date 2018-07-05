@@ -1,0 +1,13 @@
+dn: cn=Teodora+sn=Steir,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Teodora Steir
+cn: Steir
+givenname: Teodora
+mail: teodora.steir@planetexpress.com
+userPassword: Teodora
+ou: admin_staff
+uid: 1027
+ Q==

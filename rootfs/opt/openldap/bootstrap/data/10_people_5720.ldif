@@ -1,0 +1,13 @@
+dn: cn=Thresa+sn=Hebner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thresa Hebner
+cn: Hebner
+givenname: Thresa
+mail: thresa.hebner@planetexpress.com
+userPassword: Thresa
+ou: Group5
+uid: 5720
+ Q==

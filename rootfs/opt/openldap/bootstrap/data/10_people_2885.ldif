@@ -1,0 +1,13 @@
+dn: cn=Davida+sn=Nastasia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Davida Nastasia
+cn: Nastasia
+givenname: Davida
+mail: davida.nastasia@planetexpress.com
+userPassword: Davida
+ou: flight_crew
+uid: 2885
+ Q==

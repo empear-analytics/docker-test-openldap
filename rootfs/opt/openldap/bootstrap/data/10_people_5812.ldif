@@ -1,0 +1,13 @@
+dn: cn=Malka+sn=Davidson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Malka Davidson
+cn: Davidson
+givenname: Malka
+mail: malka.davidson@planetexpress.com
+userPassword: Malka
+ou: flight_crew
+uid: 5812
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Randell+sn=Madine,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Randell Madine
+cn: Madine
+givenname: Randell
+mail: randell.madine@planetexpress.com
+userPassword: Randell
+ou: admin_staff
+uid: 2800
+ Q==

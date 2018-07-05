@@ -1,0 +1,13 @@
+dn: cn=Ivette+sn=Holsing,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ivette Holsing
+cn: Holsing
+givenname: Ivette
+mail: ivette.holsing@planetexpress.com
+userPassword: Ivette
+ou: flight_crew
+uid: 1024
+ Q==

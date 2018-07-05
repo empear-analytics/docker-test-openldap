@@ -1,0 +1,13 @@
+dn: cn=Ronda+sn=Goode,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ronda Goode
+cn: Goode
+givenname: Ronda
+mail: ronda.goode@planetexpress.com
+userPassword: Ronda
+ou: flight_crew
+uid: 1448
+ Q==

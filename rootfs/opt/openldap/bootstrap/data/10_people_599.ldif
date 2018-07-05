@@ -1,0 +1,13 @@
+dn: cn=Lesley+sn=Baumli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lesley Baumli
+cn: Baumli
+givenname: Lesley
+mail: lesley.baumli@planetexpress.com
+userPassword: Lesley
+ou: flight_crew
+uid: 599
+ Q==

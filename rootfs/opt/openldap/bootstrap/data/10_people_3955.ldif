@@ -1,0 +1,13 @@
+dn: cn=Maria+sn=Heyduck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maria Heyduck
+cn: Heyduck
+givenname: Maria
+mail: maria.heyduck@planetexpress.com
+userPassword: Maria
+ou: flight_crew
+uid: 3955
+ Q==

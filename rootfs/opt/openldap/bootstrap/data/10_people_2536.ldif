@@ -1,0 +1,13 @@
+dn: cn=Elenora+sn=Zuckerwar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elenora Zuckerwar
+cn: Zuckerwar
+givenname: Elenora
+mail: elenora.zuckerwar@planetexpress.com
+userPassword: Elenora
+ou: Group5
+uid: 2536
+ Q==

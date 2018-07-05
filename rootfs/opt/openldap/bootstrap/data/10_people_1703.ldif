@@ -1,0 +1,13 @@
+dn: cn=Marguerite+sn=Marrapodi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marguerite Marrapodi
+cn: Marrapodi
+givenname: Marguerite
+mail: marguerite.marrapodi@planetexpress.com
+userPassword: Marguerite
+ou: OtherGroup
+uid: 1703
+ Q==

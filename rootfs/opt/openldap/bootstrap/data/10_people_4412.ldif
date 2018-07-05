@@ -1,0 +1,13 @@
+dn: cn=Sherry+sn=Smyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherry Smyer
+cn: Smyer
+givenname: Sherry
+mail: sherry.smyer@planetexpress.com
+userPassword: Sherry
+ou: Group5
+uid: 4412
+ Q==

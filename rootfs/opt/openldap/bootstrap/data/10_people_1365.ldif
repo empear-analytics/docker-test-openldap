@@ -1,0 +1,13 @@
+dn: cn=Moriah+sn=Meitzler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Moriah Meitzler
+cn: Meitzler
+givenname: Moriah
+mail: moriah.meitzler@planetexpress.com
+userPassword: Moriah
+ou: admin_staff
+uid: 1365
+ Q==

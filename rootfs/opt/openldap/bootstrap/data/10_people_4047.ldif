@@ -1,0 +1,13 @@
+dn: cn=Laquanda+sn=Sheive,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Laquanda Sheive
+cn: Sheive
+givenname: Laquanda
+mail: laquanda.sheive@planetexpress.com
+userPassword: Laquanda
+ou: flight_crew
+uid: 4047
+ Q==

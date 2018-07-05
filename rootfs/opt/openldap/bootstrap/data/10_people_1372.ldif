@@ -1,0 +1,13 @@
+dn: cn=Neoma+sn=Drouillard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Neoma Drouillard
+cn: Drouillard
+givenname: Neoma
+mail: neoma.drouillard@planetexpress.com
+userPassword: Neoma
+ou: Group5
+uid: 1372
+ Q==

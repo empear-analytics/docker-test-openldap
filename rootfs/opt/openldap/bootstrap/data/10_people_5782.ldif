@@ -1,0 +1,13 @@
+dn: cn=Lourie+sn=Lubell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lourie Lubell
+cn: Lubell
+givenname: Lourie
+mail: lourie.lubell@planetexpress.com
+userPassword: Lourie
+ou: admin_staff
+uid: 5782
+ Q==

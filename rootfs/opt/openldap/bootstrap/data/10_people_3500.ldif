@@ -1,0 +1,13 @@
+dn: cn=Latina+sn=Vipond,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Latina Vipond
+cn: Vipond
+givenname: Latina
+mail: latina.vipond@planetexpress.com
+userPassword: Latina
+ou: Group5
+uid: 3500
+ Q==

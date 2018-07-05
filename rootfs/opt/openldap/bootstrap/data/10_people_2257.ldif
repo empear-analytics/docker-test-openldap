@@ -1,0 +1,13 @@
+dn: cn=Cathey+sn=Marsteller,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cathey Marsteller
+cn: Marsteller
+givenname: Cathey
+mail: cathey.marsteller@planetexpress.com
+userPassword: Cathey
+ou: admin_staff
+uid: 2257
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Florentina+sn=Buchmann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Florentina Buchmann
+cn: Buchmann
+givenname: Florentina
+mail: florentina.buchmann@planetexpress.com
+userPassword: Florentina
+ou: OtherGroup
+uid: 574
+ Q==

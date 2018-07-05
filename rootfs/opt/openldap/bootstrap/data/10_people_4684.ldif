@@ -1,0 +1,13 @@
+dn: cn=Beau+sn=Croslin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beau Croslin
+cn: Croslin
+givenname: Beau
+mail: beau.croslin@planetexpress.com
+userPassword: Beau
+ou: OtherGroup
+uid: 4684
+ Q==

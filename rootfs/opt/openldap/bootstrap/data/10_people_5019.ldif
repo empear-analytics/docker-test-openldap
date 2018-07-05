@@ -1,0 +1,13 @@
+dn: cn=Desire+sn=Hilbner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Desire Hilbner
+cn: Hilbner
+givenname: Desire
+mail: desire.hilbner@planetexpress.com
+userPassword: Desire
+ou: admin_staff
+uid: 5019
+ Q==

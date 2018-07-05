@@ -1,0 +1,13 @@
+dn: cn=Felicita+sn=Phetsanghane,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Felicita Phetsanghane
+cn: Phetsanghane
+givenname: Felicita
+mail: felicita.phetsanghane@planetexpress.com
+userPassword: Felicita
+ou: OtherGroup
+uid: 4447
+ Q==

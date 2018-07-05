@@ -1,0 +1,13 @@
+dn: cn=Hee+sn=Schriefer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hee Schriefer
+cn: Schriefer
+givenname: Hee
+mail: hee.schriefer@planetexpress.com
+userPassword: Hee
+ou: Group5
+uid: 1414
+ Q==

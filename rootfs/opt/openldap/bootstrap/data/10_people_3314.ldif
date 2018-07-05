@@ -1,0 +1,13 @@
+dn: cn=Vanita+sn=Maylone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vanita Maylone
+cn: Maylone
+givenname: Vanita
+mail: vanita.maylone@planetexpress.com
+userPassword: Vanita
+ou: Group5
+uid: 3314
+ Q==

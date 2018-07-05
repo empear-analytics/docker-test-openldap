@@ -1,0 +1,13 @@
+dn: cn=Elda+sn=Lohre,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elda Lohre
+cn: Lohre
+givenname: Elda
+mail: elda.lohre@planetexpress.com
+userPassword: Elda
+ou: flight_crew
+uid: 2721
+ Q==

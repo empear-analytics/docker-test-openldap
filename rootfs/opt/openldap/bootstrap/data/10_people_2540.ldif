@@ -1,0 +1,13 @@
+dn: cn=Lasonya+sn=Etulain,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lasonya Etulain
+cn: Etulain
+givenname: Lasonya
+mail: lasonya.etulain@planetexpress.com
+userPassword: Lasonya
+ou: Group5
+uid: 2540
+ Q==

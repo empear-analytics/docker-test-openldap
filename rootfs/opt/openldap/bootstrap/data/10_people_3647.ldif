@@ -1,0 +1,13 @@
+dn: cn=Emanuel+sn=Gussman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emanuel Gussman
+cn: Gussman
+givenname: Emanuel
+mail: emanuel.gussman@planetexpress.com
+userPassword: Emanuel
+ou: admin_staff
+uid: 3647
+ Q==

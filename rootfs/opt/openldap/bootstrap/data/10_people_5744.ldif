@@ -1,0 +1,13 @@
+dn: cn=Hye+sn=Section,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hye Section
+cn: Section
+givenname: Hye
+mail: hye.section@planetexpress.com
+userPassword: Hye
+ou: admin_staff
+uid: 5744
+ Q==

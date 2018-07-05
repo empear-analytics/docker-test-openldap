@@ -1,0 +1,13 @@
+dn: cn=Muriel+sn=Swell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Muriel Swell
+cn: Swell
+givenname: Muriel
+mail: muriel.swell@planetexpress.com
+userPassword: Muriel
+ou: OtherGroup
+uid: 341
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Carey+sn=Corliss,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carey Corliss
+cn: Corliss
+givenname: Carey
+mail: carey.corliss@planetexpress.com
+userPassword: Carey
+ou: flight_crew
+uid: 919
+ Q==

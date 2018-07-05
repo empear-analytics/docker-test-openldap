@@ -1,0 +1,13 @@
+dn: cn=Nettie+sn=Cavrak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nettie Cavrak
+cn: Cavrak
+givenname: Nettie
+mail: nettie.cavrak@planetexpress.com
+userPassword: Nettie
+ou: Group5
+uid: 74
+ Q==

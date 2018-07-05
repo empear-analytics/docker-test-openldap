@@ -1,0 +1,13 @@
+dn: cn=Karon+sn=Otto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karon Otto
+cn: Otto
+givenname: Karon
+mail: karon.otto@planetexpress.com
+userPassword: Karon
+ou: OtherGroup
+uid: 905
+ Q==

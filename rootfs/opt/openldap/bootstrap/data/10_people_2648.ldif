@@ -1,0 +1,13 @@
+dn: cn=Ula+sn=Cariaga,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ula Cariaga
+cn: Cariaga
+givenname: Ula
+mail: ula.cariaga@planetexpress.com
+userPassword: Ula
+ou: admin_staff
+uid: 2648
+ Q==

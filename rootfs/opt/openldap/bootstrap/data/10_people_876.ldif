@@ -1,0 +1,13 @@
+dn: cn=Shaunta+sn=Hillary,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shaunta Hillary
+cn: Hillary
+givenname: Shaunta
+mail: shaunta.hillary@planetexpress.com
+userPassword: Shaunta
+ou: OtherGroup
+uid: 876
+ Q==

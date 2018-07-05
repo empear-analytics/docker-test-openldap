@@ -1,0 +1,13 @@
+dn: cn=Argentina+sn=Duva,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Argentina Duva
+cn: Duva
+givenname: Argentina
+mail: argentina.duva@planetexpress.com
+userPassword: Argentina
+ou: Group5
+uid: 5403
+ Q==

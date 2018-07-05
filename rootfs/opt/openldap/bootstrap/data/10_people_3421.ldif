@@ -1,0 +1,13 @@
+dn: cn=Jenell+sn=Correro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jenell Correro
+cn: Correro
+givenname: Jenell
+mail: jenell.correro@planetexpress.com
+userPassword: Jenell
+ou: admin_staff
+uid: 3421
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Numbers+sn=Herskovits,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Numbers Herskovits
+cn: Herskovits
+givenname: Numbers
+mail: numbers.herskovits@planetexpress.com
+userPassword: Numbers
+ou: OtherGroup
+uid: 4931
+ Q==

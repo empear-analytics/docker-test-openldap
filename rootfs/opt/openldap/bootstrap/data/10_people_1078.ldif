@@ -1,0 +1,13 @@
+dn: cn=Casey+sn=Linz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Casey Linz
+cn: Linz
+givenname: Casey
+mail: casey.linz@planetexpress.com
+userPassword: Casey
+ou: admin_staff
+uid: 1078
+ Q==

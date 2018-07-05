@@ -1,0 +1,13 @@
+dn: cn=Domenica+sn=Drue,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Domenica Drue
+cn: Drue
+givenname: Domenica
+mail: domenica.drue@planetexpress.com
+userPassword: Domenica
+ou: OtherGroup
+uid: 3006
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Elwood+sn=Roettger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elwood Roettger
+cn: Roettger
+givenname: Elwood
+mail: elwood.roettger@planetexpress.com
+userPassword: Elwood
+ou: admin_staff
+uid: 3073
+ Q==

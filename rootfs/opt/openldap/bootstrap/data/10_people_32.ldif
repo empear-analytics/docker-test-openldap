@@ -1,0 +1,13 @@
+dn: cn=Arie+sn=Zupp,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arie Zupp
+cn: Zupp
+givenname: Arie
+mail: arie.zupp@planetexpress.com
+userPassword: Arie
+ou: Group5
+uid: 32
+ Q==

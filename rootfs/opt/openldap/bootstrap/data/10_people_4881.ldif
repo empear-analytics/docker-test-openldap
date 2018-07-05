@@ -1,0 +1,13 @@
+dn: cn=Paola+sn=Haigler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Paola Haigler
+cn: Haigler
+givenname: Paola
+mail: paola.haigler@planetexpress.com
+userPassword: Paola
+ou: Group5
+uid: 4881
+ Q==

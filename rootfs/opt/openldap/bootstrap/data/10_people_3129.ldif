@@ -1,0 +1,13 @@
+dn: cn=Shannan+sn=Newstead,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shannan Newstead
+cn: Newstead
+givenname: Shannan
+mail: shannan.newstead@planetexpress.com
+userPassword: Shannan
+ou: flight_crew
+uid: 3129
+ Q==

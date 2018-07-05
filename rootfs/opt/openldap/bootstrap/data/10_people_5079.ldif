@@ -1,0 +1,13 @@
+dn: cn=Camelia+sn=Dedios,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Camelia Dedios
+cn: Dedios
+givenname: Camelia
+mail: camelia.dedios@planetexpress.com
+userPassword: Camelia
+ou: admin_staff
+uid: 5079
+ Q==

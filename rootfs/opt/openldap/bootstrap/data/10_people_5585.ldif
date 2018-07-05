@@ -1,0 +1,13 @@
+dn: cn=Mary+sn=Ancell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mary Ancell
+cn: Ancell
+givenname: Mary
+mail: mary.ancell@planetexpress.com
+userPassword: Mary
+ou: admin_staff
+uid: 5585
+ Q==

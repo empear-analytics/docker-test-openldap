@@ -1,0 +1,13 @@
+dn: cn=Oda+sn=Lollar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Oda Lollar
+cn: Lollar
+givenname: Oda
+mail: oda.lollar@planetexpress.com
+userPassword: Oda
+ou: admin_staff
+uid: 3939
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Paz+sn=Gratz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Paz Gratz
+cn: Gratz
+givenname: Paz
+mail: paz.gratz@planetexpress.com
+userPassword: Paz
+ou: OtherGroup
+uid: 2682
+ Q==

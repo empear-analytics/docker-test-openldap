@@ -1,0 +1,13 @@
+dn: cn=Cleotilde+sn=Mathieu,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cleotilde Mathieu
+cn: Mathieu
+givenname: Cleotilde
+mail: cleotilde.mathieu@planetexpress.com
+userPassword: Cleotilde
+ou: flight_crew
+uid: 1558
+ Q==

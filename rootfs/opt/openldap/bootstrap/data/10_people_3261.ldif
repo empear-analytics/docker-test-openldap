@@ -1,0 +1,13 @@
+dn: cn=Ilona+sn=Elewa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ilona Elewa
+cn: Elewa
+givenname: Ilona
+mail: ilona.elewa@planetexpress.com
+userPassword: Ilona
+ou: admin_staff
+uid: 3261
+ Q==

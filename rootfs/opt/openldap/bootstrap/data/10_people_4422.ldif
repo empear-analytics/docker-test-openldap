@@ -1,0 +1,13 @@
+dn: cn=Glennie+sn=Zaunbrecher,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Glennie Zaunbrecher
+cn: Zaunbrecher
+givenname: Glennie
+mail: glennie.zaunbrecher@planetexpress.com
+userPassword: Glennie
+ou: OtherGroup
+uid: 4422
+ Q==

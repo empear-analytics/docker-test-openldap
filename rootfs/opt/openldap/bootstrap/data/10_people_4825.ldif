@@ -1,0 +1,13 @@
+dn: cn=Lue+sn=Bayani,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lue Bayani
+cn: Bayani
+givenname: Lue
+mail: lue.bayani@planetexpress.com
+userPassword: Lue
+ou: OtherGroup
+uid: 4825
+ Q==

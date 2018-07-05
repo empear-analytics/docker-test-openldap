@@ -1,0 +1,13 @@
+dn: cn=Donnette+sn=Alcaoa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Donnette Alcaoa
+cn: Alcaoa
+givenname: Donnette
+mail: donnette.alcaoa@planetexpress.com
+userPassword: Donnette
+ou: flight_crew
+uid: 2812
+ Q==

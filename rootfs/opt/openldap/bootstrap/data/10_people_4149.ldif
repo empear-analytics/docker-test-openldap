@@ -1,0 +1,13 @@
+dn: cn=Vera+sn=Clayburg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vera Clayburg
+cn: Clayburg
+givenname: Vera
+mail: vera.clayburg@planetexpress.com
+userPassword: Vera
+ou: Group5
+uid: 4149
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Diedra+sn=Amabile,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Diedra Amabile
+cn: Amabile
+givenname: Diedra
+mail: diedra.amabile@planetexpress.com
+userPassword: Diedra
+ou: admin_staff
+uid: 1675
+ Q==

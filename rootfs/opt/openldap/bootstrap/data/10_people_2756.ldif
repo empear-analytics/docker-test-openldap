@@ -1,0 +1,13 @@
+dn: cn=Claude+sn=Brilowski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Claude Brilowski
+cn: Brilowski
+givenname: Claude
+mail: claude.brilowski@planetexpress.com
+userPassword: Claude
+ou: OtherGroup
+uid: 2756
+ Q==

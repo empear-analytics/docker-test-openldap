@@ -1,0 +1,13 @@
+dn: cn=Carmel+sn=Lidder,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carmel Lidder
+cn: Lidder
+givenname: Carmel
+mail: carmel.lidder@planetexpress.com
+userPassword: Carmel
+ou: admin_staff
+uid: 2134
+ Q==

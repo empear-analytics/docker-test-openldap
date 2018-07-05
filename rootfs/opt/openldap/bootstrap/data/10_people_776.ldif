@@ -1,0 +1,13 @@
+dn: cn=Dannette+sn=Huffine,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dannette Huffine
+cn: Huffine
+givenname: Dannette
+mail: dannette.huffine@planetexpress.com
+userPassword: Dannette
+ou: flight_crew
+uid: 776
+ Q==

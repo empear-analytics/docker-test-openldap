@@ -1,0 +1,13 @@
+dn: cn=Chun+sn=Berenger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chun Berenger
+cn: Berenger
+givenname: Chun
+mail: chun.berenger@planetexpress.com
+userPassword: Chun
+ou: OtherGroup
+uid: 5926
+ Q==

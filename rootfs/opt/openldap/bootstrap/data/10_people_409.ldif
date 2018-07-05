@@ -1,0 +1,13 @@
+dn: cn=Pearlie+sn=Belka,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pearlie Belka
+cn: Belka
+givenname: Pearlie
+mail: pearlie.belka@planetexpress.com
+userPassword: Pearlie
+ou: Group5
+uid: 409
+ Q==

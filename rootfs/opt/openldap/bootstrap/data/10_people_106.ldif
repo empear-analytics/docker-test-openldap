@@ -1,0 +1,13 @@
+dn: cn=Brittani+sn=Gump,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brittani Gump
+cn: Gump
+givenname: Brittani
+mail: brittani.gump@planetexpress.com
+userPassword: Brittani
+ou: flight_crew
+uid: 106
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Yesenia+sn=Fedd,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yesenia Fedd
+cn: Fedd
+givenname: Yesenia
+mail: yesenia.fedd@planetexpress.com
+userPassword: Yesenia
+ou: flight_crew
+uid: 2644
+ Q==

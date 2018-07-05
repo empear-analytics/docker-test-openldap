@@ -1,0 +1,13 @@
+dn: cn=Diamond+sn=Biegel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Diamond Biegel
+cn: Biegel
+givenname: Diamond
+mail: diamond.biegel@planetexpress.com
+userPassword: Diamond
+ou: flight_crew
+uid: 1654
+ Q==

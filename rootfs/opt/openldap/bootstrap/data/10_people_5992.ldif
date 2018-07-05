@@ -1,0 +1,13 @@
+dn: cn=Rickey+sn=Kynard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rickey Kynard
+cn: Kynard
+givenname: Rickey
+mail: rickey.kynard@planetexpress.com
+userPassword: Rickey
+ou: Group5
+uid: 5992
+ Q==

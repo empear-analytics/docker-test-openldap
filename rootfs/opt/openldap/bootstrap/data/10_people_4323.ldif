@@ -1,0 +1,13 @@
+dn: cn=Brooks+sn=Seabright,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brooks Seabright
+cn: Seabright
+givenname: Brooks
+mail: brooks.seabright@planetexpress.com
+userPassword: Brooks
+ou: OtherGroup
+uid: 4323
+ Q==

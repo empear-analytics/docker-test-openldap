@@ -1,0 +1,13 @@
+dn: cn=Luciano+sn=Cradle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Luciano Cradle
+cn: Cradle
+givenname: Luciano
+mail: luciano.cradle@planetexpress.com
+userPassword: Luciano
+ou: admin_staff
+uid: 5719
+ Q==

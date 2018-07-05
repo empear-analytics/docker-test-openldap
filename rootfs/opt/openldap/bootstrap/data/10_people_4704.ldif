@@ -1,0 +1,13 @@
+dn: cn=Richie+sn=Toste,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Richie Toste
+cn: Toste
+givenname: Richie
+mail: richie.toste@planetexpress.com
+userPassword: Richie
+ou: Group5
+uid: 4704
+ Q==

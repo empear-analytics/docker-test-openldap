@@ -1,0 +1,13 @@
+dn: cn=Gladys+sn=Shaeffer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gladys Shaeffer
+cn: Shaeffer
+givenname: Gladys
+mail: gladys.shaeffer@planetexpress.com
+userPassword: Gladys
+ou: flight_crew
+uid: 3824
+ Q==

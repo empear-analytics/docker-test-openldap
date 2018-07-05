@@ -1,0 +1,13 @@
+dn: cn=Kendra+sn=Scherb,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kendra Scherb
+cn: Scherb
+givenname: Kendra
+mail: kendra.scherb@planetexpress.com
+userPassword: Kendra
+ou: flight_crew
+uid: 1629
+ Q==

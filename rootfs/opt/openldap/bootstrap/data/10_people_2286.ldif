@@ -1,0 +1,13 @@
+dn: cn=Melita+sn=Orndorff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melita Orndorff
+cn: Orndorff
+givenname: Melita
+mail: melita.orndorff@planetexpress.com
+userPassword: Melita
+ou: OtherGroup
+uid: 2286
+ Q==

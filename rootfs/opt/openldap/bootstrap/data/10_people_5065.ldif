@@ -1,0 +1,13 @@
+dn: cn=Angelo+sn=Gadoury,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelo Gadoury
+cn: Gadoury
+givenname: Angelo
+mail: angelo.gadoury@planetexpress.com
+userPassword: Angelo
+ou: Group5
+uid: 5065
+ Q==

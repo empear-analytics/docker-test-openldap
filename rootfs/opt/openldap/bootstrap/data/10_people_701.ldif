@@ -1,0 +1,13 @@
+dn: cn=Tracy+sn=Bergfeld,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tracy Bergfeld
+cn: Bergfeld
+givenname: Tracy
+mail: tracy.bergfeld@planetexpress.com
+userPassword: Tracy
+ou: admin_staff
+uid: 701
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Breana+sn=Natvig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Breana Natvig
+cn: Natvig
+givenname: Breana
+mail: breana.natvig@planetexpress.com
+userPassword: Breana
+ou: OtherGroup
+uid: 1751
+ Q==

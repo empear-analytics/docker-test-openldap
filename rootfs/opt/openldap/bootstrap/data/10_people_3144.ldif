@@ -1,0 +1,13 @@
+dn: cn=Hershel+sn=Zoeller,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hershel Zoeller
+cn: Zoeller
+givenname: Hershel
+mail: hershel.zoeller@planetexpress.com
+userPassword: Hershel
+ou: Group5
+uid: 3144
+ Q==

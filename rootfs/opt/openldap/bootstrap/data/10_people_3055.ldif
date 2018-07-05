@@ -1,0 +1,13 @@
+dn: cn=Susanne+sn=Quinalty,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Susanne Quinalty
+cn: Quinalty
+givenname: Susanne
+mail: susanne.quinalty@planetexpress.com
+userPassword: Susanne
+ou: admin_staff
+uid: 3055
+ Q==

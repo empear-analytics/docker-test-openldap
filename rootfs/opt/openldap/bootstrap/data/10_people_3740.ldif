@@ -1,0 +1,13 @@
+dn: cn=Misha+sn=Rairdon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Misha Rairdon
+cn: Rairdon
+givenname: Misha
+mail: misha.rairdon@planetexpress.com
+userPassword: Misha
+ou: Group5
+uid: 3740
+ Q==

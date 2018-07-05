@@ -1,0 +1,13 @@
+dn: cn=Mariano+sn=Fecteau,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mariano Fecteau
+cn: Fecteau
+givenname: Mariano
+mail: mariano.fecteau@planetexpress.com
+userPassword: Mariano
+ou: admin_staff
+uid: 1234
+ Q==

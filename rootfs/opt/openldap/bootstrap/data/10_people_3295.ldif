@@ -1,0 +1,13 @@
+dn: cn=Brande+sn=Rivlin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brande Rivlin
+cn: Rivlin
+givenname: Brande
+mail: brande.rivlin@planetexpress.com
+userPassword: Brande
+ou: Group5
+uid: 3295
+ Q==

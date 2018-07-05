@@ -1,0 +1,13 @@
+dn: cn=Lavern+sn=Orkin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lavern Orkin
+cn: Orkin
+givenname: Lavern
+mail: lavern.orkin@planetexpress.com
+userPassword: Lavern
+ou: admin_staff
+uid: 2928
+ Q==

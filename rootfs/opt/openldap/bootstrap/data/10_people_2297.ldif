@@ -1,0 +1,13 @@
+dn: cn=Toby+sn=Bodison,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Toby Bodison
+cn: Bodison
+givenname: Toby
+mail: toby.bodison@planetexpress.com
+userPassword: Toby
+ou: Group5
+uid: 2297
+ Q==

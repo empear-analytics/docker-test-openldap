@@ -1,0 +1,13 @@
+dn: cn=Joyce+sn=Roughen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joyce Roughen
+cn: Roughen
+givenname: Joyce
+mail: joyce.roughen@planetexpress.com
+userPassword: Joyce
+ou: admin_staff
+uid: 1430
+ Q==

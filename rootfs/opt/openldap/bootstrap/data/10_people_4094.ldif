@@ -1,0 +1,13 @@
+dn: cn=Bryce+sn=Roupe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bryce Roupe
+cn: Roupe
+givenname: Bryce
+mail: bryce.roupe@planetexpress.com
+userPassword: Bryce
+ou: admin_staff
+uid: 4094
+ Q==

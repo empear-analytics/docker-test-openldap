@@ -1,0 +1,13 @@
+dn: cn=Karen+sn=Luthy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karen Luthy
+cn: Luthy
+givenname: Karen
+mail: karen.luthy@planetexpress.com
+userPassword: Karen
+ou: flight_crew
+uid: 3299
+ Q==

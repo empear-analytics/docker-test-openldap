@@ -1,0 +1,13 @@
+dn: cn=Beatris+sn=Cecchinato,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beatris Cecchinato
+cn: Cecchinato
+givenname: Beatris
+mail: beatris.cecchinato@planetexpress.com
+userPassword: Beatris
+ou: OtherGroup
+uid: 3867
+ Q==

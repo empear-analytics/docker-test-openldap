@@ -1,0 +1,13 @@
+dn: cn=Eleonore+sn=Innocent,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eleonore Innocent
+cn: Innocent
+givenname: Eleonore
+mail: eleonore.innocent@planetexpress.com
+userPassword: Eleonore
+ou: Group5
+uid: 2850
+ Q==

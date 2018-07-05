@@ -1,0 +1,13 @@
+dn: cn=Santana+sn=Layton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Santana Layton
+cn: Layton
+givenname: Santana
+mail: santana.layton@planetexpress.com
+userPassword: Santana
+ou: OtherGroup
+uid: 1302
+ Q==

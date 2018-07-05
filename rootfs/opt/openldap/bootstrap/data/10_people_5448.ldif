@@ -1,0 +1,13 @@
+dn: cn=Loyce+sn=Konzal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loyce Konzal
+cn: Konzal
+givenname: Loyce
+mail: loyce.konzal@planetexpress.com
+userPassword: Loyce
+ou: OtherGroup
+uid: 5448
+ Q==

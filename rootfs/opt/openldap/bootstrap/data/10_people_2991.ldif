@@ -1,0 +1,13 @@
+dn: cn=Shelby+sn=Eklund,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shelby Eklund
+cn: Eklund
+givenname: Shelby
+mail: shelby.eklund@planetexpress.com
+userPassword: Shelby
+ou: Group5
+uid: 2991
+ Q==

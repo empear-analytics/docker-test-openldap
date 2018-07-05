@@ -1,0 +1,13 @@
+dn: cn=Lisabeth+sn=Banick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lisabeth Banick
+cn: Banick
+givenname: Lisabeth
+mail: lisabeth.banick@planetexpress.com
+userPassword: Lisabeth
+ou: Group5
+uid: 3341
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Inez+sn=Muldoon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Inez Muldoon
+cn: Muldoon
+givenname: Inez
+mail: inez.muldoon@planetexpress.com
+userPassword: Inez
+ou: OtherGroup
+uid: 4693
+ Q==

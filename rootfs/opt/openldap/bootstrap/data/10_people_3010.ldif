@@ -1,0 +1,13 @@
+dn: cn=Cynthia+sn=Mistry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cynthia Mistry
+cn: Mistry
+givenname: Cynthia
+mail: cynthia.mistry@planetexpress.com
+userPassword: Cynthia
+ou: Group5
+uid: 3010
+ Q==

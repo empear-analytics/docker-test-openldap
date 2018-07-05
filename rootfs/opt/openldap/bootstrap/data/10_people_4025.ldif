@@ -1,0 +1,13 @@
+dn: cn=Felice+sn=Erving,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Felice Erving
+cn: Erving
+givenname: Felice
+mail: felice.erving@planetexpress.com
+userPassword: Felice
+ou: flight_crew
+uid: 4025
+ Q==

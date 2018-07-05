@@ -1,0 +1,13 @@
+dn: cn=Dianna+sn=Turnell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dianna Turnell
+cn: Turnell
+givenname: Dianna
+mail: dianna.turnell@planetexpress.com
+userPassword: Dianna
+ou: OtherGroup
+uid: 1443
+ Q==

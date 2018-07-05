@@ -1,0 +1,13 @@
+dn: cn=Christy+sn=Catanzaro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christy Catanzaro
+cn: Catanzaro
+givenname: Christy
+mail: christy.catanzaro@planetexpress.com
+userPassword: Christy
+ou: OtherGroup
+uid: 2860
+ Q==

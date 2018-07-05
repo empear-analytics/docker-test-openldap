@@ -1,0 +1,13 @@
+dn: cn=Jalisa+sn=Luss,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jalisa Luss
+cn: Luss
+givenname: Jalisa
+mail: jalisa.luss@planetexpress.com
+userPassword: Jalisa
+ou: Group5
+uid: 3810
+ Q==

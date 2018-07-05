@@ -1,0 +1,13 @@
+dn: cn=Cheryll+sn=Kreischer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cheryll Kreischer
+cn: Kreischer
+givenname: Cheryll
+mail: cheryll.kreischer@planetexpress.com
+userPassword: Cheryll
+ou: admin_staff
+uid: 4553
+ Q==

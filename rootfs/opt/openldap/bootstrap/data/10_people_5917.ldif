@@ -1,0 +1,13 @@
+dn: cn=Fran+sn=Settecase,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fran Settecase
+cn: Settecase
+givenname: Fran
+mail: fran.settecase@planetexpress.com
+userPassword: Fran
+ou: Group5
+uid: 5917
+ Q==

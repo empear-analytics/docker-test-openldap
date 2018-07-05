@@ -1,0 +1,13 @@
+dn: cn=Lacy+sn=Fallick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lacy Fallick
+cn: Fallick
+givenname: Lacy
+mail: lacy.fallick@planetexpress.com
+userPassword: Lacy
+ou: Group5
+uid: 2996
+ Q==

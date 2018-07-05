@@ -1,0 +1,13 @@
+dn: cn=Shan+sn=Leanen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shan Leanen
+cn: Leanen
+givenname: Shan
+mail: shan.leanen@planetexpress.com
+userPassword: Shan
+ou: Group5
+uid: 5566
+ Q==

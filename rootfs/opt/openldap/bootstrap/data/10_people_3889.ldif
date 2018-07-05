@@ -1,0 +1,13 @@
+dn: cn=Vergie+sn=Neidenbach,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vergie Neidenbach
+cn: Neidenbach
+givenname: Vergie
+mail: vergie.neidenbach@planetexpress.com
+userPassword: Vergie
+ou: OtherGroup
+uid: 3889
+ Q==

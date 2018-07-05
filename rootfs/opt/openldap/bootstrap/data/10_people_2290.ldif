@@ -1,0 +1,13 @@
+dn: cn=Jerry+sn=Purvines,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jerry Purvines
+cn: Purvines
+givenname: Jerry
+mail: jerry.purvines@planetexpress.com
+userPassword: Jerry
+ou: admin_staff
+uid: 2290
+ Q==

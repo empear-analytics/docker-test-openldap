@@ -1,0 +1,13 @@
+dn: cn=Liane+sn=Malbon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Liane Malbon
+cn: Malbon
+givenname: Liane
+mail: liane.malbon@planetexpress.com
+userPassword: Liane
+ou: flight_crew
+uid: 3632
+ Q==

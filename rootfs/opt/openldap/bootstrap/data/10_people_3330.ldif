@@ -1,0 +1,13 @@
+dn: cn=Earlie+sn=Foshie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Earlie Foshie
+cn: Foshie
+givenname: Earlie
+mail: earlie.foshie@planetexpress.com
+userPassword: Earlie
+ou: flight_crew
+uid: 3330
+ Q==

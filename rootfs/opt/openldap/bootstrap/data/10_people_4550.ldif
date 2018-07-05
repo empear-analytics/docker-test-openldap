@@ -1,0 +1,13 @@
+dn: cn=Shanon+sn=Keyton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shanon Keyton
+cn: Keyton
+givenname: Shanon
+mail: shanon.keyton@planetexpress.com
+userPassword: Shanon
+ou: admin_staff
+uid: 4550
+ Q==

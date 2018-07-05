@@ -1,0 +1,13 @@
+dn: cn=Leonida+sn=Herrandez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leonida Herrandez
+cn: Herrandez
+givenname: Leonida
+mail: leonida.herrandez@planetexpress.com
+userPassword: Leonida
+ou: admin_staff
+uid: 471
+ Q==

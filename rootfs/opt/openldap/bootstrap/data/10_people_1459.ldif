@@ -1,0 +1,13 @@
+dn: cn=Olympia+sn=Tsuchida,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Olympia Tsuchida
+cn: Tsuchida
+givenname: Olympia
+mail: olympia.tsuchida@planetexpress.com
+userPassword: Olympia
+ou: Group5
+uid: 1459
+ Q==

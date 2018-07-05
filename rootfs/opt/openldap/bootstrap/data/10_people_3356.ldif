@@ -1,0 +1,13 @@
+dn: cn=Ilda+sn=Suffern,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ilda Suffern
+cn: Suffern
+givenname: Ilda
+mail: ilda.suffern@planetexpress.com
+userPassword: Ilda
+ou: flight_crew
+uid: 3356
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Dania+sn=Provencher,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dania Provencher
+cn: Provencher
+givenname: Dania
+mail: dania.provencher@planetexpress.com
+userPassword: Dania
+ou: OtherGroup
+uid: 1556
+ Q==

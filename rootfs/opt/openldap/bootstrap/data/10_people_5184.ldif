@@ -1,0 +1,13 @@
+dn: cn=Kimberli+sn=Centrich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kimberli Centrich
+cn: Centrich
+givenname: Kimberli
+mail: kimberli.centrich@planetexpress.com
+userPassword: Kimberli
+ou: OtherGroup
+uid: 5184
+ Q==

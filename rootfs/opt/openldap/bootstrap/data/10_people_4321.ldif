@@ -1,0 +1,13 @@
+dn: cn=Colby+sn=Bourget,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Colby Bourget
+cn: Bourget
+givenname: Colby
+mail: colby.bourget@planetexpress.com
+userPassword: Colby
+ou: OtherGroup
+uid: 4321
+ Q==

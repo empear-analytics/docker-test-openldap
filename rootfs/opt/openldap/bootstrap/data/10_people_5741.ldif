@@ -1,0 +1,13 @@
+dn: cn=Yulanda+sn=Becenti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yulanda Becenti
+cn: Becenti
+givenname: Yulanda
+mail: yulanda.becenti@planetexpress.com
+userPassword: Yulanda
+ou: flight_crew
+uid: 5741
+ Q==

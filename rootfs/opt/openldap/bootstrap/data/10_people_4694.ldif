@@ -1,0 +1,13 @@
+dn: cn=Nga+sn=Delapenha,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nga Delapenha
+cn: Delapenha
+givenname: Nga
+mail: nga.delapenha@planetexpress.com
+userPassword: Nga
+ou: OtherGroup
+uid: 4694
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Veda+sn=Joneson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Veda Joneson
+cn: Joneson
+givenname: Veda
+mail: veda.joneson@planetexpress.com
+userPassword: Veda
+ou: flight_crew
+uid: 1887
+ Q==

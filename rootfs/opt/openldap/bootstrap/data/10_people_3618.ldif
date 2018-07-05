@@ -1,0 +1,13 @@
+dn: cn=Cherryl+sn=Degiacomo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cherryl Degiacomo
+cn: Degiacomo
+givenname: Cherryl
+mail: cherryl.degiacomo@planetexpress.com
+userPassword: Cherryl
+ou: OtherGroup
+uid: 3618
+ Q==

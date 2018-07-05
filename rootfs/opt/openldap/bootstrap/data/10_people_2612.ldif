@@ -1,0 +1,13 @@
+dn: cn=Loree+sn=Liberman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loree Liberman
+cn: Liberman
+givenname: Loree
+mail: loree.liberman@planetexpress.com
+userPassword: Loree
+ou: Group5
+uid: 2612
+ Q==

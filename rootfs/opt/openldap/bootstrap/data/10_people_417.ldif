@@ -1,0 +1,13 @@
+dn: cn=Helene+sn=Cirocco,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Helene Cirocco
+cn: Cirocco
+givenname: Helene
+mail: helene.cirocco@planetexpress.com
+userPassword: Helene
+ou: OtherGroup
+uid: 417
+ Q==

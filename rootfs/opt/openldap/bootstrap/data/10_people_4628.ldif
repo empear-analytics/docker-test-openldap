@@ -1,0 +1,13 @@
+dn: cn=Oscar+sn=Pesante,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Oscar Pesante
+cn: Pesante
+givenname: Oscar
+mail: oscar.pesante@planetexpress.com
+userPassword: Oscar
+ou: OtherGroup
+uid: 4628
+ Q==

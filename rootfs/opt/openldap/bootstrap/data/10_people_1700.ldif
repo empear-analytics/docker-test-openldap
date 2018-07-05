@@ -1,0 +1,13 @@
+dn: cn=Althea+sn=Poulson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Althea Poulson
+cn: Poulson
+givenname: Althea
+mail: althea.poulson@planetexpress.com
+userPassword: Althea
+ou: flight_crew
+uid: 1700
+ Q==

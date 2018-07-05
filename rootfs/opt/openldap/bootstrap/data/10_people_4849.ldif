@@ -1,0 +1,13 @@
+dn: cn=Lexie+sn=Zeng,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lexie Zeng
+cn: Zeng
+givenname: Lexie
+mail: lexie.zeng@planetexpress.com
+userPassword: Lexie
+ou: flight_crew
+uid: 4849
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tamatha+sn=Utzig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tamatha Utzig
+cn: Utzig
+givenname: Tamatha
+mail: tamatha.utzig@planetexpress.com
+userPassword: Tamatha
+ou: OtherGroup
+uid: 1475
+ Q==

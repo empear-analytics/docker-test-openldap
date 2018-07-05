@@ -1,0 +1,13 @@
+dn: cn=Kenneth+sn=Joelson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kenneth Joelson
+cn: Joelson
+givenname: Kenneth
+mail: kenneth.joelson@planetexpress.com
+userPassword: Kenneth
+ou: admin_staff
+uid: 898
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Scarlet+sn=Sterns,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Scarlet Sterns
+cn: Sterns
+givenname: Scarlet
+mail: scarlet.sterns@planetexpress.com
+userPassword: Scarlet
+ou: Group5
+uid: 1900
+ Q==

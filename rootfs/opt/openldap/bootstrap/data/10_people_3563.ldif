@@ -1,0 +1,13 @@
+dn: cn=Anette+sn=Pitocco,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anette Pitocco
+cn: Pitocco
+givenname: Anette
+mail: anette.pitocco@planetexpress.com
+userPassword: Anette
+ou: flight_crew
+uid: 3563
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Loria+sn=Domkowski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loria Domkowski
+cn: Domkowski
+givenname: Loria
+mail: loria.domkowski@planetexpress.com
+userPassword: Loria
+ou: Group5
+uid: 1429
+ Q==

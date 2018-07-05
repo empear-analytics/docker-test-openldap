@@ -1,0 +1,13 @@
+dn: cn=Claude+sn=Generous,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Claude Generous
+cn: Generous
+givenname: Claude
+mail: claude.generous@planetexpress.com
+userPassword: Claude
+ou: flight_crew
+uid: 1537
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Marina+sn=Rioseco,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marina Rioseco
+cn: Rioseco
+givenname: Marina
+mail: marina.rioseco@planetexpress.com
+userPassword: Marina
+ou: flight_crew
+uid: 4151
+ Q==

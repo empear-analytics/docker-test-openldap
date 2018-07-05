@@ -1,0 +1,13 @@
+dn: cn=Alvina+sn=Rivena,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alvina Rivena
+cn: Rivena
+givenname: Alvina
+mail: alvina.rivena@planetexpress.com
+userPassword: Alvina
+ou: OtherGroup
+uid: 5393
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kaitlin+sn=Clingman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kaitlin Clingman
+cn: Clingman
+givenname: Kaitlin
+mail: kaitlin.clingman@planetexpress.com
+userPassword: Kaitlin
+ou: Group5
+uid: 64
+ Q==

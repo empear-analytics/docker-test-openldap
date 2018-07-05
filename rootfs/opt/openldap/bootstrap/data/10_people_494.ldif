@@ -1,0 +1,13 @@
+dn: cn=Cherish+sn=Sharber,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cherish Sharber
+cn: Sharber
+givenname: Cherish
+mail: cherish.sharber@planetexpress.com
+userPassword: Cherish
+ou: admin_staff
+uid: 494
+ Q==

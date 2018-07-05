@@ -1,0 +1,13 @@
+dn: cn=Micah+sn=Hybarger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Micah Hybarger
+cn: Hybarger
+givenname: Micah
+mail: micah.hybarger@planetexpress.com
+userPassword: Micah
+ou: OtherGroup
+uid: 5834
+ Q==

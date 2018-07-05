@@ -1,0 +1,13 @@
+dn: cn=Marvella+sn=Fallows,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marvella Fallows
+cn: Fallows
+givenname: Marvella
+mail: marvella.fallows@planetexpress.com
+userPassword: Marvella
+ou: Group5
+uid: 5964
+ Q==

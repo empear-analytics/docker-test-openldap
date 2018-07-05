@@ -1,0 +1,13 @@
+dn: cn=John+sn=Grilli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: John Grilli
+cn: Grilli
+givenname: John
+mail: john.grilli@planetexpress.com
+userPassword: John
+ou: OtherGroup
+uid: 5971
+ Q==

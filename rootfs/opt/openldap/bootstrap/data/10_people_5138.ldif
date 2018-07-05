@@ -1,0 +1,13 @@
+dn: cn=Rossie+sn=Lunstrum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rossie Lunstrum
+cn: Lunstrum
+givenname: Rossie
+mail: rossie.lunstrum@planetexpress.com
+userPassword: Rossie
+ou: OtherGroup
+uid: 5138
+ Q==

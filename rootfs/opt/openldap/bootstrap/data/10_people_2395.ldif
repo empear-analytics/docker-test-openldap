@@ -1,0 +1,13 @@
+dn: cn=Billi+sn=Went,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Billi Went
+cn: Went
+givenname: Billi
+mail: billi.went@planetexpress.com
+userPassword: Billi
+ou: OtherGroup
+uid: 2395
+ Q==

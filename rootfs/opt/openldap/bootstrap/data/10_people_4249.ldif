@@ -1,0 +1,13 @@
+dn: cn=Reinaldo+sn=Jennison,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reinaldo Jennison
+cn: Jennison
+givenname: Reinaldo
+mail: reinaldo.jennison@planetexpress.com
+userPassword: Reinaldo
+ou: OtherGroup
+uid: 4249
+ Q==

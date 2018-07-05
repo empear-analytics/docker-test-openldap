@@ -1,0 +1,13 @@
+dn: cn=Rashida+sn=Swiler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rashida Swiler
+cn: Swiler
+givenname: Rashida
+mail: rashida.swiler@planetexpress.com
+userPassword: Rashida
+ou: Group5
+uid: 2715
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Enoch+sn=Gream,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Enoch Gream
+cn: Gream
+givenname: Enoch
+mail: enoch.gream@planetexpress.com
+userPassword: Enoch
+ou: admin_staff
+uid: 1481
+ Q==

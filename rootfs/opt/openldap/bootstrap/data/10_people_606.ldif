@@ -1,0 +1,13 @@
+dn: cn=Hang+sn=Ashenfelter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hang Ashenfelter
+cn: Ashenfelter
+givenname: Hang
+mail: hang.ashenfelter@planetexpress.com
+userPassword: Hang
+ou: flight_crew
+uid: 606
+ Q==

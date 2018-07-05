@@ -1,0 +1,13 @@
+dn: cn=Nobuko+sn=Yonce,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nobuko Yonce
+cn: Yonce
+givenname: Nobuko
+mail: nobuko.yonce@planetexpress.com
+userPassword: Nobuko
+ou: OtherGroup
+uid: 3785
+ Q==

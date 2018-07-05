@@ -1,0 +1,13 @@
+dn: cn=Tonia+sn=Strandberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tonia Strandberg
+cn: Strandberg
+givenname: Tonia
+mail: tonia.strandberg@planetexpress.com
+userPassword: Tonia
+ou: admin_staff
+uid: 5345
+ Q==

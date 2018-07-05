@@ -1,0 +1,13 @@
+dn: cn=Genoveva+sn=Yanik,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Genoveva Yanik
+cn: Yanik
+givenname: Genoveva
+mail: genoveva.yanik@planetexpress.com
+userPassword: Genoveva
+ou: OtherGroup
+uid: 4617
+ Q==

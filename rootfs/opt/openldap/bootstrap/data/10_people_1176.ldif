@@ -1,0 +1,13 @@
+dn: cn=Felecia+sn=Hamley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Felecia Hamley
+cn: Hamley
+givenname: Felecia
+mail: felecia.hamley@planetexpress.com
+userPassword: Felecia
+ou: admin_staff
+uid: 1176
+ Q==

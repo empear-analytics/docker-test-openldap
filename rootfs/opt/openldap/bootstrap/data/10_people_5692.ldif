@@ -1,0 +1,13 @@
+dn: cn=Evette+sn=Batimon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Evette Batimon
+cn: Batimon
+givenname: Evette
+mail: evette.batimon@planetexpress.com
+userPassword: Evette
+ou: Group5
+uid: 5692
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jetta+sn=Schmunk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jetta Schmunk
+cn: Schmunk
+givenname: Jetta
+mail: jetta.schmunk@planetexpress.com
+userPassword: Jetta
+ou: Group5
+uid: 5948
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Doris+sn=Kriek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Doris Kriek
+cn: Kriek
+givenname: Doris
+mail: doris.kriek@planetexpress.com
+userPassword: Doris
+ou: Group5
+uid: 4428
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lettie+sn=Korinek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lettie Korinek
+cn: Korinek
+givenname: Lettie
+mail: lettie.korinek@planetexpress.com
+userPassword: Lettie
+ou: Group5
+uid: 1776
+ Q==

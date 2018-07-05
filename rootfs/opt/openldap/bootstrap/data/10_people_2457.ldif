@@ -1,0 +1,13 @@
+dn: cn=Odilia+sn=Work,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Odilia Work
+cn: Work
+givenname: Odilia
+mail: odilia.work@planetexpress.com
+userPassword: Odilia
+ou: OtherGroup
+uid: 2457
+ Q==

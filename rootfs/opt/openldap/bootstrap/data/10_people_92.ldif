@@ -1,0 +1,13 @@
+dn: cn=Lazaro+sn=Glynn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lazaro Glynn
+cn: Glynn
+givenname: Lazaro
+mail: lazaro.glynn@planetexpress.com
+userPassword: Lazaro
+ou: flight_crew
+uid: 92
+ Q==

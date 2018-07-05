@@ -1,0 +1,13 @@
+dn: cn=Danyelle+sn=Mccaffity,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Danyelle Mccaffity
+cn: Mccaffity
+givenname: Danyelle
+mail: danyelle.mccaffity@planetexpress.com
+userPassword: Danyelle
+ou: flight_crew
+uid: 1594
+ Q==

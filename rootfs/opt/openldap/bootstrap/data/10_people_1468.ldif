@@ -1,0 +1,13 @@
+dn: cn=Bethany+sn=Perritt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bethany Perritt
+cn: Perritt
+givenname: Bethany
+mail: bethany.perritt@planetexpress.com
+userPassword: Bethany
+ou: flight_crew
+uid: 1468
+ Q==

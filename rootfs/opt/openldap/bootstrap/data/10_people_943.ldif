@@ -1,0 +1,13 @@
+dn: cn=Sanjuanita+sn=Lowrie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sanjuanita Lowrie
+cn: Lowrie
+givenname: Sanjuanita
+mail: sanjuanita.lowrie@planetexpress.com
+userPassword: Sanjuanita
+ou: OtherGroup
+uid: 943
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Enedina+sn=Wilusz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Enedina Wilusz
+cn: Wilusz
+givenname: Enedina
+mail: enedina.wilusz@planetexpress.com
+userPassword: Enedina
+ou: admin_staff
+uid: 4995
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ethyl+sn=Kedley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ethyl Kedley
+cn: Kedley
+givenname: Ethyl
+mail: ethyl.kedley@planetexpress.com
+userPassword: Ethyl
+ou: admin_staff
+uid: 1149
+ Q==

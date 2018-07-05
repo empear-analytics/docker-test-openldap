@@ -1,0 +1,13 @@
+dn: cn=Madge+sn=Flick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Madge Flick
+cn: Flick
+givenname: Madge
+mail: madge.flick@planetexpress.com
+userPassword: Madge
+ou: OtherGroup
+uid: 2089
+ Q==

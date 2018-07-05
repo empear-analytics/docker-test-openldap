@@ -1,0 +1,13 @@
+dn: cn=Rosy+sn=Peshek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosy Peshek
+cn: Peshek
+givenname: Rosy
+mail: rosy.peshek@planetexpress.com
+userPassword: Rosy
+ou: flight_crew
+uid: 5015
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Britni+sn=Riske,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Britni Riske
+cn: Riske
+givenname: Britni
+mail: britni.riske@planetexpress.com
+userPassword: Britni
+ou: admin_staff
+uid: 1672
+ Q==

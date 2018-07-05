@@ -1,0 +1,13 @@
+dn: cn=Ivy+sn=Zappone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ivy Zappone
+cn: Zappone
+givenname: Ivy
+mail: ivy.zappone@planetexpress.com
+userPassword: Ivy
+ou: OtherGroup
+uid: 4030
+ Q==

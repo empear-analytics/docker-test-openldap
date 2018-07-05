@@ -1,0 +1,13 @@
+dn: cn=Karole+sn=Berridge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karole Berridge
+cn: Berridge
+givenname: Karole
+mail: karole.berridge@planetexpress.com
+userPassword: Karole
+ou: Group5
+uid: 2408
+ Q==

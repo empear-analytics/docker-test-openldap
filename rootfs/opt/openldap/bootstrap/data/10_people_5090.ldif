@@ -1,0 +1,13 @@
+dn: cn=Willena+sn=Phippard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Willena Phippard
+cn: Phippard
+givenname: Willena
+mail: willena.phippard@planetexpress.com
+userPassword: Willena
+ou: flight_crew
+uid: 5090
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Sharonda+sn=Spiegelman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharonda Spiegelman
+cn: Spiegelman
+givenname: Sharonda
+mail: sharonda.spiegelman@planetexpress.com
+userPassword: Sharonda
+ou: Group5
+uid: 2132
+ Q==

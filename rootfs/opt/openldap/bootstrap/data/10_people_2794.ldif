@@ -1,0 +1,13 @@
+dn: cn=Rachell+sn=Honahni,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rachell Honahni
+cn: Honahni
+givenname: Rachell
+mail: rachell.honahni@planetexpress.com
+userPassword: Rachell
+ou: Group5
+uid: 2794
+ Q==

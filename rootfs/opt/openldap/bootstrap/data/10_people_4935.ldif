@@ -1,0 +1,13 @@
+dn: cn=Jordan+sn=Gerba,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jordan Gerba
+cn: Gerba
+givenname: Jordan
+mail: jordan.gerba@planetexpress.com
+userPassword: Jordan
+ou: flight_crew
+uid: 4935
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Patricia+sn=Knilands,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Patricia Knilands
+cn: Knilands
+givenname: Patricia
+mail: patricia.knilands@planetexpress.com
+userPassword: Patricia
+ou: Group5
+uid: 3372
+ Q==

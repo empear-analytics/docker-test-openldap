@@ -1,0 +1,13 @@
+dn: cn=Azucena+sn=Littledave,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Azucena Littledave
+cn: Littledave
+givenname: Azucena
+mail: azucena.littledave@planetexpress.com
+userPassword: Azucena
+ou: flight_crew
+uid: 1661
+ Q==

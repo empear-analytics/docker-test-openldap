@@ -1,0 +1,13 @@
+dn: cn=Stacee+sn=Paddilla,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stacee Paddilla
+cn: Paddilla
+givenname: Stacee
+mail: stacee.paddilla@planetexpress.com
+userPassword: Stacee
+ou: admin_staff
+uid: 684
+ Q==

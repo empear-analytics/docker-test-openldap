@@ -1,0 +1,13 @@
+dn: cn=Karon+sn=Macke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karon Macke
+cn: Macke
+givenname: Karon
+mail: karon.macke@planetexpress.com
+userPassword: Karon
+ou: admin_staff
+uid: 5633
+ Q==

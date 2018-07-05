@@ -1,0 +1,13 @@
+dn: cn=Peter+sn=Wickland,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Peter Wickland
+cn: Wickland
+givenname: Peter
+mail: peter.wickland@planetexpress.com
+userPassword: Peter
+ou: Group5
+uid: 4923
+ Q==

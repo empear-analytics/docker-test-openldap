@@ -1,0 +1,13 @@
+dn: cn=Brittani+sn=Unglaub,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brittani Unglaub
+cn: Unglaub
+givenname: Brittani
+mail: brittani.unglaub@planetexpress.com
+userPassword: Brittani
+ou: Group5
+uid: 3435
+ Q==

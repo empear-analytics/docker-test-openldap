@@ -1,0 +1,13 @@
+dn: cn=Damien+sn=Emlin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Damien Emlin
+cn: Emlin
+givenname: Damien
+mail: damien.emlin@planetexpress.com
+userPassword: Damien
+ou: flight_crew
+uid: 2241
+ Q==

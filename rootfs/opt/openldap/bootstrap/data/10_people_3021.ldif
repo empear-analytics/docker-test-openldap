@@ -1,0 +1,13 @@
+dn: cn=Yoshiko+sn=Flourney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yoshiko Flourney
+cn: Flourney
+givenname: Yoshiko
+mail: yoshiko.flourney@planetexpress.com
+userPassword: Yoshiko
+ou: Group5
+uid: 3021
+ Q==

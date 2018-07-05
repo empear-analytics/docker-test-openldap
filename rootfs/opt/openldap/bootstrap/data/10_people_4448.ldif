@@ -1,0 +1,13 @@
+dn: cn=Odelia+sn=Villagrana,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Odelia Villagrana
+cn: Villagrana
+givenname: Odelia
+mail: odelia.villagrana@planetexpress.com
+userPassword: Odelia
+ou: Group5
+uid: 4448
+ Q==

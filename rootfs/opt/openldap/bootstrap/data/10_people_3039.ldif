@@ -1,0 +1,13 @@
+dn: cn=Franklin+sn=Willi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Franklin Willi
+cn: Willi
+givenname: Franklin
+mail: franklin.willi@planetexpress.com
+userPassword: Franklin
+ou: flight_crew
+uid: 3039
+ Q==

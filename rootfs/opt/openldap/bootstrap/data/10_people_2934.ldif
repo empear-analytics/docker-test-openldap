@@ -1,0 +1,13 @@
+dn: cn=Hal+sn=Ridder,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hal Ridder
+cn: Ridder
+givenname: Hal
+mail: hal.ridder@planetexpress.com
+userPassword: Hal
+ou: Group5
+uid: 2934
+ Q==

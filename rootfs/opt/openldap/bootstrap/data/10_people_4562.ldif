@@ -1,0 +1,13 @@
+dn: cn=Julienne+sn=Yantz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Julienne Yantz
+cn: Yantz
+givenname: Julienne
+mail: julienne.yantz@planetexpress.com
+userPassword: Julienne
+ou: admin_staff
+uid: 4562
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Fransisca+sn=Hamm,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fransisca Hamm
+cn: Hamm
+givenname: Fransisca
+mail: fransisca.hamm@planetexpress.com
+userPassword: Fransisca
+ou: flight_crew
+uid: 971
+ Q==

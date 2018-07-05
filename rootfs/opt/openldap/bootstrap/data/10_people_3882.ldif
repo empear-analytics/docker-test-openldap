@@ -1,0 +1,13 @@
+dn: cn=Genevieve+sn=Bonsee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Genevieve Bonsee
+cn: Bonsee
+givenname: Genevieve
+mail: genevieve.bonsee@planetexpress.com
+userPassword: Genevieve
+ou: flight_crew
+uid: 3882
+ Q==

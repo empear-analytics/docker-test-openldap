@@ -1,0 +1,13 @@
+dn: cn=Rene+sn=Bramble,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rene Bramble
+cn: Bramble
+givenname: Rene
+mail: rene.bramble@planetexpress.com
+userPassword: Rene
+ou: Group5
+uid: 5518
+ Q==

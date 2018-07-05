@@ -1,0 +1,13 @@
+dn: cn=Mollie+sn=Colace,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mollie Colace
+cn: Colace
+givenname: Mollie
+mail: mollie.colace@planetexpress.com
+userPassword: Mollie
+ou: Group5
+uid: 1619
+ Q==

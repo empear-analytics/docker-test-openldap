@@ -1,0 +1,13 @@
+dn: cn=Brock+sn=Sprafka,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brock Sprafka
+cn: Sprafka
+givenname: Brock
+mail: brock.sprafka@planetexpress.com
+userPassword: Brock
+ou: OtherGroup
+uid: 3716
+ Q==

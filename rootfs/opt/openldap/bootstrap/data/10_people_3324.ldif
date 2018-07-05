@@ -1,0 +1,13 @@
+dn: cn=Carol+sn=Benefiel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carol Benefiel
+cn: Benefiel
+givenname: Carol
+mail: carol.benefiel@planetexpress.com
+userPassword: Carol
+ou: OtherGroup
+uid: 3324
+ Q==

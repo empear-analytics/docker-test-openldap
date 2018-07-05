@@ -1,0 +1,13 @@
+dn: cn=Emmy+sn=Lovaglio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emmy Lovaglio
+cn: Lovaglio
+givenname: Emmy
+mail: emmy.lovaglio@planetexpress.com
+userPassword: Emmy
+ou: Group5
+uid: 5
+ Q==

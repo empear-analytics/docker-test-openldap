@@ -1,0 +1,13 @@
+dn: cn=Trina+sn=Sorsby,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Trina Sorsby
+cn: Sorsby
+givenname: Trina
+mail: trina.sorsby@planetexpress.com
+userPassword: Trina
+ou: admin_staff
+uid: 4830
+ Q==

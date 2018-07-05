@@ -1,0 +1,13 @@
+dn: cn=Yuk+sn=Ellingburg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yuk Ellingburg
+cn: Ellingburg
+givenname: Yuk
+mail: yuk.ellingburg@planetexpress.com
+userPassword: Yuk
+ou: OtherGroup
+uid: 3461
+ Q==

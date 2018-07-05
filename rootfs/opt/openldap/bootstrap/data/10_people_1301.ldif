@@ -1,0 +1,13 @@
+dn: cn=Colby+sn=Brasseaux,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Colby Brasseaux
+cn: Brasseaux
+givenname: Colby
+mail: colby.brasseaux@planetexpress.com
+userPassword: Colby
+ou: flight_crew
+uid: 1301
+ Q==

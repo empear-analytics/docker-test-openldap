@@ -1,0 +1,13 @@
+dn: cn=Eugena+sn=Bukhari,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eugena Bukhari
+cn: Bukhari
+givenname: Eugena
+mail: eugena.bukhari@planetexpress.com
+userPassword: Eugena
+ou: admin_staff
+uid: 1549
+ Q==

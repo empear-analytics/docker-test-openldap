@@ -1,0 +1,13 @@
+dn: cn=Miguel+sn=Kowalchuk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Miguel Kowalchuk
+cn: Kowalchuk
+givenname: Miguel
+mail: miguel.kowalchuk@planetexpress.com
+userPassword: Miguel
+ou: Group5
+uid: 4139
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jed+sn=Devara,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jed Devara
+cn: Devara
+givenname: Jed
+mail: jed.devara@planetexpress.com
+userPassword: Jed
+ou: admin_staff
+uid: 2202
+ Q==

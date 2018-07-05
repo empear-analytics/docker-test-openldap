@@ -1,0 +1,13 @@
+dn: cn=Sharie+sn=Limmer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharie Limmer
+cn: Limmer
+givenname: Sharie
+mail: sharie.limmer@planetexpress.com
+userPassword: Sharie
+ou: admin_staff
+uid: 2654
+ Q==

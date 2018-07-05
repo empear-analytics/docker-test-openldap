@@ -1,0 +1,13 @@
+dn: cn=Danyelle+sn=Lisy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Danyelle Lisy
+cn: Lisy
+givenname: Danyelle
+mail: danyelle.lisy@planetexpress.com
+userPassword: Danyelle
+ou: admin_staff
+uid: 133
+ Q==

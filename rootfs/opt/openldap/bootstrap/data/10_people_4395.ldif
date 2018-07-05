@@ -1,0 +1,13 @@
+dn: cn=Gianna+sn=Tullos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gianna Tullos
+cn: Tullos
+givenname: Gianna
+mail: gianna.tullos@planetexpress.com
+userPassword: Gianna
+ou: flight_crew
+uid: 4395
+ Q==

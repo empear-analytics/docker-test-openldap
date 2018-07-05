@@ -1,0 +1,13 @@
+dn: cn=Anastacia+sn=Leiber,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anastacia Leiber
+cn: Leiber
+givenname: Anastacia
+mail: anastacia.leiber@planetexpress.com
+userPassword: Anastacia
+ou: admin_staff
+uid: 1219
+ Q==

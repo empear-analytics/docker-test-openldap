@@ -1,0 +1,13 @@
+dn: cn=Jarvis+sn=Eastern,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jarvis Eastern
+cn: Eastern
+givenname: Jarvis
+mail: jarvis.eastern@planetexpress.com
+userPassword: Jarvis
+ou: flight_crew
+uid: 1963
+ Q==

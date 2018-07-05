@@ -1,0 +1,13 @@
+dn: cn=Slyvia+sn=Kuffel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Slyvia Kuffel
+cn: Kuffel
+givenname: Slyvia
+mail: slyvia.kuffel@planetexpress.com
+userPassword: Slyvia
+ou: OtherGroup
+uid: 2319
+ Q==

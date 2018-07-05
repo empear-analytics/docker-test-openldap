@@ -1,0 +1,13 @@
+dn: cn=Janeen+sn=Dampf,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janeen Dampf
+cn: Dampf
+givenname: Janeen
+mail: janeen.dampf@planetexpress.com
+userPassword: Janeen
+ou: Group5
+uid: 4066
+ Q==

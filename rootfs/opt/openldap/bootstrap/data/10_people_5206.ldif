@@ -1,0 +1,13 @@
+dn: cn=Eneida+sn=Tellers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eneida Tellers
+cn: Tellers
+givenname: Eneida
+mail: eneida.tellers@planetexpress.com
+userPassword: Eneida
+ou: flight_crew
+uid: 5206
+ Q==

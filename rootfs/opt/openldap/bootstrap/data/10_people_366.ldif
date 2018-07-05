@@ -1,0 +1,13 @@
+dn: cn=Florance+sn=Harned,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Florance Harned
+cn: Harned
+givenname: Florance
+mail: florance.harned@planetexpress.com
+userPassword: Florance
+ou: admin_staff
+uid: 366
+ Q==

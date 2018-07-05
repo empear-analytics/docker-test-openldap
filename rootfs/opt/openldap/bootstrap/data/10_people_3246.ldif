@@ -1,0 +1,13 @@
+dn: cn=Felicita+sn=Derrig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Felicita Derrig
+cn: Derrig
+givenname: Felicita
+mail: felicita.derrig@planetexpress.com
+userPassword: Felicita
+ou: admin_staff
+uid: 3246
+ Q==

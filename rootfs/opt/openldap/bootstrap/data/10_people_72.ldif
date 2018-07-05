@@ -1,0 +1,13 @@
+dn: cn=Bonnie+sn=Heathershaw,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bonnie Heathershaw
+cn: Heathershaw
+givenname: Bonnie
+mail: bonnie.heathershaw@planetexpress.com
+userPassword: Bonnie
+ou: flight_crew
+uid: 72
+ Q==

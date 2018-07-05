@@ -1,0 +1,13 @@
+dn: cn=Karrie+sn=Fleischer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karrie Fleischer
+cn: Fleischer
+givenname: Karrie
+mail: karrie.fleischer@planetexpress.com
+userPassword: Karrie
+ou: Group5
+uid: 1867
+ Q==

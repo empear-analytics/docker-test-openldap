@@ -1,0 +1,13 @@
+dn: cn=Richie+sn=Fragassi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Richie Fragassi
+cn: Fragassi
+givenname: Richie
+mail: richie.fragassi@planetexpress.com
+userPassword: Richie
+ou: admin_staff
+uid: 218
+ Q==

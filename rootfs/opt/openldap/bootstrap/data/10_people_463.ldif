@@ -1,0 +1,13 @@
+dn: cn=Reanna+sn=Bogany,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reanna Bogany
+cn: Bogany
+givenname: Reanna
+mail: reanna.bogany@planetexpress.com
+userPassword: Reanna
+ou: flight_crew
+uid: 463
+ Q==

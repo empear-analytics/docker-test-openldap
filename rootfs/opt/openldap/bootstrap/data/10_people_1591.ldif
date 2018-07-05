@@ -1,0 +1,13 @@
+dn: cn=Guy+sn=Havens,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Guy Havens
+cn: Havens
+givenname: Guy
+mail: guy.havens@planetexpress.com
+userPassword: Guy
+ou: Group5
+uid: 1591
+ Q==

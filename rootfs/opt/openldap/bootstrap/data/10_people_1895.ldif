@@ -1,0 +1,13 @@
+dn: cn=Cecila+sn=Blomgren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cecila Blomgren
+cn: Blomgren
+givenname: Cecila
+mail: cecila.blomgren@planetexpress.com
+userPassword: Cecila
+ou: Group5
+uid: 1895
+ Q==

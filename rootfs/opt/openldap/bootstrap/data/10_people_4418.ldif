@@ -1,0 +1,13 @@
+dn: cn=Alejandrina+sn=Cliche,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alejandrina Cliche
+cn: Cliche
+givenname: Alejandrina
+mail: alejandrina.cliche@planetexpress.com
+userPassword: Alejandrina
+ou: OtherGroup
+uid: 4418
+ Q==

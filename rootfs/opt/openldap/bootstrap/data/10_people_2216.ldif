@@ -1,0 +1,13 @@
+dn: cn=Daria+sn=Fredin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daria Fredin
+cn: Fredin
+givenname: Daria
+mail: daria.fredin@planetexpress.com
+userPassword: Daria
+ou: OtherGroup
+uid: 2216
+ Q==

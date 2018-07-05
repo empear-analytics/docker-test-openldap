@@ -1,0 +1,13 @@
+dn: cn=Veronica+sn=Wheadon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Veronica Wheadon
+cn: Wheadon
+givenname: Veronica
+mail: veronica.wheadon@planetexpress.com
+userPassword: Veronica
+ou: admin_staff
+uid: 4775
+ Q==

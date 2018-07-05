@@ -1,0 +1,13 @@
+dn: cn=Aretha+sn=Maldenado,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aretha Maldenado
+cn: Maldenado
+givenname: Aretha
+mail: aretha.maldenado@planetexpress.com
+userPassword: Aretha
+ou: Group5
+uid: 1304
+ Q==

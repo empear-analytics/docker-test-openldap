@@ -1,0 +1,13 @@
+dn: cn=Amelia+sn=Gillion,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Amelia Gillion
+cn: Gillion
+givenname: Amelia
+mail: amelia.gillion@planetexpress.com
+userPassword: Amelia
+ou: OtherGroup
+uid: 4669
+ Q==

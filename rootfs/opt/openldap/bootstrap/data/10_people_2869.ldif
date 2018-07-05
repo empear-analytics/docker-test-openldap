@@ -1,0 +1,13 @@
+dn: cn=Darryl+sn=Wasden,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darryl Wasden
+cn: Wasden
+givenname: Darryl
+mail: darryl.wasden@planetexpress.com
+userPassword: Darryl
+ou: flight_crew
+uid: 2869
+ Q==

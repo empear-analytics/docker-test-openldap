@@ -1,0 +1,13 @@
+dn: cn=Robyn+sn=Sualevai,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Robyn Sualevai
+cn: Sualevai
+givenname: Robyn
+mail: robyn.sualevai@planetexpress.com
+userPassword: Robyn
+ou: flight_crew
+uid: 2469
+ Q==

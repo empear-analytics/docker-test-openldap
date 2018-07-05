@@ -1,0 +1,13 @@
+dn: cn=Lavina+sn=Heiserman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lavina Heiserman
+cn: Heiserman
+givenname: Lavina
+mail: lavina.heiserman@planetexpress.com
+userPassword: Lavina
+ou: OtherGroup
+uid: 2139
+ Q==

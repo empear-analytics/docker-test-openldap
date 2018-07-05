@@ -1,0 +1,13 @@
+dn: cn=Sanjuanita+sn=Klez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sanjuanita Klez
+cn: Klez
+givenname: Sanjuanita
+mail: sanjuanita.klez@planetexpress.com
+userPassword: Sanjuanita
+ou: Group5
+uid: 5698
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Toya+sn=Requarth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Toya Requarth
+cn: Requarth
+givenname: Toya
+mail: toya.requarth@planetexpress.com
+userPassword: Toya
+ou: admin_staff
+uid: 2791
+ Q==

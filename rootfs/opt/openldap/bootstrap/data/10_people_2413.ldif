@@ -1,0 +1,13 @@
+dn: cn=Hildred+sn=Glesener,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hildred Glesener
+cn: Glesener
+givenname: Hildred
+mail: hildred.glesener@planetexpress.com
+userPassword: Hildred
+ou: admin_staff
+uid: 2413
+ Q==

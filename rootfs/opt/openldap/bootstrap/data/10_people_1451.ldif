@@ -1,0 +1,13 @@
+dn: cn=Laurene+sn=Solimini,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Laurene Solimini
+cn: Solimini
+givenname: Laurene
+mail: laurene.solimini@planetexpress.com
+userPassword: Laurene
+ou: Group5
+uid: 1451
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Rashida+sn=Enter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rashida Enter
+cn: Enter
+givenname: Rashida
+mail: rashida.enter@planetexpress.com
+userPassword: Rashida
+ou: Group5
+uid: 2851
+ Q==

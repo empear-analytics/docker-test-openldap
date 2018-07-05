@@ -1,0 +1,13 @@
+dn: cn=Belva+sn=Rivara,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Belva Rivara
+cn: Rivara
+givenname: Belva
+mail: belva.rivara@planetexpress.com
+userPassword: Belva
+ou: admin_staff
+uid: 2760
+ Q==

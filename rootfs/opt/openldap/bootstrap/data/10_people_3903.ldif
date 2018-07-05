@@ -1,0 +1,13 @@
+dn: cn=Belle+sn=Chretien,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Belle Chretien
+cn: Chretien
+givenname: Belle
+mail: belle.chretien@planetexpress.com
+userPassword: Belle
+ou: Group5
+uid: 3903
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Trish+sn=Doepner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Trish Doepner
+cn: Doepner
+givenname: Trish
+mail: trish.doepner@planetexpress.com
+userPassword: Trish
+ou: admin_staff
+uid: 2356
+ Q==

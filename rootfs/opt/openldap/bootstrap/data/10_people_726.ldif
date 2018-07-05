@@ -1,0 +1,13 @@
+dn: cn=Diane+sn=Woolcott,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Diane Woolcott
+cn: Woolcott
+givenname: Diane
+mail: diane.woolcott@planetexpress.com
+userPassword: Diane
+ou: admin_staff
+uid: 726
+ Q==

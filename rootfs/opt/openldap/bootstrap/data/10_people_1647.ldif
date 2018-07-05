@@ -1,0 +1,13 @@
+dn: cn=Warner+sn=Senato,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Warner Senato
+cn: Senato
+givenname: Warner
+mail: warner.senato@planetexpress.com
+userPassword: Warner
+ou: flight_crew
+uid: 1647
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kathryne+sn=Smeenk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kathryne Smeenk
+cn: Smeenk
+givenname: Kathryne
+mail: kathryne.smeenk@planetexpress.com
+userPassword: Kathryne
+ou: OtherGroup
+uid: 3535
+ Q==

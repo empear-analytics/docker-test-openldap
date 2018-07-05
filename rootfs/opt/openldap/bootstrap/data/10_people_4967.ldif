@@ -1,0 +1,13 @@
+dn: cn=Sindy+sn=Sundell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sindy Sundell
+cn: Sundell
+givenname: Sindy
+mail: sindy.sundell@planetexpress.com
+userPassword: Sindy
+ou: Group5
+uid: 4967
+ Q==

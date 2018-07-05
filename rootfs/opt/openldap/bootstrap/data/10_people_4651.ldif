@@ -1,0 +1,13 @@
+dn: cn=Sirena+sn=Schnaible,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sirena Schnaible
+cn: Schnaible
+givenname: Sirena
+mail: sirena.schnaible@planetexpress.com
+userPassword: Sirena
+ou: OtherGroup
+uid: 4651
+ Q==

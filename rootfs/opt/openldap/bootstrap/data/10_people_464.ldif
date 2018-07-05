@@ -1,0 +1,13 @@
+dn: cn=Karan+sn=Guyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karan Guyer
+cn: Guyer
+givenname: Karan
+mail: karan.guyer@planetexpress.com
+userPassword: Karan
+ou: Group5
+uid: 464
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Loraine+sn=Radar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loraine Radar
+cn: Radar
+givenname: Loraine
+mail: loraine.radar@planetexpress.com
+userPassword: Loraine
+ou: OtherGroup
+uid: 5502
+ Q==

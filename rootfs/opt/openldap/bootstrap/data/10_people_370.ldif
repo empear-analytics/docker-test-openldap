@@ -1,0 +1,13 @@
+dn: cn=Tory+sn=Spino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tory Spino
+cn: Spino
+givenname: Tory
+mail: tory.spino@planetexpress.com
+userPassword: Tory
+ou: flight_crew
+uid: 370
+ Q==

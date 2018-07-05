@@ -1,0 +1,13 @@
+dn: cn=Keila+sn=Setterberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keila Setterberg
+cn: Setterberg
+givenname: Keila
+mail: keila.setterberg@planetexpress.com
+userPassword: Keila
+ou: flight_crew
+uid: 2298
+ Q==

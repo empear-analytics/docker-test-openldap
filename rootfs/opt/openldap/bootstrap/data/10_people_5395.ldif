@@ -1,0 +1,13 @@
+dn: cn=Candida+sn=Gwirtz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Candida Gwirtz
+cn: Gwirtz
+givenname: Candida
+mail: candida.gwirtz@planetexpress.com
+userPassword: Candida
+ou: Group5
+uid: 5395
+ Q==

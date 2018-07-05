@@ -1,0 +1,13 @@
+dn: cn=Tanner+sn=Rizzardo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tanner Rizzardo
+cn: Rizzardo
+givenname: Tanner
+mail: tanner.rizzardo@planetexpress.com
+userPassword: Tanner
+ou: OtherGroup
+uid: 1607
+ Q==

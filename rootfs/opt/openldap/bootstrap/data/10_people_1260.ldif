@@ -1,0 +1,13 @@
+dn: cn=Tia+sn=Buckalew,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tia Buckalew
+cn: Buckalew
+givenname: Tia
+mail: tia.buckalew@planetexpress.com
+userPassword: Tia
+ou: OtherGroup
+uid: 1260
+ Q==

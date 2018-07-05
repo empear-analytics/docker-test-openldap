@@ -1,0 +1,13 @@
+dn: cn=Manuela+sn=Ridener,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Manuela Ridener
+cn: Ridener
+givenname: Manuela
+mail: manuela.ridener@planetexpress.com
+userPassword: Manuela
+ou: admin_staff
+uid: 890
+ Q==

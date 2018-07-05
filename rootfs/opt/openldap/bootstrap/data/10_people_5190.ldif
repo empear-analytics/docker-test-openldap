@@ -1,0 +1,13 @@
+dn: cn=Fawn+sn=Hohensee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fawn Hohensee
+cn: Hohensee
+givenname: Fawn
+mail: fawn.hohensee@planetexpress.com
+userPassword: Fawn
+ou: Group5
+uid: 5190
+ Q==

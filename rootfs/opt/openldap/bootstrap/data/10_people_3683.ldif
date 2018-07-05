@@ -1,0 +1,13 @@
+dn: cn=Hilde+sn=Daskal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hilde Daskal
+cn: Daskal
+givenname: Hilde
+mail: hilde.daskal@planetexpress.com
+userPassword: Hilde
+ou: flight_crew
+uid: 3683
+ Q==

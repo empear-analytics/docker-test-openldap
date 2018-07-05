@@ -1,0 +1,13 @@
+dn: cn=Brenda+sn=Sanghani,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brenda Sanghani
+cn: Sanghani
+givenname: Brenda
+mail: brenda.sanghani@planetexpress.com
+userPassword: Brenda
+ou: OtherGroup
+uid: 3664
+ Q==

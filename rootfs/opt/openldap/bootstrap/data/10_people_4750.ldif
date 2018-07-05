@@ -1,0 +1,13 @@
+dn: cn=Jeremy+sn=Whitacre,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeremy Whitacre
+cn: Whitacre
+givenname: Jeremy
+mail: jeremy.whitacre@planetexpress.com
+userPassword: Jeremy
+ou: OtherGroup
+uid: 4750
+ Q==

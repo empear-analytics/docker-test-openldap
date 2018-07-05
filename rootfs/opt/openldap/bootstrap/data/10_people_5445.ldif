@@ -1,0 +1,13 @@
+dn: cn=Donald+sn=Sucgang,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Donald Sucgang
+cn: Sucgang
+givenname: Donald
+mail: donald.sucgang@planetexpress.com
+userPassword: Donald
+ou: admin_staff
+uid: 5445
+ Q==

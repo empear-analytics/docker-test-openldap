@@ -1,0 +1,13 @@
+dn: cn=Tiara+sn=Batun,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tiara Batun
+cn: Batun
+givenname: Tiara
+mail: tiara.batun@planetexpress.com
+userPassword: Tiara
+ou: admin_staff
+uid: 4434
+ Q==

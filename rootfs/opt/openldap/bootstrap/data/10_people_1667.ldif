@@ -1,0 +1,13 @@
+dn: cn=Vivien+sn=Mcgough,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vivien Mcgough
+cn: Mcgough
+givenname: Vivien
+mail: vivien.mcgough@planetexpress.com
+userPassword: Vivien
+ou: flight_crew
+uid: 1667
+ Q==

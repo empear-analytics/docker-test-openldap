@@ -1,0 +1,13 @@
+dn: cn=Josiah+sn=Smitz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Josiah Smitz
+cn: Smitz
+givenname: Josiah
+mail: josiah.smitz@planetexpress.com
+userPassword: Josiah
+ou: admin_staff
+uid: 846
+ Q==

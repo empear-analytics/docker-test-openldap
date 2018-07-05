@@ -1,0 +1,13 @@
+dn: cn=Kellye+sn=Shaffren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kellye Shaffren
+cn: Shaffren
+givenname: Kellye
+mail: kellye.shaffren@planetexpress.com
+userPassword: Kellye
+ou: admin_staff
+uid: 1933
+ Q==

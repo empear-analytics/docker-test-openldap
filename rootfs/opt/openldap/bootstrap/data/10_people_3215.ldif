@@ -1,0 +1,13 @@
+dn: cn=Jong+sn=Yengich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jong Yengich
+cn: Yengich
+givenname: Jong
+mail: jong.yengich@planetexpress.com
+userPassword: Jong
+ou: Group5
+uid: 3215
+ Q==

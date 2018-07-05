@@ -1,0 +1,13 @@
+dn: cn=Aisha+sn=Campell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aisha Campell
+cn: Campell
+givenname: Aisha
+mail: aisha.campell@planetexpress.com
+userPassword: Aisha
+ou: Group5
+uid: 1649
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Debera+sn=Carrigg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Debera Carrigg
+cn: Carrigg
+givenname: Debera
+mail: debera.carrigg@planetexpress.com
+userPassword: Debera
+ou: Group5
+uid: 3985
+ Q==

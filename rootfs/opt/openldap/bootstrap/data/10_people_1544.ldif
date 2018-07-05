@@ -1,0 +1,13 @@
+dn: cn=Lorinda+sn=Coonradt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lorinda Coonradt
+cn: Coonradt
+givenname: Lorinda
+mail: lorinda.coonradt@planetexpress.com
+userPassword: Lorinda
+ou: flight_crew
+uid: 1544
+ Q==

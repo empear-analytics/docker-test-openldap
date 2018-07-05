@@ -1,0 +1,13 @@
+dn: cn=Zack+sn=Lipps,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zack Lipps
+cn: Lipps
+givenname: Zack
+mail: zack.lipps@planetexpress.com
+userPassword: Zack
+ou: OtherGroup
+uid: 2939
+ Q==

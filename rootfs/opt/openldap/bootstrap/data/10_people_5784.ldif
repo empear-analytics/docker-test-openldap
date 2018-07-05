@@ -1,0 +1,13 @@
+dn: cn=Collene+sn=Lopeman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Collene Lopeman
+cn: Lopeman
+givenname: Collene
+mail: collene.lopeman@planetexpress.com
+userPassword: Collene
+ou: Group5
+uid: 5784
+ Q==

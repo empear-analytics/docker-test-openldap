@@ -1,0 +1,13 @@
+dn: cn=Berry+sn=Meyerson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Berry Meyerson
+cn: Meyerson
+givenname: Berry
+mail: berry.meyerson@planetexpress.com
+userPassword: Berry
+ou: OtherGroup
+uid: 4485
+ Q==

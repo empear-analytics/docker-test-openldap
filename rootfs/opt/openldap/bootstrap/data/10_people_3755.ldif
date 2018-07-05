@@ -1,0 +1,13 @@
+dn: cn=Coralie+sn=Pipkin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Coralie Pipkin
+cn: Pipkin
+givenname: Coralie
+mail: coralie.pipkin@planetexpress.com
+userPassword: Coralie
+ou: OtherGroup
+uid: 3755
+ Q==

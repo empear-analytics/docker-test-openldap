@@ -1,0 +1,13 @@
+dn: cn=Jannie+sn=Marcel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jannie Marcel
+cn: Marcel
+givenname: Jannie
+mail: jannie.marcel@planetexpress.com
+userPassword: Jannie
+ou: admin_staff
+uid: 2381
+ Q==

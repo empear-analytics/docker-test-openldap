@@ -1,0 +1,13 @@
+dn: cn=Francisco+sn=Carrizales,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Francisco Carrizales
+cn: Carrizales
+givenname: Francisco
+mail: francisco.carrizales@planetexpress.com
+userPassword: Francisco
+ou: admin_staff
+uid: 4115
+ Q==

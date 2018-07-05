@@ -1,0 +1,13 @@
+dn: cn=Olga+sn=Prock,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Olga Prock
+cn: Prock
+givenname: Olga
+mail: olga.prock@planetexpress.com
+userPassword: Olga
+ou: OtherGroup
+uid: 5275
+ Q==

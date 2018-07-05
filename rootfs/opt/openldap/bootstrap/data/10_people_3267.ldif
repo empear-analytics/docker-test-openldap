@@ -1,0 +1,13 @@
+dn: cn=Margit+sn=Scarboro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margit Scarboro
+cn: Scarboro
+givenname: Margit
+mail: margit.scarboro@planetexpress.com
+userPassword: Margit
+ou: flight_crew
+uid: 3267
+ Q==

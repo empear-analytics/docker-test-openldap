@@ -1,0 +1,13 @@
+dn: cn=Corazon+sn=Trometter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Corazon Trometter
+cn: Trometter
+givenname: Corazon
+mail: corazon.trometter@planetexpress.com
+userPassword: Corazon
+ou: OtherGroup
+uid: 3026
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Toshiko+sn=Mak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Toshiko Mak
+cn: Mak
+givenname: Toshiko
+mail: toshiko.mak@planetexpress.com
+userPassword: Toshiko
+ou: flight_crew
+uid: 126
+ Q==

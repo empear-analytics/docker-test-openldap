@@ -1,0 +1,13 @@
+dn: cn=Melvin+sn=Mikko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melvin Mikko
+cn: Mikko
+givenname: Melvin
+mail: melvin.mikko@planetexpress.com
+userPassword: Melvin
+ou: admin_staff
+uid: 1817
+ Q==

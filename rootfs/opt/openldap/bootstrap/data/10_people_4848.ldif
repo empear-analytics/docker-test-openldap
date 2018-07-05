@@ -1,0 +1,13 @@
+dn: cn=Aurelia+sn=Boulette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aurelia Boulette
+cn: Boulette
+givenname: Aurelia
+mail: aurelia.boulette@planetexpress.com
+userPassword: Aurelia
+ou: admin_staff
+uid: 4848
+ Q==

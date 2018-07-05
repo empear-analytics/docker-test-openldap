@@ -1,0 +1,13 @@
+dn: cn=Jackelyn+sn=Girad,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jackelyn Girad
+cn: Girad
+givenname: Jackelyn
+mail: jackelyn.girad@planetexpress.com
+userPassword: Jackelyn
+ou: OtherGroup
+uid: 155
+ Q==

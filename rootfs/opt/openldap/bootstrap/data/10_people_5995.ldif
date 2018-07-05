@@ -1,0 +1,13 @@
+dn: cn=Ruben+sn=Rydzewski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ruben Rydzewski
+cn: Rydzewski
+givenname: Ruben
+mail: ruben.rydzewski@planetexpress.com
+userPassword: Ruben
+ou: admin_staff
+uid: 5995
+ Q==

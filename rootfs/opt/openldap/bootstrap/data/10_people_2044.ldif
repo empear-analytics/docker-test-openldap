@@ -1,0 +1,13 @@
+dn: cn=Latashia+sn=Garff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Latashia Garff
+cn: Garff
+givenname: Latashia
+mail: latashia.garff@planetexpress.com
+userPassword: Latashia
+ou: Group5
+uid: 2044
+ Q==

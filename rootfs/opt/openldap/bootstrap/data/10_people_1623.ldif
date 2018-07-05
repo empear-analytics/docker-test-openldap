@@ -1,0 +1,13 @@
+dn: cn=Johnson+sn=Nord,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Johnson Nord
+cn: Nord
+givenname: Johnson
+mail: johnson.nord@planetexpress.com
+userPassword: Johnson
+ou: OtherGroup
+uid: 1623
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Wanetta+sn=Olszewski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wanetta Olszewski
+cn: Olszewski
+givenname: Wanetta
+mail: wanetta.olszewski@planetexpress.com
+userPassword: Wanetta
+ou: OtherGroup
+uid: 4185
+ Q==

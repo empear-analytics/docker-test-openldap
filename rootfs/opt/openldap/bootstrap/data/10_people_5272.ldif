@@ -1,0 +1,13 @@
+dn: cn=Camellia+sn=Neher,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Camellia Neher
+cn: Neher
+givenname: Camellia
+mail: camellia.neher@planetexpress.com
+userPassword: Camellia
+ou: OtherGroup
+uid: 5272
+ Q==

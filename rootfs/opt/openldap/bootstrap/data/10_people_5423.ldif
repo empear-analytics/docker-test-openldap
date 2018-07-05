@@ -1,0 +1,13 @@
+dn: cn=Lyndon+sn=Ochinang,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lyndon Ochinang
+cn: Ochinang
+givenname: Lyndon
+mail: lyndon.ochinang@planetexpress.com
+userPassword: Lyndon
+ou: admin_staff
+uid: 5423
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kena+sn=Fiorentini,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kena Fiorentini
+cn: Fiorentini
+givenname: Kena
+mail: kena.fiorentini@planetexpress.com
+userPassword: Kena
+ou: admin_staff
+uid: 4079
+ Q==

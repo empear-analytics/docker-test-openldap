@@ -1,0 +1,13 @@
+dn: cn=Lorna+sn=Gussin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lorna Gussin
+cn: Gussin
+givenname: Lorna
+mail: lorna.gussin@planetexpress.com
+userPassword: Lorna
+ou: admin_staff
+uid: 785
+ Q==

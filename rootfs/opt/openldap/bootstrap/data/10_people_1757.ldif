@@ -1,0 +1,13 @@
+dn: cn=Sharlene+sn=Richey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharlene Richey
+cn: Richey
+givenname: Sharlene
+mail: sharlene.richey@planetexpress.com
+userPassword: Sharlene
+ou: Group5
+uid: 1757
+ Q==

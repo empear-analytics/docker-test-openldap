@@ -1,0 +1,13 @@
+dn: cn=Walter+sn=Malpica,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Walter Malpica
+cn: Malpica
+givenname: Walter
+mail: walter.malpica@planetexpress.com
+userPassword: Walter
+ou: OtherGroup
+uid: 329
+ Q==

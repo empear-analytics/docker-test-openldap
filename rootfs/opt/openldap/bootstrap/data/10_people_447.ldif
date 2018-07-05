@@ -1,0 +1,13 @@
+dn: cn=Agnus+sn=Liechty,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Agnus Liechty
+cn: Liechty
+givenname: Agnus
+mail: agnus.liechty@planetexpress.com
+userPassword: Agnus
+ou: OtherGroup
+uid: 447
+ Q==

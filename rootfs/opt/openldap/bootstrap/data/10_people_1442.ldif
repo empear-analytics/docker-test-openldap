@@ -1,0 +1,13 @@
+dn: cn=Brittni+sn=Shakir,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brittni Shakir
+cn: Shakir
+givenname: Brittni
+mail: brittni.shakir@planetexpress.com
+userPassword: Brittni
+ou: admin_staff
+uid: 1442
+ Q==

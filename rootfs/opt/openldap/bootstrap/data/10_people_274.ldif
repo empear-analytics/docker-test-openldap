@@ -1,0 +1,13 @@
+dn: cn=Vella+sn=Games,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vella Games
+cn: Games
+givenname: Vella
+mail: vella.games@planetexpress.com
+userPassword: Vella
+ou: Group5
+uid: 274
+ Q==

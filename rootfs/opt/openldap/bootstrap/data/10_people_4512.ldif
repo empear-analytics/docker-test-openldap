@@ -1,0 +1,13 @@
+dn: cn=Jere+sn=Moraga,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jere Moraga
+cn: Moraga
+givenname: Jere
+mail: jere.moraga@planetexpress.com
+userPassword: Jere
+ou: OtherGroup
+uid: 4512
+ Q==

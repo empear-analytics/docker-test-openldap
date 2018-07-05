@@ -1,0 +1,13 @@
+dn: cn=Kelly+sn=Badder,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kelly Badder
+cn: Badder
+givenname: Kelly
+mail: kelly.badder@planetexpress.com
+userPassword: Kelly
+ou: Group5
+uid: 5031
+ Q==

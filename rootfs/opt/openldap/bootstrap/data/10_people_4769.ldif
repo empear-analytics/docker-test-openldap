@@ -1,0 +1,13 @@
+dn: cn=Noah+sn=Laperouse,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Noah Laperouse
+cn: Laperouse
+givenname: Noah
+mail: noah.laperouse@planetexpress.com
+userPassword: Noah
+ou: Group5
+uid: 4769
+ Q==

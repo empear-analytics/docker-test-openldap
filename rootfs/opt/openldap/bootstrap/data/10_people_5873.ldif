@@ -1,0 +1,13 @@
+dn: cn=Jeannette+sn=Ayotte,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeannette Ayotte
+cn: Ayotte
+givenname: Jeannette
+mail: jeannette.ayotte@planetexpress.com
+userPassword: Jeannette
+ou: Group5
+uid: 5873
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lemuel+sn=Kuzara,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lemuel Kuzara
+cn: Kuzara
+givenname: Lemuel
+mail: lemuel.kuzara@planetexpress.com
+userPassword: Lemuel
+ou: OtherGroup
+uid: 5846
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Angeline+sn=Lies,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angeline Lies
+cn: Lies
+givenname: Angeline
+mail: angeline.lies@planetexpress.com
+userPassword: Angeline
+ou: flight_crew
+uid: 4126
+ Q==

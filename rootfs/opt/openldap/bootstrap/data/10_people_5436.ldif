@@ -1,0 +1,13 @@
+dn: cn=Jacquelyne+sn=Pinckley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacquelyne Pinckley
+cn: Pinckley
+givenname: Jacquelyne
+mail: jacquelyne.pinckley@planetexpress.com
+userPassword: Jacquelyne
+ou: Group5
+uid: 5436
+ Q==

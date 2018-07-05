@@ -1,0 +1,13 @@
+dn: cn=Sibyl+sn=Godboldt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sibyl Godboldt
+cn: Godboldt
+givenname: Sibyl
+mail: sibyl.godboldt@planetexpress.com
+userPassword: Sibyl
+ou: Group5
+uid: 2689
+ Q==

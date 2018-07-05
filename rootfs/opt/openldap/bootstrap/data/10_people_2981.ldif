@@ -1,0 +1,13 @@
+dn: cn=Zaida+sn=Morock,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zaida Morock
+cn: Morock
+givenname: Zaida
+mail: zaida.morock@planetexpress.com
+userPassword: Zaida
+ou: flight_crew
+uid: 2981
+ Q==

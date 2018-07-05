@@ -1,0 +1,13 @@
+dn: cn=Adela+sn=Renzulli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adela Renzulli
+cn: Renzulli
+givenname: Adela
+mail: adela.renzulli@planetexpress.com
+userPassword: Adela
+ou: OtherGroup
+uid: 2524
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Branden+sn=Thaman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Branden Thaman
+cn: Thaman
+givenname: Branden
+mail: branden.thaman@planetexpress.com
+userPassword: Branden
+ou: admin_staff
+uid: 1960
+ Q==

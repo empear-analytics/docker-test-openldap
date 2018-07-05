@@ -1,0 +1,13 @@
+dn: cn=Jennell+sn=Budds,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jennell Budds
+cn: Budds
+givenname: Jennell
+mail: jennell.budds@planetexpress.com
+userPassword: Jennell
+ou: OtherGroup
+uid: 5761
+ Q==

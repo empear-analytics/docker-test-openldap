@@ -1,0 +1,13 @@
+dn: cn=Lonny+sn=Mings,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lonny Mings
+cn: Mings
+givenname: Lonny
+mail: lonny.mings@planetexpress.com
+userPassword: Lonny
+ou: Group5
+uid: 4348
+ Q==

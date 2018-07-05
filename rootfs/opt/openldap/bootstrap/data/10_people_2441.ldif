@@ -1,0 +1,13 @@
+dn: cn=Lekisha+sn=Belon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lekisha Belon
+cn: Belon
+givenname: Lekisha
+mail: lekisha.belon@planetexpress.com
+userPassword: Lekisha
+ou: admin_staff
+uid: 2441
+ Q==

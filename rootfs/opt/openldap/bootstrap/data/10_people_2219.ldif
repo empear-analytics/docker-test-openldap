@@ -1,0 +1,13 @@
+dn: cn=Cari+sn=Schwanbeck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cari Schwanbeck
+cn: Schwanbeck
+givenname: Cari
+mail: cari.schwanbeck@planetexpress.com
+userPassword: Cari
+ou: flight_crew
+uid: 2219
+ Q==

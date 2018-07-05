@@ -1,0 +1,13 @@
+dn: cn=Tyrell+sn=Webley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tyrell Webley
+cn: Webley
+givenname: Tyrell
+mail: tyrell.webley@planetexpress.com
+userPassword: Tyrell
+ou: Group5
+uid: 2843
+ Q==

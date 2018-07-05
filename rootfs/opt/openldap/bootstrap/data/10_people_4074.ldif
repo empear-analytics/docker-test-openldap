@@ -1,0 +1,13 @@
+dn: cn=Jamika+sn=Foran,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamika Foran
+cn: Foran
+givenname: Jamika
+mail: jamika.foran@planetexpress.com
+userPassword: Jamika
+ou: OtherGroup
+uid: 4074
+ Q==

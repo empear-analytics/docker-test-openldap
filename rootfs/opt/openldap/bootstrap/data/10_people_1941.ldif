@@ -1,0 +1,13 @@
+dn: cn=Noemi+sn=Mongelli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Noemi Mongelli
+cn: Mongelli
+givenname: Noemi
+mail: noemi.mongelli@planetexpress.com
+userPassword: Noemi
+ou: OtherGroup
+uid: 1941
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Beverly+sn=Nieva,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beverly Nieva
+cn: Nieva
+givenname: Beverly
+mail: beverly.nieva@planetexpress.com
+userPassword: Beverly
+ou: OtherGroup
+uid: 3
+ Q==

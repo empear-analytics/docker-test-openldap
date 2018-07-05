@@ -1,0 +1,13 @@
+dn: cn=Keenan+sn=Vreeland,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keenan Vreeland
+cn: Vreeland
+givenname: Keenan
+mail: keenan.vreeland@planetexpress.com
+userPassword: Keenan
+ou: Group5
+uid: 2393
+ Q==

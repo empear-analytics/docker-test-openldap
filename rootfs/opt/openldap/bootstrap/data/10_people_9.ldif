@@ -1,0 +1,13 @@
+dn: cn=Raymond+sn=Drumm,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raymond Drumm
+cn: Drumm
+givenname: Raymond
+mail: raymond.drumm@planetexpress.com
+userPassword: Raymond
+ou: flight_crew
+uid: 9
+ Q==

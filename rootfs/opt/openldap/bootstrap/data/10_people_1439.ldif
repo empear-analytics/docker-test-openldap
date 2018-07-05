@@ -1,0 +1,13 @@
+dn: cn=Merlin+sn=Vanderhoot,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Merlin Vanderhoot
+cn: Vanderhoot
+givenname: Merlin
+mail: merlin.vanderhoot@planetexpress.com
+userPassword: Merlin
+ou: flight_crew
+uid: 1439
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Deetta+sn=Coaker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deetta Coaker
+cn: Coaker
+givenname: Deetta
+mail: deetta.coaker@planetexpress.com
+userPassword: Deetta
+ou: Group5
+uid: 3540
+ Q==

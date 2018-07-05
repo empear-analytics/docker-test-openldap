@@ -1,0 +1,13 @@
+dn: cn=Larue+sn=Pelch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Larue Pelch
+cn: Pelch
+givenname: Larue
+mail: larue.pelch@planetexpress.com
+userPassword: Larue
+ou: admin_staff
+uid: 5987
+ Q==

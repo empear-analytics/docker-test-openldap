@@ -1,0 +1,13 @@
+dn: cn=Corrie+sn=Guinnip,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Corrie Guinnip
+cn: Guinnip
+givenname: Corrie
+mail: corrie.guinnip@planetexpress.com
+userPassword: Corrie
+ou: admin_staff
+uid: 4980
+ Q==

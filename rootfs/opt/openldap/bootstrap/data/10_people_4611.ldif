@@ -1,0 +1,13 @@
+dn: cn=Ramona+sn=Papike,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ramona Papike
+cn: Papike
+givenname: Ramona
+mail: ramona.papike@planetexpress.com
+userPassword: Ramona
+ou: OtherGroup
+uid: 4611
+ Q==

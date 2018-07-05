@@ -1,0 +1,13 @@
+dn: cn=Chante+sn=Agan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chante Agan
+cn: Agan
+givenname: Chante
+mail: chante.agan@planetexpress.com
+userPassword: Chante
+ou: Group5
+uid: 5802
+ Q==

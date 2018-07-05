@@ -1,0 +1,13 @@
+dn: cn=Terry+sn=Huitzacua,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Terry Huitzacua
+cn: Huitzacua
+givenname: Terry
+mail: terry.huitzacua@planetexpress.com
+userPassword: Terry
+ou: admin_staff
+uid: 2126
+ Q==

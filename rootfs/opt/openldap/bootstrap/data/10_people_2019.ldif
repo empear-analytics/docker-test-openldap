@@ -1,0 +1,13 @@
+dn: cn=Salvador+sn=Powells,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Salvador Powells
+cn: Powells
+givenname: Salvador
+mail: salvador.powells@planetexpress.com
+userPassword: Salvador
+ou: OtherGroup
+uid: 2019
+ Q==

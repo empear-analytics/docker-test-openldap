@@ -1,0 +1,13 @@
+dn: cn=Valentine+sn=Kunze,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Valentine Kunze
+cn: Kunze
+givenname: Valentine
+mail: valentine.kunze@planetexpress.com
+userPassword: Valentine
+ou: flight_crew
+uid: 177
+ Q==

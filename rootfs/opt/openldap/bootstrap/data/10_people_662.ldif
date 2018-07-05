@@ -1,0 +1,13 @@
+dn: cn=Le+sn=Gleiss,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Le Gleiss
+cn: Gleiss
+givenname: Le
+mail: le.gleiss@planetexpress.com
+userPassword: Le
+ou: admin_staff
+uid: 662
+ Q==

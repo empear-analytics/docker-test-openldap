@@ -1,0 +1,13 @@
+dn: cn=Kary+sn=Beto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kary Beto
+cn: Beto
+givenname: Kary
+mail: kary.beto@planetexpress.com
+userPassword: Kary
+ou: OtherGroup
+uid: 1265
+ Q==

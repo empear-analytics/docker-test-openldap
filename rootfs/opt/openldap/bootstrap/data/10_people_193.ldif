@@ -1,0 +1,13 @@
+dn: cn=Mechelle+sn=Canale,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mechelle Canale
+cn: Canale
+givenname: Mechelle
+mail: mechelle.canale@planetexpress.com
+userPassword: Mechelle
+ou: admin_staff
+uid: 193
+ Q==

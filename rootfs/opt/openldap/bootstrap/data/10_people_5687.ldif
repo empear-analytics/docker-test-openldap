@@ -1,0 +1,13 @@
+dn: cn=Mitch+sn=Adelstein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mitch Adelstein
+cn: Adelstein
+givenname: Mitch
+mail: mitch.adelstein@planetexpress.com
+userPassword: Mitch
+ou: flight_crew
+uid: 5687
+ Q==

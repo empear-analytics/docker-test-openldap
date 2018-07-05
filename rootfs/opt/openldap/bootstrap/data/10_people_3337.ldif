@@ -1,0 +1,13 @@
+dn: cn=Desmond+sn=Stoneking,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Desmond Stoneking
+cn: Stoneking
+givenname: Desmond
+mail: desmond.stoneking@planetexpress.com
+userPassword: Desmond
+ou: flight_crew
+uid: 3337
+ Q==

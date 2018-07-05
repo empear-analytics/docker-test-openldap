@@ -1,0 +1,13 @@
+dn: cn=Joshua+sn=Fowley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joshua Fowley
+cn: Fowley
+givenname: Joshua
+mail: joshua.fowley@planetexpress.com
+userPassword: Joshua
+ou: Group5
+uid: 4594
+ Q==

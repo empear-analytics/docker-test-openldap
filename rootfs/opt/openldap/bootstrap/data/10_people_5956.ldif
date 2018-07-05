@@ -1,0 +1,13 @@
+dn: cn=Jona+sn=Knights,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jona Knights
+cn: Knights
+givenname: Jona
+mail: jona.knights@planetexpress.com
+userPassword: Jona
+ou: OtherGroup
+uid: 5956
+ Q==

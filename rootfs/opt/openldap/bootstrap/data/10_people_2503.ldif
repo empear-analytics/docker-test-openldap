@@ -1,0 +1,13 @@
+dn: cn=Thanh+sn=Lanzo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thanh Lanzo
+cn: Lanzo
+givenname: Thanh
+mail: thanh.lanzo@planetexpress.com
+userPassword: Thanh
+ou: admin_staff
+uid: 2503
+ Q==

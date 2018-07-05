@@ -1,0 +1,13 @@
+dn: cn=Dagny+sn=Redemer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dagny Redemer
+cn: Redemer
+givenname: Dagny
+mail: dagny.redemer@planetexpress.com
+userPassword: Dagny
+ou: Group5
+uid: 1574
+ Q==

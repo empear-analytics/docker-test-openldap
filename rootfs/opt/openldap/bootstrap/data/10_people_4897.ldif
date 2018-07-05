@@ -1,0 +1,13 @@
+dn: cn=Reena+sn=Burrous,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reena Burrous
+cn: Burrous
+givenname: Reena
+mail: reena.burrous@planetexpress.com
+userPassword: Reena
+ou: admin_staff
+uid: 4897
+ Q==

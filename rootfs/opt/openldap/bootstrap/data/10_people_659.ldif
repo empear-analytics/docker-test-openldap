@@ -1,0 +1,13 @@
+dn: cn=Maisha+sn=Szewczyk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maisha Szewczyk
+cn: Szewczyk
+givenname: Maisha
+mail: maisha.szewczyk@planetexpress.com
+userPassword: Maisha
+ou: Group5
+uid: 659
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Aurore+sn=Rayyan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aurore Rayyan
+cn: Rayyan
+givenname: Aurore
+mail: aurore.rayyan@planetexpress.com
+userPassword: Aurore
+ou: admin_staff
+uid: 5137
+ Q==

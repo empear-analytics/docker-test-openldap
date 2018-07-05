@@ -1,0 +1,13 @@
+dn: cn=Tiara+sn=Eustice,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tiara Eustice
+cn: Eustice
+givenname: Tiara
+mail: tiara.eustice@planetexpress.com
+userPassword: Tiara
+ou: Group5
+uid: 4863
+ Q==

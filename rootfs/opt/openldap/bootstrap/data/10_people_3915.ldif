@@ -1,0 +1,13 @@
+dn: cn=Mariko+sn=Lumadue,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mariko Lumadue
+cn: Lumadue
+givenname: Mariko
+mail: mariko.lumadue@planetexpress.com
+userPassword: Mariko
+ou: admin_staff
+uid: 3915
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Rocio+sn=Butland,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rocio Butland
+cn: Butland
+givenname: Rocio
+mail: rocio.butland@planetexpress.com
+userPassword: Rocio
+ou: Group5
+uid: 2422
+ Q==

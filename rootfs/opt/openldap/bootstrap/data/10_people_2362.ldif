@@ -1,0 +1,13 @@
+dn: cn=Letitia+sn=Ogaz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Letitia Ogaz
+cn: Ogaz
+givenname: Letitia
+mail: letitia.ogaz@planetexpress.com
+userPassword: Letitia
+ou: OtherGroup
+uid: 2362
+ Q==

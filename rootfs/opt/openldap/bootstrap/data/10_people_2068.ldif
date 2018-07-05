@@ -1,0 +1,13 @@
+dn: cn=Chantay+sn=Newitt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chantay Newitt
+cn: Newitt
+givenname: Chantay
+mail: chantay.newitt@planetexpress.com
+userPassword: Chantay
+ou: Group5
+uid: 2068
+ Q==

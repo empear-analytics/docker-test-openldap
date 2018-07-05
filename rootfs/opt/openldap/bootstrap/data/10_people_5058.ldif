@@ -1,0 +1,13 @@
+dn: cn=Clarine+sn=Philson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clarine Philson
+cn: Philson
+givenname: Clarine
+mail: clarine.philson@planetexpress.com
+userPassword: Clarine
+ou: admin_staff
+uid: 5058
+ Q==

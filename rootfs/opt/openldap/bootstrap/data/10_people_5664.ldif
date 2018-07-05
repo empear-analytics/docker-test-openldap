@@ -1,0 +1,13 @@
+dn: cn=Michelle+sn=Nerney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Michelle Nerney
+cn: Nerney
+givenname: Michelle
+mail: michelle.nerney@planetexpress.com
+userPassword: Michelle
+ou: flight_crew
+uid: 5664
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Janetta+sn=Rumburd,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janetta Rumburd
+cn: Rumburd
+givenname: Janetta
+mail: janetta.rumburd@planetexpress.com
+userPassword: Janetta
+ou: Group5
+uid: 3819
+ Q==

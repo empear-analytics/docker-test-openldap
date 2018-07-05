@@ -1,0 +1,13 @@
+dn: cn=Love+sn=Urquijo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Love Urquijo
+cn: Urquijo
+givenname: Love
+mail: love.urquijo@planetexpress.com
+userPassword: Love
+ou: admin_staff
+uid: 207
+ Q==

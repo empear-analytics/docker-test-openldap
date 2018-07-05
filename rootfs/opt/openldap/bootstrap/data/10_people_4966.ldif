@@ -1,0 +1,13 @@
+dn: cn=Katy+sn=Plessis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katy Plessis
+cn: Plessis
+givenname: Katy
+mail: katy.plessis@planetexpress.com
+userPassword: Katy
+ou: flight_crew
+uid: 4966
+ Q==

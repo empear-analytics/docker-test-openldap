@@ -1,0 +1,13 @@
+dn: cn=Cassandra+sn=William,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cassandra William
+cn: William
+givenname: Cassandra
+mail: cassandra.william@planetexpress.com
+userPassword: Cassandra
+ou: flight_crew
+uid: 1013
+ Q==

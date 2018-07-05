@@ -1,0 +1,13 @@
+dn: cn=Cornell+sn=Boehler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cornell Boehler
+cn: Boehler
+givenname: Cornell
+mail: cornell.boehler@planetexpress.com
+userPassword: Cornell
+ou: Group5
+uid: 2621
+ Q==

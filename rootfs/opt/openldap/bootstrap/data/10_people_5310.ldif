@@ -1,0 +1,13 @@
+dn: cn=Micki+sn=Lehberger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Micki Lehberger
+cn: Lehberger
+givenname: Micki
+mail: micki.lehberger@planetexpress.com
+userPassword: Micki
+ou: admin_staff
+uid: 5310
+ Q==

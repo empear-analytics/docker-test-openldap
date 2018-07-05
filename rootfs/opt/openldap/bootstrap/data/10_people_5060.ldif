@@ -1,0 +1,13 @@
+dn: cn=Natosha+sn=Gantvoort,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Natosha Gantvoort
+cn: Gantvoort
+givenname: Natosha
+mail: natosha.gantvoort@planetexpress.com
+userPassword: Natosha
+ou: admin_staff
+uid: 5060
+ Q==

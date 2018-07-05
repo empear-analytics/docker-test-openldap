@@ -1,0 +1,13 @@
+dn: cn=Rodolfo+sn=Tocchio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rodolfo Tocchio
+cn: Tocchio
+givenname: Rodolfo
+mail: rodolfo.tocchio@planetexpress.com
+userPassword: Rodolfo
+ou: flight_crew
+uid: 5644
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Loriann+sn=Cobb,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loriann Cobb
+cn: Cobb
+givenname: Loriann
+mail: loriann.cobb@planetexpress.com
+userPassword: Loriann
+ou: flight_crew
+uid: 3982
+ Q==

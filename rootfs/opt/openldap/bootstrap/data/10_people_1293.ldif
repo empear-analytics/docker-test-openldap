@@ -1,0 +1,13 @@
+dn: cn=Bryce+sn=Gofman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bryce Gofman
+cn: Gofman
+givenname: Bryce
+mail: bryce.gofman@planetexpress.com
+userPassword: Bryce
+ou: Group5
+uid: 1293
+ Q==

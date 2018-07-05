@@ -1,0 +1,13 @@
+dn: cn=Lorriane+sn=Villalpando,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lorriane Villalpando
+cn: Villalpando
+givenname: Lorriane
+mail: lorriane.villalpando@planetexpress.com
+userPassword: Lorriane
+ou: flight_crew
+uid: 5754
+ Q==

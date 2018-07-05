@@ -1,0 +1,13 @@
+dn: cn=Consuelo+sn=Reining,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Consuelo Reining
+cn: Reining
+givenname: Consuelo
+mail: consuelo.reining@planetexpress.com
+userPassword: Consuelo
+ou: flight_crew
+uid: 1522
+ Q==

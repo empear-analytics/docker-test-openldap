@@ -1,0 +1,13 @@
+dn: cn=Lorna+sn=Langley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lorna Langley
+cn: Langley
+givenname: Lorna
+mail: lorna.langley@planetexpress.com
+userPassword: Lorna
+ou: flight_crew
+uid: 847
+ Q==

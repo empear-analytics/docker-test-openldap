@@ -1,0 +1,13 @@
+dn: cn=Lanelle+sn=Howe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lanelle Howe
+cn: Howe
+givenname: Lanelle
+mail: lanelle.howe@planetexpress.com
+userPassword: Lanelle
+ou: flight_crew
+uid: 3491
+ Q==

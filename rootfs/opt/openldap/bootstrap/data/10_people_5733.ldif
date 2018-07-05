@@ -1,0 +1,13 @@
+dn: cn=Brandy+sn=Whitey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brandy Whitey
+cn: Whitey
+givenname: Brandy
+mail: brandy.whitey@planetexpress.com
+userPassword: Brandy
+ou: Group5
+uid: 5733
+ Q==

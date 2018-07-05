@@ -1,0 +1,13 @@
+dn: cn=Andre+sn=Rifkin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andre Rifkin
+cn: Rifkin
+givenname: Andre
+mail: andre.rifkin@planetexpress.com
+userPassword: Andre
+ou: admin_staff
+uid: 1478
+ Q==

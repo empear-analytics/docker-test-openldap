@@ -1,0 +1,13 @@
+dn: cn=Reina+sn=Norskog,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reina Norskog
+cn: Norskog
+givenname: Reina
+mail: reina.norskog@planetexpress.com
+userPassword: Reina
+ou: admin_staff
+uid: 2206
+ Q==

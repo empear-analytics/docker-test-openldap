@@ -1,0 +1,13 @@
+dn: cn=Lyman+sn=Reicks,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lyman Reicks
+cn: Reicks
+givenname: Lyman
+mail: lyman.reicks@planetexpress.com
+userPassword: Lyman
+ou: admin_staff
+uid: 2855
+ Q==

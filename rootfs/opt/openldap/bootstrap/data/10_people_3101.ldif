@@ -1,0 +1,13 @@
+dn: cn=Brian+sn=Negrin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brian Negrin
+cn: Negrin
+givenname: Brian
+mail: brian.negrin@planetexpress.com
+userPassword: Brian
+ou: OtherGroup
+uid: 3101
+ Q==

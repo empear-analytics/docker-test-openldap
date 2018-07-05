@@ -1,0 +1,13 @@
+dn: cn=Bonita+sn=Deierlein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bonita Deierlein
+cn: Deierlein
+givenname: Bonita
+mail: bonita.deierlein@planetexpress.com
+userPassword: Bonita
+ou: OtherGroup
+uid: 2082
+ Q==

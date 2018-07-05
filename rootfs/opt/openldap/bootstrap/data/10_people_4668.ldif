@@ -1,0 +1,13 @@
+dn: cn=Mickey+sn=Vogl,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mickey Vogl
+cn: Vogl
+givenname: Mickey
+mail: mickey.vogl@planetexpress.com
+userPassword: Mickey
+ou: Group5
+uid: 4668
+ Q==

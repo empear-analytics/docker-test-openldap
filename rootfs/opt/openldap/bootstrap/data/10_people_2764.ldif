@@ -1,0 +1,13 @@
+dn: cn=Sheryl+sn=Grieve,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sheryl Grieve
+cn: Grieve
+givenname: Sheryl
+mail: sheryl.grieve@planetexpress.com
+userPassword: Sheryl
+ou: Group5
+uid: 2764
+ Q==

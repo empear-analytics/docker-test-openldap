@@ -1,0 +1,13 @@
+dn: cn=Katelyn+sn=Mcmillian,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katelyn Mcmillian
+cn: Mcmillian
+givenname: Katelyn
+mail: katelyn.mcmillian@planetexpress.com
+userPassword: Katelyn
+ou: flight_crew
+uid: 531
+ Q==

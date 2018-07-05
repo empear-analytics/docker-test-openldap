@@ -1,0 +1,13 @@
+dn: cn=Meagan+sn=Vidulich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Meagan Vidulich
+cn: Vidulich
+givenname: Meagan
+mail: meagan.vidulich@planetexpress.com
+userPassword: Meagan
+ou: admin_staff
+uid: 404
+ Q==

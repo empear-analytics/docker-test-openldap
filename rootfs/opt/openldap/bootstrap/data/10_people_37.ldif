@@ -1,0 +1,13 @@
+dn: cn=Felice+sn=Ronnie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Felice Ronnie
+cn: Ronnie
+givenname: Felice
+mail: felice.ronnie@planetexpress.com
+userPassword: Felice
+ou: admin_staff
+uid: 37
+ Q==

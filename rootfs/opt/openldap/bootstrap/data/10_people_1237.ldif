@@ -1,0 +1,13 @@
+dn: cn=Gregg+sn=Eiseman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gregg Eiseman
+cn: Eiseman
+givenname: Gregg
+mail: gregg.eiseman@planetexpress.com
+userPassword: Gregg
+ou: Group5
+uid: 1237
+ Q==

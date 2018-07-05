@@ -1,0 +1,13 @@
+dn: cn=Sanora+sn=Terrace,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sanora Terrace
+cn: Terrace
+givenname: Sanora
+mail: sanora.terrace@planetexpress.com
+userPassword: Sanora
+ou: flight_crew
+uid: 5114
+ Q==

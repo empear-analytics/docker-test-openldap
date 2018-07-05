@@ -1,0 +1,13 @@
+dn: cn=Toby+sn=Corino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Toby Corino
+cn: Corino
+givenname: Toby
+mail: toby.corino@planetexpress.com
+userPassword: Toby
+ou: Group5
+uid: 1636
+ Q==

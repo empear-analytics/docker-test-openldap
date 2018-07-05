@@ -1,0 +1,13 @@
+dn: cn=Mitzi+sn=Jacobellis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mitzi Jacobellis
+cn: Jacobellis
+givenname: Mitzi
+mail: mitzi.jacobellis@planetexpress.com
+userPassword: Mitzi
+ou: flight_crew
+uid: 2700
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Shu+sn=Byrer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shu Byrer
+cn: Byrer
+givenname: Shu
+mail: shu.byrer@planetexpress.com
+userPassword: Shu
+ou: flight_crew
+uid: 610
+ Q==

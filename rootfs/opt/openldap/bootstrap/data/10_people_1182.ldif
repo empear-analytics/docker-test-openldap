@@ -1,0 +1,13 @@
+dn: cn=Caleb+sn=Keesler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Caleb Keesler
+cn: Keesler
+givenname: Caleb
+mail: caleb.keesler@planetexpress.com
+userPassword: Caleb
+ou: admin_staff
+uid: 1182
+ Q==

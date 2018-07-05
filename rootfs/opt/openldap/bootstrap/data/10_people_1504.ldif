@@ -1,0 +1,13 @@
+dn: cn=Shasta+sn=Rutter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shasta Rutter
+cn: Rutter
+givenname: Shasta
+mail: shasta.rutter@planetexpress.com
+userPassword: Shasta
+ou: admin_staff
+uid: 1504
+ Q==

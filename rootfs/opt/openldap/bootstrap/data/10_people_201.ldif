@@ -1,0 +1,13 @@
+dn: cn=Nida+sn=Buyck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nida Buyck
+cn: Buyck
+givenname: Nida
+mail: nida.buyck@planetexpress.com
+userPassword: Nida
+ou: flight_crew
+uid: 201
+ Q==

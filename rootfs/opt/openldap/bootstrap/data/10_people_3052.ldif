@@ -1,0 +1,13 @@
+dn: cn=Eleanore+sn=Preble,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eleanore Preble
+cn: Preble
+givenname: Eleanore
+mail: eleanore.preble@planetexpress.com
+userPassword: Eleanore
+ou: Group5
+uid: 3052
+ Q==

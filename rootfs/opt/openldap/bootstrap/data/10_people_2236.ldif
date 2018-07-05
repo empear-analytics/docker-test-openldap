@@ -1,0 +1,13 @@
+dn: cn=Anastasia+sn=Mazey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anastasia Mazey
+cn: Mazey
+givenname: Anastasia
+mail: anastasia.mazey@planetexpress.com
+userPassword: Anastasia
+ou: admin_staff
+uid: 2236
+ Q==

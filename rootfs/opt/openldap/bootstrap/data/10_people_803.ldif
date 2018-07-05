@@ -1,0 +1,13 @@
+dn: cn=Sabra+sn=Lincicome,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sabra Lincicome
+cn: Lincicome
+givenname: Sabra
+mail: sabra.lincicome@planetexpress.com
+userPassword: Sabra
+ou: admin_staff
+uid: 803
+ Q==

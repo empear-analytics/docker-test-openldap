@@ -1,0 +1,13 @@
+dn: cn=Nancey+sn=Cimmino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nancey Cimmino
+cn: Cimmino
+givenname: Nancey
+mail: nancey.cimmino@planetexpress.com
+userPassword: Nancey
+ou: flight_crew
+uid: 374
+ Q==

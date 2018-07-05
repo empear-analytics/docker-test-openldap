@@ -1,0 +1,13 @@
+dn: cn=Bobette+sn=Fenniman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bobette Fenniman
+cn: Fenniman
+givenname: Bobette
+mail: bobette.fenniman@planetexpress.com
+userPassword: Bobette
+ou: OtherGroup
+uid: 1903
+ Q==

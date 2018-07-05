@@ -1,0 +1,13 @@
+dn: cn=Shakia+sn=Gourdin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shakia Gourdin
+cn: Gourdin
+givenname: Shakia
+mail: shakia.gourdin@planetexpress.com
+userPassword: Shakia
+ou: admin_staff
+uid: 1824
+ Q==

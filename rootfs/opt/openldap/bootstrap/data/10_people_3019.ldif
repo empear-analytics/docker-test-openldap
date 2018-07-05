@@ -1,0 +1,13 @@
+dn: cn=Alexander+sn=Paff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alexander Paff
+cn: Paff
+givenname: Alexander
+mail: alexander.paff@planetexpress.com
+userPassword: Alexander
+ou: admin_staff
+uid: 3019
+ Q==

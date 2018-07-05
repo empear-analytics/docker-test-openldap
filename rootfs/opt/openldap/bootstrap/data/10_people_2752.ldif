@@ -1,0 +1,13 @@
+dn: cn=Hailey+sn=Mccorkindale,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hailey Mccorkindale
+cn: Mccorkindale
+givenname: Hailey
+mail: hailey.mccorkindale@planetexpress.com
+userPassword: Hailey
+ou: OtherGroup
+uid: 2752
+ Q==

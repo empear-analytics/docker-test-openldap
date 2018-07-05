@@ -1,0 +1,13 @@
+dn: cn=Gladys+sn=Neuhart,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gladys Neuhart
+cn: Neuhart
+givenname: Gladys
+mail: gladys.neuhart@planetexpress.com
+userPassword: Gladys
+ou: OtherGroup
+uid: 4569
+ Q==

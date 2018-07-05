@@ -1,0 +1,13 @@
+dn: cn=Andria+sn=Tarrats,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andria Tarrats
+cn: Tarrats
+givenname: Andria
+mail: andria.tarrats@planetexpress.com
+userPassword: Andria
+ou: flight_crew
+uid: 637
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Louise+sn=Olejniczak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Louise Olejniczak
+cn: Olejniczak
+givenname: Louise
+mail: louise.olejniczak@planetexpress.com
+userPassword: Louise
+ou: admin_staff
+uid: 1551
+ Q==

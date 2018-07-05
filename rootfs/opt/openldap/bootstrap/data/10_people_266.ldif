@@ -1,0 +1,13 @@
+dn: cn=Cleta+sn=Dralle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cleta Dralle
+cn: Dralle
+givenname: Cleta
+mail: cleta.dralle@planetexpress.com
+userPassword: Cleta
+ou: flight_crew
+uid: 266
+ Q==

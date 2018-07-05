@@ -1,0 +1,13 @@
+dn: cn=Nia+sn=Bairos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nia Bairos
+cn: Bairos
+givenname: Nia
+mail: nia.bairos@planetexpress.com
+userPassword: Nia
+ou: admin_staff
+uid: 4636
+ Q==

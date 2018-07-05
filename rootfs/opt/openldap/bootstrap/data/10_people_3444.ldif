@@ -1,0 +1,13 @@
+dn: cn=Nola+sn=Okin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nola Okin
+cn: Okin
+givenname: Nola
+mail: nola.okin@planetexpress.com
+userPassword: Nola
+ou: admin_staff
+uid: 3444
+ Q==

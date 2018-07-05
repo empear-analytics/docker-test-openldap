@@ -1,0 +1,13 @@
+dn: cn=Ashley+sn=Marvier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ashley Marvier
+cn: Marvier
+givenname: Ashley
+mail: ashley.marvier@planetexpress.com
+userPassword: Ashley
+ou: flight_crew
+uid: 1066
+ Q==

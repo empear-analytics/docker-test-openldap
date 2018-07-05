@@ -1,0 +1,13 @@
+dn: cn=Damien+sn=Spitznogle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Damien Spitznogle
+cn: Spitznogle
+givenname: Damien
+mail: damien.spitznogle@planetexpress.com
+userPassword: Damien
+ou: OtherGroup
+uid: 5908
+ Q==

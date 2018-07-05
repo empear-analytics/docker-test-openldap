@@ -1,0 +1,13 @@
+dn: cn=Jae+sn=Swirsky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jae Swirsky
+cn: Swirsky
+givenname: Jae
+mail: jae.swirsky@planetexpress.com
+userPassword: Jae
+ou: admin_staff
+uid: 1834
+ Q==

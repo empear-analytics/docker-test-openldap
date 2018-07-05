@@ -1,0 +1,13 @@
+dn: cn=Delmar+sn=Freshwater,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delmar Freshwater
+cn: Freshwater
+givenname: Delmar
+mail: delmar.freshwater@planetexpress.com
+userPassword: Delmar
+ou: admin_staff
+uid: 2692
+ Q==

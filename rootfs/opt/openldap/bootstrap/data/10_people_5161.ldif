@@ -1,0 +1,13 @@
+dn: cn=Kathlyn+sn=Queller,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kathlyn Queller
+cn: Queller
+givenname: Kathlyn
+mail: kathlyn.queller@planetexpress.com
+userPassword: Kathlyn
+ou: flight_crew
+uid: 5161
+ Q==

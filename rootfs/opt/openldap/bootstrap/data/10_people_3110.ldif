@@ -1,0 +1,13 @@
+dn: cn=Cruz+sn=Newmeyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cruz Newmeyer
+cn: Newmeyer
+givenname: Cruz
+mail: cruz.newmeyer@planetexpress.com
+userPassword: Cruz
+ou: Group5
+uid: 3110
+ Q==

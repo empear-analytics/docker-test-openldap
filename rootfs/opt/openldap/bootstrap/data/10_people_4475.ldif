@@ -1,0 +1,13 @@
+dn: cn=Joaquin+sn=Aste,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joaquin Aste
+cn: Aste
+givenname: Joaquin
+mail: joaquin.aste@planetexpress.com
+userPassword: Joaquin
+ou: admin_staff
+uid: 4475
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Warren+sn=Thornborough,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Warren Thornborough
+cn: Thornborough
+givenname: Warren
+mail: warren.thornborough@planetexpress.com
+userPassword: Warren
+ou: OtherGroup
+uid: 3753
+ Q==

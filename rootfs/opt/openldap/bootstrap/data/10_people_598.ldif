@@ -1,0 +1,13 @@
+dn: cn=Trevor+sn=Eidt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Trevor Eidt
+cn: Eidt
+givenname: Trevor
+mail: trevor.eidt@planetexpress.com
+userPassword: Trevor
+ou: flight_crew
+uid: 598
+ Q==

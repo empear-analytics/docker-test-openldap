@@ -1,0 +1,13 @@
+dn: cn=Coleman+sn=Chamberlin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Coleman Chamberlin
+cn: Chamberlin
+givenname: Coleman
+mail: coleman.chamberlin@planetexpress.com
+userPassword: Coleman
+ou: Group5
+uid: 5556
+ Q==

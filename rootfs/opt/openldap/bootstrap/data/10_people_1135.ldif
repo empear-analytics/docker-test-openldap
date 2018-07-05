@@ -1,0 +1,13 @@
+dn: cn=Mozelle+sn=Rendle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mozelle Rendle
+cn: Rendle
+givenname: Mozelle
+mail: mozelle.rendle@planetexpress.com
+userPassword: Mozelle
+ou: OtherGroup
+uid: 1135
+ Q==

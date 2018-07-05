@@ -1,0 +1,13 @@
+dn: cn=Samara+sn=Bjorklund,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Samara Bjorklund
+cn: Bjorklund
+givenname: Samara
+mail: samara.bjorklund@planetexpress.com
+userPassword: Samara
+ou: Group5
+uid: 5693
+ Q==

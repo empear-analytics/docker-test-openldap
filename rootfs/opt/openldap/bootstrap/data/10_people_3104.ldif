@@ -1,0 +1,13 @@
+dn: cn=Jerald+sn=Ryle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jerald Ryle
+cn: Ryle
+givenname: Jerald
+mail: jerald.ryle@planetexpress.com
+userPassword: Jerald
+ou: flight_crew
+uid: 3104
+ Q==

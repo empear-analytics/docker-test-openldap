@@ -1,0 +1,13 @@
+dn: cn=Altha+sn=Renard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Altha Renard
+cn: Renard
+givenname: Altha
+mail: altha.renard@planetexpress.com
+userPassword: Altha
+ou: Group5
+uid: 1252
+ Q==

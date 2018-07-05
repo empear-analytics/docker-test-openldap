@@ -1,0 +1,13 @@
+dn: cn=Jocelyn+sn=Lasyone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jocelyn Lasyone
+cn: Lasyone
+givenname: Jocelyn
+mail: jocelyn.lasyone@planetexpress.com
+userPassword: Jocelyn
+ou: flight_crew
+uid: 3220
+ Q==

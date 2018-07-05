@@ -1,0 +1,13 @@
+dn: cn=Hae+sn=Harde,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hae Harde
+cn: Harde
+givenname: Hae
+mail: hae.harde@planetexpress.com
+userPassword: Hae
+ou: Group5
+uid: 4588
+ Q==

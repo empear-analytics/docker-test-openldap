@@ -1,0 +1,13 @@
+dn: cn=Tamara+sn=Brisbone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tamara Brisbone
+cn: Brisbone
+givenname: Tamara
+mail: tamara.brisbone@planetexpress.com
+userPassword: Tamara
+ou: admin_staff
+uid: 268
+ Q==

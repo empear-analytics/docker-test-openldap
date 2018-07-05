@@ -1,0 +1,13 @@
+dn: cn=Jenae+sn=Myhr,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jenae Myhr
+cn: Myhr
+givenname: Jenae
+mail: jenae.myhr@planetexpress.com
+userPassword: Jenae
+ou: OtherGroup
+uid: 762
+ Q==

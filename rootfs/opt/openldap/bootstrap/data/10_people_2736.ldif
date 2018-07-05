@@ -1,0 +1,13 @@
+dn: cn=Carlotta+sn=Ryland,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carlotta Ryland
+cn: Ryland
+givenname: Carlotta
+mail: carlotta.ryland@planetexpress.com
+userPassword: Carlotta
+ou: Group5
+uid: 2736
+ Q==

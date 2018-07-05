@@ -1,0 +1,13 @@
+dn: cn=Charissa+sn=Recek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charissa Recek
+cn: Recek
+givenname: Charissa
+mail: charissa.recek@planetexpress.com
+userPassword: Charissa
+ou: Group5
+uid: 5424
+ Q==

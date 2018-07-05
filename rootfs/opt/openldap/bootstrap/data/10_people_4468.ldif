@@ -1,0 +1,13 @@
+dn: cn=Melynda+sn=Golick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melynda Golick
+cn: Golick
+givenname: Melynda
+mail: melynda.golick@planetexpress.com
+userPassword: Melynda
+ou: OtherGroup
+uid: 4468
+ Q==

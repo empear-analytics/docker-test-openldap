@@ -1,0 +1,13 @@
+dn: cn=Josette+sn=Windes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Josette Windes
+cn: Windes
+givenname: Josette
+mail: josette.windes@planetexpress.com
+userPassword: Josette
+ou: flight_crew
+uid: 2018
+ Q==

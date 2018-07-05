@@ -1,0 +1,13 @@
+dn: cn=Veronica+sn=Sucgang,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Veronica Sucgang
+cn: Sucgang
+givenname: Veronica
+mail: veronica.sucgang@planetexpress.com
+userPassword: Veronica
+ou: Group5
+uid: 5155
+ Q==

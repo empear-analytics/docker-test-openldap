@@ -1,0 +1,13 @@
+dn: cn=Arleen+sn=Wackman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arleen Wackman
+cn: Wackman
+givenname: Arleen
+mail: arleen.wackman@planetexpress.com
+userPassword: Arleen
+ou: admin_staff
+uid: 1003
+ Q==

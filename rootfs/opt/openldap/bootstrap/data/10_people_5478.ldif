@@ -1,0 +1,13 @@
+dn: cn=Hubert+sn=Shammo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hubert Shammo
+cn: Shammo
+givenname: Hubert
+mail: hubert.shammo@planetexpress.com
+userPassword: Hubert
+ou: OtherGroup
+uid: 5478
+ Q==

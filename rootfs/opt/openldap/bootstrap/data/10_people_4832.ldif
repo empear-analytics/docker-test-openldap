@@ -1,0 +1,13 @@
+dn: cn=Dominga+sn=Silk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dominga Silk
+cn: Silk
+givenname: Dominga
+mail: dominga.silk@planetexpress.com
+userPassword: Dominga
+ou: admin_staff
+uid: 4832
+ Q==

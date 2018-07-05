@@ -1,0 +1,13 @@
+dn: cn=Leighann+sn=Guynup,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leighann Guynup
+cn: Guynup
+givenname: Leighann
+mail: leighann.guynup@planetexpress.com
+userPassword: Leighann
+ou: Group5
+uid: 3451
+ Q==

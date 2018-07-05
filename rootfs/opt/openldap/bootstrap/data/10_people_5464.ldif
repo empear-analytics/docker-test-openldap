@@ -1,0 +1,13 @@
+dn: cn=Liza+sn=Ritzert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Liza Ritzert
+cn: Ritzert
+givenname: Liza
+mail: liza.ritzert@planetexpress.com
+userPassword: Liza
+ou: Group5
+uid: 5464
+ Q==

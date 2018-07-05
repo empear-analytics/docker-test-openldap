@@ -1,0 +1,13 @@
+dn: cn=Angelic+sn=Weinland,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelic Weinland
+cn: Weinland
+givenname: Angelic
+mail: angelic.weinland@planetexpress.com
+userPassword: Angelic
+ou: admin_staff
+uid: 2964
+ Q==

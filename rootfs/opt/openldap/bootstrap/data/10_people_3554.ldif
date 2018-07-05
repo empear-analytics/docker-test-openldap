@@ -1,0 +1,13 @@
+dn: cn=Casey+sn=Kampmann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Casey Kampmann
+cn: Kampmann
+givenname: Casey
+mail: casey.kampmann@planetexpress.com
+userPassword: Casey
+ou: OtherGroup
+uid: 3554
+ Q==

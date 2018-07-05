@@ -1,0 +1,13 @@
+dn: cn=Zina+sn=Kraft,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zina Kraft
+cn: Kraft
+givenname: Zina
+mail: zina.kraft@planetexpress.com
+userPassword: Zina
+ou: flight_crew
+uid: 2382
+ Q==

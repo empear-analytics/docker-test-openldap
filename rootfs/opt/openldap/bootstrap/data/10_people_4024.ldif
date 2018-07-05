@@ -1,0 +1,13 @@
+dn: cn=Buford+sn=Kivela,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Buford Kivela
+cn: Kivela
+givenname: Buford
+mail: buford.kivela@planetexpress.com
+userPassword: Buford
+ou: OtherGroup
+uid: 4024
+ Q==

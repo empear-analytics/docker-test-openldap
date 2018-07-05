@@ -1,0 +1,13 @@
+dn: cn=Evangeline+sn=Halmstead,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Evangeline Halmstead
+cn: Halmstead
+givenname: Evangeline
+mail: evangeline.halmstead@planetexpress.com
+userPassword: Evangeline
+ou: Group5
+uid: 289
+ Q==

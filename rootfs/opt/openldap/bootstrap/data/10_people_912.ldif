@@ -1,0 +1,13 @@
+dn: cn=Fred+sn=Tyrance,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fred Tyrance
+cn: Tyrance
+givenname: Fred
+mail: fred.tyrance@planetexpress.com
+userPassword: Fred
+ou: flight_crew
+uid: 912
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Dorathy+sn=Terinoni,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dorathy Terinoni
+cn: Terinoni
+givenname: Dorathy
+mail: dorathy.terinoni@planetexpress.com
+userPassword: Dorathy
+ou: flight_crew
+uid: 2564
+ Q==

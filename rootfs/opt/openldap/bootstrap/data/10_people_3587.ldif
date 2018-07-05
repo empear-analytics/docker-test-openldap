@@ -1,0 +1,13 @@
+dn: cn=Sherril+sn=Parter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherril Parter
+cn: Parter
+givenname: Sherril
+mail: sherril.parter@planetexpress.com
+userPassword: Sherril
+ou: flight_crew
+uid: 3587
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Magaret+sn=Lovitt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Magaret Lovitt
+cn: Lovitt
+givenname: Magaret
+mail: magaret.lovitt@planetexpress.com
+userPassword: Magaret
+ou: flight_crew
+uid: 4193
+ Q==

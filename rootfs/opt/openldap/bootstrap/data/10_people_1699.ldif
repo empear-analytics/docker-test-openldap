@@ -1,0 +1,13 @@
+dn: cn=Amee+sn=Artley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Amee Artley
+cn: Artley
+givenname: Amee
+mail: amee.artley@planetexpress.com
+userPassword: Amee
+ou: OtherGroup
+uid: 1699
+ Q==

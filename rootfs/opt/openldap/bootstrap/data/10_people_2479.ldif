@@ -1,0 +1,13 @@
+dn: cn=Delila+sn=Dotie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delila Dotie
+cn: Dotie
+givenname: Delila
+mail: delila.dotie@planetexpress.com
+userPassword: Delila
+ou: Group5
+uid: 2479
+ Q==

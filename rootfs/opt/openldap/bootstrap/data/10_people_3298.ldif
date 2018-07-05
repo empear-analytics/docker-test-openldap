@@ -1,0 +1,13 @@
+dn: cn=Neta+sn=Colin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Neta Colin
+cn: Colin
+givenname: Neta
+mail: neta.colin@planetexpress.com
+userPassword: Neta
+ou: OtherGroup
+uid: 3298
+ Q==

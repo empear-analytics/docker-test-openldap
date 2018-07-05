@@ -1,0 +1,13 @@
+dn: cn=Glady+sn=Chorley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Glady Chorley
+cn: Chorley
+givenname: Glady
+mail: glady.chorley@planetexpress.com
+userPassword: Glady
+ou: flight_crew
+uid: 3367
+ Q==

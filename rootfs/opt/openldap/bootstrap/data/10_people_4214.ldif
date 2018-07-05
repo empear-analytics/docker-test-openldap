@@ -1,0 +1,13 @@
+dn: cn=Brittany+sn=Fonsecn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brittany Fonsecn
+cn: Fonsecn
+givenname: Brittany
+mail: brittany.fonsecn@planetexpress.com
+userPassword: Brittany
+ou: OtherGroup
+uid: 4214
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Angelika+sn=Nebarez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelika Nebarez
+cn: Nebarez
+givenname: Angelika
+mail: angelika.nebarez@planetexpress.com
+userPassword: Angelika
+ou: Group5
+uid: 4380
+ Q==

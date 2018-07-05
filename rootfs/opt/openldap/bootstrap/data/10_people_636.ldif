@@ -1,0 +1,13 @@
+dn: cn=Sidney+sn=Delavina,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sidney Delavina
+cn: Delavina
+givenname: Sidney
+mail: sidney.delavina@planetexpress.com
+userPassword: Sidney
+ou: flight_crew
+uid: 636
+ Q==

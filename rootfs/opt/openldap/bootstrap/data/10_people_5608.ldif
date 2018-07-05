@@ -1,0 +1,13 @@
+dn: cn=Mira+sn=Ankeny,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mira Ankeny
+cn: Ankeny
+givenname: Mira
+mail: mira.ankeny@planetexpress.com
+userPassword: Mira
+ou: OtherGroup
+uid: 5608
+ Q==

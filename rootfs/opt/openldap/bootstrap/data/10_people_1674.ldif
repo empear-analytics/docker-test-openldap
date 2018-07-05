@@ -1,0 +1,13 @@
+dn: cn=Valda+sn=Smouse,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Valda Smouse
+cn: Smouse
+givenname: Valda
+mail: valda.smouse@planetexpress.com
+userPassword: Valda
+ou: Group5
+uid: 1674
+ Q==

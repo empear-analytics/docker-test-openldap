@@ -1,0 +1,13 @@
+dn: cn=Garrett+sn=Dodd,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Garrett Dodd
+cn: Dodd
+givenname: Garrett
+mail: garrett.dodd@planetexpress.com
+userPassword: Garrett
+ou: flight_crew
+uid: 1998
+ Q==

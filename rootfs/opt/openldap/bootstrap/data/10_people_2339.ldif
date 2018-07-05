@@ -1,0 +1,13 @@
+dn: cn=Kacie+sn=Bonomini,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kacie Bonomini
+cn: Bonomini
+givenname: Kacie
+mail: kacie.bonomini@planetexpress.com
+userPassword: Kacie
+ou: OtherGroup
+uid: 2339
+ Q==

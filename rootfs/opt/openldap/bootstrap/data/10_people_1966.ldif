@@ -1,0 +1,13 @@
+dn: cn=Frances+sn=Rux,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Frances Rux
+cn: Rux
+givenname: Frances
+mail: frances.rux@planetexpress.com
+userPassword: Frances
+ou: OtherGroup
+uid: 1966
+ Q==

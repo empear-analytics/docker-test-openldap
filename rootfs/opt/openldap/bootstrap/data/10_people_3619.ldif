@@ -1,0 +1,13 @@
+dn: cn=Mozell+sn=Dilmore,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mozell Dilmore
+cn: Dilmore
+givenname: Mozell
+mail: mozell.dilmore@planetexpress.com
+userPassword: Mozell
+ou: admin_staff
+uid: 3619
+ Q==

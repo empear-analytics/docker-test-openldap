@@ -1,0 +1,13 @@
+dn: cn=Salvatore+sn=Wasyliszyn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Salvatore Wasyliszyn
+cn: Wasyliszyn
+givenname: Salvatore
+mail: salvatore.wasyliszyn@planetexpress.com
+userPassword: Salvatore
+ou: Group5
+uid: 3047
+ Q==

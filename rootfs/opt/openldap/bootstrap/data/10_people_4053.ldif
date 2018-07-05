@@ -1,0 +1,13 @@
+dn: cn=Delena+sn=Matye,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delena Matye
+cn: Matye
+givenname: Delena
+mail: delena.matye@planetexpress.com
+userPassword: Delena
+ou: OtherGroup
+uid: 4053
+ Q==

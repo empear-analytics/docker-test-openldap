@@ -1,0 +1,13 @@
+dn: cn=Angele+sn=Knowlton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angele Knowlton
+cn: Knowlton
+givenname: Angele
+mail: angele.knowlton@planetexpress.com
+userPassword: Angele
+ou: OtherGroup
+uid: 5517
+ Q==

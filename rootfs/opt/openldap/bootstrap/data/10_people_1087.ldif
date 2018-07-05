@@ -1,0 +1,13 @@
+dn: cn=Mirtha+sn=Horner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mirtha Horner
+cn: Horner
+givenname: Mirtha
+mail: mirtha.horner@planetexpress.com
+userPassword: Mirtha
+ou: Group5
+uid: 1087
+ Q==

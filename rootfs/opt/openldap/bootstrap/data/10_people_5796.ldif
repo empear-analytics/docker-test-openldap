@@ -1,0 +1,13 @@
+dn: cn=Beverley+sn=Jerding,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beverley Jerding
+cn: Jerding
+givenname: Beverley
+mail: beverley.jerding@planetexpress.com
+userPassword: Beverley
+ou: OtherGroup
+uid: 5796
+ Q==

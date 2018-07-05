@@ -1,0 +1,13 @@
+dn: cn=Leon+sn=Marcum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leon Marcum
+cn: Marcum
+givenname: Leon
+mail: leon.marcum@planetexpress.com
+userPassword: Leon
+ou: Group5
+uid: 1777
+ Q==

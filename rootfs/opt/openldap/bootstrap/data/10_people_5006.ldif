@@ -1,0 +1,13 @@
+dn: cn=Tyra+sn=Segobia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tyra Segobia
+cn: Segobia
+givenname: Tyra
+mail: tyra.segobia@planetexpress.com
+userPassword: Tyra
+ou: OtherGroup
+uid: 5006
+ Q==

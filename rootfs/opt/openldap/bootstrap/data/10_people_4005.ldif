@@ -1,0 +1,13 @@
+dn: cn=Claud+sn=Witchey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Claud Witchey
+cn: Witchey
+givenname: Claud
+mail: claud.witchey@planetexpress.com
+userPassword: Claud
+ou: flight_crew
+uid: 4005
+ Q==

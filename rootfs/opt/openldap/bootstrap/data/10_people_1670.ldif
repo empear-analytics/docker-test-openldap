@@ -1,0 +1,13 @@
+dn: cn=Tommy+sn=Lundblad,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tommy Lundblad
+cn: Lundblad
+givenname: Tommy
+mail: tommy.lundblad@planetexpress.com
+userPassword: Tommy
+ou: OtherGroup
+uid: 1670
+ Q==

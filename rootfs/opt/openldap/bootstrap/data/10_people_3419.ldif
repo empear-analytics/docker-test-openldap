@@ -1,0 +1,13 @@
+dn: cn=Xuan+sn=Adamsonis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Xuan Adamsonis
+cn: Adamsonis
+givenname: Xuan
+mail: xuan.adamsonis@planetexpress.com
+userPassword: Xuan
+ou: flight_crew
+uid: 3419
+ Q==

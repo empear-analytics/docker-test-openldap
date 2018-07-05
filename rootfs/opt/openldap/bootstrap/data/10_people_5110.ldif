@@ -1,0 +1,13 @@
+dn: cn=Mary+sn=Buckle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mary Buckle
+cn: Buckle
+givenname: Mary
+mail: mary.buckle@planetexpress.com
+userPassword: Mary
+ou: flight_crew
+uid: 5110
+ Q==

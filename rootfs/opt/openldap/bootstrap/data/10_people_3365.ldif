@@ -1,0 +1,13 @@
+dn: cn=Shane+sn=Buckmiller,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shane Buckmiller
+cn: Buckmiller
+givenname: Shane
+mail: shane.buckmiller@planetexpress.com
+userPassword: Shane
+ou: Group5
+uid: 3365
+ Q==

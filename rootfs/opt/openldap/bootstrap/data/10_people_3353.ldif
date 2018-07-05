@@ -1,0 +1,13 @@
+dn: cn=Hiram+sn=Fairall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hiram Fairall
+cn: Fairall
+givenname: Hiram
+mail: hiram.fairall@planetexpress.com
+userPassword: Hiram
+ou: OtherGroup
+uid: 3353
+ Q==

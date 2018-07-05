@@ -1,0 +1,13 @@
+dn: cn=Andree+sn=Forstner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andree Forstner
+cn: Forstner
+givenname: Andree
+mail: andree.forstner@planetexpress.com
+userPassword: Andree
+ou: Group5
+uid: 5941
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Virgilio+sn=Albarez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Virgilio Albarez
+cn: Albarez
+givenname: Virgilio
+mail: virgilio.albarez@planetexpress.com
+userPassword: Virgilio
+ou: admin_staff
+uid: 1357
+ Q==

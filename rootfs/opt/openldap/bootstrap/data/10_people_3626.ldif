@@ -1,0 +1,13 @@
+dn: cn=Whitney+sn=Finucan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Whitney Finucan
+cn: Finucan
+givenname: Whitney
+mail: whitney.finucan@planetexpress.com
+userPassword: Whitney
+ou: Group5
+uid: 3626
+ Q==

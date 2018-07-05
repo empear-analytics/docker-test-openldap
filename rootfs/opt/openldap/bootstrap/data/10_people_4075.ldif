@@ -1,0 +1,13 @@
+dn: cn=Jon+sn=Sharples,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jon Sharples
+cn: Sharples
+givenname: Jon
+mail: jon.sharples@planetexpress.com
+userPassword: Jon
+ou: flight_crew
+uid: 4075
+ Q==

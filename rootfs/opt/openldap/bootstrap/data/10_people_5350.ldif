@@ -1,0 +1,13 @@
+dn: cn=Tanja+sn=Dallmeyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tanja Dallmeyer
+cn: Dallmeyer
+givenname: Tanja
+mail: tanja.dallmeyer@planetexpress.com
+userPassword: Tanja
+ou: OtherGroup
+uid: 5350
+ Q==

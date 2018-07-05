@@ -1,0 +1,13 @@
+dn: cn=Taryn+sn=Hourigan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Taryn Hourigan
+cn: Hourigan
+givenname: Taryn
+mail: taryn.hourigan@planetexpress.com
+userPassword: Taryn
+ou: Group5
+uid: 1090
+ Q==

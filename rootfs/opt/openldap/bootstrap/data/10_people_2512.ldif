@@ -1,0 +1,13 @@
+dn: cn=Milagros+sn=Biamonte,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Milagros Biamonte
+cn: Biamonte
+givenname: Milagros
+mail: milagros.biamonte@planetexpress.com
+userPassword: Milagros
+ou: Group5
+uid: 2512
+ Q==

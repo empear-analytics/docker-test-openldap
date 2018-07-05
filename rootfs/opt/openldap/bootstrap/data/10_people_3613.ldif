@@ -1,0 +1,13 @@
+dn: cn=Cathie+sn=Lura,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cathie Lura
+cn: Lura
+givenname: Cathie
+mail: cathie.lura@planetexpress.com
+userPassword: Cathie
+ou: flight_crew
+uid: 3613
+ Q==

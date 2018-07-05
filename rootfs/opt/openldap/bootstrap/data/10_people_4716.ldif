@@ -1,0 +1,13 @@
+dn: cn=Sabra+sn=Kovatch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sabra Kovatch
+cn: Kovatch
+givenname: Sabra
+mail: sabra.kovatch@planetexpress.com
+userPassword: Sabra
+ou: OtherGroup
+uid: 4716
+ Q==

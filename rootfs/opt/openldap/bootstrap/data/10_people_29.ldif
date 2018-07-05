@@ -1,0 +1,13 @@
+dn: cn=Kathlyn+sn=Wyne,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kathlyn Wyne
+cn: Wyne
+givenname: Kathlyn
+mail: kathlyn.wyne@planetexpress.com
+userPassword: Kathlyn
+ou: flight_crew
+uid: 29
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Rosaura+sn=Levatino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosaura Levatino
+cn: Levatino
+givenname: Rosaura
+mail: rosaura.levatino@planetexpress.com
+userPassword: Rosaura
+ou: Group5
+uid: 2624
+ Q==

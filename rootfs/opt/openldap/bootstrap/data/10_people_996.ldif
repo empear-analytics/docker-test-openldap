@@ -1,0 +1,13 @@
+dn: cn=Kelsey+sn=Feit,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kelsey Feit
+cn: Feit
+givenname: Kelsey
+mail: kelsey.feit@planetexpress.com
+userPassword: Kelsey
+ou: flight_crew
+uid: 996
+ Q==

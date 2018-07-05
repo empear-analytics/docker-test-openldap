@@ -1,0 +1,13 @@
+dn: cn=Jacquline+sn=Schink,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacquline Schink
+cn: Schink
+givenname: Jacquline
+mail: jacquline.schink@planetexpress.com
+userPassword: Jacquline
+ou: OtherGroup
+uid: 3423
+ Q==

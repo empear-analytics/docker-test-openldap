@@ -1,0 +1,13 @@
+dn: cn=Concetta+sn=Helmes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Concetta Helmes
+cn: Helmes
+givenname: Concetta
+mail: concetta.helmes@planetexpress.com
+userPassword: Concetta
+ou: Group5
+uid: 3947
+ Q==

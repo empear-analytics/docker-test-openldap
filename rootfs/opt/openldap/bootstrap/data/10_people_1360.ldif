@@ -1,0 +1,13 @@
+dn: cn=Song+sn=Baster,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Song Baster
+cn: Baster
+givenname: Song
+mail: song.baster@planetexpress.com
+userPassword: Song
+ou: Group5
+uid: 1360
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jorge+sn=Lem,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jorge Lem
+cn: Lem
+givenname: Jorge
+mail: jorge.lem@planetexpress.com
+userPassword: Jorge
+ou: flight_crew
+uid: 2462
+ Q==

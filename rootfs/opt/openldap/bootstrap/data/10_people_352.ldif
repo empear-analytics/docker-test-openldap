@@ -1,0 +1,13 @@
+dn: cn=Janis+sn=Vasso,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janis Vasso
+cn: Vasso
+givenname: Janis
+mail: janis.vasso@planetexpress.com
+userPassword: Janis
+ou: flight_crew
+uid: 352
+ Q==

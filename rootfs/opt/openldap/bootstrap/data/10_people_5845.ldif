@@ -1,0 +1,13 @@
+dn: cn=Carlotta+sn=Dumas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carlotta Dumas
+cn: Dumas
+givenname: Carlotta
+mail: carlotta.dumas@planetexpress.com
+userPassword: Carlotta
+ou: OtherGroup
+uid: 5845
+ Q==

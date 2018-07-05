@@ -1,0 +1,13 @@
+dn: cn=Emanuel+sn=Petrarca,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emanuel Petrarca
+cn: Petrarca
+givenname: Emanuel
+mail: emanuel.petrarca@planetexpress.com
+userPassword: Emanuel
+ou: admin_staff
+uid: 3159
+ Q==

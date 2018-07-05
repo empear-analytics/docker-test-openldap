@@ -1,0 +1,13 @@
+dn: cn=Bok+sn=Demmon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bok Demmon
+cn: Demmon
+givenname: Bok
+mail: bok.demmon@planetexpress.com
+userPassword: Bok
+ou: OtherGroup
+uid: 974
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Juliet+sn=Gagel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Juliet Gagel
+cn: Gagel
+givenname: Juliet
+mail: juliet.gagel@planetexpress.com
+userPassword: Juliet
+ou: flight_crew
+uid: 3502
+ Q==

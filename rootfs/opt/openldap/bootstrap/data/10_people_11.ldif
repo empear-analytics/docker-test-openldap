@@ -1,0 +1,13 @@
+dn: cn=Thaddeus+sn=Sweigart,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thaddeus Sweigart
+cn: Sweigart
+givenname: Thaddeus
+mail: thaddeus.sweigart@planetexpress.com
+userPassword: Thaddeus
+ou: OtherGroup
+uid: 11
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Santo+sn=Drugan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Santo Drugan
+cn: Drugan
+givenname: Santo
+mail: santo.drugan@planetexpress.com
+userPassword: Santo
+ou: OtherGroup
+uid: 1878
+ Q==

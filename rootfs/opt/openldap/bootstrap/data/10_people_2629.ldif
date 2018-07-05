@@ -1,0 +1,13 @@
+dn: cn=Isaac+sn=Jansma,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Isaac Jansma
+cn: Jansma
+givenname: Isaac
+mail: isaac.jansma@planetexpress.com
+userPassword: Isaac
+ou: admin_staff
+uid: 2629
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Estefana+sn=Rosenfeldt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Estefana Rosenfeldt
+cn: Rosenfeldt
+givenname: Estefana
+mail: estefana.rosenfeldt@planetexpress.com
+userPassword: Estefana
+ou: admin_staff
+uid: 316
+ Q==

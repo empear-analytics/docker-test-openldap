@@ -1,0 +1,13 @@
+dn: cn=Lynda+sn=Calamia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lynda Calamia
+cn: Calamia
+givenname: Lynda
+mail: lynda.calamia@planetexpress.com
+userPassword: Lynda
+ou: OtherGroup
+uid: 4490
+ Q==

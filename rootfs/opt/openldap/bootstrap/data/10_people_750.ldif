@@ -1,0 +1,13 @@
+dn: cn=Terrie+sn=Slaton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Terrie Slaton
+cn: Slaton
+givenname: Terrie
+mail: terrie.slaton@planetexpress.com
+userPassword: Terrie
+ou: flight_crew
+uid: 750
+ Q==

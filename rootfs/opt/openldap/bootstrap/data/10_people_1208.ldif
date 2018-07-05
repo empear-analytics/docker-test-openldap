@@ -1,0 +1,13 @@
+dn: cn=Alberta+sn=Schnuerer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alberta Schnuerer
+cn: Schnuerer
+givenname: Alberta
+mail: alberta.schnuerer@planetexpress.com
+userPassword: Alberta
+ou: Group5
+uid: 1208
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Sunny+sn=Zieschang,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sunny Zieschang
+cn: Zieschang
+givenname: Sunny
+mail: sunny.zieschang@planetexpress.com
+userPassword: Sunny
+ou: flight_crew
+uid: 3777
+ Q==

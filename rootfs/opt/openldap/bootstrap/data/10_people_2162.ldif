@@ -1,0 +1,13 @@
+dn: cn=Franklyn+sn=Piccolo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Franklyn Piccolo
+cn: Piccolo
+givenname: Franklyn
+mail: franklyn.piccolo@planetexpress.com
+userPassword: Franklyn
+ou: Group5
+uid: 2162
+ Q==

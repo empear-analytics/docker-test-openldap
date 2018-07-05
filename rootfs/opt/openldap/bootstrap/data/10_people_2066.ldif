@@ -1,0 +1,13 @@
+dn: cn=Dessie+sn=Littman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dessie Littman
+cn: Littman
+givenname: Dessie
+mail: dessie.littman@planetexpress.com
+userPassword: Dessie
+ou: flight_crew
+uid: 2066
+ Q==

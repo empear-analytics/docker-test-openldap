@@ -1,0 +1,13 @@
+dn: cn=Quinton+sn=Mccalla,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Quinton Mccalla
+cn: Mccalla
+givenname: Quinton
+mail: quinton.mccalla@planetexpress.com
+userPassword: Quinton
+ou: flight_crew
+uid: 2390
+ Q==

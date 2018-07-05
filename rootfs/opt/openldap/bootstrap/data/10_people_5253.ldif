@@ -1,0 +1,13 @@
+dn: cn=Brandon+sn=Beaushaw,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brandon Beaushaw
+cn: Beaushaw
+givenname: Brandon
+mail: brandon.beaushaw@planetexpress.com
+userPassword: Brandon
+ou: Group5
+uid: 5253
+ Q==

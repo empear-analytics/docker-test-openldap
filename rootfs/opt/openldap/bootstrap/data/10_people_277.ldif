@@ -1,0 +1,13 @@
+dn: cn=Shana+sn=Kleinhenz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shana Kleinhenz
+cn: Kleinhenz
+givenname: Shana
+mail: shana.kleinhenz@planetexpress.com
+userPassword: Shana
+ou: Group5
+uid: 277
+ Q==

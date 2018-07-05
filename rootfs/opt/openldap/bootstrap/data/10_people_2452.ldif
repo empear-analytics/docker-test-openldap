@@ -1,0 +1,13 @@
+dn: cn=Merlin+sn=Harrey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Merlin Harrey
+cn: Harrey
+givenname: Merlin
+mail: merlin.harrey@planetexpress.com
+userPassword: Merlin
+ou: admin_staff
+uid: 2452
+ Q==

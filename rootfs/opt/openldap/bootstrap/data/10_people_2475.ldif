@@ -1,0 +1,13 @@
+dn: cn=Jestine+sn=Harelson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jestine Harelson
+cn: Harelson
+givenname: Jestine
+mail: jestine.harelson@planetexpress.com
+userPassword: Jestine
+ou: Group5
+uid: 2475
+ Q==

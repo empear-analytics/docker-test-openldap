@@ -1,0 +1,13 @@
+dn: cn=Wanita+sn=Malusky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wanita Malusky
+cn: Malusky
+givenname: Wanita
+mail: wanita.malusky@planetexpress.com
+userPassword: Wanita
+ou: flight_crew
+uid: 288
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Salvatore+sn=Mulkins,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Salvatore Mulkins
+cn: Mulkins
+givenname: Salvatore
+mail: salvatore.mulkins@planetexpress.com
+userPassword: Salvatore
+ou: flight_crew
+uid: 1932
+ Q==

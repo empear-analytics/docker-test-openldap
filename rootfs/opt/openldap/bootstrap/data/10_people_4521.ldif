@@ -1,0 +1,13 @@
+dn: cn=Patience+sn=Duntley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Patience Duntley
+cn: Duntley
+givenname: Patience
+mail: patience.duntley@planetexpress.com
+userPassword: Patience
+ou: flight_crew
+uid: 4521
+ Q==

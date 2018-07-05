@@ -1,0 +1,13 @@
+dn: cn=Jeanmarie+sn=Hossler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeanmarie Hossler
+cn: Hossler
+givenname: Jeanmarie
+mail: jeanmarie.hossler@planetexpress.com
+userPassword: Jeanmarie
+ou: admin_staff
+uid: 3911
+ Q==

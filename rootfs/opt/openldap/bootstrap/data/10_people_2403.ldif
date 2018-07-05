@@ -1,0 +1,13 @@
+dn: cn=Martina+sn=Vermillion,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Martina Vermillion
+cn: Vermillion
+givenname: Martina
+mail: martina.vermillion@planetexpress.com
+userPassword: Martina
+ou: Group5
+uid: 2403
+ Q==

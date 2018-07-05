@@ -1,0 +1,13 @@
+dn: cn=Zulma+sn=Sasser,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zulma Sasser
+cn: Sasser
+givenname: Zulma
+mail: zulma.sasser@planetexpress.com
+userPassword: Zulma
+ou: OtherGroup
+uid: 3688
+ Q==

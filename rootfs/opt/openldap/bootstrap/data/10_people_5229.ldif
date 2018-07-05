@@ -1,0 +1,13 @@
+dn: cn=Lucilla+sn=Mangine,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lucilla Mangine
+cn: Mangine
+givenname: Lucilla
+mail: lucilla.mangine@planetexpress.com
+userPassword: Lucilla
+ou: OtherGroup
+uid: 5229
+ Q==

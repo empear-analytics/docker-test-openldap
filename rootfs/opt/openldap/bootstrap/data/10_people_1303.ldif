@@ -1,0 +1,13 @@
+dn: cn=Melvin+sn=Stlouise,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melvin Stlouise
+cn: Stlouise
+givenname: Melvin
+mail: melvin.stlouise@planetexpress.com
+userPassword: Melvin
+ou: OtherGroup
+uid: 1303
+ Q==

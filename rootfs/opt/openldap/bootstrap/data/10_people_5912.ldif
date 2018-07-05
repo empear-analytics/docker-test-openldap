@@ -1,0 +1,13 @@
+dn: cn=Ahmed+sn=Detraglia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ahmed Detraglia
+cn: Detraglia
+givenname: Ahmed
+mail: ahmed.detraglia@planetexpress.com
+userPassword: Ahmed
+ou: flight_crew
+uid: 5912
+ Q==

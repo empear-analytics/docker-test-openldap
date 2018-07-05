@@ -1,0 +1,13 @@
+dn: cn=Chu+sn=Sacchetti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chu Sacchetti
+cn: Sacchetti
+givenname: Chu
+mail: chu.sacchetti@planetexpress.com
+userPassword: Chu
+ou: flight_crew
+uid: 153
+ Q==

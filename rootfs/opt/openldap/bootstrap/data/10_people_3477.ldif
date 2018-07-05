@@ -1,0 +1,13 @@
+dn: cn=Milagro+sn=Lavalley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Milagro Lavalley
+cn: Lavalley
+givenname: Milagro
+mail: milagro.lavalley@planetexpress.com
+userPassword: Milagro
+ou: flight_crew
+uid: 3477
+ Q==

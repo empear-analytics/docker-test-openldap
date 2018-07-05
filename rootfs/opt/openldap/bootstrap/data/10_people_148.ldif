@@ -1,0 +1,13 @@
+dn: cn=Emeline+sn=Furrer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emeline Furrer
+cn: Furrer
+givenname: Emeline
+mail: emeline.furrer@planetexpress.com
+userPassword: Emeline
+ou: flight_crew
+uid: 148
+ Q==

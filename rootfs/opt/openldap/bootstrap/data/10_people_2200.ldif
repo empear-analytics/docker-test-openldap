@@ -1,0 +1,13 @@
+dn: cn=Julienne+sn=Plump,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Julienne Plump
+cn: Plump
+givenname: Julienne
+mail: julienne.plump@planetexpress.com
+userPassword: Julienne
+ou: Group5
+uid: 2200
+ Q==

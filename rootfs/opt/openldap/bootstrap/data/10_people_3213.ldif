@@ -1,0 +1,13 @@
+dn: cn=Lamont+sn=Sankovich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lamont Sankovich
+cn: Sankovich
+givenname: Lamont
+mail: lamont.sankovich@planetexpress.com
+userPassword: Lamont
+ou: OtherGroup
+uid: 3213
+ Q==

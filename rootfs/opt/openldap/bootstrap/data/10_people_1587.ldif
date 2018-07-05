@@ -1,0 +1,13 @@
+dn: cn=Rashad+sn=Abbassi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rashad Abbassi
+cn: Abbassi
+givenname: Rashad
+mail: rashad.abbassi@planetexpress.com
+userPassword: Rashad
+ou: flight_crew
+uid: 1587
+ Q==

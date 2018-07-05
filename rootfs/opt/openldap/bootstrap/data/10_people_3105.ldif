@@ -1,0 +1,13 @@
+dn: cn=Dewitt+sn=Duke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dewitt Duke
+cn: Duke
+givenname: Dewitt
+mail: dewitt.duke@planetexpress.com
+userPassword: Dewitt
+ou: Group5
+uid: 3105
+ Q==

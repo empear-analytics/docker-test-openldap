@@ -1,0 +1,13 @@
+dn: cn=Takako+sn=Ausmus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Takako Ausmus
+cn: Ausmus
+givenname: Takako
+mail: takako.ausmus@planetexpress.com
+userPassword: Takako
+ou: flight_crew
+uid: 3974
+ Q==

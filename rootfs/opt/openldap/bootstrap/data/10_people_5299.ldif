@@ -1,0 +1,13 @@
+dn: cn=Bryan+sn=Knell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bryan Knell
+cn: Knell
+givenname: Bryan
+mail: bryan.knell@planetexpress.com
+userPassword: Bryan
+ou: OtherGroup
+uid: 5299
+ Q==

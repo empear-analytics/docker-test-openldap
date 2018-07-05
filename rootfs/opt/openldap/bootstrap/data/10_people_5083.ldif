@@ -1,0 +1,13 @@
+dn: cn=Demetra+sn=Mahler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Demetra Mahler
+cn: Mahler
+givenname: Demetra
+mail: demetra.mahler@planetexpress.com
+userPassword: Demetra
+ou: OtherGroup
+uid: 5083
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Georgene+sn=Wolgamot,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Georgene Wolgamot
+cn: Wolgamot
+givenname: Georgene
+mail: georgene.wolgamot@planetexpress.com
+userPassword: Georgene
+ou: flight_crew
+uid: 3339
+ Q==

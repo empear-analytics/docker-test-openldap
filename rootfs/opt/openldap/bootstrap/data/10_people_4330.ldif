@@ -1,0 +1,13 @@
+dn: cn=Cythia+sn=Alsip,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cythia Alsip
+cn: Alsip
+givenname: Cythia
+mail: cythia.alsip@planetexpress.com
+userPassword: Cythia
+ou: flight_crew
+uid: 4330
+ Q==

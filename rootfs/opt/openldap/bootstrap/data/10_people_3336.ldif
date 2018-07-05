@@ -1,0 +1,13 @@
+dn: cn=Jeromy+sn=Zeger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeromy Zeger
+cn: Zeger
+givenname: Jeromy
+mail: jeromy.zeger@planetexpress.com
+userPassword: Jeromy
+ou: flight_crew
+uid: 3336
+ Q==

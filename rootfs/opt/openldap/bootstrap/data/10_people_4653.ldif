@@ -1,0 +1,13 @@
+dn: cn=Rosetta+sn=Hasan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosetta Hasan
+cn: Hasan
+givenname: Rosetta
+mail: rosetta.hasan@planetexpress.com
+userPassword: Rosetta
+ou: admin_staff
+uid: 4653
+ Q==

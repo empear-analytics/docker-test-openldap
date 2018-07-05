@@ -1,0 +1,13 @@
+dn: cn=Heath+sn=Biamonte,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Heath Biamonte
+cn: Biamonte
+givenname: Heath
+mail: heath.biamonte@planetexpress.com
+userPassword: Heath
+ou: OtherGroup
+uid: 3790
+ Q==

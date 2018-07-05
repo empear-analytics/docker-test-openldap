@@ -1,0 +1,13 @@
+dn: cn=Marget+sn=Baranowski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marget Baranowski
+cn: Baranowski
+givenname: Marget
+mail: marget.baranowski@planetexpress.com
+userPassword: Marget
+ou: admin_staff
+uid: 4811
+ Q==

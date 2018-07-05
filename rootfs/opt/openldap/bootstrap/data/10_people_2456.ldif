@@ -1,0 +1,13 @@
+dn: cn=Earline+sn=Orendain,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Earline Orendain
+cn: Orendain
+givenname: Earline
+mail: earline.orendain@planetexpress.com
+userPassword: Earline
+ou: OtherGroup
+uid: 2456
+ Q==

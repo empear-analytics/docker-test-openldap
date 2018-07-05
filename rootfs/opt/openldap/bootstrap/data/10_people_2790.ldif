@@ -1,0 +1,13 @@
+dn: cn=Vena+sn=Bonaparte,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vena Bonaparte
+cn: Bonaparte
+givenname: Vena
+mail: vena.bonaparte@planetexpress.com
+userPassword: Vena
+ou: Group5
+uid: 2790
+ Q==

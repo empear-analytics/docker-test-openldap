@@ -1,0 +1,13 @@
+dn: cn=Eliana+sn=Fyksen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eliana Fyksen
+cn: Fyksen
+givenname: Eliana
+mail: eliana.fyksen@planetexpress.com
+userPassword: Eliana
+ou: OtherGroup
+uid: 3274
+ Q==

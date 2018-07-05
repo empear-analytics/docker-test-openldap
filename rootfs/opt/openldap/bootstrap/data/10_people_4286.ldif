@@ -1,0 +1,13 @@
+dn: cn=Alva+sn=Stockley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alva Stockley
+cn: Stockley
+givenname: Alva
+mail: alva.stockley@planetexpress.com
+userPassword: Alva
+ou: OtherGroup
+uid: 4286
+ Q==

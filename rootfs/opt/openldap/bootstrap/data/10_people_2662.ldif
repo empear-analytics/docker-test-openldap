@@ -1,0 +1,13 @@
+dn: cn=Lona+sn=Rowley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lona Rowley
+cn: Rowley
+givenname: Lona
+mail: lona.rowley@planetexpress.com
+userPassword: Lona
+ou: flight_crew
+uid: 2662
+ Q==

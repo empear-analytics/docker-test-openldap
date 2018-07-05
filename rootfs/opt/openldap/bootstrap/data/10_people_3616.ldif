@@ -1,0 +1,13 @@
+dn: cn=Scottie+sn=Hickey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Scottie Hickey
+cn: Hickey
+givenname: Scottie
+mail: scottie.hickey@planetexpress.com
+userPassword: Scottie
+ou: admin_staff
+uid: 3616
+ Q==

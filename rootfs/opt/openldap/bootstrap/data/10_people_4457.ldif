@@ -1,0 +1,13 @@
+dn: cn=Mammie+sn=Pieloch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mammie Pieloch
+cn: Pieloch
+givenname: Mammie
+mail: mammie.pieloch@planetexpress.com
+userPassword: Mammie
+ou: Group5
+uid: 4457
+ Q==

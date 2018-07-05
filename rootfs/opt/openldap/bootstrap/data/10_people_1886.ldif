@@ -1,0 +1,13 @@
+dn: cn=Sharika+sn=Diem,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharika Diem
+cn: Diem
+givenname: Sharika
+mail: sharika.diem@planetexpress.com
+userPassword: Sharika
+ou: admin_staff
+uid: 1886
+ Q==

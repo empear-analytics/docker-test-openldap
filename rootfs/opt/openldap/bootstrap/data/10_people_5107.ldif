@@ -1,0 +1,13 @@
+dn: cn=Laronda+sn=Shaske,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Laronda Shaske
+cn: Shaske
+givenname: Laronda
+mail: laronda.shaske@planetexpress.com
+userPassword: Laronda
+ou: OtherGroup
+uid: 5107
+ Q==

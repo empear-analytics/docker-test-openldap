@@ -1,0 +1,13 @@
+dn: cn=Raymonde+sn=Rheaume,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raymonde Rheaume
+cn: Rheaume
+givenname: Raymonde
+mail: raymonde.rheaume@planetexpress.com
+userPassword: Raymonde
+ou: flight_crew
+uid: 2717
+ Q==

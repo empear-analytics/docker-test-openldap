@@ -1,0 +1,13 @@
+dn: cn=Cory+sn=Lebleu,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cory Lebleu
+cn: Lebleu
+givenname: Cory
+mail: cory.lebleu@planetexpress.com
+userPassword: Cory
+ou: flight_crew
+uid: 4875
+ Q==

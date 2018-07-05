@@ -1,0 +1,13 @@
+dn: cn=Monroe+sn=Coskrey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Monroe Coskrey
+cn: Coskrey
+givenname: Monroe
+mail: monroe.coskrey@planetexpress.com
+userPassword: Monroe
+ou: Group5
+uid: 1665
+ Q==

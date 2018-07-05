@@ -1,0 +1,13 @@
+dn: cn=Antonio+sn=Scudero,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Antonio Scudero
+cn: Scudero
+givenname: Antonio
+mail: antonio.scudero@planetexpress.com
+userPassword: Antonio
+ou: flight_crew
+uid: 5329
+ Q==

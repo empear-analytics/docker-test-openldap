@@ -1,0 +1,13 @@
+dn: cn=Scarlett+sn=Lantigua,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Scarlett Lantigua
+cn: Lantigua
+givenname: Scarlett
+mail: scarlett.lantigua@planetexpress.com
+userPassword: Scarlett
+ou: Group5
+uid: 3349
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Noriko+sn=Killings,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Noriko Killings
+cn: Killings
+givenname: Noriko
+mail: noriko.killings@planetexpress.com
+userPassword: Noriko
+ou: Group5
+uid: 587
+ Q==

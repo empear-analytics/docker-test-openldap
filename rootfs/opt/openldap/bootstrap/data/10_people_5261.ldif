@@ -1,0 +1,13 @@
+dn: cn=Millicent+sn=Woten,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Millicent Woten
+cn: Woten
+givenname: Millicent
+mail: millicent.woten@planetexpress.com
+userPassword: Millicent
+ou: flight_crew
+uid: 5261
+ Q==

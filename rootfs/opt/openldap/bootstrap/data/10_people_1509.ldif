@@ -1,0 +1,13 @@
+dn: cn=Roxie+sn=Rothe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roxie Rothe
+cn: Rothe
+givenname: Roxie
+mail: roxie.rothe@planetexpress.com
+userPassword: Roxie
+ou: flight_crew
+uid: 1509
+ Q==

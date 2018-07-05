@@ -1,0 +1,13 @@
+dn: cn=Lan+sn=Crutchley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lan Crutchley
+cn: Crutchley
+givenname: Lan
+mail: lan.crutchley@planetexpress.com
+userPassword: Lan
+ou: admin_staff
+uid: 4697
+ Q==

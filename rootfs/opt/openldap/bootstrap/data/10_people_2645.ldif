@@ -1,0 +1,13 @@
+dn: cn=Jonell+sn=Goodheart,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jonell Goodheart
+cn: Goodheart
+givenname: Jonell
+mail: jonell.goodheart@planetexpress.com
+userPassword: Jonell
+ou: admin_staff
+uid: 2645
+ Q==

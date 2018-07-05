@@ -1,0 +1,13 @@
+dn: cn=Cicely+sn=Debaets,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cicely Debaets
+cn: Debaets
+givenname: Cicely
+mail: cicely.debaets@planetexpress.com
+userPassword: Cicely
+ou: admin_staff
+uid: 3670
+ Q==

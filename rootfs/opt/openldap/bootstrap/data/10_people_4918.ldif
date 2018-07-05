@@ -1,0 +1,13 @@
+dn: cn=Lala+sn=Darron,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lala Darron
+cn: Darron
+givenname: Lala
+mail: lala.darron@planetexpress.com
+userPassword: Lala
+ou: flight_crew
+uid: 4918
+ Q==

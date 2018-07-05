@@ -1,0 +1,13 @@
+dn: cn=Renita+sn=Rippeon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Renita Rippeon
+cn: Rippeon
+givenname: Renita
+mail: renita.rippeon@planetexpress.com
+userPassword: Renita
+ou: flight_crew
+uid: 1534
+ Q==

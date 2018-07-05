@@ -1,0 +1,13 @@
+dn: cn=Magen+sn=Gleghorn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Magen Gleghorn
+cn: Gleghorn
+givenname: Magen
+mail: magen.gleghorn@planetexpress.com
+userPassword: Magen
+ou: Group5
+uid: 3817
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Melodi+sn=Timbers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melodi Timbers
+cn: Timbers
+givenname: Melodi
+mail: melodi.timbers@planetexpress.com
+userPassword: Melodi
+ou: flight_crew
+uid: 4004
+ Q==

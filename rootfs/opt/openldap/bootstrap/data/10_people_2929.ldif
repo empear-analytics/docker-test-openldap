@@ -1,0 +1,13 @@
+dn: cn=Meghann+sn=Aubrecht,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Meghann Aubrecht
+cn: Aubrecht
+givenname: Meghann
+mail: meghann.aubrecht@planetexpress.com
+userPassword: Meghann
+ou: flight_crew
+uid: 2929
+ Q==

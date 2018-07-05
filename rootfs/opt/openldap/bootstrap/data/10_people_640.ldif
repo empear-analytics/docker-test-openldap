@@ -1,0 +1,13 @@
+dn: cn=Richard+sn=Packwood,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Richard Packwood
+cn: Packwood
+givenname: Richard
+mail: richard.packwood@planetexpress.com
+userPassword: Richard
+ou: flight_crew
+uid: 640
+ Q==

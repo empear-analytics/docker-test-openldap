@@ -1,0 +1,13 @@
+dn: cn=Brooks+sn=Jakubczak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brooks Jakubczak
+cn: Jakubczak
+givenname: Brooks
+mail: brooks.jakubczak@planetexpress.com
+userPassword: Brooks
+ou: Group5
+uid: 764
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Fay+sn=Leonette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fay Leonette
+cn: Leonette
+givenname: Fay
+mail: fay.leonette@planetexpress.com
+userPassword: Fay
+ou: flight_crew
+uid: 3640
+ Q==

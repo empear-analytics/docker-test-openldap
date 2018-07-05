@@ -1,0 +1,13 @@
+dn: cn=Muriel+sn=Ploetz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Muriel Ploetz
+cn: Ploetz
+givenname: Muriel
+mail: muriel.ploetz@planetexpress.com
+userPassword: Muriel
+ou: flight_crew
+uid: 3495
+ Q==

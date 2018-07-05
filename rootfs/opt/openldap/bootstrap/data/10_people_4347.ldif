@@ -1,0 +1,13 @@
+dn: cn=Ranee+sn=Tate,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ranee Tate
+cn: Tate
+givenname: Ranee
+mail: ranee.tate@planetexpress.com
+userPassword: Ranee
+ou: admin_staff
+uid: 4347
+ Q==

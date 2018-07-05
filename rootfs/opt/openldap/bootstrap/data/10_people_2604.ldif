@@ -1,0 +1,13 @@
+dn: cn=Velvet+sn=Sergi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Velvet Sergi
+cn: Sergi
+givenname: Velvet
+mail: velvet.sergi@planetexpress.com
+userPassword: Velvet
+ou: Group5
+uid: 2604
+ Q==

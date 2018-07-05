@@ -1,0 +1,13 @@
+dn: cn=Ashton+sn=Anick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ashton Anick
+cn: Anick
+givenname: Ashton
+mail: ashton.anick@planetexpress.com
+userPassword: Ashton
+ou: admin_staff
+uid: 1774
+ Q==

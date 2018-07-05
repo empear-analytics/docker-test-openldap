@@ -1,0 +1,13 @@
+dn: cn=Zulma+sn=Paul,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zulma Paul
+cn: Paul
+givenname: Zulma
+mail: zulma.paul@planetexpress.com
+userPassword: Zulma
+ou: flight_crew
+uid: 216
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Dyan+sn=Campo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dyan Campo
+cn: Campo
+givenname: Dyan
+mail: dyan.campo@planetexpress.com
+userPassword: Dyan
+ou: admin_staff
+uid: 4586
+ Q==

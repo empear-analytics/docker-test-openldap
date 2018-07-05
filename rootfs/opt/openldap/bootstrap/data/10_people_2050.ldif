@@ -1,0 +1,13 @@
+dn: cn=Benita+sn=Girvin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Benita Girvin
+cn: Girvin
+givenname: Benita
+mail: benita.girvin@planetexpress.com
+userPassword: Benita
+ou: OtherGroup
+uid: 2050
+ Q==

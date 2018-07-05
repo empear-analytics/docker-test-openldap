@@ -1,0 +1,13 @@
+dn: cn=Shanon+sn=Demchak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shanon Demchak
+cn: Demchak
+givenname: Shanon
+mail: shanon.demchak@planetexpress.com
+userPassword: Shanon
+ou: flight_crew
+uid: 343
+ Q==

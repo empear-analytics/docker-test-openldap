@@ -1,0 +1,13 @@
+dn: cn=Meta+sn=Dukart,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Meta Dukart
+cn: Dukart
+givenname: Meta
+mail: meta.dukart@planetexpress.com
+userPassword: Meta
+ou: flight_crew
+uid: 4833
+ Q==

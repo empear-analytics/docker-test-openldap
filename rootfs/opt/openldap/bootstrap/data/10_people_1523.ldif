@@ -1,0 +1,13 @@
+dn: cn=Mardell+sn=Luffy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mardell Luffy
+cn: Luffy
+givenname: Mardell
+mail: mardell.luffy@planetexpress.com
+userPassword: Mardell
+ou: flight_crew
+uid: 1523
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Anisha+sn=Rascoe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anisha Rascoe
+cn: Rascoe
+givenname: Anisha
+mail: anisha.rascoe@planetexpress.com
+userPassword: Anisha
+ou: Group5
+uid: 3933
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Margy+sn=Landman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margy Landman
+cn: Landman
+givenname: Margy
+mail: margy.landman@planetexpress.com
+userPassword: Margy
+ou: Group5
+uid: 147
+ Q==

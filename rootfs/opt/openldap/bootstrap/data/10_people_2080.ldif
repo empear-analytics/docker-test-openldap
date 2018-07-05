@@ -1,0 +1,13 @@
+dn: cn=Deena+sn=Shawler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deena Shawler
+cn: Shawler
+givenname: Deena
+mail: deena.shawler@planetexpress.com
+userPassword: Deena
+ou: admin_staff
+uid: 2080
+ Q==

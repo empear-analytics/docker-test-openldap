@@ -1,0 +1,13 @@
+dn: cn=Spencer+sn=Ceovantes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Spencer Ceovantes
+cn: Ceovantes
+givenname: Spencer
+mail: spencer.ceovantes@planetexpress.com
+userPassword: Spencer
+ou: OtherGroup
+uid: 2266
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Christal+sn=Neumaier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christal Neumaier
+cn: Neumaier
+givenname: Christal
+mail: christal.neumaier@planetexpress.com
+userPassword: Christal
+ou: OtherGroup
+uid: 2561
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ahmed+sn=Speaks,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ahmed Speaks
+cn: Speaks
+givenname: Ahmed
+mail: ahmed.speaks@planetexpress.com
+userPassword: Ahmed
+ou: flight_crew
+uid: 4218
+ Q==

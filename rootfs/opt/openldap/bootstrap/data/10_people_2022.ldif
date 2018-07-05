@@ -1,0 +1,13 @@
+dn: cn=Yoshie+sn=Nerpio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yoshie Nerpio
+cn: Nerpio
+givenname: Yoshie
+mail: yoshie.nerpio@planetexpress.com
+userPassword: Yoshie
+ou: Group5
+uid: 2022
+ Q==

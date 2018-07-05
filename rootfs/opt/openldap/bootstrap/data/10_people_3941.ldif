@@ -1,0 +1,13 @@
+dn: cn=Shantae+sn=Gormanous,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shantae Gormanous
+cn: Gormanous
+givenname: Shantae
+mail: shantae.gormanous@planetexpress.com
+userPassword: Shantae
+ou: OtherGroup
+uid: 3941
+ Q==

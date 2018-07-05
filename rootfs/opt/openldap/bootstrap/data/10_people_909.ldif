@@ -1,0 +1,13 @@
+dn: cn=Daniela+sn=Piepenbrink,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daniela Piepenbrink
+cn: Piepenbrink
+givenname: Daniela
+mail: daniela.piepenbrink@planetexpress.com
+userPassword: Daniela
+ou: Group5
+uid: 909
+ Q==

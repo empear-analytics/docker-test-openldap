@@ -1,0 +1,13 @@
+dn: cn=Gigi+sn=Swauger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gigi Swauger
+cn: Swauger
+givenname: Gigi
+mail: gigi.swauger@planetexpress.com
+userPassword: Gigi
+ou: OtherGroup
+uid: 2071
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jina+sn=Teoh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jina Teoh
+cn: Teoh
+givenname: Jina
+mail: jina.teoh@planetexpress.com
+userPassword: Jina
+ou: OtherGroup
+uid: 477
+ Q==

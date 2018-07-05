@@ -1,0 +1,13 @@
+dn: cn=Clementine+sn=Heston,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clementine Heston
+cn: Heston
+givenname: Clementine
+mail: clementine.heston@planetexpress.com
+userPassword: Clementine
+ou: admin_staff
+uid: 3894
+ Q==

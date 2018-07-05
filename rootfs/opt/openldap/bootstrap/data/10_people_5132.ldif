@@ -1,0 +1,13 @@
+dn: cn=Rodrick+sn=Bonamo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rodrick Bonamo
+cn: Bonamo
+givenname: Rodrick
+mail: rodrick.bonamo@planetexpress.com
+userPassword: Rodrick
+ou: flight_crew
+uid: 5132
+ Q==

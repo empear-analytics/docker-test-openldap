@@ -1,0 +1,13 @@
+dn: cn=Brittney+sn=Blint,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brittney Blint
+cn: Blint
+givenname: Brittney
+mail: brittney.blint@planetexpress.com
+userPassword: Brittney
+ou: Group5
+uid: 3264
+ Q==

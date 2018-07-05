@@ -1,0 +1,13 @@
+dn: cn=Dann+sn=Hagerman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dann Hagerman
+cn: Hagerman
+givenname: Dann
+mail: dann.hagerman@planetexpress.com
+userPassword: Dann
+ou: Group5
+uid: 5294
+ Q==

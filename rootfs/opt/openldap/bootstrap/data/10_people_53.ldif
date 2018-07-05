@@ -1,0 +1,13 @@
+dn: cn=Martin+sn=Kintner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Martin Kintner
+cn: Kintner
+givenname: Martin
+mail: martin.kintner@planetexpress.com
+userPassword: Martin
+ou: admin_staff
+uid: 53
+ Q==

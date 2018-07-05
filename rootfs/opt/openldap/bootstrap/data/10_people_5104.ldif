@@ -1,0 +1,13 @@
+dn: cn=Mandy+sn=Katzmark,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mandy Katzmark
+cn: Katzmark
+givenname: Mandy
+mail: mandy.katzmark@planetexpress.com
+userPassword: Mandy
+ou: Group5
+uid: 5104
+ Q==

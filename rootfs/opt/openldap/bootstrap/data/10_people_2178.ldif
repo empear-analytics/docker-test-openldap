@@ -1,0 +1,13 @@
+dn: cn=Renea+sn=Bordeaux,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Renea Bordeaux
+cn: Bordeaux
+givenname: Renea
+mail: renea.bordeaux@planetexpress.com
+userPassword: Renea
+ou: admin_staff
+uid: 2178
+ Q==

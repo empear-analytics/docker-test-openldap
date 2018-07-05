@@ -1,0 +1,13 @@
+dn: cn=Augustus+sn=Zambo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Augustus Zambo
+cn: Zambo
+givenname: Augustus
+mail: augustus.zambo@planetexpress.com
+userPassword: Augustus
+ou: Group5
+uid: 5266
+ Q==

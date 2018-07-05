@@ -1,0 +1,13 @@
+dn: cn=Trinidad+sn=Agne,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Trinidad Agne
+cn: Agne
+givenname: Trinidad
+mail: trinidad.agne@planetexpress.com
+userPassword: Trinidad
+ou: flight_crew
+uid: 3001
+ Q==

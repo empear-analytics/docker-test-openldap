@@ -1,0 +1,13 @@
+dn: cn=Annabel+sn=Ost,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annabel Ost
+cn: Ost
+givenname: Annabel
+mail: annabel.ost@planetexpress.com
+userPassword: Annabel
+ou: OtherGroup
+uid: 4368
+ Q==

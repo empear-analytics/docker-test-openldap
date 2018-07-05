@@ -1,0 +1,13 @@
+dn: cn=Saran+sn=Harness,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Saran Harness
+cn: Harness
+givenname: Saran
+mail: saran.harness@planetexpress.com
+userPassword: Saran
+ou: OtherGroup
+uid: 1391
+ Q==

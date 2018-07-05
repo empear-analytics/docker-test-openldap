@@ -1,0 +1,13 @@
+dn: cn=Louis+sn=Dupler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Louis Dupler
+cn: Dupler
+givenname: Louis
+mail: louis.dupler@planetexpress.com
+userPassword: Louis
+ou: Group5
+uid: 394
+ Q==

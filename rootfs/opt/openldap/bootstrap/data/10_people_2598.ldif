@@ -1,0 +1,13 @@
+dn: cn=Karrie+sn=Graydon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karrie Graydon
+cn: Graydon
+givenname: Karrie
+mail: karrie.graydon@planetexpress.com
+userPassword: Karrie
+ou: admin_staff
+uid: 2598
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Gerald+sn=Wakefield,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gerald Wakefield
+cn: Wakefield
+givenname: Gerald
+mail: gerald.wakefield@planetexpress.com
+userPassword: Gerald
+ou: admin_staff
+uid: 5886
+ Q==

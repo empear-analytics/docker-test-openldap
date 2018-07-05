@@ -1,0 +1,13 @@
+dn: cn=Alexia+sn=Jorn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alexia Jorn
+cn: Jorn
+givenname: Alexia
+mail: alexia.jorn@planetexpress.com
+userPassword: Alexia
+ou: OtherGroup
+uid: 4123
+ Q==

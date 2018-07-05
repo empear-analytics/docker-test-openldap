@@ -1,0 +1,13 @@
+dn: cn=Alphonse+sn=Luers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alphonse Luers
+cn: Luers
+givenname: Alphonse
+mail: alphonse.luers@planetexpress.com
+userPassword: Alphonse
+ou: Group5
+uid: 3037
+ Q==

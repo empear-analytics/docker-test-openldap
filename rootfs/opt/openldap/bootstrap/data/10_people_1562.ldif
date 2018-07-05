@@ -1,0 +1,13 @@
+dn: cn=Magdalen+sn=Balmores,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Magdalen Balmores
+cn: Balmores
+givenname: Magdalen
+mail: magdalen.balmores@planetexpress.com
+userPassword: Magdalen
+ou: flight_crew
+uid: 1562
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Dayna+sn=Skillett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dayna Skillett
+cn: Skillett
+givenname: Dayna
+mail: dayna.skillett@planetexpress.com
+userPassword: Dayna
+ou: admin_staff
+uid: 1668
+ Q==

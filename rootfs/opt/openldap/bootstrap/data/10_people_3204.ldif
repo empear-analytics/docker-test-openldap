@@ -1,0 +1,13 @@
+dn: cn=Reba+sn=Gilchrist,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reba Gilchrist
+cn: Gilchrist
+givenname: Reba
+mail: reba.gilchrist@planetexpress.com
+userPassword: Reba
+ou: flight_crew
+uid: 3204
+ Q==

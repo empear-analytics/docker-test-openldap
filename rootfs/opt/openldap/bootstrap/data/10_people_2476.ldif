@@ -1,0 +1,13 @@
+dn: cn=Fidelia+sn=Freimuth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fidelia Freimuth
+cn: Freimuth
+givenname: Fidelia
+mail: fidelia.freimuth@planetexpress.com
+userPassword: Fidelia
+ou: flight_crew
+uid: 2476
+ Q==

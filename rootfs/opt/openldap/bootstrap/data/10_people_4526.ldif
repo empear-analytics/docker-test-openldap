@@ -1,0 +1,13 @@
+dn: cn=Shirlene+sn=Schriner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shirlene Schriner
+cn: Schriner
+givenname: Shirlene
+mail: shirlene.schriner@planetexpress.com
+userPassword: Shirlene
+ou: flight_crew
+uid: 4526
+ Q==

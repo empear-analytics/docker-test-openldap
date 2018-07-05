@@ -1,0 +1,13 @@
+dn: cn=Kristopher+sn=Socks,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kristopher Socks
+cn: Socks
+givenname: Kristopher
+mail: kristopher.socks@planetexpress.com
+userPassword: Kristopher
+ou: Group5
+uid: 4846
+ Q==

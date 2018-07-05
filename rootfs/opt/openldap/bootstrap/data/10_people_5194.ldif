@@ -1,0 +1,13 @@
+dn: cn=Zulma+sn=Moberley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zulma Moberley
+cn: Moberley
+givenname: Zulma
+mail: zulma.moberley@planetexpress.com
+userPassword: Zulma
+ou: Group5
+uid: 5194
+ Q==

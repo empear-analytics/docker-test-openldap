@@ -1,0 +1,13 @@
+dn: cn=Christian+sn=Rabsatt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christian Rabsatt
+cn: Rabsatt
+givenname: Christian
+mail: christian.rabsatt@planetexpress.com
+userPassword: Christian
+ou: Group5
+uid: 4900
+ Q==

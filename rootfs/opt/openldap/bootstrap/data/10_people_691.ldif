@@ -1,0 +1,13 @@
+dn: cn=Chandra+sn=Feagin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chandra Feagin
+cn: Feagin
+givenname: Chandra
+mail: chandra.feagin@planetexpress.com
+userPassword: Chandra
+ou: admin_staff
+uid: 691
+ Q==

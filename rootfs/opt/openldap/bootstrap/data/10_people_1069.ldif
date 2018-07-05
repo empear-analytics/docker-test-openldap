@@ -1,0 +1,13 @@
+dn: cn=Eugena+sn=Pirkl,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eugena Pirkl
+cn: Pirkl
+givenname: Eugena
+mail: eugena.pirkl@planetexpress.com
+userPassword: Eugena
+ou: Group5
+uid: 1069
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Rosalee+sn=Bairam,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosalee Bairam
+cn: Bairam
+givenname: Rosalee
+mail: rosalee.bairam@planetexpress.com
+userPassword: Rosalee
+ou: flight_crew
+uid: 5045
+ Q==

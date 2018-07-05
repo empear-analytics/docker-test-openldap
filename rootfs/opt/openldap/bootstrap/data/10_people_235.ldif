@@ -1,0 +1,13 @@
+dn: cn=Miesha+sn=Presutti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Miesha Presutti
+cn: Presutti
+givenname: Miesha
+mail: miesha.presutti@planetexpress.com
+userPassword: Miesha
+ou: OtherGroup
+uid: 235
+ Q==

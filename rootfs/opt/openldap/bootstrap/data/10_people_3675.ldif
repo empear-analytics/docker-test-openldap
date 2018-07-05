@@ -1,0 +1,13 @@
+dn: cn=Nelly+sn=Kliever,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nelly Kliever
+cn: Kliever
+givenname: Nelly
+mail: nelly.kliever@planetexpress.com
+userPassword: Nelly
+ou: flight_crew
+uid: 3675
+ Q==

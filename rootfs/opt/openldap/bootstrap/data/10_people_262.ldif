@@ -1,0 +1,13 @@
+dn: cn=Lenita+sn=Ascheman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lenita Ascheman
+cn: Ascheman
+givenname: Lenita
+mail: lenita.ascheman@planetexpress.com
+userPassword: Lenita
+ou: OtherGroup
+uid: 262
+ Q==

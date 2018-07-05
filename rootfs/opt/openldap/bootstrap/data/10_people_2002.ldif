@@ -1,0 +1,13 @@
+dn: cn=Reginald+sn=Cusick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reginald Cusick
+cn: Cusick
+givenname: Reginald
+mail: reginald.cusick@planetexpress.com
+userPassword: Reginald
+ou: OtherGroup
+uid: 2002
+ Q==

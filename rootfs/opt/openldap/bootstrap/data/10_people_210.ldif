@@ -1,0 +1,13 @@
+dn: cn=Bradley+sn=Hudmon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bradley Hudmon
+cn: Hudmon
+givenname: Bradley
+mail: bradley.hudmon@planetexpress.com
+userPassword: Bradley
+ou: flight_crew
+uid: 210
+ Q==

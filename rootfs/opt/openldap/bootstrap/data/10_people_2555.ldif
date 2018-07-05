@@ -1,0 +1,13 @@
+dn: cn=Janna+sn=Bussen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janna Bussen
+cn: Bussen
+givenname: Janna
+mail: janna.bussen@planetexpress.com
+userPassword: Janna
+ou: admin_staff
+uid: 2555
+ Q==

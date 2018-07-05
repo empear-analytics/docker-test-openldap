@@ -1,0 +1,13 @@
+dn: cn=Anastacia+sn=Barswell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anastacia Barswell
+cn: Barswell
+givenname: Anastacia
+mail: anastacia.barswell@planetexpress.com
+userPassword: Anastacia
+ou: Group5
+uid: 1781
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Venetta+sn=Deanda,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Venetta Deanda
+cn: Deanda
+givenname: Venetta
+mail: venetta.deanda@planetexpress.com
+userPassword: Venetta
+ou: flight_crew
+uid: 5946
+ Q==

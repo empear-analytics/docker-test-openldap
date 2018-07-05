@@ -1,0 +1,13 @@
+dn: cn=Annamarie+sn=Dolle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annamarie Dolle
+cn: Dolle
+givenname: Annamarie
+mail: annamarie.dolle@planetexpress.com
+userPassword: Annamarie
+ou: admin_staff
+uid: 251
+ Q==

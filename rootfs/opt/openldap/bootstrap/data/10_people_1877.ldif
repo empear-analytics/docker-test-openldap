@@ -1,0 +1,13 @@
+dn: cn=Tabatha+sn=Havlik,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tabatha Havlik
+cn: Havlik
+givenname: Tabatha
+mail: tabatha.havlik@planetexpress.com
+userPassword: Tabatha
+ou: flight_crew
+uid: 1877
+ Q==

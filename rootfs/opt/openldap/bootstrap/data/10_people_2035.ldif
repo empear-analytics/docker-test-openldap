@@ -1,0 +1,13 @@
+dn: cn=Austin+sn=Bednorz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Austin Bednorz
+cn: Bednorz
+givenname: Austin
+mail: austin.bednorz@planetexpress.com
+userPassword: Austin
+ou: Group5
+uid: 2035
+ Q==

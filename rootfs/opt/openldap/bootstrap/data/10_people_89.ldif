@@ -1,0 +1,13 @@
+dn: cn=Jeanett+sn=Douet,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeanett Douet
+cn: Douet
+givenname: Jeanett
+mail: jeanett.douet@planetexpress.com
+userPassword: Jeanett
+ou: admin_staff
+uid: 89
+ Q==

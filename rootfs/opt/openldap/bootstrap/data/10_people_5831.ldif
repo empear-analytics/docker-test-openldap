@@ -1,0 +1,13 @@
+dn: cn=Dovie+sn=Mahany,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dovie Mahany
+cn: Mahany
+givenname: Dovie
+mail: dovie.mahany@planetexpress.com
+userPassword: Dovie
+ou: admin_staff
+uid: 5831
+ Q==

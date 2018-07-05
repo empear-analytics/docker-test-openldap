@@ -1,0 +1,13 @@
+dn: cn=Keith+sn=Haggar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keith Haggar
+cn: Haggar
+givenname: Keith
+mail: keith.haggar@planetexpress.com
+userPassword: Keith
+ou: admin_staff
+uid: 4219
+ Q==

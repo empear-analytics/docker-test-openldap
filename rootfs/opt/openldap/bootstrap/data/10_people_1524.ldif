@@ -1,0 +1,13 @@
+dn: cn=Trudie+sn=Paraz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Trudie Paraz
+cn: Paraz
+givenname: Trudie
+mail: trudie.paraz@planetexpress.com
+userPassword: Trudie
+ou: admin_staff
+uid: 1524
+ Q==

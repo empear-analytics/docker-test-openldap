@@ -1,0 +1,13 @@
+dn: cn=Nereida+sn=Desilets,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nereida Desilets
+cn: Desilets
+givenname: Nereida
+mail: nereida.desilets@planetexpress.com
+userPassword: Nereida
+ou: OtherGroup
+uid: 3334
+ Q==

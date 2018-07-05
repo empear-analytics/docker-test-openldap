@@ -1,0 +1,13 @@
+dn: cn=Dagny+sn=Greenhouse,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dagny Greenhouse
+cn: Greenhouse
+givenname: Dagny
+mail: dagny.greenhouse@planetexpress.com
+userPassword: Dagny
+ou: OtherGroup
+uid: 416
+ Q==

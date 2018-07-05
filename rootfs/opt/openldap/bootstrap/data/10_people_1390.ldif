@@ -1,0 +1,13 @@
+dn: cn=Willene+sn=Prosenick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Willene Prosenick
+cn: Prosenick
+givenname: Willene
+mail: willene.prosenick@planetexpress.com
+userPassword: Willene
+ou: OtherGroup
+uid: 1390
+ Q==

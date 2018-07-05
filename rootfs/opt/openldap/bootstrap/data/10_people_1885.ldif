@@ -1,0 +1,13 @@
+dn: cn=Nana+sn=Okoro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nana Okoro
+cn: Okoro
+givenname: Nana
+mail: nana.okoro@planetexpress.com
+userPassword: Nana
+ou: Group5
+uid: 1885
+ Q==

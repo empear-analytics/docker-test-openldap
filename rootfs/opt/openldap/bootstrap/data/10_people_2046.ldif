@@ -1,0 +1,13 @@
+dn: cn=Delisa+sn=Ristau,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delisa Ristau
+cn: Ristau
+givenname: Delisa
+mail: delisa.ristau@planetexpress.com
+userPassword: Delisa
+ou: admin_staff
+uid: 2046
+ Q==

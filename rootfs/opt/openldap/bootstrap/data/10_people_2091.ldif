@@ -1,0 +1,13 @@
+dn: cn=Danette+sn=Kapadia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Danette Kapadia
+cn: Kapadia
+givenname: Danette
+mail: danette.kapadia@planetexpress.com
+userPassword: Danette
+ou: flight_crew
+uid: 2091
+ Q==

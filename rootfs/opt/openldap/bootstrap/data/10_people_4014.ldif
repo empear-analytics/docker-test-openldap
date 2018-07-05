@@ -1,0 +1,13 @@
+dn: cn=Sherill+sn=Paterno,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherill Paterno
+cn: Paterno
+givenname: Sherill
+mail: sherill.paterno@planetexpress.com
+userPassword: Sherill
+ou: OtherGroup
+uid: 4014
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Delphine+sn=Latigo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delphine Latigo
+cn: Latigo
+givenname: Delphine
+mail: delphine.latigo@planetexpress.com
+userPassword: Delphine
+ou: flight_crew
+uid: 1466
+ Q==

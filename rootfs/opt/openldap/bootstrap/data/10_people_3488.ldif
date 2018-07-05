@@ -1,0 +1,13 @@
+dn: cn=Kathline+sn=Pociengel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kathline Pociengel
+cn: Pociengel
+givenname: Kathline
+mail: kathline.pociengel@planetexpress.com
+userPassword: Kathline
+ou: OtherGroup
+uid: 3488
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Karlene+sn=Schwemmer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karlene Schwemmer
+cn: Schwemmer
+givenname: Karlene
+mail: karlene.schwemmer@planetexpress.com
+userPassword: Karlene
+ou: Group5
+uid: 535
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Emmitt+sn=Scotty,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emmitt Scotty
+cn: Scotty
+givenname: Emmitt
+mail: emmitt.scotty@planetexpress.com
+userPassword: Emmitt
+ou: Group5
+uid: 3291
+ Q==

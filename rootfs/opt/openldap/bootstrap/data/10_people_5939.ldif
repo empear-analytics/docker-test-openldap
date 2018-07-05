@@ -1,0 +1,13 @@
+dn: cn=Petronila+sn=Borello,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Petronila Borello
+cn: Borello
+givenname: Petronila
+mail: petronila.borello@planetexpress.com
+userPassword: Petronila
+ou: admin_staff
+uid: 5939
+ Q==

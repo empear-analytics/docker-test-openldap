@@ -1,0 +1,13 @@
+dn: cn=Fernande+sn=Goar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fernande Goar
+cn: Goar
+givenname: Fernande
+mail: fernande.goar@planetexpress.com
+userPassword: Fernande
+ou: admin_staff
+uid: 125
+ Q==

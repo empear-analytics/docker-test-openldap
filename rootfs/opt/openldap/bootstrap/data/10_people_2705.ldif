@@ -1,0 +1,13 @@
+dn: cn=Collen+sn=Annett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Collen Annett
+cn: Annett
+givenname: Collen
+mail: collen.annett@planetexpress.com
+userPassword: Collen
+ou: OtherGroup
+uid: 2705
+ Q==

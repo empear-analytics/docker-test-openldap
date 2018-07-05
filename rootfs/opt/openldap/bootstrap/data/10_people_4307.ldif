@@ -1,0 +1,13 @@
+dn: cn=Anthony+sn=Dibona,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anthony Dibona
+cn: Dibona
+givenname: Anthony
+mail: anthony.dibona@planetexpress.com
+userPassword: Anthony
+ou: OtherGroup
+uid: 4307
+ Q==

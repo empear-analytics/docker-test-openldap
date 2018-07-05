@@ -1,0 +1,13 @@
+dn: cn=Keith+sn=Gussler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keith Gussler
+cn: Gussler
+givenname: Keith
+mail: keith.gussler@planetexpress.com
+userPassword: Keith
+ou: flight_crew
+uid: 3431
+ Q==

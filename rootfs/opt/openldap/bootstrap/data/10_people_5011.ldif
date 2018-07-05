@@ -1,0 +1,13 @@
+dn: cn=Fredrick+sn=Sundberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fredrick Sundberg
+cn: Sundberg
+givenname: Fredrick
+mail: fredrick.sundberg@planetexpress.com
+userPassword: Fredrick
+ou: OtherGroup
+uid: 5011
+ Q==

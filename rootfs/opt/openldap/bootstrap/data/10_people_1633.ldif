@@ -1,0 +1,13 @@
+dn: cn=John+sn=Fullenkamp,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: John Fullenkamp
+cn: Fullenkamp
+givenname: John
+mail: john.fullenkamp@planetexpress.com
+userPassword: John
+ou: OtherGroup
+uid: 1633
+ Q==

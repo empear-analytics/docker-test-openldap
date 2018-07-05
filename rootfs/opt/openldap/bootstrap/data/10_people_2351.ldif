@@ -1,0 +1,13 @@
+dn: cn=Ofelia+sn=Rickenbaker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ofelia Rickenbaker
+cn: Rickenbaker
+givenname: Ofelia
+mail: ofelia.rickenbaker@planetexpress.com
+userPassword: Ofelia
+ou: admin_staff
+uid: 2351
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Marylouise+sn=Boddy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marylouise Boddy
+cn: Boddy
+givenname: Marylouise
+mail: marylouise.boddy@planetexpress.com
+userPassword: Marylouise
+ou: flight_crew
+uid: 4208
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Gus+sn=Almen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gus Almen
+cn: Almen
+givenname: Gus
+mail: gus.almen@planetexpress.com
+userPassword: Gus
+ou: OtherGroup
+uid: 2418
+ Q==

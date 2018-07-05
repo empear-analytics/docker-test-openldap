@@ -1,0 +1,13 @@
+dn: cn=Angelena+sn=Rydel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelena Rydel
+cn: Rydel
+givenname: Angelena
+mail: angelena.rydel@planetexpress.com
+userPassword: Angelena
+ou: Group5
+uid: 3661
+ Q==

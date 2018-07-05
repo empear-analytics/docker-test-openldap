@@ -1,0 +1,13 @@
+dn: cn=Sydney+sn=Oran,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sydney Oran
+cn: Oran
+givenname: Sydney
+mail: sydney.oran@planetexpress.com
+userPassword: Sydney
+ou: OtherGroup
+uid: 5226
+ Q==

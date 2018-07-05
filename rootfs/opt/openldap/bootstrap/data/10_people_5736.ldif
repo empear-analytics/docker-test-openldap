@@ -1,0 +1,13 @@
+dn: cn=Kathleen+sn=Browder,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kathleen Browder
+cn: Browder
+givenname: Kathleen
+mail: kathleen.browder@planetexpress.com
+userPassword: Kathleen
+ou: OtherGroup
+uid: 5736
+ Q==

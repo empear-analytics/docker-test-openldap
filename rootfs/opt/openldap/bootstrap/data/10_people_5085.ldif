@@ -1,0 +1,13 @@
+dn: cn=Marguerite+sn=Froiland,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marguerite Froiland
+cn: Froiland
+givenname: Marguerite
+mail: marguerite.froiland@planetexpress.com
+userPassword: Marguerite
+ou: Group5
+uid: 5085
+ Q==

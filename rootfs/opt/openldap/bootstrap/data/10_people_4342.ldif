@@ -1,0 +1,13 @@
+dn: cn=Arnulfo+sn=Flugum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arnulfo Flugum
+cn: Flugum
+givenname: Arnulfo
+mail: arnulfo.flugum@planetexpress.com
+userPassword: Arnulfo
+ou: admin_staff
+uid: 4342
+ Q==

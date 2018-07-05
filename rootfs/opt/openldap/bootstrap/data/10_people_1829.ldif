@@ -1,0 +1,13 @@
+dn: cn=Genna+sn=Huneycutt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Genna Huneycutt
+cn: Huneycutt
+givenname: Genna
+mail: genna.huneycutt@planetexpress.com
+userPassword: Genna
+ou: admin_staff
+uid: 1829
+ Q==

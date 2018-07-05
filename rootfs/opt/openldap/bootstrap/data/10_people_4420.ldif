@@ -1,0 +1,13 @@
+dn: cn=Mardell+sn=Arquero,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mardell Arquero
+cn: Arquero
+givenname: Mardell
+mail: mardell.arquero@planetexpress.com
+userPassword: Mardell
+ou: Group5
+uid: 4420
+ Q==

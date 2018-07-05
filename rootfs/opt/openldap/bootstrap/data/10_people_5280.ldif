@@ -1,0 +1,13 @@
+dn: cn=Hien+sn=Shouse,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hien Shouse
+cn: Shouse
+givenname: Hien
+mail: hien.shouse@planetexpress.com
+userPassword: Hien
+ou: admin_staff
+uid: 5280
+ Q==

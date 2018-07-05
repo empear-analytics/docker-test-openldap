@@ -1,0 +1,13 @@
+dn: cn=Karly+sn=Guerena,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karly Guerena
+cn: Guerena
+givenname: Karly
+mail: karly.guerena@planetexpress.com
+userPassword: Karly
+ou: flight_crew
+uid: 4864
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Phyllis+sn=Brosnahan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Phyllis Brosnahan
+cn: Brosnahan
+givenname: Phyllis
+mail: phyllis.brosnahan@planetexpress.com
+userPassword: Phyllis
+ou: admin_staff
+uid: 356
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Xochitl+sn=Sessoms,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Xochitl Sessoms
+cn: Sessoms
+givenname: Xochitl
+mail: xochitl.sessoms@planetexpress.com
+userPassword: Xochitl
+ou: admin_staff
+uid: 3319
+ Q==

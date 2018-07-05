@@ -1,0 +1,13 @@
+dn: cn=Vada+sn=Axe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vada Axe
+cn: Axe
+givenname: Vada
+mail: vada.axe@planetexpress.com
+userPassword: Vada
+ou: OtherGroup
+uid: 3663
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Darin+sn=Vil,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darin Vil
+cn: Vil
+givenname: Darin
+mail: darin.vil@planetexpress.com
+userPassword: Darin
+ou: Group5
+uid: 2184
+ Q==

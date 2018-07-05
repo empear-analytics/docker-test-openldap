@@ -1,0 +1,13 @@
+dn: cn=Sima+sn=String,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sima String
+cn: String
+givenname: Sima
+mail: sima.string@planetexpress.com
+userPassword: Sima
+ou: Group5
+uid: 4514
+ Q==

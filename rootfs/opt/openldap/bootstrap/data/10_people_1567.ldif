@@ -1,0 +1,13 @@
+dn: cn=Thurman+sn=Nowacki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thurman Nowacki
+cn: Nowacki
+givenname: Thurman
+mail: thurman.nowacki@planetexpress.com
+userPassword: Thurman
+ou: admin_staff
+uid: 1567
+ Q==

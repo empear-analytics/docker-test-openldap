@@ -1,0 +1,13 @@
+dn: cn=Dwayne+sn=Servantes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dwayne Servantes
+cn: Servantes
+givenname: Dwayne
+mail: dwayne.servantes@planetexpress.com
+userPassword: Dwayne
+ou: Group5
+uid: 3507
+ Q==

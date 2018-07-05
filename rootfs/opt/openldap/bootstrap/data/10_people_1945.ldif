@@ -1,0 +1,13 @@
+dn: cn=Heriberto+sn=Lundblad,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Heriberto Lundblad
+cn: Lundblad
+givenname: Heriberto
+mail: heriberto.lundblad@planetexpress.com
+userPassword: Heriberto
+ou: OtherGroup
+uid: 1945
+ Q==

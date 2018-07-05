@@ -1,0 +1,13 @@
+dn: cn=Danilo+sn=Kloster,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Danilo Kloster
+cn: Kloster
+givenname: Danilo
+mail: danilo.kloster@planetexpress.com
+userPassword: Danilo
+ou: Group5
+uid: 5915
+ Q==

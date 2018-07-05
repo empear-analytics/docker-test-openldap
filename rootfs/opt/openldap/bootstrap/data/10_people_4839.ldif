@@ -1,0 +1,13 @@
+dn: cn=Jed+sn=Weintz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jed Weintz
+cn: Weintz
+givenname: Jed
+mail: jed.weintz@planetexpress.com
+userPassword: Jed
+ou: OtherGroup
+uid: 4839
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Maximo+sn=Vandeputte,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maximo Vandeputte
+cn: Vandeputte
+givenname: Maximo
+mail: maximo.vandeputte@planetexpress.com
+userPassword: Maximo
+ou: flight_crew
+uid: 1690
+ Q==

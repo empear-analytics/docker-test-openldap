@@ -1,0 +1,13 @@
+dn: cn=Ronny+sn=Bonello,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ronny Bonello
+cn: Bonello
+givenname: Ronny
+mail: ronny.bonello@planetexpress.com
+userPassword: Ronny
+ou: Group5
+uid: 4662
+ Q==

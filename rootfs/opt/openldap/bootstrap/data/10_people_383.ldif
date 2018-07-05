@@ -1,0 +1,13 @@
+dn: cn=Edra+sn=Laverdiere,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edra Laverdiere
+cn: Laverdiere
+givenname: Edra
+mail: edra.laverdiere@planetexpress.com
+userPassword: Edra
+ou: OtherGroup
+uid: 383
+ Q==

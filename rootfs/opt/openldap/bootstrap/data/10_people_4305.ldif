@@ -1,0 +1,13 @@
+dn: cn=Dahlia+sn=Justice,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dahlia Justice
+cn: Justice
+givenname: Dahlia
+mail: dahlia.justice@planetexpress.com
+userPassword: Dahlia
+ou: flight_crew
+uid: 4305
+ Q==

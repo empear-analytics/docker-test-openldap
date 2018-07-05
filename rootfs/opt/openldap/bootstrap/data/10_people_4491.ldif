@@ -1,0 +1,13 @@
+dn: cn=Jerrell+sn=Montan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jerrell Montan
+cn: Montan
+givenname: Jerrell
+mail: jerrell.montan@planetexpress.com
+userPassword: Jerrell
+ou: admin_staff
+uid: 4491
+ Q==

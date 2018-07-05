@@ -1,0 +1,13 @@
+dn: cn=Sharyl+sn=Marca,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharyl Marca
+cn: Marca
+givenname: Sharyl
+mail: sharyl.marca@planetexpress.com
+userPassword: Sharyl
+ou: OtherGroup
+uid: 4516
+ Q==

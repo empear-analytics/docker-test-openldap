@@ -1,0 +1,13 @@
+dn: cn=Bruna+sn=Slade,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bruna Slade
+cn: Slade
+givenname: Bruna
+mail: bruna.slade@planetexpress.com
+userPassword: Bruna
+ou: Group5
+uid: 2898
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Arthur+sn=Halgren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arthur Halgren
+cn: Halgren
+givenname: Arthur
+mail: arthur.halgren@planetexpress.com
+userPassword: Arthur
+ou: Group5
+uid: 2247
+ Q==

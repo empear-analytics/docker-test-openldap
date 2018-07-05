@@ -1,0 +1,13 @@
+dn: cn=Camelia+sn=Ramshur,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Camelia Ramshur
+cn: Ramshur
+givenname: Camelia
+mail: camelia.ramshur@planetexpress.com
+userPassword: Camelia
+ou: OtherGroup
+uid: 5610
+ Q==

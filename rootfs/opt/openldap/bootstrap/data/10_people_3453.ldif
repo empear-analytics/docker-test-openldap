@@ -1,0 +1,13 @@
+dn: cn=Irvin+sn=Schaber,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Irvin Schaber
+cn: Schaber
+givenname: Irvin
+mail: irvin.schaber@planetexpress.com
+userPassword: Irvin
+ou: Group5
+uid: 3453
+ Q==

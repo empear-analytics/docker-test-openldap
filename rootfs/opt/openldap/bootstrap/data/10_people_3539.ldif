@@ -1,0 +1,13 @@
+dn: cn=Lacy+sn=Goldsby,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lacy Goldsby
+cn: Goldsby
+givenname: Lacy
+mail: lacy.goldsby@planetexpress.com
+userPassword: Lacy
+ou: OtherGroup
+uid: 3539
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Nevada+sn=Cowing,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nevada Cowing
+cn: Cowing
+givenname: Nevada
+mail: nevada.cowing@planetexpress.com
+userPassword: Nevada
+ou: OtherGroup
+uid: 4230
+ Q==

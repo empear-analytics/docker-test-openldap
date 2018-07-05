@@ -1,0 +1,13 @@
+dn: cn=Tommye+sn=Rebold,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tommye Rebold
+cn: Rebold
+givenname: Tommye
+mail: tommye.rebold@planetexpress.com
+userPassword: Tommye
+ou: Group5
+uid: 1444
+ Q==

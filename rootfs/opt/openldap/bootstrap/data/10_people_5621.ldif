@@ -1,0 +1,13 @@
+dn: cn=Brandy+sn=Farnham,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brandy Farnham
+cn: Farnham
+givenname: Brandy
+mail: brandy.farnham@planetexpress.com
+userPassword: Brandy
+ou: flight_crew
+uid: 5621
+ Q==

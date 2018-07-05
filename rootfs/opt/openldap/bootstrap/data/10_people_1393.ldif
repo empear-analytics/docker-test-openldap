@@ -1,0 +1,13 @@
+dn: cn=George+sn=Fernow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: George Fernow
+cn: Fernow
+givenname: George
+mail: george.fernow@planetexpress.com
+userPassword: George
+ou: admin_staff
+uid: 1393
+ Q==

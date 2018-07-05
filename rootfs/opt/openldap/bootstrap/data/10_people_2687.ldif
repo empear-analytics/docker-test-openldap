@@ -1,0 +1,13 @@
+dn: cn=Margie+sn=Dartez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margie Dartez
+cn: Dartez
+givenname: Margie
+mail: margie.dartez@planetexpress.com
+userPassword: Margie
+ou: flight_crew
+uid: 2687
+ Q==

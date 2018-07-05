@@ -1,0 +1,13 @@
+dn: cn=Shawana+sn=Egleston,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shawana Egleston
+cn: Egleston
+givenname: Shawana
+mail: shawana.egleston@planetexpress.com
+userPassword: Shawana
+ou: Group5
+uid: 4978
+ Q==

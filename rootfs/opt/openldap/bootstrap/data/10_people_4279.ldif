@@ -1,0 +1,13 @@
+dn: cn=Monty+sn=Guinane,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Monty Guinane
+cn: Guinane
+givenname: Monty
+mail: monty.guinane@planetexpress.com
+userPassword: Monty
+ou: admin_staff
+uid: 4279
+ Q==

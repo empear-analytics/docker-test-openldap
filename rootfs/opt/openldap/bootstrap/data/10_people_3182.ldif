@@ -1,0 +1,13 @@
+dn: cn=Marvin+sn=Purkerson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marvin Purkerson
+cn: Purkerson
+givenname: Marvin
+mail: marvin.purkerson@planetexpress.com
+userPassword: Marvin
+ou: flight_crew
+uid: 3182
+ Q==

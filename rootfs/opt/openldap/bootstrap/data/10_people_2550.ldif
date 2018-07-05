@@ -1,0 +1,13 @@
+dn: cn=Veola+sn=Cassilano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Veola Cassilano
+cn: Cassilano
+givenname: Veola
+mail: veola.cassilano@planetexpress.com
+userPassword: Veola
+ou: Group5
+uid: 2550
+ Q==

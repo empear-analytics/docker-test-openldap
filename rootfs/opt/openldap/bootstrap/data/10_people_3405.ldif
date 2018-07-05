@@ -1,0 +1,13 @@
+dn: cn=Isaias+sn=Senneker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Isaias Senneker
+cn: Senneker
+givenname: Isaias
+mail: isaias.senneker@planetexpress.com
+userPassword: Isaias
+ou: admin_staff
+uid: 3405
+ Q==

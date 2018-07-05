@@ -1,0 +1,13 @@
+dn: cn=Stormy+sn=Grinman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stormy Grinman
+cn: Grinman
+givenname: Stormy
+mail: stormy.grinman@planetexpress.com
+userPassword: Stormy
+ou: OtherGroup
+uid: 5817
+ Q==

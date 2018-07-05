@@ -1,0 +1,13 @@
+dn: cn=Joseph+sn=Sallas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joseph Sallas
+cn: Sallas
+givenname: Joseph
+mail: joseph.sallas@planetexpress.com
+userPassword: Joseph
+ou: flight_crew
+uid: 5332
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Regenia+sn=Mccomack,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Regenia Mccomack
+cn: Mccomack
+givenname: Regenia
+mail: regenia.mccomack@planetexpress.com
+userPassword: Regenia
+ou: flight_crew
+uid: 5895
+ Q==

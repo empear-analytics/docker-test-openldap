@@ -1,0 +1,13 @@
+dn: cn=Lilia+sn=Duban,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lilia Duban
+cn: Duban
+givenname: Lilia
+mail: lilia.duban@planetexpress.com
+userPassword: Lilia
+ou: admin_staff
+uid: 1576
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Vivienne+sn=Mcmenomy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vivienne Mcmenomy
+cn: Mcmenomy
+givenname: Vivienne
+mail: vivienne.mcmenomy@planetexpress.com
+userPassword: Vivienne
+ou: Group5
+uid: 1907
+ Q==

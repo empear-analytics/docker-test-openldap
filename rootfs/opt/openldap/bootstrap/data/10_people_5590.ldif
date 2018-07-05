@@ -1,0 +1,13 @@
+dn: cn=Eloy+sn=Porras,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eloy Porras
+cn: Porras
+givenname: Eloy
+mail: eloy.porras@planetexpress.com
+userPassword: Eloy
+ou: Group5
+uid: 5590
+ Q==

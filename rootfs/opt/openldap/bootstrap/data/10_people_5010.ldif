@@ -1,0 +1,13 @@
+dn: cn=Tiana+sn=Pinsonnault,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tiana Pinsonnault
+cn: Pinsonnault
+givenname: Tiana
+mail: tiana.pinsonnault@planetexpress.com
+userPassword: Tiana
+ou: OtherGroup
+uid: 5010
+ Q==

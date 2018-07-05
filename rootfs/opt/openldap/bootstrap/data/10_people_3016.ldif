@@ -1,0 +1,13 @@
+dn: cn=Julene+sn=Hindson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Julene Hindson
+cn: Hindson
+givenname: Julene
+mail: julene.hindson@planetexpress.com
+userPassword: Julene
+ou: Group5
+uid: 3016
+ Q==

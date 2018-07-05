@@ -1,0 +1,13 @@
+dn: cn=Frankie+sn=Moorehouse,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Frankie Moorehouse
+cn: Moorehouse
+givenname: Frankie
+mail: frankie.moorehouse@planetexpress.com
+userPassword: Frankie
+ou: admin_staff
+uid: 1701
+ Q==

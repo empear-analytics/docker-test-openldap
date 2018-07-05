@@ -1,0 +1,13 @@
+dn: cn=Newton+sn=Stueckrath,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Newton Stueckrath
+cn: Stueckrath
+givenname: Newton
+mail: newton.stueckrath@planetexpress.com
+userPassword: Newton
+ou: OtherGroup
+uid: 3168
+ Q==

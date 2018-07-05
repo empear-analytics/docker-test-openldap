@@ -1,0 +1,13 @@
+dn: cn=Malinda+sn=Wessinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Malinda Wessinger
+cn: Wessinger
+givenname: Malinda
+mail: malinda.wessinger@planetexpress.com
+userPassword: Malinda
+ou: OtherGroup
+uid: 335
+ Q==

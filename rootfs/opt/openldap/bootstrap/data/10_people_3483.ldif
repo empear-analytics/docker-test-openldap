@@ -1,0 +1,13 @@
+dn: cn=Valencia+sn=Hubbell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Valencia Hubbell
+cn: Hubbell
+givenname: Valencia
+mail: valencia.hubbell@planetexpress.com
+userPassword: Valencia
+ou: admin_staff
+uid: 3483
+ Q==

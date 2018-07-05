@@ -1,0 +1,13 @@
+dn: cn=Helaine+sn=Hennigan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Helaine Hennigan
+cn: Hennigan
+givenname: Helaine
+mail: helaine.hennigan@planetexpress.com
+userPassword: Helaine
+ou: OtherGroup
+uid: 5313
+ Q==

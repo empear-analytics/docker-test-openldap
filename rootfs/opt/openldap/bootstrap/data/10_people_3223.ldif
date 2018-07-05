@@ -1,0 +1,13 @@
+dn: cn=Shad+sn=Allam,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shad Allam
+cn: Allam
+givenname: Shad
+mail: shad.allam@planetexpress.com
+userPassword: Shad
+ou: OtherGroup
+uid: 3223
+ Q==

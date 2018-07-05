@@ -1,0 +1,13 @@
+dn: cn=Kyoko+sn=Trachtenberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kyoko Trachtenberg
+cn: Trachtenberg
+givenname: Kyoko
+mail: kyoko.trachtenberg@planetexpress.com
+userPassword: Kyoko
+ou: flight_crew
+uid: 2883
+ Q==

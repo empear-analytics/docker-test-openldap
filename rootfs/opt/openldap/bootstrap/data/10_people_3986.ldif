@@ -1,0 +1,13 @@
+dn: cn=Conchita+sn=Keets,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Conchita Keets
+cn: Keets
+givenname: Conchita
+mail: conchita.keets@planetexpress.com
+userPassword: Conchita
+ou: flight_crew
+uid: 3986
+ Q==

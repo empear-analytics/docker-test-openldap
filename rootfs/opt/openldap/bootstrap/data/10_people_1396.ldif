@@ -1,0 +1,13 @@
+dn: cn=Thurman+sn=Vanelli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thurman Vanelli
+cn: Vanelli
+givenname: Thurman
+mail: thurman.vanelli@planetexpress.com
+userPassword: Thurman
+ou: admin_staff
+uid: 1396
+ Q==

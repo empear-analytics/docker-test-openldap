@@ -1,0 +1,13 @@
+dn: cn=Clora+sn=Avery,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clora Avery
+cn: Avery
+givenname: Clora
+mail: clora.avery@planetexpress.com
+userPassword: Clora
+ou: Group5
+uid: 4796
+ Q==

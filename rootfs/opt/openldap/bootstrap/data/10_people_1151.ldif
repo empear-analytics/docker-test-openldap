@@ -1,0 +1,13 @@
+dn: cn=Keli+sn=Havice,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keli Havice
+cn: Havice
+givenname: Keli
+mail: keli.havice@planetexpress.com
+userPassword: Keli
+ou: flight_crew
+uid: 1151
+ Q==

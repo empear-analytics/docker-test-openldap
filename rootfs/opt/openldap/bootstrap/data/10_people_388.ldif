@@ -1,0 +1,13 @@
+dn: cn=Arthur+sn=Kleefisch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arthur Kleefisch
+cn: Kleefisch
+givenname: Arthur
+mail: arthur.kleefisch@planetexpress.com
+userPassword: Arthur
+ou: admin_staff
+uid: 388
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Marietta+sn=Smart,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marietta Smart
+cn: Smart
+givenname: Marietta
+mail: marietta.smart@planetexpress.com
+userPassword: Marietta
+ou: Group5
+uid: 2098
+ Q==

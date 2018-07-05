@@ -1,0 +1,13 @@
+dn: cn=Paris+sn=Polton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Paris Polton
+cn: Polton
+givenname: Paris
+mail: paris.polton@planetexpress.com
+userPassword: Paris
+ou: Group5
+uid: 2532
+ Q==

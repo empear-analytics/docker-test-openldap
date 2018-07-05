@@ -1,0 +1,13 @@
+dn: cn=Charla+sn=Spanswick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charla Spanswick
+cn: Spanswick
+givenname: Charla
+mail: charla.spanswick@planetexpress.com
+userPassword: Charla
+ou: admin_staff
+uid: 4386
+ Q==

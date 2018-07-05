@@ -1,0 +1,13 @@
+dn: cn=Shante+sn=Mcpeck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shante Mcpeck
+cn: Mcpeck
+givenname: Shante
+mail: shante.mcpeck@planetexpress.com
+userPassword: Shante
+ou: Group5
+uid: 254
+ Q==

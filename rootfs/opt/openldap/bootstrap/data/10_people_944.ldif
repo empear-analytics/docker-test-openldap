@@ -1,0 +1,13 @@
+dn: cn=Micheal+sn=Olivarez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Micheal Olivarez
+cn: Olivarez
+givenname: Micheal
+mail: micheal.olivarez@planetexpress.com
+userPassword: Micheal
+ou: OtherGroup
+uid: 944
+ Q==

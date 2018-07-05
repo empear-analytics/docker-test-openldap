@@ -1,0 +1,13 @@
+dn: cn=Anna+sn=Palmberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anna Palmberg
+cn: Palmberg
+givenname: Anna
+mail: anna.palmberg@planetexpress.com
+userPassword: Anna
+ou: admin_staff
+uid: 2668
+ Q==

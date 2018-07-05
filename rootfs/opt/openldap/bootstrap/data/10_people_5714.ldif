@@ -1,0 +1,13 @@
+dn: cn=Joanne+sn=Cyrus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joanne Cyrus
+cn: Cyrus
+givenname: Joanne
+mail: joanne.cyrus@planetexpress.com
+userPassword: Joanne
+ou: admin_staff
+uid: 5714
+ Q==

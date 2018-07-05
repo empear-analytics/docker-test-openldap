@@ -1,0 +1,13 @@
+dn: cn=Mirian+sn=Barros,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mirian Barros
+cn: Barros
+givenname: Mirian
+mail: mirian.barros@planetexpress.com
+userPassword: Mirian
+ou: Group5
+uid: 2787
+ Q==

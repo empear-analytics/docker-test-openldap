@@ -1,0 +1,13 @@
+dn: cn=Quincy+sn=Savoie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Quincy Savoie
+cn: Savoie
+givenname: Quincy
+mail: quincy.savoie@planetexpress.com
+userPassword: Quincy
+ou: flight_crew
+uid: 3836
+ Q==

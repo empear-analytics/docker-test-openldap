@@ -1,0 +1,13 @@
+dn: cn=Markus+sn=Bissett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Markus Bissett
+cn: Bissett
+givenname: Markus
+mail: markus.bissett@planetexpress.com
+userPassword: Markus
+ou: flight_crew
+uid: 246
+ Q==

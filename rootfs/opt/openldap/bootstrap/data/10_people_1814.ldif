@@ -1,0 +1,13 @@
+dn: cn=Cleveland+sn=Feinberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cleveland Feinberg
+cn: Feinberg
+givenname: Cleveland
+mail: cleveland.feinberg@planetexpress.com
+userPassword: Cleveland
+ou: OtherGroup
+uid: 1814
+ Q==

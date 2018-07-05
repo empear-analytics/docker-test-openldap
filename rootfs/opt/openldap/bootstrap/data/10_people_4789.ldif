@@ -1,0 +1,13 @@
+dn: cn=Jazmin+sn=Plohr,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jazmin Plohr
+cn: Plohr
+givenname: Jazmin
+mail: jazmin.plohr@planetexpress.com
+userPassword: Jazmin
+ou: Group5
+uid: 4789
+ Q==

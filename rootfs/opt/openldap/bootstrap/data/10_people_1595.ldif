@@ -1,0 +1,13 @@
+dn: cn=Leatrice+sn=Palmerino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leatrice Palmerino
+cn: Palmerino
+givenname: Leatrice
+mail: leatrice.palmerino@planetexpress.com
+userPassword: Leatrice
+ou: flight_crew
+uid: 1595
+ Q==

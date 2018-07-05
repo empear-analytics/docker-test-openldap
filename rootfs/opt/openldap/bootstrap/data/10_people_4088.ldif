@@ -1,0 +1,13 @@
+dn: cn=Susy+sn=Thundercloud,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Susy Thundercloud
+cn: Thundercloud
+givenname: Susy
+mail: susy.thundercloud@planetexpress.com
+userPassword: Susy
+ou: OtherGroup
+uid: 4088
+ Q==

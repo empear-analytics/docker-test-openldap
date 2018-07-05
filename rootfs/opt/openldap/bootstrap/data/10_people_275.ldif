@@ -1,0 +1,13 @@
+dn: cn=Charlena+sn=Rushworth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charlena Rushworth
+cn: Rushworth
+givenname: Charlena
+mail: charlena.rushworth@planetexpress.com
+userPassword: Charlena
+ou: flight_crew
+uid: 275
+ Q==

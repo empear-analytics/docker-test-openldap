@@ -1,0 +1,13 @@
+dn: cn=Lidia+sn=Berenbaum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lidia Berenbaum
+cn: Berenbaum
+givenname: Lidia
+mail: lidia.berenbaum@planetexpress.com
+userPassword: Lidia
+ou: admin_staff
+uid: 3172
+ Q==

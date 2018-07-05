@@ -1,0 +1,13 @@
+dn: cn=Carmel+sn=Artus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carmel Artus
+cn: Artus
+givenname: Carmel
+mail: carmel.artus@planetexpress.com
+userPassword: Carmel
+ou: admin_staff
+uid: 5540
+ Q==

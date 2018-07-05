@@ -1,0 +1,13 @@
+dn: cn=Kam+sn=Coria,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kam Coria
+cn: Coria
+givenname: Kam
+mail: kam.coria@planetexpress.com
+userPassword: Kam
+ou: Group5
+uid: 3628
+ Q==

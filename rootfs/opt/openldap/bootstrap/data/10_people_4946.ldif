@@ -1,0 +1,13 @@
+dn: cn=Kristle+sn=Tingle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kristle Tingle
+cn: Tingle
+givenname: Kristle
+mail: kristle.tingle@planetexpress.com
+userPassword: Kristle
+ou: Group5
+uid: 4946
+ Q==

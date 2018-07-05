@@ -1,0 +1,13 @@
+dn: cn=Sherron+sn=Milbrodt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherron Milbrodt
+cn: Milbrodt
+givenname: Sherron
+mail: sherron.milbrodt@planetexpress.com
+userPassword: Sherron
+ou: admin_staff
+uid: 5380
+ Q==

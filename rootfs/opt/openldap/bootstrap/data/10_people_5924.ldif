@@ -1,0 +1,13 @@
+dn: cn=Micheal+sn=Heltzel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Micheal Heltzel
+cn: Heltzel
+givenname: Micheal
+mail: micheal.heltzel@planetexpress.com
+userPassword: Micheal
+ou: Group5
+uid: 5924
+ Q==

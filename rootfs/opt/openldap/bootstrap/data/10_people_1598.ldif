@@ -1,0 +1,13 @@
+dn: cn=Phil+sn=Everidge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Phil Everidge
+cn: Everidge
+givenname: Phil
+mail: phil.everidge@planetexpress.com
+userPassword: Phil
+ou: flight_crew
+uid: 1598
+ Q==

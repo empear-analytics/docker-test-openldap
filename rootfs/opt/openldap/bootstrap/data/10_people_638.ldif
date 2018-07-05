@@ -1,0 +1,13 @@
+dn: cn=Truman+sn=Buteau,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Truman Buteau
+cn: Buteau
+givenname: Truman
+mail: truman.buteau@planetexpress.com
+userPassword: Truman
+ou: flight_crew
+uid: 638
+ Q==

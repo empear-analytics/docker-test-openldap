@@ -1,0 +1,13 @@
+dn: cn=Man+sn=Letang,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Man Letang
+cn: Letang
+givenname: Man
+mail: man.letang@planetexpress.com
+userPassword: Man
+ou: admin_staff
+uid: 2038
+ Q==

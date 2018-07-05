@@ -1,0 +1,13 @@
+dn: cn=Vincenzo+sn=Kuiz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vincenzo Kuiz
+cn: Kuiz
+givenname: Vincenzo
+mail: vincenzo.kuiz@planetexpress.com
+userPassword: Vincenzo
+ou: flight_crew
+uid: 2333
+ Q==

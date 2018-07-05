@@ -1,0 +1,13 @@
+dn: cn=Venetta+sn=Alge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Venetta Alge
+cn: Alge
+givenname: Venetta
+mail: venetta.alge@planetexpress.com
+userPassword: Venetta
+ou: flight_crew
+uid: 1738
+ Q==

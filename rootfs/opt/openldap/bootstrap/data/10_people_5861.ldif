@@ -1,0 +1,13 @@
+dn: cn=Kena+sn=Bernt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kena Bernt
+cn: Bernt
+givenname: Kena
+mail: kena.bernt@planetexpress.com
+userPassword: Kena
+ou: OtherGroup
+uid: 5861
+ Q==

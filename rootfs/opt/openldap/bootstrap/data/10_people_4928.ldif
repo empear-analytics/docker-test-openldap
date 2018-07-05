@@ -1,0 +1,13 @@
+dn: cn=Berta+sn=Mccomber,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Berta Mccomber
+cn: Mccomber
+givenname: Berta
+mail: berta.mccomber@planetexpress.com
+userPassword: Berta
+ou: Group5
+uid: 4928
+ Q==

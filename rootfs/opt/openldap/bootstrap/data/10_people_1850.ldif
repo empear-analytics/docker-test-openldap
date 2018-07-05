@@ -1,0 +1,13 @@
+dn: cn=Mose+sn=Tungate,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mose Tungate
+cn: Tungate
+givenname: Mose
+mail: mose.tungate@planetexpress.com
+userPassword: Mose
+ou: Group5
+uid: 1850
+ Q==

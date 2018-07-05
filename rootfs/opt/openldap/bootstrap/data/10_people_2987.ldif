@@ -1,0 +1,13 @@
+dn: cn=Charlotte+sn=Mom,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charlotte Mom
+cn: Mom
+givenname: Charlotte
+mail: charlotte.mom@planetexpress.com
+userPassword: Charlotte
+ou: Group5
+uid: 2987
+ Q==

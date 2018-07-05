@@ -1,0 +1,13 @@
+dn: cn=Bettye+sn=Murawski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bettye Murawski
+cn: Murawski
+givenname: Bettye
+mail: bettye.murawski@planetexpress.com
+userPassword: Bettye
+ou: flight_crew
+uid: 2284
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ryan+sn=Brislin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ryan Brislin
+cn: Brislin
+givenname: Ryan
+mail: ryan.brislin@planetexpress.com
+userPassword: Ryan
+ou: admin_staff
+uid: 1519
+ Q==

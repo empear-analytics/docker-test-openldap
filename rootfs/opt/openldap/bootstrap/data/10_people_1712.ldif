@@ -1,0 +1,13 @@
+dn: cn=Evelynn+sn=Isbister,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Evelynn Isbister
+cn: Isbister
+givenname: Evelynn
+mail: evelynn.isbister@planetexpress.com
+userPassword: Evelynn
+ou: OtherGroup
+uid: 1712
+ Q==

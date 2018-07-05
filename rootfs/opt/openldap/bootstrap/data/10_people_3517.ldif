@@ -1,0 +1,13 @@
+dn: cn=Merrill+sn=Vital,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Merrill Vital
+cn: Vital
+givenname: Merrill
+mail: merrill.vital@planetexpress.com
+userPassword: Merrill
+ou: admin_staff
+uid: 3517
+ Q==

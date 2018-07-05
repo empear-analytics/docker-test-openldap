@@ -1,0 +1,13 @@
+dn: cn=Shani+sn=Sandles,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shani Sandles
+cn: Sandles
+givenname: Shani
+mail: shani.sandles@planetexpress.com
+userPassword: Shani
+ou: OtherGroup
+uid: 470
+ Q==

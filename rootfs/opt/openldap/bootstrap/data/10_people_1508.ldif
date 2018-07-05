@@ -1,0 +1,13 @@
+dn: cn=Derrick+sn=Kostyla,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Derrick Kostyla
+cn: Kostyla
+givenname: Derrick
+mail: derrick.kostyla@planetexpress.com
+userPassword: Derrick
+ou: admin_staff
+uid: 1508
+ Q==

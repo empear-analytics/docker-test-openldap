@@ -1,0 +1,13 @@
+dn: cn=Sunshine+sn=Clevenger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sunshine Clevenger
+cn: Clevenger
+givenname: Sunshine
+mail: sunshine.clevenger@planetexpress.com
+userPassword: Sunshine
+ou: Group5
+uid: 2415
+ Q==

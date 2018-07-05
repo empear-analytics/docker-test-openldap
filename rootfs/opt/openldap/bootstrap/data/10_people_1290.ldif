@@ -1,0 +1,13 @@
+dn: cn=Cassy+sn=Husar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cassy Husar
+cn: Husar
+givenname: Cassy
+mail: cassy.husar@planetexpress.com
+userPassword: Cassy
+ou: admin_staff
+uid: 1290
+ Q==

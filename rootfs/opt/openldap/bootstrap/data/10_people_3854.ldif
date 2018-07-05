@@ -1,0 +1,13 @@
+dn: cn=Darrin+sn=Fieselman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darrin Fieselman
+cn: Fieselman
+givenname: Darrin
+mail: darrin.fieselman@planetexpress.com
+userPassword: Darrin
+ou: flight_crew
+uid: 3854
+ Q==

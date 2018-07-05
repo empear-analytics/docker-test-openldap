@@ -1,0 +1,13 @@
+dn: cn=Genia+sn=Hobler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Genia Hobler
+cn: Hobler
+givenname: Genia
+mail: genia.hobler@planetexpress.com
+userPassword: Genia
+ou: OtherGroup
+uid: 5699
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jason+sn=Hyams,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jason Hyams
+cn: Hyams
+givenname: Jason
+mail: jason.hyams@planetexpress.com
+userPassword: Jason
+ou: Group5
+uid: 1289
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ethelene+sn=Hafenstein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ethelene Hafenstein
+cn: Hafenstein
+givenname: Ethelene
+mail: ethelene.hafenstein@planetexpress.com
+userPassword: Ethelene
+ou: OtherGroup
+uid: 5893
+ Q==

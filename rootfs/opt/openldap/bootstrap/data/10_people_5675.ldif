@@ -1,0 +1,13 @@
+dn: cn=Oren+sn=Marlo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Oren Marlo
+cn: Marlo
+givenname: Oren
+mail: oren.marlo@planetexpress.com
+userPassword: Oren
+ou: admin_staff
+uid: 5675
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Brenna+sn=Trewhitt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brenna Trewhitt
+cn: Trewhitt
+givenname: Brenna
+mail: brenna.trewhitt@planetexpress.com
+userPassword: Brenna
+ou: flight_crew
+uid: 4297
+ Q==

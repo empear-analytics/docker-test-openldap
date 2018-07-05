@@ -1,0 +1,13 @@
+dn: cn=Perry+sn=Alm,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Perry Alm
+cn: Alm
+givenname: Perry
+mail: perry.alm@planetexpress.com
+userPassword: Perry
+ou: OtherGroup
+uid: 2972
+ Q==

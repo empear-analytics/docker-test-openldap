@@ -1,0 +1,13 @@
+dn: cn=Giuseppe+sn=Kozubal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Giuseppe Kozubal
+cn: Kozubal
+givenname: Giuseppe
+mail: giuseppe.kozubal@planetexpress.com
+userPassword: Giuseppe
+ou: Group5
+uid: 4423
+ Q==

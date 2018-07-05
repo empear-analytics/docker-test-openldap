@@ -1,0 +1,13 @@
+dn: cn=Magdalena+sn=Fok,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Magdalena Fok
+cn: Fok
+givenname: Magdalena
+mail: magdalena.fok@planetexpress.com
+userPassword: Magdalena
+ou: flight_crew
+uid: 2406
+ Q==

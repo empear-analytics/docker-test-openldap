@@ -1,0 +1,13 @@
+dn: cn=Israel+sn=Mcgivney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Israel Mcgivney
+cn: Mcgivney
+givenname: Israel
+mail: israel.mcgivney@planetexpress.com
+userPassword: Israel
+ou: flight_crew
+uid: 3861
+ Q==

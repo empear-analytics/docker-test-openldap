@@ -1,0 +1,13 @@
+dn: cn=Holley+sn=Michaud,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Holley Michaud
+cn: Michaud
+givenname: Holley
+mail: holley.michaud@planetexpress.com
+userPassword: Holley
+ou: admin_staff
+uid: 2877
+ Q==

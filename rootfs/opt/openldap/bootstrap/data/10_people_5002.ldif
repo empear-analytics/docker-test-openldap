@@ -1,0 +1,13 @@
+dn: cn=Celesta+sn=Verfaillie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Celesta Verfaillie
+cn: Verfaillie
+givenname: Celesta
+mail: celesta.verfaillie@planetexpress.com
+userPassword: Celesta
+ou: flight_crew
+uid: 5002
+ Q==

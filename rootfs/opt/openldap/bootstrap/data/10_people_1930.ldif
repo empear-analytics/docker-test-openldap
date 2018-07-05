@@ -1,0 +1,13 @@
+dn: cn=Chong+sn=Debenedictis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chong Debenedictis
+cn: Debenedictis
+givenname: Chong
+mail: chong.debenedictis@planetexpress.com
+userPassword: Chong
+ou: Group5
+uid: 1930
+ Q==

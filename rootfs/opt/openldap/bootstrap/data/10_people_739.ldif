@@ -1,0 +1,13 @@
+dn: cn=Elda+sn=Sommar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elda Sommar
+cn: Sommar
+givenname: Elda
+mail: elda.sommar@planetexpress.com
+userPassword: Elda
+ou: OtherGroup
+uid: 739
+ Q==

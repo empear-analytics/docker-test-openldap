@@ -1,0 +1,13 @@
+dn: cn=Nereida+sn=Pronto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nereida Pronto
+cn: Pronto
+givenname: Nereida
+mail: nereida.pronto@planetexpress.com
+userPassword: Nereida
+ou: OtherGroup
+uid: 4743
+ Q==

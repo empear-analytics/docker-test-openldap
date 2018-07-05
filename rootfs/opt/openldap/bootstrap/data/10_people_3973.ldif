@@ -1,0 +1,13 @@
+dn: cn=Sherwood+sn=Ito,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherwood Ito
+cn: Ito
+givenname: Sherwood
+mail: sherwood.ito@planetexpress.com
+userPassword: Sherwood
+ou: admin_staff
+uid: 3973
+ Q==

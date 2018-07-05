@@ -1,0 +1,13 @@
+dn: cn=Andera+sn=Csensich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andera Csensich
+cn: Csensich
+givenname: Andera
+mail: andera.csensich@planetexpress.com
+userPassword: Andera
+ou: admin_staff
+uid: 3537
+ Q==

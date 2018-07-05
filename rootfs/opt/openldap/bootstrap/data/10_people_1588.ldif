@@ -1,0 +1,13 @@
+dn: cn=Diana+sn=Belknap,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Diana Belknap
+cn: Belknap
+givenname: Diana
+mail: diana.belknap@planetexpress.com
+userPassword: Diana
+ou: flight_crew
+uid: 1588
+ Q==

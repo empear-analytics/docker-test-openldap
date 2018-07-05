@@ -1,0 +1,13 @@
+dn: cn=Adolph+sn=Suderman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adolph Suderman
+cn: Suderman
+givenname: Adolph
+mail: adolph.suderman@planetexpress.com
+userPassword: Adolph
+ou: OtherGroup
+uid: 5827
+ Q==

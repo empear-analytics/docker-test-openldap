@@ -1,0 +1,13 @@
+dn: cn=Demetrice+sn=Zechiel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Demetrice Zechiel
+cn: Zechiel
+givenname: Demetrice
+mail: demetrice.zechiel@planetexpress.com
+userPassword: Demetrice
+ou: Group5
+uid: 946
+ Q==

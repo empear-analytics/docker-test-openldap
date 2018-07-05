@@ -1,0 +1,13 @@
+dn: cn=Keely+sn=Her,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keely Her
+cn: Her
+givenname: Keely
+mail: keely.her@planetexpress.com
+userPassword: Keely
+ou: OtherGroup
+uid: 4145
+ Q==

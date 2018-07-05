@@ -1,0 +1,13 @@
+dn: cn=Leonida+sn=Ghee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leonida Ghee
+cn: Ghee
+givenname: Leonida
+mail: leonida.ghee@planetexpress.com
+userPassword: Leonida
+ou: OtherGroup
+uid: 3486
+ Q==

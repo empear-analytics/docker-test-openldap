@@ -1,0 +1,13 @@
+dn: cn=Shante+sn=Schmertz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shante Schmertz
+cn: Schmertz
+givenname: Shante
+mail: shante.schmertz@planetexpress.com
+userPassword: Shante
+ou: Group5
+uid: 3855
+ Q==

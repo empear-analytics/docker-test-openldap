@@ -1,0 +1,13 @@
+dn: cn=Normand+sn=Pugh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Normand Pugh
+cn: Pugh
+givenname: Normand
+mail: normand.pugh@planetexpress.com
+userPassword: Normand
+ou: Group5
+uid: 3815
+ Q==

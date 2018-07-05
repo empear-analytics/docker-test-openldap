@@ -1,0 +1,13 @@
+dn: cn=Ilse+sn=Steedman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ilse Steedman
+cn: Steedman
+givenname: Ilse
+mail: ilse.steedman@planetexpress.com
+userPassword: Ilse
+ou: OtherGroup
+uid: 3328
+ Q==

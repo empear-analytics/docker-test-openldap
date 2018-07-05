@@ -1,0 +1,13 @@
+dn: cn=Amparo+sn=Guity,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Amparo Guity
+cn: Guity
+givenname: Amparo
+mail: amparo.guity@planetexpress.com
+userPassword: Amparo
+ou: Group5
+uid: 205
+ Q==

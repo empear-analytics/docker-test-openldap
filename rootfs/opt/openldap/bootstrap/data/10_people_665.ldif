@@ -1,0 +1,13 @@
+dn: cn=Helene+sn=Kownacki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Helene Kownacki
+cn: Kownacki
+givenname: Helene
+mail: helene.kownacki@planetexpress.com
+userPassword: Helene
+ou: Group5
+uid: 665
+ Q==

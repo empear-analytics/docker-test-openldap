@@ -1,0 +1,13 @@
+dn: cn=Calvin+sn=Griego,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Calvin Griego
+cn: Griego
+givenname: Calvin
+mail: calvin.griego@planetexpress.com
+userPassword: Calvin
+ou: flight_crew
+uid: 2460
+ Q==

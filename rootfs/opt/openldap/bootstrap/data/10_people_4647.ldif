@@ -1,0 +1,13 @@
+dn: cn=Sonja+sn=Strader,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sonja Strader
+cn: Strader
+givenname: Sonja
+mail: sonja.strader@planetexpress.com
+userPassword: Sonja
+ou: admin_staff
+uid: 4647
+ Q==

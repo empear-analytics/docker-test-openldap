@@ -1,0 +1,13 @@
+dn: cn=Celena+sn=Radulescu,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Celena Radulescu
+cn: Radulescu
+givenname: Celena
+mail: celena.radulescu@planetexpress.com
+userPassword: Celena
+ou: OtherGroup
+uid: 245
+ Q==

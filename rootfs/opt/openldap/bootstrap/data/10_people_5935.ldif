@@ -1,0 +1,13 @@
+dn: cn=Syble+sn=Acklin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Syble Acklin
+cn: Acklin
+givenname: Syble
+mail: syble.acklin@planetexpress.com
+userPassword: Syble
+ou: flight_crew
+uid: 5935
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tristan+sn=Fram,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tristan Fram
+cn: Fram
+givenname: Tristan
+mail: tristan.fram@planetexpress.com
+userPassword: Tristan
+ou: OtherGroup
+uid: 4478
+ Q==

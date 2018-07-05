@@ -1,0 +1,13 @@
+dn: cn=Jerold+sn=Lacroix,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jerold Lacroix
+cn: Lacroix
+givenname: Jerold
+mail: jerold.lacroix@planetexpress.com
+userPassword: Jerold
+ou: Group5
+uid: 3347
+ Q==

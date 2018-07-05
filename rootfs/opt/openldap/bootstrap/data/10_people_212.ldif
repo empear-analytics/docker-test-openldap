@@ -1,0 +1,13 @@
+dn: cn=Shandi+sn=Durke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shandi Durke
+cn: Durke
+givenname: Shandi
+mail: shandi.durke@planetexpress.com
+userPassword: Shandi
+ou: admin_staff
+uid: 212
+ Q==

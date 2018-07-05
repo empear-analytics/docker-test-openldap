@@ -1,0 +1,13 @@
+dn: cn=Yoko+sn=Etters,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yoko Etters
+cn: Etters
+givenname: Yoko
+mail: yoko.etters@planetexpress.com
+userPassword: Yoko
+ou: admin_staff
+uid: 3544
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Noella+sn=Teroganesyan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Noella Teroganesyan
+cn: Teroganesyan
+givenname: Noella
+mail: noella.teroganesyan@planetexpress.com
+userPassword: Noella
+ou: flight_crew
+uid: 1048
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tina+sn=Jeavons,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tina Jeavons
+cn: Jeavons
+givenname: Tina
+mail: tina.jeavons@planetexpress.com
+userPassword: Tina
+ou: flight_crew
+uid: 2300
+ Q==

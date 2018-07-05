@@ -1,0 +1,13 @@
+dn: cn=Corrine+sn=Chiola,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Corrine Chiola
+cn: Chiola
+givenname: Corrine
+mail: corrine.chiola@planetexpress.com
+userPassword: Corrine
+ou: OtherGroup
+uid: 2
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Virgie+sn=Vesley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Virgie Vesley
+cn: Vesley
+givenname: Virgie
+mail: virgie.vesley@planetexpress.com
+userPassword: Virgie
+ou: Group5
+uid: 3323
+ Q==

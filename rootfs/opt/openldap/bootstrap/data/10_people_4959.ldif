@@ -1,0 +1,13 @@
+dn: cn=Sybil+sn=Ashlock,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sybil Ashlock
+cn: Ashlock
+givenname: Sybil
+mail: sybil.ashlock@planetexpress.com
+userPassword: Sybil
+ou: OtherGroup
+uid: 4959
+ Q==

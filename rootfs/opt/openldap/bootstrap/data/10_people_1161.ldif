@@ -1,0 +1,13 @@
+dn: cn=Delia+sn=Gudiel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delia Gudiel
+cn: Gudiel
+givenname: Delia
+mail: delia.gudiel@planetexpress.com
+userPassword: Delia
+ou: flight_crew
+uid: 1161
+ Q==

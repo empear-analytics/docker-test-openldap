@@ -1,0 +1,13 @@
+dn: cn=Mana+sn=Valrey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mana Valrey
+cn: Valrey
+givenname: Mana
+mail: mana.valrey@planetexpress.com
+userPassword: Mana
+ou: Group5
+uid: 4499
+ Q==

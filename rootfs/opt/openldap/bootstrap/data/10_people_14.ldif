@@ -1,0 +1,13 @@
+dn: cn=Chris+sn=Knoflicek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chris Knoflicek
+cn: Knoflicek
+givenname: Chris
+mail: chris.knoflicek@planetexpress.com
+userPassword: Chris
+ou: flight_crew
+uid: 14
+ Q==

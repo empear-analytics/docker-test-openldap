@@ -1,0 +1,13 @@
+dn: cn=Inocencia+sn=Sheaffer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Inocencia Sheaffer
+cn: Sheaffer
+givenname: Inocencia
+mail: inocencia.sheaffer@planetexpress.com
+userPassword: Inocencia
+ou: OtherGroup
+uid: 5612
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Raymundo+sn=Vangalder,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raymundo Vangalder
+cn: Vangalder
+givenname: Raymundo
+mail: raymundo.vangalder@planetexpress.com
+userPassword: Raymundo
+ou: admin_staff
+uid: 195
+ Q==

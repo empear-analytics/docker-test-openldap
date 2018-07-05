@@ -1,0 +1,13 @@
+dn: cn=Lashay+sn=Reichardt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lashay Reichardt
+cn: Reichardt
+givenname: Lashay
+mail: lashay.reichardt@planetexpress.com
+userPassword: Lashay
+ou: Group5
+uid: 4339
+ Q==

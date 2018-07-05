@@ -1,0 +1,13 @@
+dn: cn=Rosenda+sn=Assalone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosenda Assalone
+cn: Assalone
+givenname: Rosenda
+mail: rosenda.assalone@planetexpress.com
+userPassword: Rosenda
+ou: Group5
+uid: 3234
+ Q==

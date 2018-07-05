@@ -1,0 +1,13 @@
+dn: cn=Rick+sn=Gaglione,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rick Gaglione
+cn: Gaglione
+givenname: Rick
+mail: rick.gaglione@planetexpress.com
+userPassword: Rick
+ou: Group5
+uid: 921
+ Q==

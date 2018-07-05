@@ -1,0 +1,13 @@
+dn: cn=Alissa+sn=Ezernack,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alissa Ezernack
+cn: Ezernack
+givenname: Alissa
+mail: alissa.ezernack@planetexpress.com
+userPassword: Alissa
+ou: OtherGroup
+uid: 2063
+ Q==

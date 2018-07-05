@@ -1,0 +1,13 @@
+dn: cn=Catarina+sn=Nicolella,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Catarina Nicolella
+cn: Nicolella
+givenname: Catarina
+mail: catarina.nicolella@planetexpress.com
+userPassword: Catarina
+ou: admin_staff
+uid: 4016
+ Q==

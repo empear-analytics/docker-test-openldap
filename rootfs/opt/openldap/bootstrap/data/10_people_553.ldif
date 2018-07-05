@@ -1,0 +1,13 @@
+dn: cn=Elin+sn=Delaura,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elin Delaura
+cn: Delaura
+givenname: Elin
+mail: elin.delaura@planetexpress.com
+userPassword: Elin
+ou: OtherGroup
+uid: 553
+ Q==

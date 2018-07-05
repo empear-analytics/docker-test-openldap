@@ -1,0 +1,13 @@
+dn: cn=Nova+sn=Kaveny,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nova Kaveny
+cn: Kaveny
+givenname: Nova
+mail: nova.kaveny@planetexpress.com
+userPassword: Nova
+ou: Group5
+uid: 1951
+ Q==

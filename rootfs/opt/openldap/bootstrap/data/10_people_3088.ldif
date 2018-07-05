@@ -1,0 +1,13 @@
+dn: cn=Cyndi+sn=Poorman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cyndi Poorman
+cn: Poorman
+givenname: Cyndi
+mail: cyndi.poorman@planetexpress.com
+userPassword: Cyndi
+ou: Group5
+uid: 3088
+ Q==

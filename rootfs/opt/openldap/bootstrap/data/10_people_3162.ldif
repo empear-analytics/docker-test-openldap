@@ -1,0 +1,13 @@
+dn: cn=Ariane+sn=Arelleano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ariane Arelleano
+cn: Arelleano
+givenname: Ariane
+mail: ariane.arelleano@planetexpress.com
+userPassword: Ariane
+ou: flight_crew
+uid: 3162
+ Q==

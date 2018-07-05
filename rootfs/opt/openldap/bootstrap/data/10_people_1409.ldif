@@ -1,0 +1,13 @@
+dn: cn=Carl+sn=Juel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carl Juel
+cn: Juel
+givenname: Carl
+mail: carl.juel@planetexpress.com
+userPassword: Carl
+ou: admin_staff
+uid: 1409
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Brunilda+sn=Hempel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brunilda Hempel
+cn: Hempel
+givenname: Brunilda
+mail: brunilda.hempel@planetexpress.com
+userPassword: Brunilda
+ou: Group5
+uid: 2307
+ Q==

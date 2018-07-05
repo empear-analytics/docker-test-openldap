@@ -1,0 +1,13 @@
+dn: cn=Kiesha+sn=Sodeman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kiesha Sodeman
+cn: Sodeman
+givenname: Kiesha
+mail: kiesha.sodeman@planetexpress.com
+userPassword: Kiesha
+ou: admin_staff
+uid: 2515
+ Q==

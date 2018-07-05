@@ -1,0 +1,13 @@
+dn: cn=Robbie+sn=Nino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Robbie Nino
+cn: Nino
+givenname: Robbie
+mail: robbie.nino@planetexpress.com
+userPassword: Robbie
+ou: Group5
+uid: 5668
+ Q==

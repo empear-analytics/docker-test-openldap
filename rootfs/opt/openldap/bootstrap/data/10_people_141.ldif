@@ -1,0 +1,13 @@
+dn: cn=Nathanial+sn=Spaw,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nathanial Spaw
+cn: Spaw
+givenname: Nathanial
+mail: nathanial.spaw@planetexpress.com
+userPassword: Nathanial
+ou: admin_staff
+uid: 141
+ Q==

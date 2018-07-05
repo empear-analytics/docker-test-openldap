@@ -1,0 +1,13 @@
+dn: cn=Marketta+sn=Teper,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marketta Teper
+cn: Teper
+givenname: Marketta
+mail: marketta.teper@planetexpress.com
+userPassword: Marketta
+ou: Group5
+uid: 4091
+ Q==

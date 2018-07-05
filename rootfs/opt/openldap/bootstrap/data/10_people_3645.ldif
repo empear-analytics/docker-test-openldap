@@ -1,0 +1,13 @@
+dn: cn=Fabiola+sn=Matkins,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fabiola Matkins
+cn: Matkins
+givenname: Fabiola
+mail: fabiola.matkins@planetexpress.com
+userPassword: Fabiola
+ou: Group5
+uid: 3645
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Wm+sn=Mak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wm Mak
+cn: Mak
+givenname: Wm
+mail: wm.mak@planetexpress.com
+userPassword: Wm
+ou: admin_staff
+uid: 1382
+ Q==

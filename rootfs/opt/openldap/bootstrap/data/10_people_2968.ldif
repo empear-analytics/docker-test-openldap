@@ -1,0 +1,13 @@
+dn: cn=Shanita+sn=Schwerdtfeger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shanita Schwerdtfeger
+cn: Schwerdtfeger
+givenname: Shanita
+mail: shanita.schwerdtfeger@planetexpress.com
+userPassword: Shanita
+ou: Group5
+uid: 2968
+ Q==

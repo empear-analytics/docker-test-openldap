@@ -1,0 +1,13 @@
+dn: cn=Marcy+sn=Kopke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marcy Kopke
+cn: Kopke
+givenname: Marcy
+mail: marcy.kopke@planetexpress.com
+userPassword: Marcy
+ou: Group5
+uid: 5119
+ Q==

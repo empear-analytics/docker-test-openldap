@@ -1,0 +1,13 @@
+dn: cn=Iesha+sn=Jank,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Iesha Jank
+cn: Jank
+givenname: Iesha
+mail: iesha.jank@planetexpress.com
+userPassword: Iesha
+ou: Group5
+uid: 1493
+ Q==

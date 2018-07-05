@@ -1,0 +1,13 @@
+dn: cn=Yuko+sn=Kendall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yuko Kendall
+cn: Kendall
+givenname: Yuko
+mail: yuko.kendall@planetexpress.com
+userPassword: Yuko
+ou: OtherGroup
+uid: 3142
+ Q==

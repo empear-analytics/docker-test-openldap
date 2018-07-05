@@ -1,0 +1,13 @@
+dn: cn=Maynard+sn=Badey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maynard Badey
+cn: Badey
+givenname: Maynard
+mail: maynard.badey@planetexpress.com
+userPassword: Maynard
+ou: flight_crew
+uid: 5285
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Oscar+sn=Athalone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Oscar Athalone
+cn: Athalone
+givenname: Oscar
+mail: oscar.athalone@planetexpress.com
+userPassword: Oscar
+ou: admin_staff
+uid: 2966
+ Q==

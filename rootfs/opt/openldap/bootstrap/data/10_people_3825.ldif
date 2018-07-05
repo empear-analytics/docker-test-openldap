@@ -1,0 +1,13 @@
+dn: cn=Melina+sn=Corbett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melina Corbett
+cn: Corbett
+givenname: Melina
+mail: melina.corbett@planetexpress.com
+userPassword: Melina
+ou: admin_staff
+uid: 3825
+ Q==

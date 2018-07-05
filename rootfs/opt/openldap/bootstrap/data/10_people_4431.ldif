@@ -1,0 +1,13 @@
+dn: cn=Lonna+sn=Bradeen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lonna Bradeen
+cn: Bradeen
+givenname: Lonna
+mail: lonna.bradeen@planetexpress.com
+userPassword: Lonna
+ou: Group5
+uid: 4431
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Cleotilde+sn=Vieux,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cleotilde Vieux
+cn: Vieux
+givenname: Cleotilde
+mail: cleotilde.vieux@planetexpress.com
+userPassword: Cleotilde
+ou: Group5
+uid: 4812
+ Q==

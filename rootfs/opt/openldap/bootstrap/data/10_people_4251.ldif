@@ -1,0 +1,13 @@
+dn: cn=Pam+sn=Khosravi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pam Khosravi
+cn: Khosravi
+givenname: Pam
+mail: pam.khosravi@planetexpress.com
+userPassword: Pam
+ou: admin_staff
+uid: 4251
+ Q==

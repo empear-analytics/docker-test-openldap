@@ -1,0 +1,13 @@
+dn: cn=Alphonse+sn=Bularz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alphonse Bularz
+cn: Bularz
+givenname: Alphonse
+mail: alphonse.bularz@planetexpress.com
+userPassword: Alphonse
+ou: OtherGroup
+uid: 4577
+ Q==

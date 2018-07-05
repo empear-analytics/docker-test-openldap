@@ -1,0 +1,13 @@
+dn: cn=Hai+sn=Caterina,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hai Caterina
+cn: Caterina
+givenname: Hai
+mail: hai.caterina@planetexpress.com
+userPassword: Hai
+ou: Group5
+uid: 591
+ Q==

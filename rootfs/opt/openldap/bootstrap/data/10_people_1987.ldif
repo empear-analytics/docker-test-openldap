@@ -1,0 +1,13 @@
+dn: cn=Aimee+sn=Donaghy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aimee Donaghy
+cn: Donaghy
+givenname: Aimee
+mail: aimee.donaghy@planetexpress.com
+userPassword: Aimee
+ou: OtherGroup
+uid: 1987
+ Q==

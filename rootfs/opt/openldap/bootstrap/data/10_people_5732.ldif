@@ -1,0 +1,13 @@
+dn: cn=Tatyana+sn=Ogston,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tatyana Ogston
+cn: Ogston
+givenname: Tatyana
+mail: tatyana.ogston@planetexpress.com
+userPassword: Tatyana
+ou: flight_crew
+uid: 5732
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Dusti+sn=Molino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dusti Molino
+cn: Molino
+givenname: Dusti
+mail: dusti.molino@planetexpress.com
+userPassword: Dusti
+ou: OtherGroup
+uid: 5996
+ Q==

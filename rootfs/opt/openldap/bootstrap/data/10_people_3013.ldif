@@ -1,0 +1,13 @@
+dn: cn=Yesenia+sn=Masini,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yesenia Masini
+cn: Masini
+givenname: Yesenia
+mail: yesenia.masini@planetexpress.com
+userPassword: Yesenia
+ou: flight_crew
+uid: 3013
+ Q==

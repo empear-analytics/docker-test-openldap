@@ -1,0 +1,13 @@
+dn: cn=Cody+sn=Wedige,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cody Wedige
+cn: Wedige
+givenname: Cody
+mail: cody.wedige@planetexpress.com
+userPassword: Cody
+ou: Group5
+uid: 657
+ Q==

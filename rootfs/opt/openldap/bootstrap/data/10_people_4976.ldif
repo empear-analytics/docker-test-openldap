@@ -1,0 +1,13 @@
+dn: cn=Conrad+sn=Ferrett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Conrad Ferrett
+cn: Ferrett
+givenname: Conrad
+mail: conrad.ferrett@planetexpress.com
+userPassword: Conrad
+ou: admin_staff
+uid: 4976
+ Q==

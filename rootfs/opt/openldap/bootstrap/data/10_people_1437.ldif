@@ -1,0 +1,13 @@
+dn: cn=Vanessa+sn=Maclachlan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vanessa Maclachlan
+cn: Maclachlan
+givenname: Vanessa
+mail: vanessa.maclachlan@planetexpress.com
+userPassword: Vanessa
+ou: flight_crew
+uid: 1437
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Dolly+sn=Reamy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dolly Reamy
+cn: Reamy
+givenname: Dolly
+mail: dolly.reamy@planetexpress.com
+userPassword: Dolly
+ou: admin_staff
+uid: 5455
+ Q==

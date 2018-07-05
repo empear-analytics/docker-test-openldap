@@ -1,0 +1,13 @@
+dn: cn=Dawne+sn=Figaro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dawne Figaro
+cn: Figaro
+givenname: Dawne
+mail: dawne.figaro@planetexpress.com
+userPassword: Dawne
+ou: flight_crew
+uid: 1620
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lakeisha+sn=Liebeck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lakeisha Liebeck
+cn: Liebeck
+givenname: Lakeisha
+mail: lakeisha.liebeck@planetexpress.com
+userPassword: Lakeisha
+ou: flight_crew
+uid: 3228
+ Q==

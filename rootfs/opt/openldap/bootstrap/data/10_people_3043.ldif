@@ -1,0 +1,13 @@
+dn: cn=Markus+sn=Buzick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Markus Buzick
+cn: Buzick
+givenname: Markus
+mail: markus.buzick@planetexpress.com
+userPassword: Markus
+ou: OtherGroup
+uid: 3043
+ Q==

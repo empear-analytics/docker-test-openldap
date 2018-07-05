@@ -1,0 +1,13 @@
+dn: cn=Ashlyn+sn=Geryol,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ashlyn Geryol
+cn: Geryol
+givenname: Ashlyn
+mail: ashlyn.geryol@planetexpress.com
+userPassword: Ashlyn
+ou: flight_crew
+uid: 1858
+ Q==

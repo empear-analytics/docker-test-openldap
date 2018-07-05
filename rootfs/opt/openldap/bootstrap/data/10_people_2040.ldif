@@ -1,0 +1,13 @@
+dn: cn=Charlie+sn=Qin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charlie Qin
+cn: Qin
+givenname: Charlie
+mail: charlie.qin@planetexpress.com
+userPassword: Charlie
+ou: OtherGroup
+uid: 2040
+ Q==
