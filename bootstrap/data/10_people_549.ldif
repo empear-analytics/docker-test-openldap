@@ -1,0 +1,13 @@
+dn: cn=Clayton+sn=Barbare,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clayton Barbare
+cn: Barbare
+givenname: Clayton
+mail: clayton.barbare@planetexpress.com
+userPassword: Clayton
+ou: Group5
+uid: 549
+ Q==

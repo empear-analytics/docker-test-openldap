@@ -1,0 +1,13 @@
+dn: cn=Kraig+sn=Olay,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kraig Olay
+cn: Olay
+givenname: Kraig
+mail: kraig.olay@planetexpress.com
+userPassword: Kraig
+ou: Group5
+uid: 607
+ Q==

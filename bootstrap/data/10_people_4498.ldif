@@ -1,0 +1,13 @@
+dn: cn=Carlyn+sn=Acuff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carlyn Acuff
+cn: Acuff
+givenname: Carlyn
+mail: carlyn.acuff@planetexpress.com
+userPassword: Carlyn
+ou: flight_crew
+uid: 4498
+ Q==

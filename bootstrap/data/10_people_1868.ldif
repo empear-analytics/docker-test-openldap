@@ -1,0 +1,13 @@
+dn: cn=Beula+sn=Younie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beula Younie
+cn: Younie
+givenname: Beula
+mail: beula.younie@planetexpress.com
+userPassword: Beula
+ou: OtherGroup
+uid: 1868
+ Q==

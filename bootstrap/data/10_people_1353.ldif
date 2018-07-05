@@ -1,0 +1,13 @@
+dn: cn=Nicky+sn=Ihnat,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nicky Ihnat
+cn: Ihnat
+givenname: Nicky
+mail: nicky.ihnat@planetexpress.com
+userPassword: Nicky
+ou: Group5
+uid: 1353
+ Q==

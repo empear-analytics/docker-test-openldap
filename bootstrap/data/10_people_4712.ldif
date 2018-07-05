@@ -1,0 +1,13 @@
+dn: cn=Mariel+sn=Finucane,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mariel Finucane
+cn: Finucane
+givenname: Mariel
+mail: mariel.finucane@planetexpress.com
+userPassword: Mariel
+ou: flight_crew
+uid: 4712
+ Q==

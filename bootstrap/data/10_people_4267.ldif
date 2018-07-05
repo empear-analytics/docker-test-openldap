@@ -1,0 +1,13 @@
+dn: cn=Lashawnda+sn=Debiase,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lashawnda Debiase
+cn: Debiase
+givenname: Lashawnda
+mail: lashawnda.debiase@planetexpress.com
+userPassword: Lashawnda
+ou: OtherGroup
+uid: 4267
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tracy+sn=Lupercio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tracy Lupercio
+cn: Lupercio
+givenname: Tracy
+mail: tracy.lupercio@planetexpress.com
+userPassword: Tracy
+ou: OtherGroup
+uid: 3871
+ Q==

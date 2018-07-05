@@ -1,0 +1,13 @@
+dn: cn=Gigi+sn=Style,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gigi Style
+cn: Style
+givenname: Gigi
+mail: gigi.style@planetexpress.com
+userPassword: Gigi
+ou: admin_staff
+uid: 3534
+ Q==

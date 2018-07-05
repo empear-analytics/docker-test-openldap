@@ -1,0 +1,13 @@
+dn: cn=Ron+sn=Passaro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ron Passaro
+cn: Passaro
+givenname: Ron
+mail: ron.passaro@planetexpress.com
+userPassword: Ron
+ou: flight_crew
+uid: 3742
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Eleanor+sn=Hovanesian,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eleanor Hovanesian
+cn: Hovanesian
+givenname: Eleanor
+mail: eleanor.hovanesian@planetexpress.com
+userPassword: Eleanor
+ou: OtherGroup
+uid: 4685
+ Q==

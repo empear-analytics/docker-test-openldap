@@ -1,0 +1,13 @@
+dn: cn=Danyelle+sn=Rovell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Danyelle Rovell
+cn: Rovell
+givenname: Danyelle
+mail: danyelle.rovell@planetexpress.com
+userPassword: Danyelle
+ou: flight_crew
+uid: 3734
+ Q==

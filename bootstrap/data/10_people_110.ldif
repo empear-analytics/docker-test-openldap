@@ -1,0 +1,13 @@
+dn: cn=Christia+sn=Ochakovsky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christia Ochakovsky
+cn: Ochakovsky
+givenname: Christia
+mail: christia.ochakovsky@planetexpress.com
+userPassword: Christia
+ou: flight_crew
+uid: 110
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Signe+sn=Buechel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Signe Buechel
+cn: Buechel
+givenname: Signe
+mail: signe.buechel@planetexpress.com
+userPassword: Signe
+ou: OtherGroup
+uid: 111
+ Q==

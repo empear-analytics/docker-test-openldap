@@ -1,0 +1,13 @@
+dn: cn=Alexis+sn=Frames,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alexis Frames
+cn: Frames
+givenname: Alexis
+mail: alexis.frames@planetexpress.com
+userPassword: Alexis
+ou: OtherGroup
+uid: 5653
+ Q==

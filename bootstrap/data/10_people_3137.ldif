@@ -1,0 +1,13 @@
+dn: cn=Corey+sn=Angelillo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Corey Angelillo
+cn: Angelillo
+givenname: Corey
+mail: corey.angelillo@planetexpress.com
+userPassword: Corey
+ou: Group5
+uid: 3137
+ Q==

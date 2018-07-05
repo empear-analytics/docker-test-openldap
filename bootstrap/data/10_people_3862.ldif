@@ -1,0 +1,13 @@
+dn: cn=Clarice+sn=Feery,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clarice Feery
+cn: Feery
+givenname: Clarice
+mail: clarice.feery@planetexpress.com
+userPassword: Clarice
+ou: OtherGroup
+uid: 3862
+ Q==

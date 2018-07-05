@@ -1,0 +1,13 @@
+dn: cn=Kimberlee+sn=Kendal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kimberlee Kendal
+cn: Kendal
+givenname: Kimberlee
+mail: kimberlee.kendal@planetexpress.com
+userPassword: Kimberlee
+ou: flight_crew
+uid: 1526
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kory+sn=Poledore,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kory Poledore
+cn: Poledore
+givenname: Kory
+mail: kory.poledore@planetexpress.com
+userPassword: Kory
+ou: flight_crew
+uid: 3658
+ Q==

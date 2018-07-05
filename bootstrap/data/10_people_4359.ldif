@@ -1,0 +1,13 @@
+dn: cn=Lou+sn=Henscheid,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lou Henscheid
+cn: Henscheid
+givenname: Lou
+mail: lou.henscheid@planetexpress.com
+userPassword: Lou
+ou: flight_crew
+uid: 4359
+ Q==

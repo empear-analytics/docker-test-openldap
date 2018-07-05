@@ -1,0 +1,13 @@
+dn: cn=Ranee+sn=Quigley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ranee Quigley
+cn: Quigley
+givenname: Ranee
+mail: ranee.quigley@planetexpress.com
+userPassword: Ranee
+ou: admin_staff
+uid: 865
+ Q==

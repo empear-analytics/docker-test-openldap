@@ -1,0 +1,13 @@
+dn: cn=Dottie+sn=Hollerud,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dottie Hollerud
+cn: Hollerud
+givenname: Dottie
+mail: dottie.hollerud@planetexpress.com
+userPassword: Dottie
+ou: OtherGroup
+uid: 5521
+ Q==

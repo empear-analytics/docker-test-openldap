@@ -1,0 +1,13 @@
+dn: cn=Otelia+sn=Peralez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Otelia Peralez
+cn: Peralez
+givenname: Otelia
+mail: otelia.peralez@planetexpress.com
+userPassword: Otelia
+ou: Group5
+uid: 1483
+ Q==

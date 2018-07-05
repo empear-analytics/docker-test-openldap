@@ -1,0 +1,13 @@
+dn: cn=Anisa+sn=Donatien,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anisa Donatien
+cn: Donatien
+givenname: Anisa
+mail: anisa.donatien@planetexpress.com
+userPassword: Anisa
+ou: flight_crew
+uid: 4960
+ Q==

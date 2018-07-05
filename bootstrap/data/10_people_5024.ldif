@@ -1,0 +1,13 @@
+dn: cn=Walter+sn=Lesches,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Walter Lesches
+cn: Lesches
+givenname: Walter
+mail: walter.lesches@planetexpress.com
+userPassword: Walter
+ou: OtherGroup
+uid: 5024
+ Q==

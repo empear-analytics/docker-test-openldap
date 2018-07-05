@@ -1,0 +1,13 @@
+dn: cn=Seth+sn=Redenius,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Seth Redenius
+cn: Redenius
+givenname: Seth
+mail: seth.redenius@planetexpress.com
+userPassword: Seth
+ou: OtherGroup
+uid: 3677
+ Q==

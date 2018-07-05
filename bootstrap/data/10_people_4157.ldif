@@ -1,0 +1,13 @@
+dn: cn=Rico+sn=Bolfa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rico Bolfa
+cn: Bolfa
+givenname: Rico
+mail: rico.bolfa@planetexpress.com
+userPassword: Rico
+ou: OtherGroup
+uid: 4157
+ Q==

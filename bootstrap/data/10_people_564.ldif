@@ -1,0 +1,13 @@
+dn: cn=Patrick+sn=Tille,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Patrick Tille
+cn: Tille
+givenname: Patrick
+mail: patrick.tille@planetexpress.com
+userPassword: Patrick
+ou: flight_crew
+uid: 564
+ Q==

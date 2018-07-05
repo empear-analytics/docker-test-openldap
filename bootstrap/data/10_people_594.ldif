@@ -1,0 +1,13 @@
+dn: cn=Edwin+sn=Getzschman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edwin Getzschman
+cn: Getzschman
+givenname: Edwin
+mail: edwin.getzschman@planetexpress.com
+userPassword: Edwin
+ou: Group5
+uid: 594
+ Q==

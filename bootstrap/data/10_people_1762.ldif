@@ -1,0 +1,13 @@
+dn: cn=Nenita+sn=Cranston,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nenita Cranston
+cn: Cranston
+givenname: Nenita
+mail: nenita.cranston@planetexpress.com
+userPassword: Nenita
+ou: flight_crew
+uid: 1762
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tia+sn=Gitting,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tia Gitting
+cn: Gitting
+givenname: Tia
+mail: tia.gitting@planetexpress.com
+userPassword: Tia
+ou: admin_staff
+uid: 866
+ Q==

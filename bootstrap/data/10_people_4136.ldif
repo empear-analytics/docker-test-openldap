@@ -1,0 +1,13 @@
+dn: cn=Thi+sn=Medick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thi Medick
+cn: Medick
+givenname: Thi
+mail: thi.medick@planetexpress.com
+userPassword: Thi
+ou: Group5
+uid: 4136
+ Q==

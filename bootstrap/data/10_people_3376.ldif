@@ -1,0 +1,13 @@
+dn: cn=Lawrence+sn=Specken,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lawrence Specken
+cn: Specken
+givenname: Lawrence
+mail: lawrence.specken@planetexpress.com
+userPassword: Lawrence
+ou: admin_staff
+uid: 3376
+ Q==

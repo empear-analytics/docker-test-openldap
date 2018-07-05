@@ -1,0 +1,13 @@
+dn: cn=Joeann+sn=Rivie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joeann Rivie
+cn: Rivie
+givenname: Joeann
+mail: joeann.rivie@planetexpress.com
+userPassword: Joeann
+ou: OtherGroup
+uid: 875
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lacey+sn=Marzili,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lacey Marzili
+cn: Marzili
+givenname: Lacey
+mail: lacey.marzili@planetexpress.com
+userPassword: Lacey
+ou: flight_crew
+uid: 1403
+ Q==

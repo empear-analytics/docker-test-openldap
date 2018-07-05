@@ -1,0 +1,13 @@
+dn: cn=Rosa+sn=Outen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosa Outen
+cn: Outen
+givenname: Rosa
+mail: rosa.outen@planetexpress.com
+userPassword: Rosa
+ou: flight_crew
+uid: 2649
+ Q==

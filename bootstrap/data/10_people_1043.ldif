@@ -1,0 +1,13 @@
+dn: cn=Randi+sn=Rubinoff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Randi Rubinoff
+cn: Rubinoff
+givenname: Randi
+mail: randi.rubinoff@planetexpress.com
+userPassword: Randi
+ou: Group5
+uid: 1043
+ Q==

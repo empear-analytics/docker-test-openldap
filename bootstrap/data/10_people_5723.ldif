@@ -1,0 +1,13 @@
+dn: cn=Lita+sn=Balensiefen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lita Balensiefen
+cn: Balensiefen
+givenname: Lita
+mail: lita.balensiefen@planetexpress.com
+userPassword: Lita
+ou: OtherGroup
+uid: 5723
+ Q==

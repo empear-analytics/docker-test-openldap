@@ -1,0 +1,13 @@
+dn: cn=Nikia+sn=Bridegroom,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nikia Bridegroom
+cn: Bridegroom
+givenname: Nikia
+mail: nikia.bridegroom@planetexpress.com
+userPassword: Nikia
+ou: flight_crew
+uid: 1495
+ Q==

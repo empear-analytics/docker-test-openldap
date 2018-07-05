@@ -1,0 +1,13 @@
+dn: cn=Cecelia+sn=Bares,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cecelia Bares
+cn: Bares
+givenname: Cecelia
+mail: cecelia.bares@planetexpress.com
+userPassword: Cecelia
+ou: OtherGroup
+uid: 1506
+ Q==

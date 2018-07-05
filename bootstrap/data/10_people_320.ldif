@@ -1,0 +1,13 @@
+dn: cn=Jeneva+sn=Gerrald,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeneva Gerrald
+cn: Gerrald
+givenname: Jeneva
+mail: jeneva.gerrald@planetexpress.com
+userPassword: Jeneva
+ou: Group5
+uid: 320
+ Q==

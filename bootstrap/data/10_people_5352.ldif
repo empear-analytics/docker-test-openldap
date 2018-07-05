@@ -1,0 +1,13 @@
+dn: cn=Carolyn+sn=Marchesi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carolyn Marchesi
+cn: Marchesi
+givenname: Carolyn
+mail: carolyn.marchesi@planetexpress.com
+userPassword: Carolyn
+ou: OtherGroup
+uid: 5352
+ Q==

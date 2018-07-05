@@ -1,0 +1,13 @@
+dn: cn=Chandra+sn=Polzin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chandra Polzin
+cn: Polzin
+givenname: Chandra
+mail: chandra.polzin@planetexpress.com
+userPassword: Chandra
+ou: OtherGroup
+uid: 3789
+ Q==

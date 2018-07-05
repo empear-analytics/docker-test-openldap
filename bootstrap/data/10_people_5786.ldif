@@ -1,0 +1,13 @@
+dn: cn=Rubin+sn=Alloway,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rubin Alloway
+cn: Alloway
+givenname: Rubin
+mail: rubin.alloway@planetexpress.com
+userPassword: Rubin
+ou: OtherGroup
+uid: 5786
+ Q==

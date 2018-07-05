@@ -1,0 +1,13 @@
+dn: cn=Delsie+sn=Manvelyan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delsie Manvelyan
+cn: Manvelyan
+givenname: Delsie
+mail: delsie.manvelyan@planetexpress.com
+userPassword: Delsie
+ou: Group5
+uid: 5607
+ Q==

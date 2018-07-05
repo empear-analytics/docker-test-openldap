@@ -1,0 +1,13 @@
+dn: cn=Alla+sn=Strassberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alla Strassberg
+cn: Strassberg
+givenname: Alla
+mail: alla.strassberg@planetexpress.com
+userPassword: Alla
+ou: admin_staff
+uid: 1012
+ Q==

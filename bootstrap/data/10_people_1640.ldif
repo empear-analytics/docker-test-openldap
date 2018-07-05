@@ -1,0 +1,13 @@
+dn: cn=Kurt+sn=Leinbach,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kurt Leinbach
+cn: Leinbach
+givenname: Kurt
+mail: kurt.leinbach@planetexpress.com
+userPassword: Kurt
+ou: flight_crew
+uid: 1640
+ Q==

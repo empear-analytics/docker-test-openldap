@@ -1,0 +1,13 @@
+dn: cn=Aleta+sn=Cracchiolo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aleta Cracchiolo
+cn: Cracchiolo
+givenname: Aleta
+mail: aleta.cracchiolo@planetexpress.com
+userPassword: Aleta
+ou: admin_staff
+uid: 5750
+ Q==

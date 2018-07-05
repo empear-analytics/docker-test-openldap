@@ -1,0 +1,13 @@
+dn: cn=Julieta+sn=Knutt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Julieta Knutt
+cn: Knutt
+givenname: Julieta
+mail: julieta.knutt@planetexpress.com
+userPassword: Julieta
+ou: Group5
+uid: 2931
+ Q==

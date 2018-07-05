@@ -1,0 +1,13 @@
+dn: cn=Nancey+sn=Zanueta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nancey Zanueta
+cn: Zanueta
+givenname: Nancey
+mail: nancey.zanueta@planetexpress.com
+userPassword: Nancey
+ou: OtherGroup
+uid: 1943
+ Q==

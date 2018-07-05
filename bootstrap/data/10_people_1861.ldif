@@ -1,0 +1,13 @@
+dn: cn=Bari+sn=Guziec,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bari Guziec
+cn: Guziec
+givenname: Bari
+mail: bari.guziec@planetexpress.com
+userPassword: Bari
+ou: Group5
+uid: 1861
+ Q==

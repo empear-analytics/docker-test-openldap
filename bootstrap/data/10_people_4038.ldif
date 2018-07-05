@@ -1,0 +1,13 @@
+dn: cn=Stephany+sn=Lover,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stephany Lover
+cn: Lover
+givenname: Stephany
+mail: stephany.lover@planetexpress.com
+userPassword: Stephany
+ou: OtherGroup
+uid: 4038
+ Q==

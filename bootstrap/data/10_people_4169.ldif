@@ -1,0 +1,13 @@
+dn: cn=Francine+sn=Balbi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Francine Balbi
+cn: Balbi
+givenname: Francine
+mail: francine.balbi@planetexpress.com
+userPassword: Francine
+ou: Group5
+uid: 4169
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ying+sn=Zagacki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ying Zagacki
+cn: Zagacki
+givenname: Ying
+mail: ying.zagacki@planetexpress.com
+userPassword: Ying
+ou: admin_staff
+uid: 543
+ Q==

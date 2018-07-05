@@ -1,0 +1,13 @@
+dn: cn=Jaimee+sn=Gutman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jaimee Gutman
+cn: Gutman
+givenname: Jaimee
+mail: jaimee.gutman@planetexpress.com
+userPassword: Jaimee
+ou: OtherGroup
+uid: 4264
+ Q==

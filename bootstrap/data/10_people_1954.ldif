@@ -1,0 +1,13 @@
+dn: cn=Amee+sn=Lowis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Amee Lowis
+cn: Lowis
+givenname: Amee
+mail: amee.lowis@planetexpress.com
+userPassword: Amee
+ou: OtherGroup
+uid: 1954
+ Q==

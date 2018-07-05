@@ -1,0 +1,13 @@
+dn: cn=Leonore+sn=Klepfer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leonore Klepfer
+cn: Klepfer
+givenname: Leonore
+mail: leonore.klepfer@planetexpress.com
+userPassword: Leonore
+ou: OtherGroup
+uid: 744
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Millard+sn=Puglia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Millard Puglia
+cn: Puglia
+givenname: Millard
+mail: millard.puglia@planetexpress.com
+userPassword: Millard
+ou: admin_staff
+uid: 2858
+ Q==

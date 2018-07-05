@@ -1,0 +1,13 @@
+dn: cn=Fermina+sn=Froemming,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fermina Froemming
+cn: Froemming
+givenname: Fermina
+mail: fermina.froemming@planetexpress.com
+userPassword: Fermina
+ou: OtherGroup
+uid: 135
+ Q==

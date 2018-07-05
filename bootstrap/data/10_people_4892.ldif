@@ -1,0 +1,13 @@
+dn: cn=Ward+sn=Zummo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ward Zummo
+cn: Zummo
+givenname: Ward
+mail: ward.zummo@planetexpress.com
+userPassword: Ward
+ou: OtherGroup
+uid: 4892
+ Q==

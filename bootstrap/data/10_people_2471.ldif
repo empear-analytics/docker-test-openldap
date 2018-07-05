@@ -1,0 +1,13 @@
+dn: cn=Myong+sn=Branson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Myong Branson
+cn: Branson
+givenname: Myong
+mail: myong.branson@planetexpress.com
+userPassword: Myong
+ou: OtherGroup
+uid: 2471
+ Q==

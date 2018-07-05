@@ -1,0 +1,13 @@
+dn: cn=Rueben+sn=Degagne,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rueben Degagne
+cn: Degagne
+givenname: Rueben
+mail: rueben.degagne@planetexpress.com
+userPassword: Rueben
+ou: admin_staff
+uid: 5508
+ Q==

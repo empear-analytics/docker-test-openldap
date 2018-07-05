@@ -1,0 +1,13 @@
+dn: cn=Clint+sn=Mcalpin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clint Mcalpin
+cn: Mcalpin
+givenname: Clint
+mail: clint.mcalpin@planetexpress.com
+userPassword: Clint
+ou: admin_staff
+uid: 5334
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lourdes+sn=Harewood,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lourdes Harewood
+cn: Harewood
+givenname: Lourdes
+mail: lourdes.harewood@planetexpress.com
+userPassword: Lourdes
+ou: OtherGroup
+uid: 3366
+ Q==

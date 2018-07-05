@@ -1,0 +1,13 @@
+dn: cn=Wes+sn=Merchen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wes Merchen
+cn: Merchen
+givenname: Wes
+mail: wes.merchen@planetexpress.com
+userPassword: Wes
+ou: flight_crew
+uid: 4248
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Barry+sn=Delisle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Barry Delisle
+cn: Delisle
+givenname: Barry
+mail: barry.delisle@planetexpress.com
+userPassword: Barry
+ou: flight_crew
+uid: 1106
+ Q==

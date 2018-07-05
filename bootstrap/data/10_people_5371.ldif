@@ -1,0 +1,13 @@
+dn: cn=Gary+sn=Jackels,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gary Jackels
+cn: Jackels
+givenname: Gary
+mail: gary.jackels@planetexpress.com
+userPassword: Gary
+ou: admin_staff
+uid: 5371
+ Q==

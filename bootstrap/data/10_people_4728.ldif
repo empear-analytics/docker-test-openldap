@@ -1,0 +1,13 @@
+dn: cn=Ingeborg+sn=Fehringer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ingeborg Fehringer
+cn: Fehringer
+givenname: Ingeborg
+mail: ingeborg.fehringer@planetexpress.com
+userPassword: Ingeborg
+ou: admin_staff
+uid: 4728
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kathie+sn=Hermes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kathie Hermes
+cn: Hermes
+givenname: Kathie
+mail: kathie.hermes@planetexpress.com
+userPassword: Kathie
+ou: Group5
+uid: 56
+ Q==

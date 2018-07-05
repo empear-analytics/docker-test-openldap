@@ -1,0 +1,13 @@
+dn: cn=Audry+sn=Nuckles,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Audry Nuckles
+cn: Nuckles
+givenname: Audry
+mail: audry.nuckles@planetexpress.com
+userPassword: Audry
+ou: Group5
+uid: 3256
+ Q==

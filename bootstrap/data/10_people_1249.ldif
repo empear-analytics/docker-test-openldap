@@ -1,0 +1,13 @@
+dn: cn=Alyse+sn=Stieff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alyse Stieff
+cn: Stieff
+givenname: Alyse
+mail: alyse.stieff@planetexpress.com
+userPassword: Alyse
+ou: flight_crew
+uid: 1249
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Rana+sn=Coopper,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rana Coopper
+cn: Coopper
+givenname: Rana
+mail: rana.coopper@planetexpress.com
+userPassword: Rana
+ou: admin_staff
+uid: 677
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Janel+sn=Cominsky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janel Cominsky
+cn: Cominsky
+givenname: Janel
+mail: janel.cominsky@planetexpress.com
+userPassword: Janel
+ou: flight_crew
+uid: 3930
+ Q==

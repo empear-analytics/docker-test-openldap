@@ -1,0 +1,13 @@
+dn: cn=Pasquale+sn=Cartier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pasquale Cartier
+cn: Cartier
+givenname: Pasquale
+mail: pasquale.cartier@planetexpress.com
+userPassword: Pasquale
+ou: Group5
+uid: 4953
+ Q==

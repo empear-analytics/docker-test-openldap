@@ -1,0 +1,13 @@
+dn: cn=Dotty+sn=Hottle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dotty Hottle
+cn: Hottle
+givenname: Dotty
+mail: dotty.hottle@planetexpress.com
+userPassword: Dotty
+ou: OtherGroup
+uid: 5589
+ Q==

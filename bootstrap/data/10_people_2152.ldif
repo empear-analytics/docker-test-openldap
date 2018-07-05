@@ -1,0 +1,13 @@
+dn: cn=Velma+sn=Winkles,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Velma Winkles
+cn: Winkles
+givenname: Velma
+mail: velma.winkles@planetexpress.com
+userPassword: Velma
+ou: Group5
+uid: 2152
+ Q==

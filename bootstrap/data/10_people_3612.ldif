@@ -1,0 +1,13 @@
+dn: cn=Fritz+sn=Bartkiewicz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fritz Bartkiewicz
+cn: Bartkiewicz
+givenname: Fritz
+mail: fritz.bartkiewicz@planetexpress.com
+userPassword: Fritz
+ou: Group5
+uid: 3612
+ Q==

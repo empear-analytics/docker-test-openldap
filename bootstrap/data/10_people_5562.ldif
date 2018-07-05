@@ -1,0 +1,13 @@
+dn: cn=Bridgett+sn=Martt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bridgett Martt
+cn: Martt
+givenname: Bridgett
+mail: bridgett.martt@planetexpress.com
+userPassword: Bridgett
+ou: OtherGroup
+uid: 5562
+ Q==

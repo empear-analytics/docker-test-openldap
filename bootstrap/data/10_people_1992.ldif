@@ -1,0 +1,13 @@
+dn: cn=Timmy+sn=Malmgren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Timmy Malmgren
+cn: Malmgren
+givenname: Timmy
+mail: timmy.malmgren@planetexpress.com
+userPassword: Timmy
+ou: admin_staff
+uid: 1992
+ Q==

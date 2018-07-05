@@ -1,0 +1,13 @@
+dn: cn=Elidia+sn=Damme,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elidia Damme
+cn: Damme
+givenname: Elidia
+mail: elidia.damme@planetexpress.com
+userPassword: Elidia
+ou: OtherGroup
+uid: 1859
+ Q==

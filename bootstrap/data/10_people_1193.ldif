@@ -1,0 +1,13 @@
+dn: cn=Lucas+sn=Reimer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lucas Reimer
+cn: Reimer
+givenname: Lucas
+mail: lucas.reimer@planetexpress.com
+userPassword: Lucas
+ou: flight_crew
+uid: 1193
+ Q==

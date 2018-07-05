@@ -1,0 +1,13 @@
+dn: cn=Josefa+sn=Stropus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Josefa Stropus
+cn: Stropus
+givenname: Josefa
+mail: josefa.stropus@planetexpress.com
+userPassword: Josefa
+ou: OtherGroup
+uid: 5709
+ Q==

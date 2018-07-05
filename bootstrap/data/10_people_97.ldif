@@ -1,0 +1,13 @@
+dn: cn=Patience+sn=Hakeem,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Patience Hakeem
+cn: Hakeem
+givenname: Patience
+mail: patience.hakeem@planetexpress.com
+userPassword: Patience
+ou: flight_crew
+uid: 97
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Israel+sn=Scarano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Israel Scarano
+cn: Scarano
+givenname: Israel
+mail: israel.scarano@planetexpress.com
+userPassword: Israel
+ou: flight_crew
+uid: 3571
+ Q==

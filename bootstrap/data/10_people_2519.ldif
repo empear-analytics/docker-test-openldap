@@ -1,0 +1,13 @@
+dn: cn=Yen+sn=Brimm,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yen Brimm
+cn: Brimm
+givenname: Yen
+mail: yen.brimm@planetexpress.com
+userPassword: Yen
+ou: OtherGroup
+uid: 2519
+ Q==

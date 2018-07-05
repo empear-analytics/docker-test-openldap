@@ -1,0 +1,13 @@
+dn: cn=Jesus+sn=Lingbeck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jesus Lingbeck
+cn: Lingbeck
+givenname: Jesus
+mail: jesus.lingbeck@planetexpress.com
+userPassword: Jesus
+ou: flight_crew
+uid: 2060
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Susann+sn=Hauptman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Susann Hauptman
+cn: Hauptman
+givenname: Susann
+mail: susann.hauptman@planetexpress.com
+userPassword: Susann
+ou: OtherGroup
+uid: 480
+ Q==

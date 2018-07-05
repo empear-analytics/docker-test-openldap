@@ -1,0 +1,13 @@
+dn: cn=Kory+sn=Isla,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kory Isla
+cn: Isla
+givenname: Kory
+mail: kory.isla@planetexpress.com
+userPassword: Kory
+ou: flight_crew
+uid: 5500
+ Q==

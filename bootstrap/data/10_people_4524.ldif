@@ -1,0 +1,13 @@
+dn: cn=Rashida+sn=Lemucchi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rashida Lemucchi
+cn: Lemucchi
+givenname: Rashida
+mail: rashida.lemucchi@planetexpress.com
+userPassword: Rashida
+ou: Group5
+uid: 4524
+ Q==

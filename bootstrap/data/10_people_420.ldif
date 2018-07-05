@@ -1,0 +1,13 @@
+dn: cn=Lynne+sn=Vranes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lynne Vranes
+cn: Vranes
+givenname: Lynne
+mail: lynne.vranes@planetexpress.com
+userPassword: Lynne
+ou: Group5
+uid: 420
+ Q==

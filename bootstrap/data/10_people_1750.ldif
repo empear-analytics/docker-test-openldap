@@ -1,0 +1,13 @@
+dn: cn=Elfrieda+sn=Kanoa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elfrieda Kanoa
+cn: Kanoa
+givenname: Elfrieda
+mail: elfrieda.kanoa@planetexpress.com
+userPassword: Elfrieda
+ou: flight_crew
+uid: 1750
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Suzanna+sn=Demirchyan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Suzanna Demirchyan
+cn: Demirchyan
+givenname: Suzanna
+mail: suzanna.demirchyan@planetexpress.com
+userPassword: Suzanna
+ou: OtherGroup
+uid: 3984
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kourtney+sn=Ible,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kourtney Ible
+cn: Ible
+givenname: Kourtney
+mail: kourtney.ible@planetexpress.com
+userPassword: Kourtney
+ou: admin_staff
+uid: 2212
+ Q==

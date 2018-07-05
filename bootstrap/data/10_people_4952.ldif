@@ -1,0 +1,13 @@
+dn: cn=Ali+sn=Kenady,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ali Kenady
+cn: Kenady
+givenname: Ali
+mail: ali.kenady@planetexpress.com
+userPassword: Ali
+ou: flight_crew
+uid: 4952
+ Q==

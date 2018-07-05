@@ -1,0 +1,13 @@
+dn: cn=Christoper+sn=Gordo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christoper Gordo
+cn: Gordo
+givenname: Christoper
+mail: christoper.gordo@planetexpress.com
+userPassword: Christoper
+ou: Group5
+uid: 1355
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Estelle+sn=Bernardini,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Estelle Bernardini
+cn: Bernardini
+givenname: Estelle
+mail: estelle.bernardini@planetexpress.com
+userPassword: Estelle
+ou: Group5
+uid: 993
+ Q==

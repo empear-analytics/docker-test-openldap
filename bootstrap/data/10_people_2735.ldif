@@ -1,0 +1,13 @@
+dn: cn=Tegan+sn=Papaleo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tegan Papaleo
+cn: Papaleo
+givenname: Tegan
+mail: tegan.papaleo@planetexpress.com
+userPassword: Tegan
+ou: flight_crew
+uid: 2735
+ Q==

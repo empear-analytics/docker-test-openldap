@@ -1,0 +1,13 @@
+dn: cn=Tamesha+sn=Lakins,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tamesha Lakins
+cn: Lakins
+givenname: Tamesha
+mail: tamesha.lakins@planetexpress.com
+userPassword: Tamesha
+ou: OtherGroup
+uid: 1644
+ Q==

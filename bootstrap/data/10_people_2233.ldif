@@ -1,0 +1,13 @@
+dn: cn=Shawanda+sn=Bowditch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shawanda Bowditch
+cn: Bowditch
+givenname: Shawanda
+mail: shawanda.bowditch@planetexpress.com
+userPassword: Shawanda
+ou: flight_crew
+uid: 2233
+ Q==

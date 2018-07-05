@@ -1,0 +1,13 @@
+dn: cn=Shaquana+sn=Saris,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shaquana Saris
+cn: Saris
+givenname: Shaquana
+mail: shaquana.saris@planetexpress.com
+userPassword: Shaquana
+ou: Group5
+uid: 1057
+ Q==

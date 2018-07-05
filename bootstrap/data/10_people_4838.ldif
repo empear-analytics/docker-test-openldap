@@ -1,0 +1,13 @@
+dn: cn=Kelsi+sn=Commons,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kelsi Commons
+cn: Commons
+givenname: Kelsi
+mail: kelsi.commons@planetexpress.com
+userPassword: Kelsi
+ou: Group5
+uid: 4838
+ Q==

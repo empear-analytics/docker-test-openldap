@@ -1,0 +1,13 @@
+dn: cn=Gregoria+sn=Aures,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gregoria Aures
+cn: Aures
+givenname: Gregoria
+mail: gregoria.aures@planetexpress.com
+userPassword: Gregoria
+ou: flight_crew
+uid: 5586
+ Q==

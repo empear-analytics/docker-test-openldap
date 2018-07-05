@@ -1,0 +1,13 @@
+dn: cn=Berta+sn=Urbani,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Berta Urbani
+cn: Urbani
+givenname: Berta
+mail: berta.urbani@planetexpress.com
+userPassword: Berta
+ou: Group5
+uid: 3317
+ Q==

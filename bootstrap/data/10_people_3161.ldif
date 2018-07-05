@@ -1,0 +1,13 @@
+dn: cn=Shavon+sn=Pulcher,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shavon Pulcher
+cn: Pulcher
+givenname: Shavon
+mail: shavon.pulcher@planetexpress.com
+userPassword: Shavon
+ou: flight_crew
+uid: 3161
+ Q==

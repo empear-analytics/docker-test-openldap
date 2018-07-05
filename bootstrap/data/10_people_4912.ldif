@@ -1,0 +1,13 @@
+dn: cn=Jacqueline+sn=Hennighausen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacqueline Hennighausen
+cn: Hennighausen
+givenname: Jacqueline
+mail: jacqueline.hennighausen@planetexpress.com
+userPassword: Jacqueline
+ou: Group5
+uid: 4912
+ Q==

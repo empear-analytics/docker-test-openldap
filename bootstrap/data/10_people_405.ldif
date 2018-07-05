@@ -1,0 +1,13 @@
+dn: cn=Clay+sn=Joneson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clay Joneson
+cn: Joneson
+givenname: Clay
+mail: clay.joneson@planetexpress.com
+userPassword: Clay
+ou: flight_crew
+uid: 405
+ Q==

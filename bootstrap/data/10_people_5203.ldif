@@ -1,0 +1,13 @@
+dn: cn=Young+sn=Krugman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Young Krugman
+cn: Krugman
+givenname: Young
+mail: young.krugman@planetexpress.com
+userPassword: Young
+ou: admin_staff
+uid: 5203
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Loria+sn=Furniss,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loria Furniss
+cn: Furniss
+givenname: Loria
+mail: loria.furniss@planetexpress.com
+userPassword: Loria
+ou: Group5
+uid: 1557
+ Q==

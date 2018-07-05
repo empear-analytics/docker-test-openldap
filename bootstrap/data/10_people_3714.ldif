@@ -1,0 +1,13 @@
+dn: cn=Alex+sn=Dibartolomeo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alex Dibartolomeo
+cn: Dibartolomeo
+givenname: Alex
+mail: alex.dibartolomeo@planetexpress.com
+userPassword: Alex
+ou: Group5
+uid: 3714
+ Q==

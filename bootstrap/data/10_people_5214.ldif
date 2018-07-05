@@ -1,0 +1,13 @@
+dn: cn=Lynsey+sn=Lobur,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lynsey Lobur
+cn: Lobur
+givenname: Lynsey
+mail: lynsey.lobur@planetexpress.com
+userPassword: Lynsey
+ou: Group5
+uid: 5214
+ Q==

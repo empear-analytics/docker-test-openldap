@@ -1,0 +1,13 @@
+dn: cn=Chance+sn=Julio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chance Julio
+cn: Julio
+givenname: Chance
+mail: chance.julio@planetexpress.com
+userPassword: Chance
+ou: flight_crew
+uid: 1398
+ Q==

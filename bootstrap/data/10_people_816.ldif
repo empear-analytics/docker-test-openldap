@@ -1,0 +1,13 @@
+dn: cn=Deangelo+sn=Vongkhamphanh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deangelo Vongkhamphanh
+cn: Vongkhamphanh
+givenname: Deangelo
+mail: deangelo.vongkhamphanh@planetexpress.com
+userPassword: Deangelo
+ou: Group5
+uid: 816
+ Q==

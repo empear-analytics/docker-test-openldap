@@ -1,0 +1,13 @@
+dn: cn=Kelly+sn=Barswell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kelly Barswell
+cn: Barswell
+givenname: Kelly
+mail: kelly.barswell@planetexpress.com
+userPassword: Kelly
+ou: admin_staff
+uid: 3925
+ Q==

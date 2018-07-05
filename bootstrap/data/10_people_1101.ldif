@@ -1,0 +1,13 @@
+dn: cn=Lessie+sn=Wray,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lessie Wray
+cn: Wray
+givenname: Lessie
+mail: lessie.wray@planetexpress.com
+userPassword: Lessie
+ou: Group5
+uid: 1101
+ Q==

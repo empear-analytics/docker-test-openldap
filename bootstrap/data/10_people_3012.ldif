@@ -1,0 +1,13 @@
+dn: cn=Stephane+sn=Sciortino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stephane Sciortino
+cn: Sciortino
+givenname: Stephane
+mail: stephane.sciortino@planetexpress.com
+userPassword: Stephane
+ou: OtherGroup
+uid: 3012
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Isobel+sn=Carn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Isobel Carn
+cn: Carn
+givenname: Isobel
+mail: isobel.carn@planetexpress.com
+userPassword: Isobel
+ou: OtherGroup
+uid: 5165
+ Q==

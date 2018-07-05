@@ -1,0 +1,13 @@
+dn: cn=Moriah+sn=Byther,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Moriah Byther
+cn: Byther
+givenname: Moriah
+mail: moriah.byther@planetexpress.com
+userPassword: Moriah
+ou: OtherGroup
+uid: 5234
+ Q==

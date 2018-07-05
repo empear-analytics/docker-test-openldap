@@ -1,0 +1,13 @@
+dn: cn=Cristen+sn=Levinson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cristen Levinson
+cn: Levinson
+givenname: Cristen
+mail: cristen.levinson@planetexpress.com
+userPassword: Cristen
+ou: OtherGroup
+uid: 4095
+ Q==

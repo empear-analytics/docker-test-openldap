@@ -1,0 +1,13 @@
+dn: cn=Yuki+sn=Rider,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yuki Rider
+cn: Rider
+givenname: Yuki
+mail: yuki.rider@planetexpress.com
+userPassword: Yuki
+ou: admin_staff
+uid: 1927
+ Q==

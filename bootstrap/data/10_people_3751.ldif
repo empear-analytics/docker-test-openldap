@@ -1,0 +1,13 @@
+dn: cn=Lyn+sn=Muldowney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lyn Muldowney
+cn: Muldowney
+givenname: Lyn
+mail: lyn.muldowney@planetexpress.com
+userPassword: Lyn
+ou: OtherGroup
+uid: 3751
+ Q==

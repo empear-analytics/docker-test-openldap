@@ -1,0 +1,13 @@
+dn: cn=Odell+sn=Holch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Odell Holch
+cn: Holch
+givenname: Odell
+mail: odell.holch@planetexpress.com
+userPassword: Odell
+ou: OtherGroup
+uid: 2128
+ Q==

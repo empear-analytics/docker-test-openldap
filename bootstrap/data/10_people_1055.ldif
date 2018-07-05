@@ -1,0 +1,13 @@
+dn: cn=Kip+sn=Hesselrode,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kip Hesselrode
+cn: Hesselrode
+givenname: Kip
+mail: kip.hesselrode@planetexpress.com
+userPassword: Kip
+ou: flight_crew
+uid: 1055
+ Q==

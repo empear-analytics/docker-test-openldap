@@ -1,0 +1,13 @@
+dn: cn=Tessie+sn=Hamiter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tessie Hamiter
+cn: Hamiter
+givenname: Tessie
+mail: tessie.hamiter@planetexpress.com
+userPassword: Tessie
+ou: Group5
+uid: 5625
+ Q==

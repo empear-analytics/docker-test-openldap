@@ -1,0 +1,13 @@
+dn: cn=Flora+sn=Dunster,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Flora Dunster
+cn: Dunster
+givenname: Flora
+mail: flora.dunster@planetexpress.com
+userPassword: Flora
+ou: flight_crew
+uid: 2706
+ Q==

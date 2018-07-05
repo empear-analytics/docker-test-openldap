@@ -1,0 +1,13 @@
+dn: cn=Shawanda+sn=Arbuthnot,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shawanda Arbuthnot
+cn: Arbuthnot
+givenname: Shawanda
+mail: shawanda.arbuthnot@planetexpress.com
+userPassword: Shawanda
+ou: admin_staff
+uid: 3863
+ Q==

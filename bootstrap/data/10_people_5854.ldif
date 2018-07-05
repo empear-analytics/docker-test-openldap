@@ -1,0 +1,13 @@
+dn: cn=Scarlett+sn=Mccary,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Scarlett Mccary
+cn: Mccary
+givenname: Scarlett
+mail: scarlett.mccary@planetexpress.com
+userPassword: Scarlett
+ou: admin_staff
+uid: 5854
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Elliot+sn=Pearman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elliot Pearman
+cn: Pearman
+givenname: Elliot
+mail: elliot.pearman@planetexpress.com
+userPassword: Elliot
+ou: OtherGroup
+uid: 1825
+ Q==

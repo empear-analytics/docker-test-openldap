@@ -1,0 +1,13 @@
+dn: cn=Terrence+sn=Tromblay,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Terrence Tromblay
+cn: Tromblay
+givenname: Terrence
+mail: terrence.tromblay@planetexpress.com
+userPassword: Terrence
+ou: Group5
+uid: 3975
+ Q==

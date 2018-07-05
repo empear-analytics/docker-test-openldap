@@ -1,0 +1,13 @@
+dn: cn=Alexandra+sn=Isaiah,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alexandra Isaiah
+cn: Isaiah
+givenname: Alexandra
+mail: alexandra.isaiah@planetexpress.com
+userPassword: Alexandra
+ou: Group5
+uid: 1196
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Terri+sn=Toor,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Terri Toor
+cn: Toor
+givenname: Terri
+mail: terri.toor@planetexpress.com
+userPassword: Terri
+ou: flight_crew
+uid: 5291
+ Q==

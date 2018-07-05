@@ -1,0 +1,13 @@
+dn: cn=Clora+sn=Correl,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clora Correl
+cn: Correl
+givenname: Clora
+mail: clora.correl@planetexpress.com
+userPassword: Clora
+ou: Group5
+uid: 2370
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Chia+sn=Kristof,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chia Kristof
+cn: Kristof
+givenname: Chia
+mail: chia.kristof@planetexpress.com
+userPassword: Chia
+ou: OtherGroup
+uid: 4295
+ Q==

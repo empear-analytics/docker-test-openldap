@@ -1,0 +1,13 @@
+dn: cn=Celeste+sn=Dehetre,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Celeste Dehetre
+cn: Dehetre
+givenname: Celeste
+mail: celeste.dehetre@planetexpress.com
+userPassword: Celeste
+ou: Group5
+uid: 5075
+ Q==

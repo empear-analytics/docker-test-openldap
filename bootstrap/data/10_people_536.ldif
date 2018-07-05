@@ -1,0 +1,13 @@
+dn: cn=Loria+sn=Merling,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loria Merling
+cn: Merling
+givenname: Loria
+mail: loria.merling@planetexpress.com
+userPassword: Loria
+ou: Group5
+uid: 536
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Angelo+sn=Kurtti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelo Kurtti
+cn: Kurtti
+givenname: Angelo
+mail: angelo.kurtti@planetexpress.com
+userPassword: Angelo
+ou: Group5
+uid: 2026
+ Q==

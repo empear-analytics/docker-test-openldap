@@ -1,0 +1,13 @@
+dn: cn=Edwina+sn=Amass,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edwina Amass
+cn: Amass
+givenname: Edwina
+mail: edwina.amass@planetexpress.com
+userPassword: Edwina
+ou: Group5
+uid: 331
+ Q==

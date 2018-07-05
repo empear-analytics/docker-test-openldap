@@ -1,0 +1,13 @@
+dn: cn=Raleigh+sn=Frerichs,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raleigh Frerichs
+cn: Frerichs
+givenname: Raleigh
+mail: raleigh.frerichs@planetexpress.com
+userPassword: Raleigh
+ou: flight_crew
+uid: 4382
+ Q==

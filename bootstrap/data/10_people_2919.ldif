@@ -1,0 +1,13 @@
+dn: cn=Lenora+sn=Earll,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lenora Earll
+cn: Earll
+givenname: Lenora
+mail: lenora.earll@planetexpress.com
+userPassword: Lenora
+ou: Group5
+uid: 2919
+ Q==

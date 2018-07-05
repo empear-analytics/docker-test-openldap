@@ -1,0 +1,13 @@
+dn: cn=Marx+sn=Pough,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marx Pough
+cn: Pough
+givenname: Marx
+mail: marx.pough@planetexpress.com
+userPassword: Marx
+ou: Group5
+uid: 1722
+ Q==

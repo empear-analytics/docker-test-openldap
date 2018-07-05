@@ -1,0 +1,13 @@
+dn: cn=Abby+sn=Kady,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Abby Kady
+cn: Kady
+givenname: Abby
+mail: abby.kady@planetexpress.com
+userPassword: Abby
+ou: admin_staff
+uid: 2052
+ Q==

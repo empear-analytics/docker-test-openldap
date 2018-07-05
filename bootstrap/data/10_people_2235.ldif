@@ -1,0 +1,13 @@
+dn: cn=Karly+sn=Ernesto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karly Ernesto
+cn: Ernesto
+givenname: Karly
+mail: karly.ernesto@planetexpress.com
+userPassword: Karly
+ou: flight_crew
+uid: 2235
+ Q==

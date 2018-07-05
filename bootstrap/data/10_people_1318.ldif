@@ -1,0 +1,13 @@
+dn: cn=Elvina+sn=Nurmi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elvina Nurmi
+cn: Nurmi
+givenname: Elvina
+mail: elvina.nurmi@planetexpress.com
+userPassword: Elvina
+ou: OtherGroup
+uid: 1318
+ Q==

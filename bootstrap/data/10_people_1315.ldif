@@ -1,0 +1,13 @@
+dn: cn=Sarai+sn=Rosendahl,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sarai Rosendahl
+cn: Rosendahl
+givenname: Sarai
+mail: sarai.rosendahl@planetexpress.com
+userPassword: Sarai
+ou: Group5
+uid: 1315
+ Q==

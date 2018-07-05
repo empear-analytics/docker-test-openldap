@@ -1,0 +1,13 @@
+dn: cn=Gladys+sn=Schepper,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gladys Schepper
+cn: Schepper
+givenname: Gladys
+mail: gladys.schepper@planetexpress.com
+userPassword: Gladys
+ou: flight_crew
+uid: 5544
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Delma+sn=Iadarola,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delma Iadarola
+cn: Iadarola
+givenname: Delma
+mail: delma.iadarola@planetexpress.com
+userPassword: Delma
+ou: OtherGroup
+uid: 3443
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Harris+sn=Akamine,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Harris Akamine
+cn: Akamine
+givenname: Harris
+mail: harris.akamine@planetexpress.com
+userPassword: Harris
+ou: Group5
+uid: 4357
+ Q==

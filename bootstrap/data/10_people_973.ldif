@@ -1,0 +1,13 @@
+dn: cn=Pat+sn=Deleonardis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pat Deleonardis
+cn: Deleonardis
+givenname: Pat
+mail: pat.deleonardis@planetexpress.com
+userPassword: Pat
+ou: flight_crew
+uid: 973
+ Q==

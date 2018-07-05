@@ -1,0 +1,13 @@
+dn: cn=Angelina+sn=Lindau,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelina Lindau
+cn: Lindau
+givenname: Angelina
+mail: angelina.lindau@planetexpress.com
+userPassword: Angelina
+ou: OtherGroup
+uid: 5382
+ Q==

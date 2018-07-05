@@ -1,0 +1,13 @@
+dn: cn=Edwin+sn=Henneman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edwin Henneman
+cn: Henneman
+givenname: Edwin
+mail: edwin.henneman@planetexpress.com
+userPassword: Edwin
+ou: Group5
+uid: 2275
+ Q==

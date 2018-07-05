@@ -1,0 +1,13 @@
+dn: cn=Patria+sn=Pals,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Patria Pals
+cn: Pals
+givenname: Patria
+mail: patria.pals@planetexpress.com
+userPassword: Patria
+ou: Group5
+uid: 2622
+ Q==

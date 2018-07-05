@@ -1,0 +1,13 @@
+dn: cn=Jane+sn=Bobola,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jane Bobola
+cn: Bobola
+givenname: Jane
+mail: jane.bobola@planetexpress.com
+userPassword: Jane
+ou: flight_crew
+uid: 3669
+ Q==

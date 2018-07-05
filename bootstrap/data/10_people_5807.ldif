@@ -1,0 +1,13 @@
+dn: cn=Eldora+sn=Tabar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eldora Tabar
+cn: Tabar
+givenname: Eldora
+mail: eldora.tabar@planetexpress.com
+userPassword: Eldora
+ou: OtherGroup
+uid: 5807
+ Q==

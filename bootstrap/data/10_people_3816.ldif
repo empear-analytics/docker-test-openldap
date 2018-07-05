@@ -1,0 +1,13 @@
+dn: cn=Lola+sn=Molleur,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lola Molleur
+cn: Molleur
+givenname: Lola
+mail: lola.molleur@planetexpress.com
+userPassword: Lola
+ou: admin_staff
+uid: 3816
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Frederick+sn=Rylant,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Frederick Rylant
+cn: Rylant
+givenname: Frederick
+mail: frederick.rylant@planetexpress.com
+userPassword: Frederick
+ou: flight_crew
+uid: 5768
+ Q==

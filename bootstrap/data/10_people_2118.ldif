@@ -1,0 +1,13 @@
+dn: cn=Ivelisse+sn=Siskey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ivelisse Siskey
+cn: Siskey
+givenname: Ivelisse
+mail: ivelisse.siskey@planetexpress.com
+userPassword: Ivelisse
+ou: admin_staff
+uid: 2118
+ Q==

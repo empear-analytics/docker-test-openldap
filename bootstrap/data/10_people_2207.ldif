@@ -1,0 +1,13 @@
+dn: cn=Salena+sn=Korineck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Salena Korineck
+cn: Korineck
+givenname: Salena
+mail: salena.korineck@planetexpress.com
+userPassword: Salena
+ou: admin_staff
+uid: 2207
+ Q==

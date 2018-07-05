@@ -1,0 +1,13 @@
+dn: cn=Jodi+sn=Rabelo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jodi Rabelo
+cn: Rabelo
+givenname: Jodi
+mail: jodi.rabelo@planetexpress.com
+userPassword: Jodi
+ou: flight_crew
+uid: 720
+ Q==

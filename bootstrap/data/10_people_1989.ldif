@@ -1,0 +1,13 @@
+dn: cn=Leland+sn=Sando,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leland Sando
+cn: Sando
+givenname: Leland
+mail: leland.sando@planetexpress.com
+userPassword: Leland
+ou: admin_staff
+uid: 1989
+ Q==

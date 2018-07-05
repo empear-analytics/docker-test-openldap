@@ -1,0 +1,13 @@
+dn: cn=Aaron+sn=Badamo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aaron Badamo
+cn: Badamo
+givenname: Aaron
+mail: aaron.badamo@planetexpress.com
+userPassword: Aaron
+ou: admin_staff
+uid: 1863
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kathryn+sn=Cookey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kathryn Cookey
+cn: Cookey
+givenname: Kathryn
+mail: kathryn.cookey@planetexpress.com
+userPassword: Kathryn
+ou: Group5
+uid: 4615
+ Q==

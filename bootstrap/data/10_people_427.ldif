@@ -1,0 +1,13 @@
+dn: cn=Dusti+sn=Prejean,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dusti Prejean
+cn: Prejean
+givenname: Dusti
+mail: dusti.prejean@planetexpress.com
+userPassword: Dusti
+ou: flight_crew
+uid: 427
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kristopher+sn=Hila,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kristopher Hila
+cn: Hila
+givenname: Kristopher
+mail: kristopher.hila@planetexpress.com
+userPassword: Kristopher
+ou: admin_staff
+uid: 3355
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lyn+sn=Emmanuel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lyn Emmanuel
+cn: Emmanuel
+givenname: Lyn
+mail: lyn.emmanuel@planetexpress.com
+userPassword: Lyn
+ou: flight_crew
+uid: 3331
+ Q==

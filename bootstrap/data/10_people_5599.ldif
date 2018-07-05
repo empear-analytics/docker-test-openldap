@@ -1,0 +1,13 @@
+dn: cn=Jeane+sn=Haris,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeane Haris
+cn: Haris
+givenname: Jeane
+mail: jeane.haris@planetexpress.com
+userPassword: Jeane
+ou: admin_staff
+uid: 5599
+ Q==

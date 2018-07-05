@@ -1,0 +1,13 @@
+dn: cn=Adam+sn=Standre,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adam Standre
+cn: Standre
+givenname: Adam
+mail: adam.standre@planetexpress.com
+userPassword: Adam
+ou: flight_crew
+uid: 2482
+ Q==

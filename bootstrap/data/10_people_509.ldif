@@ -1,0 +1,13 @@
+dn: cn=Maryland+sn=Stumpf,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maryland Stumpf
+cn: Stumpf
+givenname: Maryland
+mail: maryland.stumpf@planetexpress.com
+userPassword: Maryland
+ou: flight_crew
+uid: 509
+ Q==

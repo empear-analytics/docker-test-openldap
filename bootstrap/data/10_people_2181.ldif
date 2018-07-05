@@ -1,0 +1,13 @@
+dn: cn=Jacelyn+sn=Gelman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacelyn Gelman
+cn: Gelman
+givenname: Jacelyn
+mail: jacelyn.gelman@planetexpress.com
+userPassword: Jacelyn
+ou: flight_crew
+uid: 2181
+ Q==

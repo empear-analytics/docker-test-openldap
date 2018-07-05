@@ -1,0 +1,13 @@
+dn: cn=Nu+sn=Gitter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nu Gitter
+cn: Gitter
+givenname: Nu
+mail: nu.gitter@planetexpress.com
+userPassword: Nu
+ou: OtherGroup
+uid: 5859
+ Q==

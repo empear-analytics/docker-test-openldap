@@ -1,0 +1,13 @@
+dn: cn=Abel+sn=Hickinbotham,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Abel Hickinbotham
+cn: Hickinbotham
+givenname: Abel
+mail: abel.hickinbotham@planetexpress.com
+userPassword: Abel
+ou: OtherGroup
+uid: 4076
+ Q==

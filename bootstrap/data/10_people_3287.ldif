@@ -1,0 +1,13 @@
+dn: cn=Ozella+sn=Hoyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ozella Hoyer
+cn: Hoyer
+givenname: Ozella
+mail: ozella.hoyer@planetexpress.com
+userPassword: Ozella
+ou: admin_staff
+uid: 3287
+ Q==

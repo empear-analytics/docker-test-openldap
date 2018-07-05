@@ -1,0 +1,13 @@
+dn: cn=Joline+sn=Smisek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joline Smisek
+cn: Smisek
+givenname: Joline
+mail: joline.smisek@planetexpress.com
+userPassword: Joline
+ou: admin_staff
+uid: 853
+ Q==

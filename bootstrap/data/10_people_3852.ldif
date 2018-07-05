@@ -1,0 +1,13 @@
+dn: cn=Ardath+sn=Mattison,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ardath Mattison
+cn: Mattison
+givenname: Ardath
+mail: ardath.mattison@planetexpress.com
+userPassword: Ardath
+ou: OtherGroup
+uid: 3852
+ Q==

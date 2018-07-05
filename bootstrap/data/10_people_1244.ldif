@@ -1,0 +1,13 @@
+dn: cn=Ramon+sn=Shongo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ramon Shongo
+cn: Shongo
+givenname: Ramon
+mail: ramon.shongo@planetexpress.com
+userPassword: Ramon
+ou: Group5
+uid: 1244
+ Q==

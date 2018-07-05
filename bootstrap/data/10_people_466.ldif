@@ -1,0 +1,13 @@
+dn: cn=Annmarie+sn=Ghio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annmarie Ghio
+cn: Ghio
+givenname: Annmarie
+mail: annmarie.ghio@planetexpress.com
+userPassword: Annmarie
+ou: admin_staff
+uid: 466
+ Q==

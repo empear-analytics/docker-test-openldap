@@ -1,0 +1,13 @@
+dn: cn=Mckenzie+sn=Rulapaugh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mckenzie Rulapaugh
+cn: Rulapaugh
+givenname: Mckenzie
+mail: mckenzie.rulapaugh@planetexpress.com
+userPassword: Mckenzie
+ou: Group5
+uid: 5335
+ Q==

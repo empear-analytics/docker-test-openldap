@@ -1,0 +1,13 @@
+dn: cn=Joshua+sn=Metzer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joshua Metzer
+cn: Metzer
+givenname: Joshua
+mail: joshua.metzer@planetexpress.com
+userPassword: Joshua
+ou: Group5
+uid: 1786
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ilona+sn=Ferringo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ilona Ferringo
+cn: Ferringo
+givenname: Ilona
+mail: ilona.ferringo@planetexpress.com
+userPassword: Ilona
+ou: admin_staff
+uid: 2451
+ Q==

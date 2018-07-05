@@ -1,0 +1,13 @@
+dn: cn=Rosenda+sn=Tromble,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosenda Tromble
+cn: Tromble
+givenname: Rosenda
+mail: rosenda.tromble@planetexpress.com
+userPassword: Rosenda
+ou: flight_crew
+uid: 1507
+ Q==

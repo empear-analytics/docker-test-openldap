@@ -1,0 +1,13 @@
+dn: cn=Norbert+sn=Cadieux,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Norbert Cadieux
+cn: Cadieux
+givenname: Norbert
+mail: norbert.cadieux@planetexpress.com
+userPassword: Norbert
+ou: flight_crew
+uid: 1186
+ Q==

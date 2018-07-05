@@ -1,0 +1,13 @@
+dn: cn=Hassan+sn=Ramey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hassan Ramey
+cn: Ramey
+givenname: Hassan
+mail: hassan.ramey@planetexpress.com
+userPassword: Hassan
+ou: admin_staff
+uid: 1485
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Maynard+sn=Sina,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maynard Sina
+cn: Sina
+givenname: Maynard
+mail: maynard.sina@planetexpress.com
+userPassword: Maynard
+ou: OtherGroup
+uid: 3049
+ Q==

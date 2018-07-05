@@ -1,0 +1,13 @@
+dn: cn=Rudolph+sn=Shaffren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rudolph Shaffren
+cn: Shaffren
+givenname: Rudolph
+mail: rudolph.shaffren@planetexpress.com
+userPassword: Rudolph
+ou: Group5
+uid: 1827
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Altha+sn=Strother,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Altha Strother
+cn: Strother
+givenname: Altha
+mail: altha.strother@planetexpress.com
+userPassword: Altha
+ou: OtherGroup
+uid: 4899
+ Q==

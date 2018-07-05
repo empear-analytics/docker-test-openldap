@@ -1,0 +1,13 @@
+dn: cn=Abbey+sn=Doporto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Abbey Doporto
+cn: Doporto
+givenname: Abbey
+mail: abbey.doporto@planetexpress.com
+userPassword: Abbey
+ou: flight_crew
+uid: 375
+ Q==

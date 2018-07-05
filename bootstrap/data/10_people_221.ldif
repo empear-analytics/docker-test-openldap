@@ -1,0 +1,13 @@
+dn: cn=Kirby+sn=Sepulvado,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kirby Sepulvado
+cn: Sepulvado
+givenname: Kirby
+mail: kirby.sepulvado@planetexpress.com
+userPassword: Kirby
+ou: admin_staff
+uid: 221
+ Q==

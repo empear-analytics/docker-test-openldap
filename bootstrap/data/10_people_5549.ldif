@@ -1,0 +1,13 @@
+dn: cn=Bok+sn=Tyndal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bok Tyndal
+cn: Tyndal
+givenname: Bok
+mail: bok.tyndal@planetexpress.com
+userPassword: Bok
+ou: flight_crew
+uid: 5549
+ Q==

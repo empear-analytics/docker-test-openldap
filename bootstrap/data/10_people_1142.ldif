@@ -1,0 +1,13 @@
+dn: cn=Annett+sn=Hogans,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annett Hogans
+cn: Hogans
+givenname: Annett
+mail: annett.hogans@planetexpress.com
+userPassword: Annett
+ou: OtherGroup
+uid: 1142
+ Q==

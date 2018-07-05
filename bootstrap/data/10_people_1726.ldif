@@ -1,0 +1,13 @@
+dn: cn=Zoe+sn=Myint,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zoe Myint
+cn: Myint
+givenname: Zoe
+mail: zoe.myint@planetexpress.com
+userPassword: Zoe
+ou: flight_crew
+uid: 1726
+ Q==

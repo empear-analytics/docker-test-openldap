@@ -1,0 +1,13 @@
+dn: cn=Lynnette+sn=Mckibbin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lynnette Mckibbin
+cn: Mckibbin
+givenname: Lynnette
+mail: lynnette.mckibbin@planetexpress.com
+userPassword: Lynnette
+ou: Group5
+uid: 1622
+ Q==

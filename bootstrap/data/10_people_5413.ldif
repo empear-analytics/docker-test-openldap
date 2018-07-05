@@ -1,0 +1,13 @@
+dn: cn=Joaquina+sn=Strudwick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joaquina Strudwick
+cn: Strudwick
+givenname: Joaquina
+mail: joaquina.strudwick@planetexpress.com
+userPassword: Joaquina
+ou: Group5
+uid: 5413
+ Q==

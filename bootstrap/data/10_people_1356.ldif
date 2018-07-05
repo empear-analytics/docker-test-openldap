@@ -1,0 +1,13 @@
+dn: cn=Carletta+sn=Myrlie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carletta Myrlie
+cn: Myrlie
+givenname: Carletta
+mail: carletta.myrlie@planetexpress.com
+userPassword: Carletta
+ou: Group5
+uid: 1356
+ Q==

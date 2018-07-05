@@ -1,0 +1,13 @@
+dn: cn=Davida+sn=Alessandrini,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Davida Alessandrini
+cn: Alessandrini
+givenname: Davida
+mail: davida.alessandrini@planetexpress.com
+userPassword: Davida
+ou: OtherGroup
+uid: 150
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Selena+sn=Zenisek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Selena Zenisek
+cn: Zenisek
+givenname: Selena
+mail: selena.zenisek@planetexpress.com
+userPassword: Selena
+ou: OtherGroup
+uid: 1480
+ Q==

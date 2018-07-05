@@ -1,0 +1,13 @@
+dn: cn=Kari+sn=Carchi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kari Carchi
+cn: Carchi
+givenname: Kari
+mail: kari.carchi@planetexpress.com
+userPassword: Kari
+ou: OtherGroup
+uid: 2808
+ Q==

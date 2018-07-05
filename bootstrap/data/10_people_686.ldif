@@ -1,0 +1,13 @@
+dn: cn=Lauren+sn=Hartinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lauren Hartinger
+cn: Hartinger
+givenname: Lauren
+mail: lauren.hartinger@planetexpress.com
+userPassword: Lauren
+ou: Group5
+uid: 686
+ Q==

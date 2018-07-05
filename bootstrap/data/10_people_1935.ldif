@@ -1,0 +1,13 @@
+dn: cn=Kory+sn=Hashmi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kory Hashmi
+cn: Hashmi
+givenname: Kory
+mail: kory.hashmi@planetexpress.com
+userPassword: Kory
+ou: admin_staff
+uid: 1935
+ Q==

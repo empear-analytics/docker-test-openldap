@@ -1,0 +1,13 @@
+dn: cn=Rosina+sn=Mackler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosina Mackler
+cn: Mackler
+givenname: Rosina
+mail: rosina.mackler@planetexpress.com
+userPassword: Rosina
+ou: flight_crew
+uid: 3715
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Bobbi+sn=Longwith,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bobbi Longwith
+cn: Longwith
+givenname: Bobbi
+mail: bobbi.longwith@planetexpress.com
+userPassword: Bobbi
+ou: flight_crew
+uid: 3745
+ Q==

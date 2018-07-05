@@ -1,0 +1,13 @@
+dn: cn=Bob+sn=Cayer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bob Cayer
+cn: Cayer
+givenname: Bob
+mail: bob.cayer@planetexpress.com
+userPassword: Bob
+ou: OtherGroup
+uid: 4827
+ Q==

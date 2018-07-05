@@ -1,0 +1,13 @@
+dn: cn=Rodger+sn=Newes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rodger Newes
+cn: Newes
+givenname: Rodger
+mail: rodger.newes@planetexpress.com
+userPassword: Rodger
+ou: admin_staff
+uid: 5539
+ Q==

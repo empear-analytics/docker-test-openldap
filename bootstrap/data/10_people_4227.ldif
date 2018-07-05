@@ -1,0 +1,13 @@
+dn: cn=Eve+sn=Divan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eve Divan
+cn: Divan
+givenname: Eve
+mail: eve.divan@planetexpress.com
+userPassword: Eve
+ou: OtherGroup
+uid: 4227
+ Q==

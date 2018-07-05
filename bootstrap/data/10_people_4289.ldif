@@ -1,0 +1,13 @@
+dn: cn=Sherlyn+sn=Dzierzanowski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherlyn Dzierzanowski
+cn: Dzierzanowski
+givenname: Sherlyn
+mail: sherlyn.dzierzanowski@planetexpress.com
+userPassword: Sherlyn
+ou: OtherGroup
+uid: 4289
+ Q==

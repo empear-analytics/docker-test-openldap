@@ -1,0 +1,13 @@
+dn: cn=Marilynn+sn=Holm,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marilynn Holm
+cn: Holm
+givenname: Marilynn
+mail: marilynn.holm@planetexpress.com
+userPassword: Marilynn
+ou: admin_staff
+uid: 5048
+ Q==

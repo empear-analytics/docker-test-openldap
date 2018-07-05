@@ -1,0 +1,13 @@
+dn: cn=Fannie+sn=Challis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fannie Challis
+cn: Challis
+givenname: Fannie
+mail: fannie.challis@planetexpress.com
+userPassword: Fannie
+ou: flight_crew
+uid: 1228
+ Q==

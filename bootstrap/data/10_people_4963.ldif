@@ -1,0 +1,13 @@
+dn: cn=Diana+sn=Roaoo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Diana Roaoo
+cn: Roaoo
+givenname: Diana
+mail: diana.roaoo@planetexpress.com
+userPassword: Diana
+ou: admin_staff
+uid: 4963
+ Q==

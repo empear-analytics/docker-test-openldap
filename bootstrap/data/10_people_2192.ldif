@@ -1,0 +1,13 @@
+dn: cn=Imelda+sn=Trevethan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Imelda Trevethan
+cn: Trevethan
+givenname: Imelda
+mail: imelda.trevethan@planetexpress.com
+userPassword: Imelda
+ou: admin_staff
+uid: 2192
+ Q==

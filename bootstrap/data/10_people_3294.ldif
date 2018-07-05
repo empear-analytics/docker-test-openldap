@@ -1,0 +1,13 @@
+dn: cn=Manda+sn=Feiertag,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Manda Feiertag
+cn: Feiertag
+givenname: Manda
+mail: manda.feiertag@planetexpress.com
+userPassword: Manda
+ou: Group5
+uid: 3294
+ Q==

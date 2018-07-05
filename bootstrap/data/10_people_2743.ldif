@@ -1,0 +1,13 @@
+dn: cn=Annmarie+sn=Quinter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annmarie Quinter
+cn: Quinter
+givenname: Annmarie
+mail: annmarie.quinter@planetexpress.com
+userPassword: Annmarie
+ou: OtherGroup
+uid: 2743
+ Q==

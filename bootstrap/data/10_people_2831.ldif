@@ -1,0 +1,13 @@
+dn: cn=Cecelia+sn=Hantula,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cecelia Hantula
+cn: Hantula
+givenname: Cecelia
+mail: cecelia.hantula@planetexpress.com
+userPassword: Cecelia
+ou: Group5
+uid: 2831
+ Q==

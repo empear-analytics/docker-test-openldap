@@ -1,0 +1,13 @@
+dn: cn=Kendall+sn=Baumler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kendall Baumler
+cn: Baumler
+givenname: Kendall
+mail: kendall.baumler@planetexpress.com
+userPassword: Kendall
+ou: OtherGroup
+uid: 5860
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kaitlyn+sn=Wunderlich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kaitlyn Wunderlich
+cn: Wunderlich
+givenname: Kaitlyn
+mail: kaitlyn.wunderlich@planetexpress.com
+userPassword: Kaitlyn
+ou: admin_staff
+uid: 1224
+ Q==

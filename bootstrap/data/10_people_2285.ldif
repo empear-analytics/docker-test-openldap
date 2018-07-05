@@ -1,0 +1,13 @@
+dn: cn=Arden+sn=Llewlyn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arden Llewlyn
+cn: Llewlyn
+givenname: Arden
+mail: arden.llewlyn@planetexpress.com
+userPassword: Arden
+ou: flight_crew
+uid: 2285
+ Q==

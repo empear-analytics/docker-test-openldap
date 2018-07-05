@@ -1,0 +1,13 @@
+dn: cn=Brittany+sn=Minchow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brittany Minchow
+cn: Minchow
+givenname: Brittany
+mail: brittany.minchow@planetexpress.com
+userPassword: Brittany
+ou: admin_staff
+uid: 3216
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tamatha+sn=Ybanez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tamatha Ybanez
+cn: Ybanez
+givenname: Tamatha
+mail: tamatha.ybanez@planetexpress.com
+userPassword: Tamatha
+ou: OtherGroup
+uid: 4733
+ Q==

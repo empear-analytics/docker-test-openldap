@@ -1,0 +1,13 @@
+dn: cn=Antione+sn=Matas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Antione Matas
+cn: Matas
+givenname: Antione
+mail: antione.matas@planetexpress.com
+userPassword: Antione
+ou: flight_crew
+uid: 4465
+ Q==

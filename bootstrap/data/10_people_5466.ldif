@@ -1,0 +1,13 @@
+dn: cn=Kymberly+sn=Bortle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kymberly Bortle
+cn: Bortle
+givenname: Kymberly
+mail: kymberly.bortle@planetexpress.com
+userPassword: Kymberly
+ou: Group5
+uid: 5466
+ Q==

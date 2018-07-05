@@ -1,0 +1,13 @@
+dn: cn=Pamula+sn=Ghiorso,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pamula Ghiorso
+cn: Ghiorso
+givenname: Pamula
+mail: pamula.ghiorso@planetexpress.com
+userPassword: Pamula
+ou: OtherGroup
+uid: 2108
+ Q==

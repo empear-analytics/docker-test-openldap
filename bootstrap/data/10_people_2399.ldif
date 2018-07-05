@@ -1,0 +1,13 @@
+dn: cn=Rachel+sn=Gaffey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rachel Gaffey
+cn: Gaffey
+givenname: Rachel
+mail: rachel.gaffey@planetexpress.com
+userPassword: Rachel
+ou: OtherGroup
+uid: 2399
+ Q==

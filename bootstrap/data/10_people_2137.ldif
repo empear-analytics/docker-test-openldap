@@ -1,0 +1,13 @@
+dn: cn=Consuela+sn=Demasters,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Consuela Demasters
+cn: Demasters
+givenname: Consuela
+mail: consuela.demasters@planetexpress.com
+userPassword: Consuela
+ou: admin_staff
+uid: 2137
+ Q==

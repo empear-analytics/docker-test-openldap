@@ -1,0 +1,13 @@
+dn: cn=Morris+sn=Ser,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Morris Ser
+cn: Ser
+givenname: Morris
+mail: morris.ser@planetexpress.com
+userPassword: Morris
+ou: admin_staff
+uid: 2875
+ Q==

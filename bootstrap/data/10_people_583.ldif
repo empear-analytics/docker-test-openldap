@@ -1,0 +1,13 @@
+dn: cn=Valene+sn=Hauze,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Valene Hauze
+cn: Hauze
+givenname: Valene
+mail: valene.hauze@planetexpress.com
+userPassword: Valene
+ou: OtherGroup
+uid: 583
+ Q==

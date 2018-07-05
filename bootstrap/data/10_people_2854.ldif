@@ -1,0 +1,13 @@
+dn: cn=Evelia+sn=Stemmerman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Evelia Stemmerman
+cn: Stemmerman
+givenname: Evelia
+mail: evelia.stemmerman@planetexpress.com
+userPassword: Evelia
+ou: admin_staff
+uid: 2854
+ Q==

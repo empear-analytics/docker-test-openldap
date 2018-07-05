@@ -1,0 +1,13 @@
+dn: cn=Marilu+sn=Sawdo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marilu Sawdo
+cn: Sawdo
+givenname: Marilu
+mail: marilu.sawdo@planetexpress.com
+userPassword: Marilu
+ou: admin_staff
+uid: 2879
+ Q==

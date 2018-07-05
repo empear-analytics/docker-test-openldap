@@ -1,0 +1,13 @@
+dn: cn=Lorilee+sn=Catanese,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lorilee Catanese
+cn: Catanese
+givenname: Lorilee
+mail: lorilee.catanese@planetexpress.com
+userPassword: Lorilee
+ou: OtherGroup
+uid: 1835
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tamra+sn=Bierstedt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tamra Bierstedt
+cn: Bierstedt
+givenname: Tamra
+mail: tamra.bierstedt@planetexpress.com
+userPassword: Tamra
+ou: Group5
+uid: 578
+ Q==

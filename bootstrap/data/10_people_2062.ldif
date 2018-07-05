@@ -1,0 +1,13 @@
+dn: cn=Sharilyn+sn=Jette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharilyn Jette
+cn: Jette
+givenname: Sharilyn
+mail: sharilyn.jette@planetexpress.com
+userPassword: Sharilyn
+ou: Group5
+uid: 2062
+ Q==

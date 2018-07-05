@@ -1,0 +1,13 @@
+dn: cn=Thomasina+sn=Rudnicki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thomasina Rudnicki
+cn: Rudnicki
+givenname: Thomasina
+mail: thomasina.rudnicki@planetexpress.com
+userPassword: Thomasina
+ou: admin_staff
+uid: 3520
+ Q==

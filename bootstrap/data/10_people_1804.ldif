@@ -1,0 +1,13 @@
+dn: cn=Imelda+sn=Mcnitt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Imelda Mcnitt
+cn: Mcnitt
+givenname: Imelda
+mail: imelda.mcnitt@planetexpress.com
+userPassword: Imelda
+ou: admin_staff
+uid: 1804
+ Q==

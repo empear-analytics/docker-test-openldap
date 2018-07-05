@@ -1,0 +1,13 @@
+dn: cn=Jeanene+sn=Sharpnack,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeanene Sharpnack
+cn: Sharpnack
+givenname: Jeanene
+mail: jeanene.sharpnack@planetexpress.com
+userPassword: Jeanene
+ou: admin_staff
+uid: 791
+ Q==

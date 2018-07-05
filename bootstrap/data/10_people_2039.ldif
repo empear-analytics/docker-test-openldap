@@ -1,0 +1,13 @@
+dn: cn=Georgina+sn=Gronitz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Georgina Gronitz
+cn: Gronitz
+givenname: Georgina
+mail: georgina.gronitz@planetexpress.com
+userPassword: Georgina
+ou: flight_crew
+uid: 2039
+ Q==

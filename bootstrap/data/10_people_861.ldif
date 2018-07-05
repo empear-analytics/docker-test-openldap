@@ -1,0 +1,13 @@
+dn: cn=Raymon+sn=Gennette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raymon Gennette
+cn: Gennette
+givenname: Raymon
+mail: raymon.gennette@planetexpress.com
+userPassword: Raymon
+ou: admin_staff
+uid: 861
+ Q==

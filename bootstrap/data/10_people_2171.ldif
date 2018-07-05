@@ -1,0 +1,13 @@
+dn: cn=Allyn+sn=Yamaoka,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Allyn Yamaoka
+cn: Yamaoka
+givenname: Allyn
+mail: allyn.yamaoka@planetexpress.com
+userPassword: Allyn
+ou: OtherGroup
+uid: 2171
+ Q==

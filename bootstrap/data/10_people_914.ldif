@@ -1,0 +1,13 @@
+dn: cn=Haydee+sn=Hardemon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Haydee Hardemon
+cn: Hardemon
+givenname: Haydee
+mail: haydee.hardemon@planetexpress.com
+userPassword: Haydee
+ou: OtherGroup
+uid: 914
+ Q==

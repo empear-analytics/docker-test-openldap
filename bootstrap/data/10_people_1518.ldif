@@ -1,0 +1,13 @@
+dn: cn=Michelina+sn=Trimino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Michelina Trimino
+cn: Trimino
+givenname: Michelina
+mail: michelina.trimino@planetexpress.com
+userPassword: Michelina
+ou: admin_staff
+uid: 1518
+ Q==

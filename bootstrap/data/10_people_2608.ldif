@@ -1,0 +1,13 @@
+dn: cn=Devona+sn=Hefty,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Devona Hefty
+cn: Hefty
+givenname: Devona
+mail: devona.hefty@planetexpress.com
+userPassword: Devona
+ou: Group5
+uid: 2608
+ Q==

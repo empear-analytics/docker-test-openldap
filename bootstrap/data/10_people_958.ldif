@@ -1,0 +1,13 @@
+dn: cn=Cami+sn=Moron,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cami Moron
+cn: Moron
+givenname: Cami
+mail: cami.moron@planetexpress.com
+userPassword: Cami
+ou: flight_crew
+uid: 958
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Shelton+sn=Sabir,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shelton Sabir
+cn: Sabir
+givenname: Shelton
+mail: shelton.sabir@planetexpress.com
+userPassword: Shelton
+ou: admin_staff
+uid: 4788
+ Q==

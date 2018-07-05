@@ -1,0 +1,13 @@
+dn: cn=Ashly+sn=Fleischmann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ashly Fleischmann
+cn: Fleischmann
+givenname: Ashly
+mail: ashly.fleischmann@planetexpress.com
+userPassword: Ashly
+ou: OtherGroup
+uid: 1402
+ Q==

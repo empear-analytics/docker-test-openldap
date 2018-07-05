@@ -1,0 +1,13 @@
+dn: cn=Beckie+sn=Kulikowski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beckie Kulikowski
+cn: Kulikowski
+givenname: Beckie
+mail: beckie.kulikowski@planetexpress.com
+userPassword: Beckie
+ou: OtherGroup
+uid: 2725
+ Q==

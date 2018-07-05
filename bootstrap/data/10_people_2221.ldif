@@ -1,0 +1,13 @@
+dn: cn=Zita+sn=Alessandro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zita Alessandro
+cn: Alessandro
+givenname: Zita
+mail: zita.alessandro@planetexpress.com
+userPassword: Zita
+ou: flight_crew
+uid: 2221
+ Q==

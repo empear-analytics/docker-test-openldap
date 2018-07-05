@@ -1,0 +1,13 @@
+dn: cn=Maybell+sn=Neth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maybell Neth
+cn: Neth
+givenname: Maybell
+mail: maybell.neth@planetexpress.com
+userPassword: Maybell
+ou: flight_crew
+uid: 4237
+ Q==

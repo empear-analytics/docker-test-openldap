@@ -1,0 +1,13 @@
+dn: cn=Eddie+sn=Branz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eddie Branz
+cn: Branz
+givenname: Eddie
+mail: eddie.branz@planetexpress.com
+userPassword: Eddie
+ou: OtherGroup
+uid: 5994
+ Q==

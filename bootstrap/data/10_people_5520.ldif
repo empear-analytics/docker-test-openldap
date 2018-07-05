@@ -1,0 +1,13 @@
+dn: cn=Tana+sn=Feldmann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tana Feldmann
+cn: Feldmann
+givenname: Tana
+mail: tana.feldmann@planetexpress.com
+userPassword: Tana
+ou: Group5
+uid: 5520
+ Q==

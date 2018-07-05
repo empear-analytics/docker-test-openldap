@@ -1,0 +1,13 @@
+dn: cn=Tabetha+sn=Virgie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tabetha Virgie
+cn: Virgie
+givenname: Tabetha
+mail: tabetha.virgie@planetexpress.com
+userPassword: Tabetha
+ou: admin_staff
+uid: 498
+ Q==

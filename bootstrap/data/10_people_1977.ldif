@@ -1,0 +1,13 @@
+dn: cn=Arielle+sn=Daywalt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arielle Daywalt
+cn: Daywalt
+givenname: Arielle
+mail: arielle.daywalt@planetexpress.com
+userPassword: Arielle
+ou: Group5
+uid: 1977
+ Q==

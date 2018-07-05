@@ -1,0 +1,13 @@
+dn: cn=Taneka+sn=Persch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Taneka Persch
+cn: Persch
+givenname: Taneka
+mail: taneka.persch@planetexpress.com
+userPassword: Taneka
+ou: flight_crew
+uid: 4584
+ Q==

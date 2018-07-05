@@ -1,0 +1,13 @@
+dn: cn=Claretta+sn=Santoro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Claretta Santoro
+cn: Santoro
+givenname: Claretta
+mail: claretta.santoro@planetexpress.com
+userPassword: Claretta
+ou: Group5
+uid: 4624
+ Q==

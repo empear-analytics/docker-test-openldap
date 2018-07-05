@@ -1,0 +1,13 @@
+dn: cn=Golden+sn=Kulback,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Golden Kulback
+cn: Kulback
+givenname: Golden
+mail: golden.kulback@planetexpress.com
+userPassword: Golden
+ou: Group5
+uid: 5652
+ Q==

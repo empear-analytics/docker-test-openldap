@@ -1,0 +1,13 @@
+dn: cn=Thi+sn=Seliga,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thi Seliga
+cn: Seliga
+givenname: Thi
+mail: thi.seliga@planetexpress.com
+userPassword: Thi
+ou: admin_staff
+uid: 1888
+ Q==

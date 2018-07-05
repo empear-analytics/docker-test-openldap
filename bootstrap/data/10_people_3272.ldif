@@ -1,0 +1,13 @@
+dn: cn=Rivka+sn=Starkie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rivka Starkie
+cn: Starkie
+givenname: Rivka
+mail: rivka.starkie@planetexpress.com
+userPassword: Rivka
+ou: OtherGroup
+uid: 3272
+ Q==

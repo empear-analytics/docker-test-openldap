@@ -1,0 +1,13 @@
+dn: cn=Jame+sn=Heiden,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jame Heiden
+cn: Heiden
+givenname: Jame
+mail: jame.heiden@planetexpress.com
+userPassword: Jame
+ou: Group5
+uid: 585
+ Q==

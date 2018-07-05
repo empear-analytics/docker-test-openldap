@@ -1,0 +1,13 @@
+dn: cn=Alena+sn=Dellano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alena Dellano
+cn: Dellano
+givenname: Alena
+mail: alena.dellano@planetexpress.com
+userPassword: Alena
+ou: flight_crew
+uid: 2365
+ Q==

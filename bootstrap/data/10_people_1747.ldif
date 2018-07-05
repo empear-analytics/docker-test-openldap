@@ -1,0 +1,13 @@
+dn: cn=Delorse+sn=Ozment,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delorse Ozment
+cn: Ozment
+givenname: Delorse
+mail: delorse.ozment@planetexpress.com
+userPassword: Delorse
+ou: OtherGroup
+uid: 1747
+ Q==

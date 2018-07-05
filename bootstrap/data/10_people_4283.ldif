@@ -1,0 +1,13 @@
+dn: cn=Alex+sn=Cid,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alex Cid
+cn: Cid
+givenname: Alex
+mail: alex.cid@planetexpress.com
+userPassword: Alex
+ou: Group5
+uid: 4283
+ Q==

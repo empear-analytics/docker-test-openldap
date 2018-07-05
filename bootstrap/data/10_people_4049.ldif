@@ -1,0 +1,13 @@
+dn: cn=Belva+sn=Yuska,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Belva Yuska
+cn: Yuska
+givenname: Belva
+mail: belva.yuska@planetexpress.com
+userPassword: Belva
+ou: admin_staff
+uid: 4049
+ Q==

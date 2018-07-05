@@ -1,0 +1,13 @@
+dn: cn=Chan+sn=Borkoski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chan Borkoski
+cn: Borkoski
+givenname: Chan
+mail: chan.borkoski@planetexpress.com
+userPassword: Chan
+ou: admin_staff
+uid: 5828
+ Q==

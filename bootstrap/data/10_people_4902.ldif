@@ -1,0 +1,13 @@
+dn: cn=Emerald+sn=Peart,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emerald Peart
+cn: Peart
+givenname: Emerald
+mail: emerald.peart@planetexpress.com
+userPassword: Emerald
+ou: OtherGroup
+uid: 4902
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Cathi+sn=Ellington,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cathi Ellington
+cn: Ellington
+givenname: Cathi
+mail: cathi.ellington@planetexpress.com
+userPassword: Cathi
+ou: flight_crew
+uid: 4183
+ Q==

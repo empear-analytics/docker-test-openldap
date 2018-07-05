@@ -1,0 +1,13 @@
+dn: cn=Leslie+sn=Keesee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leslie Keesee
+cn: Keesee
+givenname: Leslie
+mail: leslie.keesee@planetexpress.com
+userPassword: Leslie
+ou: Group5
+uid: 4390
+ Q==

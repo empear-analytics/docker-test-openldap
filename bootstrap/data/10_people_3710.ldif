@@ -1,0 +1,13 @@
+dn: cn=Bridgette+sn=Trojak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bridgette Trojak
+cn: Trojak
+givenname: Bridgette
+mail: bridgette.trojak@planetexpress.com
+userPassword: Bridgette
+ou: flight_crew
+uid: 3710
+ Q==

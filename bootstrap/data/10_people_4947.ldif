@@ -1,0 +1,13 @@
+dn: cn=Lenore+sn=Winfrey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lenore Winfrey
+cn: Winfrey
+givenname: Lenore
+mail: lenore.winfrey@planetexpress.com
+userPassword: Lenore
+ou: OtherGroup
+uid: 4947
+ Q==

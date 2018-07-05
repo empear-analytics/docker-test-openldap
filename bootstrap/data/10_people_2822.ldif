@@ -1,0 +1,13 @@
+dn: cn=Michel+sn=Garbutt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Michel Garbutt
+cn: Garbutt
+givenname: Michel
+mail: michel.garbutt@planetexpress.com
+userPassword: Michel
+ou: flight_crew
+uid: 2822
+ Q==

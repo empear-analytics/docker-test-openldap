@@ -1,0 +1,13 @@
+dn: cn=Sandie+sn=Rotstein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sandie Rotstein
+cn: Rotstein
+givenname: Sandie
+mail: sandie.rotstein@planetexpress.com
+userPassword: Sandie
+ou: OtherGroup
+uid: 3217
+ Q==

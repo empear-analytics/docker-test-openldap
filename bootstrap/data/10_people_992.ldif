@@ -1,0 +1,13 @@
+dn: cn=Edythe+sn=Kopera,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edythe Kopera
+cn: Kopera
+givenname: Edythe
+mail: edythe.kopera@planetexpress.com
+userPassword: Edythe
+ou: Group5
+uid: 992
+ Q==

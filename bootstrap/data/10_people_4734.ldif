@@ -1,0 +1,13 @@
+dn: cn=Roxane+sn=Mego,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roxane Mego
+cn: Mego
+givenname: Roxane
+mail: roxane.mego@planetexpress.com
+userPassword: Roxane
+ou: OtherGroup
+uid: 4734
+ Q==

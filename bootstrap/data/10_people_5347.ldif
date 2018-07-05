@@ -1,0 +1,13 @@
+dn: cn=Krystal+sn=Delarosa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Krystal Delarosa
+cn: Delarosa
+givenname: Krystal
+mail: krystal.delarosa@planetexpress.com
+userPassword: Krystal
+ou: OtherGroup
+uid: 5347
+ Q==

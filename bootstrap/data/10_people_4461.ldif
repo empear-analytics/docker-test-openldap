@@ -1,0 +1,13 @@
+dn: cn=Bulah+sn=Willett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bulah Willett
+cn: Willett
+givenname: Bulah
+mail: bulah.willett@planetexpress.com
+userPassword: Bulah
+ou: admin_staff
+uid: 4461
+ Q==

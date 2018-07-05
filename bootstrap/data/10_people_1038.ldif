@@ -1,0 +1,13 @@
+dn: cn=Buddy+sn=Fey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Buddy Fey
+cn: Fey
+givenname: Buddy
+mail: buddy.fey@planetexpress.com
+userPassword: Buddy
+ou: OtherGroup
+uid: 1038
+ Q==

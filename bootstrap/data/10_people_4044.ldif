@@ -1,0 +1,13 @@
+dn: cn=Cicely+sn=Labate,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cicely Labate
+cn: Labate
+givenname: Cicely
+mail: cicely.labate@planetexpress.com
+userPassword: Cicely
+ou: Group5
+uid: 4044
+ Q==

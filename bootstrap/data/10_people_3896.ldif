@@ -1,0 +1,13 @@
+dn: cn=Sachiko+sn=Matuszak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sachiko Matuszak
+cn: Matuszak
+givenname: Sachiko
+mail: sachiko.matuszak@planetexpress.com
+userPassword: Sachiko
+ou: flight_crew
+uid: 3896
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Doris+sn=Jakes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Doris Jakes
+cn: Jakes
+givenname: Doris
+mail: doris.jakes@planetexpress.com
+userPassword: Doris
+ou: OtherGroup
+uid: 1285
+ Q==

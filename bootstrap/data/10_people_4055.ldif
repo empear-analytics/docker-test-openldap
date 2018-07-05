@@ -1,0 +1,13 @@
+dn: cn=Karisa+sn=Kuzmanic,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karisa Kuzmanic
+cn: Kuzmanic
+givenname: Karisa
+mail: karisa.kuzmanic@planetexpress.com
+userPassword: Karisa
+ou: admin_staff
+uid: 4055
+ Q==

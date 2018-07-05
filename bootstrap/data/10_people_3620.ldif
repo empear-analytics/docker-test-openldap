@@ -1,0 +1,13 @@
+dn: cn=Lecia+sn=Derrig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lecia Derrig
+cn: Derrig
+givenname: Lecia
+mail: lecia.derrig@planetexpress.com
+userPassword: Lecia
+ou: OtherGroup
+uid: 3620
+ Q==

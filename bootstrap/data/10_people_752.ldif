@@ -1,0 +1,13 @@
+dn: cn=Alayna+sn=Rossiter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alayna Rossiter
+cn: Rossiter
+givenname: Alayna
+mail: alayna.rossiter@planetexpress.com
+userPassword: Alayna
+ou: flight_crew
+uid: 752
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Angelique+sn=Rantz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelique Rantz
+cn: Rantz
+givenname: Angelique
+mail: angelique.rantz@planetexpress.com
+userPassword: Angelique
+ou: Group5
+uid: 5737
+ Q==

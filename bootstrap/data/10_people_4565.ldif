@@ -1,0 +1,13 @@
+dn: cn=Kristine+sn=Reigstad,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kristine Reigstad
+cn: Reigstad
+givenname: Kristine
+mail: kristine.reigstad@planetexpress.com
+userPassword: Kristine
+ou: flight_crew
+uid: 4565
+ Q==

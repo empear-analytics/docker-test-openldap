@@ -1,0 +1,13 @@
+dn: cn=Bebe+sn=Sachse,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bebe Sachse
+cn: Sachse
+givenname: Bebe
+mail: bebe.sachse@planetexpress.com
+userPassword: Bebe
+ou: Group5
+uid: 5480
+ Q==

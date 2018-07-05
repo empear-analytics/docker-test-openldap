@@ -1,0 +1,13 @@
+dn: cn=Valentina+sn=Egnor,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Valentina Egnor
+cn: Egnor
+givenname: Valentina
+mail: valentina.egnor@planetexpress.com
+userPassword: Valentina
+ou: OtherGroup
+uid: 1942
+ Q==

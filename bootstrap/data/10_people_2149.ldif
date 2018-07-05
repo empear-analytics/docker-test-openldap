@@ -1,0 +1,13 @@
+dn: cn=Adrianna+sn=Cosme,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adrianna Cosme
+cn: Cosme
+givenname: Adrianna
+mail: adrianna.cosme@planetexpress.com
+userPassword: Adrianna
+ou: Group5
+uid: 2149
+ Q==

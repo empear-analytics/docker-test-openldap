@@ -1,0 +1,13 @@
+dn: cn=Gertrud+sn=Lozaro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gertrud Lozaro
+cn: Lozaro
+givenname: Gertrud
+mail: gertrud.lozaro@planetexpress.com
+userPassword: Gertrud
+ou: Group5
+uid: 2215
+ Q==

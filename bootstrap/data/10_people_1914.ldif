@@ -1,0 +1,13 @@
+dn: cn=Birgit+sn=Adorno,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Birgit Adorno
+cn: Adorno
+givenname: Birgit
+mail: birgit.adorno@planetexpress.com
+userPassword: Birgit
+ou: flight_crew
+uid: 1914
+ Q==

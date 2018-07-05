@@ -1,0 +1,13 @@
+dn: cn=Margart+sn=Dadey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margart Dadey
+cn: Dadey
+givenname: Margart
+mail: margart.dadey@planetexpress.com
+userPassword: Margart
+ou: admin_staff
+uid: 2672
+ Q==

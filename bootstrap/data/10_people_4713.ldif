@@ -1,0 +1,13 @@
+dn: cn=Trish+sn=Phoubandith,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Trish Phoubandith
+cn: Phoubandith
+givenname: Trish
+mail: trish.phoubandith@planetexpress.com
+userPassword: Trish
+ou: admin_staff
+uid: 4713
+ Q==

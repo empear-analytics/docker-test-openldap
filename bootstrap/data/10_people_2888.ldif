@@ -1,0 +1,13 @@
+dn: cn=Trang+sn=Hain,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Trang Hain
+cn: Hain
+givenname: Trang
+mail: trang.hain@planetexpress.com
+userPassword: Trang
+ou: admin_staff
+uid: 2888
+ Q==

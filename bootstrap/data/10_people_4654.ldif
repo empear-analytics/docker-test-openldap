@@ -1,0 +1,13 @@
+dn: cn=Emmanuel+sn=Radar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emmanuel Radar
+cn: Radar
+givenname: Emmanuel
+mail: emmanuel.radar@planetexpress.com
+userPassword: Emmanuel
+ou: OtherGroup
+uid: 4654
+ Q==

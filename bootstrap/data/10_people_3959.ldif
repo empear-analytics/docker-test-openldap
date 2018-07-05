@@ -1,0 +1,13 @@
+dn: cn=Santina+sn=Hill,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Santina Hill
+cn: Hill
+givenname: Santina
+mail: santina.hill@planetexpress.com
+userPassword: Santina
+ou: flight_crew
+uid: 3959
+ Q==

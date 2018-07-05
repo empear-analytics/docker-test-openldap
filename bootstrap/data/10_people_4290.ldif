@@ -1,0 +1,13 @@
+dn: cn=Albertine+sn=Hartong,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Albertine Hartong
+cn: Hartong
+givenname: Albertine
+mail: albertine.hartong@planetexpress.com
+userPassword: Albertine
+ou: Group5
+uid: 4290
+ Q==

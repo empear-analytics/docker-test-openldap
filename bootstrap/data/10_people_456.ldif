@@ -1,0 +1,13 @@
+dn: cn=Chang+sn=Plainy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chang Plainy
+cn: Plainy
+givenname: Chang
+mail: chang.plainy@planetexpress.com
+userPassword: Chang
+ou: flight_crew
+uid: 456
+ Q==

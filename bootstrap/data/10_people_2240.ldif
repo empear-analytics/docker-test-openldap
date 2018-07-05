@@ -1,0 +1,13 @@
+dn: cn=Enedina+sn=Julitz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Enedina Julitz
+cn: Julitz
+givenname: Enedina
+mail: enedina.julitz@planetexpress.com
+userPassword: Enedina
+ou: OtherGroup
+uid: 2240
+ Q==

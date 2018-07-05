@@ -1,0 +1,13 @@
+dn: cn=Sanora+sn=Lauterbach,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sanora Lauterbach
+cn: Lauterbach
+givenname: Sanora
+mail: sanora.lauterbach@planetexpress.com
+userPassword: Sanora
+ou: OtherGroup
+uid: 4216
+ Q==

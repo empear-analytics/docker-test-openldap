@@ -1,0 +1,13 @@
+dn: cn=Slyvia+sn=Rives,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Slyvia Rives
+cn: Rives
+givenname: Slyvia
+mail: slyvia.rives@planetexpress.com
+userPassword: Slyvia
+ou: OtherGroup
+uid: 307
+ Q==

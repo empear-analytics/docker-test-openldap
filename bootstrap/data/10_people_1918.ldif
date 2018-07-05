@@ -1,0 +1,13 @@
+dn: cn=Vito+sn=Jonah,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vito Jonah
+cn: Jonah
+givenname: Vito
+mail: vito.jonah@planetexpress.com
+userPassword: Vito
+ou: OtherGroup
+uid: 1918
+ Q==

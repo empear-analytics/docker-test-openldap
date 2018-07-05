@@ -1,0 +1,13 @@
+dn: cn=Raelene+sn=Gouge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raelene Gouge
+cn: Gouge
+givenname: Raelene
+mail: raelene.gouge@planetexpress.com
+userPassword: Raelene
+ou: admin_staff
+uid: 5529
+ Q==

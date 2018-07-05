@@ -1,0 +1,13 @@
+dn: cn=Celestine+sn=Adinolfi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Celestine Adinolfi
+cn: Adinolfi
+givenname: Celestine
+mail: celestine.adinolfi@planetexpress.com
+userPassword: Celestine
+ou: Group5
+uid: 5929
+ Q==

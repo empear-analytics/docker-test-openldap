@@ -1,0 +1,13 @@
+dn: cn=Cherri+sn=Upchurch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cherri Upchurch
+cn: Upchurch
+givenname: Cherri
+mail: cherri.upchurch@planetexpress.com
+userPassword: Cherri
+ou: Group5
+uid: 5028
+ Q==

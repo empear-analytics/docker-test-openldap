@@ -1,0 +1,13 @@
+dn: cn=Annmarie+sn=Driskell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annmarie Driskell
+cn: Driskell
+givenname: Annmarie
+mail: annmarie.driskell@planetexpress.com
+userPassword: Annmarie
+ou: OtherGroup
+uid: 3017
+ Q==

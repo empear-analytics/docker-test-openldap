@@ -1,0 +1,13 @@
+dn: cn=Shawn+sn=Glish,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shawn Glish
+cn: Glish
+givenname: Shawn
+mail: shawn.glish@planetexpress.com
+userPassword: Shawn
+ou: flight_crew
+uid: 4196
+ Q==

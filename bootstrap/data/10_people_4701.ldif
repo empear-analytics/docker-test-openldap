@@ -1,0 +1,13 @@
+dn: cn=Sulema+sn=Slutzky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sulema Slutzky
+cn: Slutzky
+givenname: Sulema
+mail: sulema.slutzky@planetexpress.com
+userPassword: Sulema
+ou: admin_staff
+uid: 4701
+ Q==

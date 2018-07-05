@@ -1,0 +1,13 @@
+dn: cn=Gayle+sn=Plumley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gayle Plumley
+cn: Plumley
+givenname: Gayle
+mail: gayle.plumley@planetexpress.com
+userPassword: Gayle
+ou: OtherGroup
+uid: 839
+ Q==

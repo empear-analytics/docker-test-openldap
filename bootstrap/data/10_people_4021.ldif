@@ -1,0 +1,13 @@
+dn: cn=Faustina+sn=Espalin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Faustina Espalin
+cn: Espalin
+givenname: Faustina
+mail: faustina.espalin@planetexpress.com
+userPassword: Faustina
+ou: flight_crew
+uid: 4021
+ Q==

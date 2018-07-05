@@ -1,0 +1,13 @@
+dn: cn=Sharen+sn=Alyea,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharen Alyea
+cn: Alyea
+givenname: Sharen
+mail: sharen.alyea@planetexpress.com
+userPassword: Sharen
+ou: admin_staff
+uid: 5938
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Wesley+sn=Piechocki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wesley Piechocki
+cn: Piechocki
+givenname: Wesley
+mail: wesley.piechocki@planetexpress.com
+userPassword: Wesley
+ou: OtherGroup
+uid: 2169
+ Q==

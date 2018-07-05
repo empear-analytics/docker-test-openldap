@@ -1,0 +1,13 @@
+dn: cn=Taina+sn=Maragno,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Taina Maragno
+cn: Maragno
+givenname: Taina
+mail: taina.maragno@planetexpress.com
+userPassword: Taina
+ou: OtherGroup
+uid: 5343
+ Q==

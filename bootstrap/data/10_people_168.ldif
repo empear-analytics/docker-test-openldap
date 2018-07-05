@@ -1,0 +1,13 @@
+dn: cn=Gale+sn=Fiechter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gale Fiechter
+cn: Fiechter
+givenname: Gale
+mail: gale.fiechter@planetexpress.com
+userPassword: Gale
+ou: flight_crew
+uid: 168
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Delila+sn=Wrobliski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delila Wrobliski
+cn: Wrobliski
+givenname: Delila
+mail: delila.wrobliski@planetexpress.com
+userPassword: Delila
+ou: admin_staff
+uid: 579
+ Q==

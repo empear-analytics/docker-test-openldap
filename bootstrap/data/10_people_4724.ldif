@@ -1,0 +1,13 @@
+dn: cn=Aimee+sn=Sully,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aimee Sully
+cn: Sully
+givenname: Aimee
+mail: aimee.sully@planetexpress.com
+userPassword: Aimee
+ou: OtherGroup
+uid: 4724
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Antonio+sn=Haupert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Antonio Haupert
+cn: Haupert
+givenname: Antonio
+mail: antonio.haupert@planetexpress.com
+userPassword: Antonio
+ou: flight_crew
+uid: 392
+ Q==

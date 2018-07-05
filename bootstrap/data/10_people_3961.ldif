@@ -1,0 +1,13 @@
+dn: cn=Ian+sn=Dorer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ian Dorer
+cn: Dorer
+givenname: Ian
+mail: ian.dorer@planetexpress.com
+userPassword: Ian
+ou: OtherGroup
+uid: 3961
+ Q==

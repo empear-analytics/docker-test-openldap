@@ -1,0 +1,13 @@
+dn: cn=Idella+sn=Knisely,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Idella Knisely
+cn: Knisely
+givenname: Idella
+mail: idella.knisely@planetexpress.com
+userPassword: Idella
+ou: admin_staff
+uid: 4631
+ Q==

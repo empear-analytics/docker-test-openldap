@@ -1,0 +1,13 @@
+dn: cn=Sherell+sn=Helbling,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherell Helbling
+cn: Helbling
+givenname: Sherell
+mail: sherell.helbling@planetexpress.com
+userPassword: Sherell
+ou: admin_staff
+uid: 1600
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Toshia+sn=Vanfossan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Toshia Vanfossan
+cn: Vanfossan
+givenname: Toshia
+mail: toshia.vanfossan@planetexpress.com
+userPassword: Toshia
+ou: Group5
+uid: 2701
+ Q==

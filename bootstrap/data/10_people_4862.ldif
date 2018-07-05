@@ -1,0 +1,13 @@
+dn: cn=Helena+sn=Finklea,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Helena Finklea
+cn: Finklea
+givenname: Helena
+mail: helena.finklea@planetexpress.com
+userPassword: Helena
+ou: flight_crew
+uid: 4862
+ Q==

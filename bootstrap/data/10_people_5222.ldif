@@ -1,0 +1,13 @@
+dn: cn=Tommie+sn=Payton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tommie Payton
+cn: Payton
+givenname: Tommie
+mail: tommie.payton@planetexpress.com
+userPassword: Tommie
+ou: OtherGroup
+uid: 5222
+ Q==

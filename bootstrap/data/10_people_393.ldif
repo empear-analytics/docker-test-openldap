@@ -1,0 +1,13 @@
+dn: cn=Lacie+sn=Weltzin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lacie Weltzin
+cn: Weltzin
+givenname: Lacie
+mail: lacie.weltzin@planetexpress.com
+userPassword: Lacie
+ou: Group5
+uid: 393
+ Q==

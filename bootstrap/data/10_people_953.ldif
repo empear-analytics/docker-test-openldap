@@ -1,0 +1,13 @@
+dn: cn=Giovanna+sn=Twiford,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Giovanna Twiford
+cn: Twiford
+givenname: Giovanna
+mail: giovanna.twiford@planetexpress.com
+userPassword: Giovanna
+ou: OtherGroup
+uid: 953
+ Q==

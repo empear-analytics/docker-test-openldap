@@ -1,0 +1,13 @@
+dn: cn=Gwenda+sn=Yaeger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gwenda Yaeger
+cn: Yaeger
+givenname: Gwenda
+mail: gwenda.yaeger@planetexpress.com
+userPassword: Gwenda
+ou: Group5
+uid: 1358
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Adriene+sn=Pietrok,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adriene Pietrok
+cn: Pietrok
+givenname: Adriene
+mail: adriene.pietrok@planetexpress.com
+userPassword: Adriene
+ou: OtherGroup
+uid: 3678
+ Q==

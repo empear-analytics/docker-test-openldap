@@ -1,0 +1,13 @@
+dn: cn=Ollie+sn=Kirschner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ollie Kirschner
+cn: Kirschner
+givenname: Ollie
+mail: ollie.kirschner@planetexpress.com
+userPassword: Ollie
+ou: OtherGroup
+uid: 5125
+ Q==

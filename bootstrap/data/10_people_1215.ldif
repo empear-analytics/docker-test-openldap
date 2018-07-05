@@ -1,0 +1,13 @@
+dn: cn=Kerstin+sn=Blattner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kerstin Blattner
+cn: Blattner
+givenname: Kerstin
+mail: kerstin.blattner@planetexpress.com
+userPassword: Kerstin
+ou: admin_staff
+uid: 1215
+ Q==

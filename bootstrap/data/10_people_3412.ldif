@@ -1,0 +1,13 @@
+dn: cn=Lakeshia+sn=Kardashian,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lakeshia Kardashian
+cn: Kardashian
+givenname: Lakeshia
+mail: lakeshia.kardashian@planetexpress.com
+userPassword: Lakeshia
+ou: flight_crew
+uid: 3412
+ Q==

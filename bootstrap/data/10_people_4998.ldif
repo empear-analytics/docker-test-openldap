@@ -1,0 +1,13 @@
+dn: cn=Nova+sn=Pounds,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nova Pounds
+cn: Pounds
+givenname: Nova
+mail: nova.pounds@planetexpress.com
+userPassword: Nova
+ou: OtherGroup
+uid: 4998
+ Q==

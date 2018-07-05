@@ -1,0 +1,13 @@
+dn: cn=Gwenn+sn=Moehring,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gwenn Moehring
+cn: Moehring
+givenname: Gwenn
+mail: gwenn.moehring@planetexpress.com
+userPassword: Gwenn
+ou: Group5
+uid: 1011
+ Q==

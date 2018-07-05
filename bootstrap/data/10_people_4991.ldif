@@ -1,0 +1,13 @@
+dn: cn=Britni+sn=Kaleel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Britni Kaleel
+cn: Kaleel
+givenname: Britni
+mail: britni.kaleel@planetexpress.com
+userPassword: Britni
+ou: Group5
+uid: 4991
+ Q==

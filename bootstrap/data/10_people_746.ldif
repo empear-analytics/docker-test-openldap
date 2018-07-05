@@ -1,0 +1,13 @@
+dn: cn=Bethann+sn=Schlabaugh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bethann Schlabaugh
+cn: Schlabaugh
+givenname: Bethann
+mail: bethann.schlabaugh@planetexpress.com
+userPassword: Bethann
+ou: Group5
+uid: 746
+ Q==

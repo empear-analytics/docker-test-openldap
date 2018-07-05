@@ -1,0 +1,13 @@
+dn: cn=Rosalia+sn=Marrapodi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosalia Marrapodi
+cn: Marrapodi
+givenname: Rosalia
+mail: rosalia.marrapodi@planetexpress.com
+userPassword: Rosalia
+ou: flight_crew
+uid: 2758
+ Q==

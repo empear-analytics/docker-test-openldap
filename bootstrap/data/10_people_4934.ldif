@@ -1,0 +1,13 @@
+dn: cn=Analisa+sn=Desalvo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Analisa Desalvo
+cn: Desalvo
+givenname: Analisa
+mail: analisa.desalvo@planetexpress.com
+userPassword: Analisa
+ou: admin_staff
+uid: 4934
+ Q==

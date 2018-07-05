@@ -1,0 +1,13 @@
+dn: cn=Euna+sn=Zogby,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Euna Zogby
+cn: Zogby
+givenname: Euna
+mail: euna.zogby@planetexpress.com
+userPassword: Euna
+ou: OtherGroup
+uid: 1118
+ Q==

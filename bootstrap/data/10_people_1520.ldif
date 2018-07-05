@@ -1,0 +1,13 @@
+dn: cn=Antonio+sn=Houten,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Antonio Houten
+cn: Houten
+givenname: Antonio
+mail: antonio.houten@planetexpress.com
+userPassword: Antonio
+ou: OtherGroup
+uid: 1520
+ Q==

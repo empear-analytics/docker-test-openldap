@@ -1,0 +1,13 @@
+dn: cn=Julienne+sn=Sarli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Julienne Sarli
+cn: Sarli
+givenname: Julienne
+mail: julienne.sarli@planetexpress.com
+userPassword: Julienne
+ou: Group5
+uid: 2859
+ Q==

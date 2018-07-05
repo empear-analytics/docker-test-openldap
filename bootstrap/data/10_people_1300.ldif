@@ -1,0 +1,13 @@
+dn: cn=Emanuel+sn=Sum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emanuel Sum
+cn: Sum
+givenname: Emanuel
+mail: emanuel.sum@planetexpress.com
+userPassword: Emanuel
+ou: flight_crew
+uid: 1300
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Florentina+sn=Squire,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Florentina Squire
+cn: Squire
+givenname: Florentina
+mail: florentina.squire@planetexpress.com
+userPassword: Florentina
+ou: admin_staff
+uid: 3170
+ Q==

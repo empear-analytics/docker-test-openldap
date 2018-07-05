@@ -1,0 +1,13 @@
+dn: cn=Armanda+sn=Gildroy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Armanda Gildroy
+cn: Gildroy
+givenname: Armanda
+mail: armanda.gildroy@planetexpress.com
+userPassword: Armanda
+ou: Group5
+uid: 2594
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Mari+sn=Tolmich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mari Tolmich
+cn: Tolmich
+givenname: Mari
+mail: mari.tolmich@planetexpress.com
+userPassword: Mari
+ou: flight_crew
+uid: 5326
+ Q==

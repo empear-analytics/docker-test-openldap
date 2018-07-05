@@ -1,0 +1,13 @@
+dn: cn=Rosio+sn=Lahn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosio Lahn
+cn: Lahn
+givenname: Rosio
+mail: rosio.lahn@planetexpress.com
+userPassword: Rosio
+ou: admin_staff
+uid: 3368
+ Q==

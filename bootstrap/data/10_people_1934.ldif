@@ -1,0 +1,13 @@
+dn: cn=Dierdre+sn=Boutros,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dierdre Boutros
+cn: Boutros
+givenname: Dierdre
+mail: dierdre.boutros@planetexpress.com
+userPassword: Dierdre
+ou: Group5
+uid: 1934
+ Q==

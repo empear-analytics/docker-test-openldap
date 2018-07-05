@@ -1,0 +1,13 @@
+dn: cn=Layne+sn=Dedrick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Layne Dedrick
+cn: Dedrick
+givenname: Layne
+mail: layne.dedrick@planetexpress.com
+userPassword: Layne
+ou: flight_crew
+uid: 365
+ Q==

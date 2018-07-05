@@ -1,0 +1,13 @@
+dn: cn=Tuan+sn=Marberry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tuan Marberry
+cn: Marberry
+givenname: Tuan
+mail: tuan.marberry@planetexpress.com
+userPassword: Tuan
+ou: Group5
+uid: 3031
+ Q==

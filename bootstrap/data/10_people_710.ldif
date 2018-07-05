@@ -1,0 +1,13 @@
+dn: cn=Lidia+sn=Yambo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lidia Yambo
+cn: Yambo
+givenname: Lidia
+mail: lidia.yambo@planetexpress.com
+userPassword: Lidia
+ou: OtherGroup
+uid: 710
+ Q==

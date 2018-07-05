@@ -1,0 +1,13 @@
+dn: cn=Shenita+sn=Amweg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shenita Amweg
+cn: Amweg
+givenname: Shenita
+mail: shenita.amweg@planetexpress.com
+userPassword: Shenita
+ou: Group5
+uid: 244
+ Q==

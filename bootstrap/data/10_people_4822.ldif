@@ -1,0 +1,13 @@
+dn: cn=Jackie+sn=Jost,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jackie Jost
+cn: Jost
+givenname: Jackie
+mail: jackie.jost@planetexpress.com
+userPassword: Jackie
+ou: OtherGroup
+uid: 4822
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Christie+sn=Pietropaolo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christie Pietropaolo
+cn: Pietropaolo
+givenname: Christie
+mail: christie.pietropaolo@planetexpress.com
+userPassword: Christie
+ou: admin_staff
+uid: 1923
+ Q==

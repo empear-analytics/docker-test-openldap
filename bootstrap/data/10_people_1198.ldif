@@ -1,0 +1,13 @@
+dn: cn=Gaynelle+sn=Rainbow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gaynelle Rainbow
+cn: Rainbow
+givenname: Gaynelle
+mail: gaynelle.rainbow@planetexpress.com
+userPassword: Gaynelle
+ou: flight_crew
+uid: 1198
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Marylyn+sn=Fusco,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marylyn Fusco
+cn: Fusco
+givenname: Marylyn
+mail: marylyn.fusco@planetexpress.com
+userPassword: Marylyn
+ou: flight_crew
+uid: 1847
+ Q==

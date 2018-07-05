@@ -1,0 +1,13 @@
+dn: cn=Daniel+sn=Strakbein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daniel Strakbein
+cn: Strakbein
+givenname: Daniel
+mail: daniel.strakbein@planetexpress.com
+userPassword: Daniel
+ou: OtherGroup
+uid: 5355
+ Q==

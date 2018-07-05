@@ -1,0 +1,13 @@
+dn: cn=Nana+sn=Bertagnoli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nana Bertagnoli
+cn: Bertagnoli
+givenname: Nana
+mail: nana.bertagnoli@planetexpress.com
+userPassword: Nana
+ou: admin_staff
+uid: 5130
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ramona+sn=Hutchins,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ramona Hutchins
+cn: Hutchins
+givenname: Ramona
+mail: ramona.hutchins@planetexpress.com
+userPassword: Ramona
+ou: OtherGroup
+uid: 4853
+ Q==

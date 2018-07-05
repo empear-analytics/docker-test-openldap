@@ -1,0 +1,13 @@
+dn: cn=Kathe+sn=Delorbe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kathe Delorbe
+cn: Delorbe
+givenname: Kathe
+mail: kathe.delorbe@planetexpress.com
+userPassword: Kathe
+ou: admin_staff
+uid: 5036
+ Q==

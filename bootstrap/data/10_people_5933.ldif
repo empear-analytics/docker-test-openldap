@@ -1,0 +1,13 @@
+dn: cn=Odell+sn=Chander,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Odell Chander
+cn: Chander
+givenname: Odell
+mail: odell.chander@planetexpress.com
+userPassword: Odell
+ou: admin_staff
+uid: 5933
+ Q==

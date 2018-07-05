@@ -1,0 +1,13 @@
+dn: cn=Monte+sn=Zeto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Monte Zeto
+cn: Zeto
+givenname: Monte
+mail: monte.zeto@planetexpress.com
+userPassword: Monte
+ou: OtherGroup
+uid: 5095
+ Q==

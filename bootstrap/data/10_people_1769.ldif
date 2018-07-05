@@ -1,0 +1,13 @@
+dn: cn=Mariano+sn=Grensky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mariano Grensky
+cn: Grensky
+givenname: Mariano
+mail: mariano.grensky@planetexpress.com
+userPassword: Mariano
+ou: flight_crew
+uid: 1769
+ Q==

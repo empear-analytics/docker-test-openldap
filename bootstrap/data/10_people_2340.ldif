@@ -1,0 +1,13 @@
+dn: cn=Yelena+sn=Juda,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yelena Juda
+cn: Juda
+givenname: Yelena
+mail: yelena.juda@planetexpress.com
+userPassword: Yelena
+ou: admin_staff
+uid: 2340
+ Q==

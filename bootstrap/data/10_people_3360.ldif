@@ -1,0 +1,13 @@
+dn: cn=Cindie+sn=Mcinnis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cindie Mcinnis
+cn: Mcinnis
+givenname: Cindie
+mail: cindie.mcinnis@planetexpress.com
+userPassword: Cindie
+ou: OtherGroup
+uid: 3360
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Pandora+sn=Wolfgram,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pandora Wolfgram
+cn: Wolfgram
+givenname: Pandora
+mail: pandora.wolfgram@planetexpress.com
+userPassword: Pandora
+ou: flight_crew
+uid: 4084
+ Q==

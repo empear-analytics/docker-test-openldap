@@ -1,0 +1,13 @@
+dn: cn=Dayle+sn=Bellessa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dayle Bellessa
+cn: Bellessa
+givenname: Dayle
+mail: dayle.bellessa@planetexpress.com
+userPassword: Dayle
+ou: flight_crew
+uid: 336
+ Q==

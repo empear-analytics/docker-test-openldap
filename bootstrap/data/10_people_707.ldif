@@ -1,0 +1,13 @@
+dn: cn=Loida+sn=Wildhaber,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loida Wildhaber
+cn: Wildhaber
+givenname: Loida
+mail: loida.wildhaber@planetexpress.com
+userPassword: Loida
+ou: flight_crew
+uid: 707
+ Q==

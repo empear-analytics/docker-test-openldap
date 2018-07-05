@@ -1,0 +1,13 @@
+dn: cn=Christel+sn=Krebel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christel Krebel
+cn: Krebel
+givenname: Christel
+mail: christel.krebel@planetexpress.com
+userPassword: Christel
+ou: admin_staff
+uid: 5390
+ Q==

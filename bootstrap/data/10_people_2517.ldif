@@ -1,0 +1,13 @@
+dn: cn=Tandy+sn=Bastidos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tandy Bastidos
+cn: Bastidos
+givenname: Tandy
+mail: tandy.bastidos@planetexpress.com
+userPassword: Tandy
+ou: Group5
+uid: 2517
+ Q==

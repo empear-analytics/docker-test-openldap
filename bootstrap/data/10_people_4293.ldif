@@ -1,0 +1,13 @@
+dn: cn=Palma+sn=Reynolds,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Palma Reynolds
+cn: Reynolds
+givenname: Palma
+mail: palma.reynolds@planetexpress.com
+userPassword: Palma
+ou: admin_staff
+uid: 4293
+ Q==

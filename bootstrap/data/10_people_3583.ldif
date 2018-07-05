@@ -1,0 +1,13 @@
+dn: cn=Krystina+sn=Ster,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Krystina Ster
+cn: Ster
+givenname: Krystina
+mail: krystina.ster@planetexpress.com
+userPassword: Krystina
+ou: OtherGroup
+uid: 3583
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Mikaela+sn=Matarese,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mikaela Matarese
+cn: Matarese
+givenname: Mikaela
+mail: mikaela.matarese@planetexpress.com
+userPassword: Mikaela
+ou: admin_staff
+uid: 418
+ Q==

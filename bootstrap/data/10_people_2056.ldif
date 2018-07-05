@@ -1,0 +1,13 @@
+dn: cn=Eugenio+sn=Sonnefeld,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eugenio Sonnefeld
+cn: Sonnefeld
+givenname: Eugenio
+mail: eugenio.sonnefeld@planetexpress.com
+userPassword: Eugenio
+ou: Group5
+uid: 2056
+ Q==

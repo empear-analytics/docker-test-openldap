@@ -1,0 +1,13 @@
+dn: cn=Sina+sn=Riggsbee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sina Riggsbee
+cn: Riggsbee
+givenname: Sina
+mail: sina.riggsbee@planetexpress.com
+userPassword: Sina
+ou: flight_crew
+uid: 2282
+ Q==

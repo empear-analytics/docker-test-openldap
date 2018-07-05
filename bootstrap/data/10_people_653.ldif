@@ -1,0 +1,13 @@
+dn: cn=Keli+sn=Divine,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keli Divine
+cn: Divine
+givenname: Keli
+mail: keli.divine@planetexpress.com
+userPassword: Keli
+ou: Group5
+uid: 653
+ Q==

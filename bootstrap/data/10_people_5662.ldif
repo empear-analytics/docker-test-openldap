@@ -1,0 +1,13 @@
+dn: cn=Gerald+sn=Kor,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gerald Kor
+cn: Kor
+givenname: Gerald
+mail: gerald.kor@planetexpress.com
+userPassword: Gerald
+ou: OtherGroup
+uid: 5662
+ Q==

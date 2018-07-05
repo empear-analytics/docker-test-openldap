@@ -1,0 +1,13 @@
+dn: cn=Lavern+sn=Kinderknecht,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lavern Kinderknecht
+cn: Kinderknecht
+givenname: Lavern
+mail: lavern.kinderknecht@planetexpress.com
+userPassword: Lavern
+ou: admin_staff
+uid: 1964
+ Q==

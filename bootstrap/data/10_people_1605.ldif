@@ -1,0 +1,13 @@
+dn: cn=Joel+sn=Berschauer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joel Berschauer
+cn: Berschauer
+givenname: Joel
+mail: joel.berschauer@planetexpress.com
+userPassword: Joel
+ou: Group5
+uid: 1605
+ Q==

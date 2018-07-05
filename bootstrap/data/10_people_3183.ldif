@@ -1,0 +1,13 @@
+dn: cn=Efren+sn=Jaillet,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Efren Jaillet
+cn: Jaillet
+givenname: Efren
+mail: efren.jaillet@planetexpress.com
+userPassword: Efren
+ou: flight_crew
+uid: 3183
+ Q==

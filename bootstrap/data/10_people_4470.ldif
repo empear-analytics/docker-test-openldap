@@ -1,0 +1,13 @@
+dn: cn=Kourtney+sn=Pagley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kourtney Pagley
+cn: Pagley
+givenname: Kourtney
+mail: kourtney.pagley@planetexpress.com
+userPassword: Kourtney
+ou: Group5
+uid: 4470
+ Q==

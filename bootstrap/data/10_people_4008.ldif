@@ -1,0 +1,13 @@
+dn: cn=Zoraida+sn=Hartzo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zoraida Hartzo
+cn: Hartzo
+givenname: Zoraida
+mail: zoraida.hartzo@planetexpress.com
+userPassword: Zoraida
+ou: OtherGroup
+uid: 4008
+ Q==

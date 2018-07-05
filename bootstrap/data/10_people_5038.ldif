@@ -1,0 +1,13 @@
+dn: cn=Mariano+sn=Lonero,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mariano Lonero
+cn: Lonero
+givenname: Mariano
+mail: mariano.lonero@planetexpress.com
+userPassword: Mariano
+ou: Group5
+uid: 5038
+ Q==

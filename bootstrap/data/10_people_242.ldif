@@ -1,0 +1,13 @@
+dn: cn=Melva+sn=Mcwhinney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melva Mcwhinney
+cn: Mcwhinney
+givenname: Melva
+mail: melva.mcwhinney@planetexpress.com
+userPassword: Melva
+ou: admin_staff
+uid: 242
+ Q==

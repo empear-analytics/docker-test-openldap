@@ -1,0 +1,13 @@
+dn: cn=Roberto+sn=Mullinax,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roberto Mullinax
+cn: Mullinax
+givenname: Roberto
+mail: roberto.mullinax@planetexpress.com
+userPassword: Roberto
+ou: OtherGroup
+uid: 2075
+ Q==

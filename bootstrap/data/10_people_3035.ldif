@@ -1,0 +1,13 @@
+dn: cn=Andrew+sn=Athey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andrew Athey
+cn: Athey
+givenname: Andrew
+mail: andrew.athey@planetexpress.com
+userPassword: Andrew
+ou: flight_crew
+uid: 3035
+ Q==

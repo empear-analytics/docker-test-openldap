@@ -1,0 +1,13 @@
+dn: cn=Billi+sn=Mcjunkins,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Billi Mcjunkins
+cn: Mcjunkins
+givenname: Billi
+mail: billi.mcjunkins@planetexpress.com
+userPassword: Billi
+ou: Group5
+uid: 5320
+ Q==

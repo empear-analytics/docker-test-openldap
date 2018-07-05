@@ -1,0 +1,13 @@
+dn: cn=Alverta+sn=Gabossi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alverta Gabossi
+cn: Gabossi
+givenname: Alverta
+mail: alverta.gabossi@planetexpress.com
+userPassword: Alverta
+ou: Group5
+uid: 626
+ Q==

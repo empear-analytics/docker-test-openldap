@@ -1,0 +1,13 @@
+dn: cn=Chris+sn=Kher,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chris Kher
+cn: Kher
+givenname: Chris
+mail: chris.kher@planetexpress.com
+userPassword: Chris
+ou: flight_crew
+uid: 551
+ Q==

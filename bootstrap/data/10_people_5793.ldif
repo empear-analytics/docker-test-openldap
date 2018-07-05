@@ -1,0 +1,13 @@
+dn: cn=Carly+sn=Fingado,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carly Fingado
+cn: Fingado
+givenname: Carly
+mail: carly.fingado@planetexpress.com
+userPassword: Carly
+ou: OtherGroup
+uid: 5793
+ Q==

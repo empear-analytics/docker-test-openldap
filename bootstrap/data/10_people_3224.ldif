@@ -1,0 +1,13 @@
+dn: cn=Tabatha+sn=Lomino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tabatha Lomino
+cn: Lomino
+givenname: Tabatha
+mail: tabatha.lomino@planetexpress.com
+userPassword: Tabatha
+ou: Group5
+uid: 3224
+ Q==

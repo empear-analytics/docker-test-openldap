@@ -1,0 +1,13 @@
+dn: cn=Dylan+sn=Kizzee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dylan Kizzee
+cn: Kizzee
+givenname: Dylan
+mail: dylan.kizzee@planetexpress.com
+userPassword: Dylan
+ou: OtherGroup
+uid: 3994
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Quinn+sn=Schornick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Quinn Schornick
+cn: Schornick
+givenname: Quinn
+mail: quinn.schornick@planetexpress.com
+userPassword: Quinn
+ou: flight_crew
+uid: 5156
+ Q==

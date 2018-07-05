@@ -1,0 +1,13 @@
+dn: cn=Otha+sn=Quinerly,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Otha Quinerly
+cn: Quinerly
+givenname: Otha
+mail: otha.quinerly@planetexpress.com
+userPassword: Otha
+ou: admin_staff
+uid: 5026
+ Q==

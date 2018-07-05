@@ -1,0 +1,13 @@
+dn: cn=Sasha+sn=Goldin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sasha Goldin
+cn: Goldin
+givenname: Sasha
+mail: sasha.goldin@planetexpress.com
+userPassword: Sasha
+ou: Group5
+uid: 1266
+ Q==

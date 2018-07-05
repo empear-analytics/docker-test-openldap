@@ -1,0 +1,13 @@
+dn: cn=Kaleigh+sn=Tomita,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kaleigh Tomita
+cn: Tomita
+givenname: Kaleigh
+mail: kaleigh.tomita@planetexpress.com
+userPassword: Kaleigh
+ou: OtherGroup
+uid: 179
+ Q==

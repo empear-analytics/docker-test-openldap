@@ -1,0 +1,13 @@
+dn: cn=Beau+sn=Clavin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beau Clavin
+cn: Clavin
+givenname: Beau
+mail: beau.clavin@planetexpress.com
+userPassword: Beau
+ou: OtherGroup
+uid: 1737
+ Q==

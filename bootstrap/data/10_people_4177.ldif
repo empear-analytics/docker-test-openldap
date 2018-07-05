@@ -1,0 +1,13 @@
+dn: cn=Rutha+sn=Cambareri,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rutha Cambareri
+cn: Cambareri
+givenname: Rutha
+mail: rutha.cambareri@planetexpress.com
+userPassword: Rutha
+ou: flight_crew
+uid: 4177
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Daniele+sn=Kreke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daniele Kreke
+cn: Kreke
+givenname: Daniele
+mail: daniele.kreke@planetexpress.com
+userPassword: Daniele
+ou: admin_staff
+uid: 3705
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Cody+sn=Woodruff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cody Woodruff
+cn: Woodruff
+givenname: Cody
+mail: cody.woodruff@planetexpress.com
+userPassword: Cody
+ou: flight_crew
+uid: 247
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Aubrey+sn=Polhemus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aubrey Polhemus
+cn: Polhemus
+givenname: Aubrey
+mail: aubrey.polhemus@planetexpress.com
+userPassword: Aubrey
+ou: flight_crew
+uid: 556
+ Q==

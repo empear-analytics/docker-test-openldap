@@ -1,0 +1,13 @@
+dn: cn=Crista+sn=Groeber,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Crista Groeber
+cn: Groeber
+givenname: Crista
+mail: crista.groeber@planetexpress.com
+userPassword: Crista
+ou: admin_staff
+uid: 286
+ Q==

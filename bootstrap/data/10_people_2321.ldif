@@ -1,0 +1,13 @@
+dn: cn=Hong+sn=Carlew,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hong Carlew
+cn: Carlew
+givenname: Hong
+mail: hong.carlew@planetexpress.com
+userPassword: Hong
+ou: admin_staff
+uid: 2321
+ Q==

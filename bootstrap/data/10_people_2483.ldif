@@ -1,0 +1,13 @@
+dn: cn=Augustine+sn=Gansert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Augustine Gansert
+cn: Gansert
+givenname: Augustine
+mail: augustine.gansert@planetexpress.com
+userPassword: Augustine
+ou: admin_staff
+uid: 2483
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tisha+sn=Vosper,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tisha Vosper
+cn: Vosper
+givenname: Tisha
+mail: tisha.vosper@planetexpress.com
+userPassword: Tisha
+ou: OtherGroup
+uid: 5805
+ Q==

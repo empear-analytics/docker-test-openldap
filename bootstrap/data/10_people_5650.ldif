@@ -1,0 +1,13 @@
+dn: cn=Debora+sn=Aini,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Debora Aini
+cn: Aini
+givenname: Debora
+mail: debora.aini@planetexpress.com
+userPassword: Debora
+ou: flight_crew
+uid: 5650
+ Q==

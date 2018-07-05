@@ -1,0 +1,13 @@
+dn: cn=Wilda+sn=String,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wilda String
+cn: String
+givenname: Wilda
+mail: wilda.string@planetexpress.com
+userPassword: Wilda
+ou: Group5
+uid: 2591
+ Q==

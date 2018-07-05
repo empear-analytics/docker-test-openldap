@@ -1,0 +1,13 @@
+dn: cn=Moshe+sn=Grobstein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Moshe Grobstein
+cn: Grobstein
+givenname: Moshe
+mail: moshe.grobstein@planetexpress.com
+userPassword: Moshe
+ou: flight_crew
+uid: 4652
+ Q==

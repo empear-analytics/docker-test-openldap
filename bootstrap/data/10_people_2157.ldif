@@ -1,0 +1,13 @@
+dn: cn=Sammie+sn=Credille,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sammie Credille
+cn: Credille
+givenname: Sammie
+mail: sammie.credille@planetexpress.com
+userPassword: Sammie
+ou: Group5
+uid: 2157
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Frederica+sn=Caulkins,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Frederica Caulkins
+cn: Caulkins
+givenname: Frederica
+mail: frederica.caulkins@planetexpress.com
+userPassword: Frederica
+ou: Group5
+uid: 2556
+ Q==

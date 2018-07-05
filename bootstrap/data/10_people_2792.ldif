@@ -1,0 +1,13 @@
+dn: cn=Virgie+sn=Skinkle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Virgie Skinkle
+cn: Skinkle
+givenname: Virgie
+mail: virgie.skinkle@planetexpress.com
+userPassword: Virgie
+ou: flight_crew
+uid: 2792
+ Q==

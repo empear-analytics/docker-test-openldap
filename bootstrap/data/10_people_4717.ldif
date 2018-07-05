@@ -1,0 +1,13 @@
+dn: cn=Shanda+sn=Stoyanov,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shanda Stoyanov
+cn: Stoyanov
+givenname: Shanda
+mail: shanda.stoyanov@planetexpress.com
+userPassword: Shanda
+ou: admin_staff
+uid: 4717
+ Q==

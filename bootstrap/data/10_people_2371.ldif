@@ -1,0 +1,13 @@
+dn: cn=Willis+sn=Perretta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Willis Perretta
+cn: Perretta
+givenname: Willis
+mail: willis.perretta@planetexpress.com
+userPassword: Willis
+ou: OtherGroup
+uid: 2371
+ Q==

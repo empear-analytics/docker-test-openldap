@@ -1,0 +1,13 @@
+dn: cn=Erica+sn=Indelicato,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Erica Indelicato
+cn: Indelicato
+givenname: Erica
+mail: erica.indelicato@planetexpress.com
+userPassword: Erica
+ou: Group5
+uid: 878
+ Q==

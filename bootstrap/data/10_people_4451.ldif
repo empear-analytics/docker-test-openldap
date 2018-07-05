@@ -1,0 +1,13 @@
+dn: cn=Lani+sn=Paysinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lani Paysinger
+cn: Paysinger
+givenname: Lani
+mail: lani.paysinger@planetexpress.com
+userPassword: Lani
+ou: flight_crew
+uid: 4451
+ Q==

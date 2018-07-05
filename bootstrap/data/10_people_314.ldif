@@ -1,0 +1,13 @@
+dn: cn=Shirlee+sn=Hubbartt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shirlee Hubbartt
+cn: Hubbartt
+givenname: Shirlee
+mail: shirlee.hubbartt@planetexpress.com
+userPassword: Shirlee
+ou: OtherGroup
+uid: 314
+ Q==

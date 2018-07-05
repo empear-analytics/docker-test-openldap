@@ -1,0 +1,13 @@
+dn: cn=Lady+sn=Garrott,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lady Garrott
+cn: Garrott
+givenname: Lady
+mail: lady.garrott@planetexpress.com
+userPassword: Lady
+ou: flight_crew
+uid: 1296
+ Q==

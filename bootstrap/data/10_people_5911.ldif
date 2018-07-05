@@ -1,0 +1,13 @@
+dn: cn=Frida+sn=Darjean,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Frida Darjean
+cn: Darjean
+givenname: Frida
+mail: frida.darjean@planetexpress.com
+userPassword: Frida
+ou: flight_crew
+uid: 5911
+ Q==

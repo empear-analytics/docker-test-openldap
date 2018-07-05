@@ -1,0 +1,13 @@
+dn: cn=Myong+sn=Pizzuti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Myong Pizzuti
+cn: Pizzuti
+givenname: Myong
+mail: myong.pizzuti@planetexpress.com
+userPassword: Myong
+ou: OtherGroup
+uid: 4511
+ Q==

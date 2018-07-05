@@ -1,0 +1,13 @@
+dn: cn=Nestor+sn=Schleig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nestor Schleig
+cn: Schleig
+givenname: Nestor
+mail: nestor.schleig@planetexpress.com
+userPassword: Nestor
+ou: OtherGroup
+uid: 2293
+ Q==

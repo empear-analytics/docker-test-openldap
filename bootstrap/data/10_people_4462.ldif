@@ -1,0 +1,13 @@
+dn: cn=Tia+sn=Witters,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tia Witters
+cn: Witters
+givenname: Tia
+mail: tia.witters@planetexpress.com
+userPassword: Tia
+ou: flight_crew
+uid: 4462
+ Q==

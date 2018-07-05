@@ -1,0 +1,13 @@
+dn: cn=Manuela+sn=Kolda,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Manuela Kolda
+cn: Kolda
+givenname: Manuela
+mail: manuela.kolda@planetexpress.com
+userPassword: Manuela
+ou: Group5
+uid: 1313
+ Q==

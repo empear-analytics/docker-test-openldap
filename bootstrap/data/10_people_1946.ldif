@@ -1,0 +1,13 @@
+dn: cn=Teena+sn=Giulian,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Teena Giulian
+cn: Giulian
+givenname: Teena
+mail: teena.giulian@planetexpress.com
+userPassword: Teena
+ou: Group5
+uid: 1946
+ Q==

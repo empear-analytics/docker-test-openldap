@@ -1,0 +1,13 @@
+dn: cn=Paola+sn=Brandis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Paola Brandis
+cn: Brandis
+givenname: Paola
+mail: paola.brandis@planetexpress.com
+userPassword: Paola
+ou: flight_crew
+uid: 5027
+ Q==

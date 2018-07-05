@@ -1,0 +1,13 @@
+dn: cn=Renata+sn=Danko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Renata Danko
+cn: Danko
+givenname: Renata
+mail: renata.danko@planetexpress.com
+userPassword: Renata
+ou: flight_crew
+uid: 5174
+ Q==

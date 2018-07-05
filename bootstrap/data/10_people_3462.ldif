@@ -1,0 +1,13 @@
+dn: cn=Wade+sn=Rossum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wade Rossum
+cn: Rossum
+givenname: Wade
+mail: wade.rossum@planetexpress.com
+userPassword: Wade
+ou: flight_crew
+uid: 3462
+ Q==

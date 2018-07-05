@@ -1,0 +1,13 @@
+dn: cn=Enrique+sn=Parcells,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Enrique Parcells
+cn: Parcells
+givenname: Enrique
+mail: enrique.parcells@planetexpress.com
+userPassword: Enrique
+ou: admin_staff
+uid: 867
+ Q==

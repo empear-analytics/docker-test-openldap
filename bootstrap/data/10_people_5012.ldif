@@ -1,0 +1,13 @@
+dn: cn=Williams+sn=Mundt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Williams Mundt
+cn: Mundt
+givenname: Williams
+mail: williams.mundt@planetexpress.com
+userPassword: Williams
+ou: Group5
+uid: 5012
+ Q==

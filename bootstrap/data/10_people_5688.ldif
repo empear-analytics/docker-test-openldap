@@ -1,0 +1,13 @@
+dn: cn=Ermelinda+sn=Keiser,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ermelinda Keiser
+cn: Keiser
+givenname: Ermelinda
+mail: ermelinda.keiser@planetexpress.com
+userPassword: Ermelinda
+ou: admin_staff
+uid: 5688
+ Q==

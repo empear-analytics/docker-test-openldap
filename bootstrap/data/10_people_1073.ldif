@@ -1,0 +1,13 @@
+dn: cn=Alecia+sn=Astolfi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alecia Astolfi
+cn: Astolfi
+givenname: Alecia
+mail: alecia.astolfi@planetexpress.com
+userPassword: Alecia
+ou: OtherGroup
+uid: 1073
+ Q==

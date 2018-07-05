@@ -1,0 +1,13 @@
+dn: cn=Vania+sn=Mcdannold,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vania Mcdannold
+cn: Mcdannold
+givenname: Vania
+mail: vania.mcdannold@planetexpress.com
+userPassword: Vania
+ou: flight_crew
+uid: 4472
+ Q==

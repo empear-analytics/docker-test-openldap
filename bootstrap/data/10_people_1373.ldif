@@ -1,0 +1,13 @@
+dn: cn=Mel+sn=Aken,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mel Aken
+cn: Aken
+givenname: Mel
+mail: mel.aken@planetexpress.com
+userPassword: Mel
+ou: OtherGroup
+uid: 1373
+ Q==

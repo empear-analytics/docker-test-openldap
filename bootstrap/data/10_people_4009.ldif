@@ -1,0 +1,13 @@
+dn: cn=Dewey+sn=Hlywa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dewey Hlywa
+cn: Hlywa
+givenname: Dewey
+mail: dewey.hlywa@planetexpress.com
+userPassword: Dewey
+ou: flight_crew
+uid: 4009
+ Q==

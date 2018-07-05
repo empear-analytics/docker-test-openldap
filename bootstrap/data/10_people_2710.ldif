@@ -1,0 +1,13 @@
+dn: cn=Renaldo+sn=Caballero,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Renaldo Caballero
+cn: Caballero
+givenname: Renaldo
+mail: renaldo.caballero@planetexpress.com
+userPassword: Renaldo
+ou: flight_crew
+uid: 2710
+ Q==

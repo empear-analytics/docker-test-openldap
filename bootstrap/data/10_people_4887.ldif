@@ -1,0 +1,13 @@
+dn: cn=Refugio+sn=Serrata,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Refugio Serrata
+cn: Serrata
+givenname: Refugio
+mail: refugio.serrata@planetexpress.com
+userPassword: Refugio
+ou: flight_crew
+uid: 4887
+ Q==

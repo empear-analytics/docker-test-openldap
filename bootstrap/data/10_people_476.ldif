@@ -1,0 +1,13 @@
+dn: cn=Mariel+sn=Mcclaren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mariel Mcclaren
+cn: Mcclaren
+givenname: Mariel
+mail: mariel.mcclaren@planetexpress.com
+userPassword: Mariel
+ou: Group5
+uid: 476
+ Q==

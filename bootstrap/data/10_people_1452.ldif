@@ -1,0 +1,13 @@
+dn: cn=Stepanie+sn=Touvell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stepanie Touvell
+cn: Touvell
+givenname: Stepanie
+mail: stepanie.touvell@planetexpress.com
+userPassword: Stepanie
+ou: OtherGroup
+uid: 1452
+ Q==

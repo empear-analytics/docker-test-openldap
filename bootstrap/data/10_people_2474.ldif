@@ -1,0 +1,13 @@
+dn: cn=Daren+sn=Grissam,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daren Grissam
+cn: Grissam
+givenname: Daren
+mail: daren.grissam@planetexpress.com
+userPassword: Daren
+ou: admin_staff
+uid: 2474
+ Q==

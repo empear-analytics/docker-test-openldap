@@ -1,0 +1,13 @@
+dn: cn=Saul+sn=Millington,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Saul Millington
+cn: Millington
+givenname: Saul
+mail: saul.millington@planetexpress.com
+userPassword: Saul
+ou: OtherGroup
+uid: 2784
+ Q==

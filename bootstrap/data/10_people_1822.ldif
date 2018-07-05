@@ -1,0 +1,13 @@
+dn: cn=Rasheeda+sn=Douthart,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rasheeda Douthart
+cn: Douthart
+givenname: Rasheeda
+mail: rasheeda.douthart@planetexpress.com
+userPassword: Rasheeda
+ou: Group5
+uid: 1822
+ Q==

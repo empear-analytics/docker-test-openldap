@@ -1,0 +1,13 @@
+dn: cn=Abraham+sn=Maschio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Abraham Maschio
+cn: Maschio
+givenname: Abraham
+mail: abraham.maschio@planetexpress.com
+userPassword: Abraham
+ou: OtherGroup
+uid: 820
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Emelina+sn=Fausto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emelina Fausto
+cn: Fausto
+givenname: Emelina
+mail: emelina.fausto@planetexpress.com
+userPassword: Emelina
+ou: flight_crew
+uid: 4072
+ Q==

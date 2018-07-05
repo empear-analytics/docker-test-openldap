@@ -1,0 +1,13 @@
+dn: cn=Robby+sn=Coyt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Robby Coyt
+cn: Coyt
+givenname: Robby
+mail: robby.coyt@planetexpress.com
+userPassword: Robby
+ou: OtherGroup
+uid: 2948
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Alisia+sn=Ambrogi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alisia Ambrogi
+cn: Ambrogi
+givenname: Alisia
+mail: alisia.ambrogi@planetexpress.com
+userPassword: Alisia
+ou: OtherGroup
+uid: 572
+ Q==

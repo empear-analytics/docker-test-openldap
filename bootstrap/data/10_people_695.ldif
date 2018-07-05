@@ -1,0 +1,13 @@
+dn: cn=Olympia+sn=Delosrios,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Olympia Delosrios
+cn: Delosrios
+givenname: Olympia
+mail: olympia.delosrios@planetexpress.com
+userPassword: Olympia
+ou: flight_crew
+uid: 695
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tasia+sn=Feliciano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tasia Feliciano
+cn: Feliciano
+givenname: Tasia
+mail: tasia.feliciano@planetexpress.com
+userPassword: Tasia
+ou: Group5
+uid: 5187
+ Q==

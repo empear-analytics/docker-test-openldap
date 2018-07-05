@@ -1,0 +1,13 @@
+dn: cn=Orville+sn=Maerz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Orville Maerz
+cn: Maerz
+givenname: Orville
+mail: orville.maerz@planetexpress.com
+userPassword: Orville
+ou: OtherGroup
+uid: 91
+ Q==

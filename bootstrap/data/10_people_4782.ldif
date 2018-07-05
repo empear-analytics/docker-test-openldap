@@ -1,0 +1,13 @@
+dn: cn=Latina+sn=Osinski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Latina Osinski
+cn: Osinski
+givenname: Latina
+mail: latina.osinski@planetexpress.com
+userPassword: Latina
+ou: OtherGroup
+uid: 4782
+ Q==

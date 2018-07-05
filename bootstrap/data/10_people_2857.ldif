@@ -1,0 +1,13 @@
+dn: cn=Felton+sn=Peller,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Felton Peller
+cn: Peller
+givenname: Felton
+mail: felton.peller@planetexpress.com
+userPassword: Felton
+ou: flight_crew
+uid: 2857
+ Q==

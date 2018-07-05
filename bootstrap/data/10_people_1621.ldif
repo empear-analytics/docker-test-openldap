@@ -1,0 +1,13 @@
+dn: cn=Nerissa+sn=Mcgunnis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nerissa Mcgunnis
+cn: Mcgunnis
+givenname: Nerissa
+mail: nerissa.mcgunnis@planetexpress.com
+userPassword: Nerissa
+ou: flight_crew
+uid: 1621
+ Q==

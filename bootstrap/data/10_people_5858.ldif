@@ -1,0 +1,13 @@
+dn: cn=Vernon+sn=Somogye,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vernon Somogye
+cn: Somogye
+givenname: Vernon
+mail: vernon.somogye@planetexpress.com
+userPassword: Vernon
+ou: admin_staff
+uid: 5858
+ Q==

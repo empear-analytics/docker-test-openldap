@@ -1,0 +1,13 @@
+dn: cn=Lily+sn=Schoenhut,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lily Schoenhut
+cn: Schoenhut
+givenname: Lily
+mail: lily.schoenhut@planetexpress.com
+userPassword: Lily
+ou: flight_crew
+uid: 3276
+ Q==

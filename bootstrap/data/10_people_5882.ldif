@@ -1,0 +1,13 @@
+dn: cn=Desirae+sn=Tamburino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Desirae Tamburino
+cn: Tamburino
+givenname: Desirae
+mail: desirae.tamburino@planetexpress.com
+userPassword: Desirae
+ou: OtherGroup
+uid: 5882
+ Q==

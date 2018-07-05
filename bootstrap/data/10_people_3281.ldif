@@ -1,0 +1,13 @@
+dn: cn=Caleb+sn=Harshfield,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Caleb Harshfield
+cn: Harshfield
+givenname: Caleb
+mail: caleb.harshfield@planetexpress.com
+userPassword: Caleb
+ou: Group5
+uid: 3281
+ Q==

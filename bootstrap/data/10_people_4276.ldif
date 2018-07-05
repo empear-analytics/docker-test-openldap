@@ -1,0 +1,13 @@
+dn: cn=Riva+sn=Tyndall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Riva Tyndall
+cn: Tyndall
+givenname: Riva
+mail: riva.tyndall@planetexpress.com
+userPassword: Riva
+ou: admin_staff
+uid: 4276
+ Q==

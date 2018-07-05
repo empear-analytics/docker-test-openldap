@@ -1,0 +1,13 @@
+dn: cn=Lance+sn=Dehaas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lance Dehaas
+cn: Dehaas
+givenname: Lance
+mail: lance.dehaas@planetexpress.com
+userPassword: Lance
+ou: OtherGroup
+uid: 1052
+ Q==

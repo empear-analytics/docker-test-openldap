@@ -1,0 +1,13 @@
+dn: cn=Freeman+sn=Lambert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Freeman Lambert
+cn: Lambert
+givenname: Freeman
+mail: freeman.lambert@planetexpress.com
+userPassword: Freeman
+ou: OtherGroup
+uid: 1062
+ Q==

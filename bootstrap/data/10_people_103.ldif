@@ -1,0 +1,13 @@
+dn: cn=Keith+sn=Villao,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keith Villao
+cn: Villao
+givenname: Keith
+mail: keith.villao@planetexpress.com
+userPassword: Keith
+ou: admin_staff
+uid: 103
+ Q==

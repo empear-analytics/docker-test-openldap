@@ -1,0 +1,13 @@
+dn: cn=Alton+sn=Shidel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alton Shidel
+cn: Shidel
+givenname: Alton
+mail: alton.shidel@planetexpress.com
+userPassword: Alton
+ou: flight_crew
+uid: 3798
+ Q==

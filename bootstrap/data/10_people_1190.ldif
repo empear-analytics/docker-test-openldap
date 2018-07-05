@@ -1,0 +1,13 @@
+dn: cn=Carin+sn=Lizak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carin Lizak
+cn: Lizak
+givenname: Carin
+mail: carin.lizak@planetexpress.com
+userPassword: Carin
+ou: flight_crew
+uid: 1190
+ Q==

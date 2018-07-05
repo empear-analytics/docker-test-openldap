@@ -1,0 +1,13 @@
+dn: cn=Eugenie+sn=Guntharp,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eugenie Guntharp
+cn: Guntharp
+givenname: Eugenie
+mail: eugenie.guntharp@planetexpress.com
+userPassword: Eugenie
+ou: Group5
+uid: 4517
+ Q==

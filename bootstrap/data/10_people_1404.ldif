@@ -1,0 +1,13 @@
+dn: cn=Dexter+sn=Yarber,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dexter Yarber
+cn: Yarber
+givenname: Dexter
+mail: dexter.yarber@planetexpress.com
+userPassword: Dexter
+ou: OtherGroup
+uid: 1404
+ Q==

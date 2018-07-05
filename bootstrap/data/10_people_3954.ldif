@@ -1,0 +1,13 @@
+dn: cn=Chantell+sn=Rincan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chantell Rincan
+cn: Rincan
+givenname: Chantell
+mail: chantell.rincan@planetexpress.com
+userPassword: Chantell
+ou: flight_crew
+uid: 3954
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Clarinda+sn=Deherrera,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clarinda Deherrera
+cn: Deherrera
+givenname: Clarinda
+mail: clarinda.deherrera@planetexpress.com
+userPassword: Clarinda
+ou: Group5
+uid: 357
+ Q==

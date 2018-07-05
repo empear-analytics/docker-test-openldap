@@ -1,0 +1,13 @@
+dn: cn=Ouida+sn=Bielicki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ouida Bielicki
+cn: Bielicki
+givenname: Ouida
+mail: ouida.bielicki@planetexpress.com
+userPassword: Ouida
+ou: flight_crew
+uid: 273
+ Q==

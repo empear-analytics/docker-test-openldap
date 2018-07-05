@@ -1,0 +1,13 @@
+dn: cn=Tricia+sn=Devera,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tricia Devera
+cn: Devera
+givenname: Tricia
+mail: tricia.devera@planetexpress.com
+userPassword: Tricia
+ou: OtherGroup
+uid: 1107
+ Q==

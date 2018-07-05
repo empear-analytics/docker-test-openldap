@@ -1,0 +1,13 @@
+dn: cn=Porsha+sn=Cianciola,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Porsha Cianciola
+cn: Cianciola
+givenname: Porsha
+mail: porsha.cianciola@planetexpress.com
+userPassword: Porsha
+ou: OtherGroup
+uid: 3718
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Maia+sn=Faes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maia Faes
+cn: Faes
+givenname: Maia
+mail: maia.faes@planetexpress.com
+userPassword: Maia
+ou: flight_crew
+uid: 892
+ Q==

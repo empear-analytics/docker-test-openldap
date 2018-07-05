@@ -1,0 +1,13 @@
+dn: cn=Ethan+sn=Setzer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ethan Setzer
+cn: Setzer
+givenname: Ethan
+mail: ethan.setzer@planetexpress.com
+userPassword: Ethan
+ou: flight_crew
+uid: 5486
+ Q==

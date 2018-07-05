@@ -1,0 +1,13 @@
+dn: cn=Fidel+sn=Vanhoff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fidel Vanhoff
+cn: Vanhoff
+givenname: Fidel
+mail: fidel.vanhoff@planetexpress.com
+userPassword: Fidel
+ou: Group5
+uid: 4971
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Cherry+sn=Dehn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cherry Dehn
+cn: Dehn
+givenname: Cherry
+mail: cherry.dehn@planetexpress.com
+userPassword: Cherry
+ou: Group5
+uid: 1453
+ Q==

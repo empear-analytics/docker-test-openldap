@@ -1,0 +1,13 @@
+dn: cn=Marquetta+sn=Lashbaugh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marquetta Lashbaugh
+cn: Lashbaugh
+givenname: Marquetta
+mail: marquetta.lashbaugh@planetexpress.com
+userPassword: Marquetta
+ou: OtherGroup
+uid: 1679
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Arleen+sn=Fairman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arleen Fairman
+cn: Fairman
+givenname: Arleen
+mail: arleen.fairman@planetexpress.com
+userPassword: Arleen
+ou: OtherGroup
+uid: 3578
+ Q==

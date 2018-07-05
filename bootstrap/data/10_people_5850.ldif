@@ -1,0 +1,13 @@
+dn: cn=Rikki+sn=Walwyn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rikki Walwyn
+cn: Walwyn
+givenname: Rikki
+mail: rikki.walwyn@planetexpress.com
+userPassword: Rikki
+ou: flight_crew
+uid: 5850
+ Q==

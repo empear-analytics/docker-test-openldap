@@ -1,0 +1,13 @@
+dn: cn=Darin+sn=Quarry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darin Quarry
+cn: Quarry
+givenname: Darin
+mail: darin.quarry@planetexpress.com
+userPassword: Darin
+ou: Group5
+uid: 305
+ Q==

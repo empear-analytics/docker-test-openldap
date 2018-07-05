@@ -1,0 +1,13 @@
+dn: cn=Samantha+sn=Neid,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Samantha Neid
+cn: Neid
+givenname: Samantha
+mail: samantha.neid@planetexpress.com
+userPassword: Samantha
+ou: OtherGroup
+uid: 446
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lashonda+sn=Veil,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lashonda Veil
+cn: Veil
+givenname: Lashonda
+mail: lashonda.veil@planetexpress.com
+userPassword: Lashonda
+ou: admin_staff
+uid: 3514
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Annalisa+sn=Dunagin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annalisa Dunagin
+cn: Dunagin
+givenname: Annalisa
+mail: annalisa.dunagin@planetexpress.com
+userPassword: Annalisa
+ou: OtherGroup
+uid: 1929
+ Q==

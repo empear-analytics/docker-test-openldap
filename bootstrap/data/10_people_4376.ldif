@@ -1,0 +1,13 @@
+dn: cn=Nestor+sn=Bundette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nestor Bundette
+cn: Bundette
+givenname: Nestor
+mail: nestor.bundette@planetexpress.com
+userPassword: Nestor
+ou: OtherGroup
+uid: 4376
+ Q==

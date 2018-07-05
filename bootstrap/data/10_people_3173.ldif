@@ -1,0 +1,13 @@
+dn: cn=Kirby+sn=Schoewe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kirby Schoewe
+cn: Schoewe
+givenname: Kirby
+mail: kirby.schoewe@planetexpress.com
+userPassword: Kirby
+ou: Group5
+uid: 3173
+ Q==

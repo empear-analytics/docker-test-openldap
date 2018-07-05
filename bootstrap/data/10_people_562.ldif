@@ -1,0 +1,13 @@
+dn: cn=Rupert+sn=Arseneault,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rupert Arseneault
+cn: Arseneault
+givenname: Rupert
+mail: rupert.arseneault@planetexpress.com
+userPassword: Rupert
+ou: Group5
+uid: 562
+ Q==

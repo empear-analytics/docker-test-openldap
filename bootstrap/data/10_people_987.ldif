@@ -1,0 +1,13 @@
+dn: cn=Maryrose+sn=Guckes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maryrose Guckes
+cn: Guckes
+givenname: Maryrose
+mail: maryrose.guckes@planetexpress.com
+userPassword: Maryrose
+ou: OtherGroup
+uid: 987
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Rosalva+sn=Lipsie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosalva Lipsie
+cn: Lipsie
+givenname: Rosalva
+mail: rosalva.lipsie@planetexpress.com
+userPassword: Rosalva
+ou: flight_crew
+uid: 5863
+ Q==

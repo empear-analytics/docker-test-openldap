@@ -1,0 +1,13 @@
+dn: cn=Jaclyn+sn=Struss,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jaclyn Struss
+cn: Struss
+givenname: Jaclyn
+mail: jaclyn.struss@planetexpress.com
+userPassword: Jaclyn
+ou: Group5
+uid: 571
+ Q==

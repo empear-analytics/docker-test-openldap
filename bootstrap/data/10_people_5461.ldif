@@ -1,0 +1,13 @@
+dn: cn=Kourtney+sn=Blank,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kourtney Blank
+cn: Blank
+givenname: Kourtney
+mail: kourtney.blank@planetexpress.com
+userPassword: Kourtney
+ou: admin_staff
+uid: 5461
+ Q==

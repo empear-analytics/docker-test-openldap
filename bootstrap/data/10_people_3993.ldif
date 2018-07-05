@@ -1,0 +1,13 @@
+dn: cn=Bee+sn=Martucci,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bee Martucci
+cn: Martucci
+givenname: Bee
+mail: bee.martucci@planetexpress.com
+userPassword: Bee
+ou: OtherGroup
+uid: 3993
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Humberto+sn=Tinius,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Humberto Tinius
+cn: Tinius
+givenname: Humberto
+mail: humberto.tinius@planetexpress.com
+userPassword: Humberto
+ou: flight_crew
+uid: 4537
+ Q==

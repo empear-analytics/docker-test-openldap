@@ -1,0 +1,13 @@
+dn: cn=Tory+sn=Lukesh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tory Lukesh
+cn: Lukesh
+givenname: Tory
+mail: tory.lukesh@planetexpress.com
+userPassword: Tory
+ou: flight_crew
+uid: 3441
+ Q==

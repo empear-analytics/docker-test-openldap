@@ -1,0 +1,13 @@
+dn: cn=Ola+sn=Bethell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ola Bethell
+cn: Bethell
+givenname: Ola
+mail: ola.bethell@planetexpress.com
+userPassword: Ola
+ou: OtherGroup
+uid: 5293
+ Q==

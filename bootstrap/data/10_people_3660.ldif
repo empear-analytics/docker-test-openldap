@@ -1,0 +1,13 @@
+dn: cn=Bob+sn=Grotelueschen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bob Grotelueschen
+cn: Grotelueschen
+givenname: Bob
+mail: bob.grotelueschen@planetexpress.com
+userPassword: Bob
+ou: OtherGroup
+uid: 3660
+ Q==

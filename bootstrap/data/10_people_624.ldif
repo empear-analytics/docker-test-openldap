@@ -1,0 +1,13 @@
+dn: cn=Lamont+sn=Bran,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lamont Bran
+cn: Bran
+givenname: Lamont
+mail: lamont.bran@planetexpress.com
+userPassword: Lamont
+ou: OtherGroup
+uid: 624
+ Q==

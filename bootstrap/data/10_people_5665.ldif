@@ -1,0 +1,13 @@
+dn: cn=Yuk+sn=Cassa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yuk Cassa
+cn: Cassa
+givenname: Yuk
+mail: yuk.cassa@planetexpress.com
+userPassword: Yuk
+ou: OtherGroup
+uid: 5665
+ Q==

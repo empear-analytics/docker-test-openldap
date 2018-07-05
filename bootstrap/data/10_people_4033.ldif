@@ -1,0 +1,13 @@
+dn: cn=Kassandra+sn=Darrisaw,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kassandra Darrisaw
+cn: Darrisaw
+givenname: Kassandra
+mail: kassandra.darrisaw@planetexpress.com
+userPassword: Kassandra
+ou: flight_crew
+uid: 4033
+ Q==

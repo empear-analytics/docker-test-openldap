@@ -1,0 +1,13 @@
+dn: cn=Thanh+sn=Ozburn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thanh Ozburn
+cn: Ozburn
+givenname: Thanh
+mail: thanh.ozburn@planetexpress.com
+userPassword: Thanh
+ou: flight_crew
+uid: 3617
+ Q==

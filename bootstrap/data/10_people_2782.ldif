@@ -1,0 +1,13 @@
+dn: cn=Jolyn+sn=Berteotti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jolyn Berteotti
+cn: Berteotti
+givenname: Jolyn
+mail: jolyn.berteotti@planetexpress.com
+userPassword: Jolyn
+ou: admin_staff
+uid: 2782
+ Q==

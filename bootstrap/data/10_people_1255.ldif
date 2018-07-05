@@ -1,0 +1,13 @@
+dn: cn=Nada+sn=Stamison,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nada Stamison
+cn: Stamison
+givenname: Nada
+mail: nada.stamison@planetexpress.com
+userPassword: Nada
+ou: Group5
+uid: 1255
+ Q==

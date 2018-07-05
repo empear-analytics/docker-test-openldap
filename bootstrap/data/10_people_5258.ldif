@@ -1,0 +1,13 @@
+dn: cn=Omer+sn=Bieber,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Omer Bieber
+cn: Bieber
+givenname: Omer
+mail: omer.bieber@planetexpress.com
+userPassword: Omer
+ou: Group5
+uid: 5258
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Cyndy+sn=Tobery,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cyndy Tobery
+cn: Tobery
+givenname: Cyndy
+mail: cyndy.tobery@planetexpress.com
+userPassword: Cyndy
+ou: Group5
+uid: 1913
+ Q==

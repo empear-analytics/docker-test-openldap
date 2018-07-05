@@ -1,0 +1,13 @@
+dn: cn=Theresia+sn=Colom,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Theresia Colom
+cn: Colom
+givenname: Theresia
+mail: theresia.colom@planetexpress.com
+userPassword: Theresia
+ou: flight_crew
+uid: 5458
+ Q==

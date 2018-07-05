@@ -1,0 +1,13 @@
+dn: cn=Dwight+sn=Massar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dwight Massar
+cn: Massar
+givenname: Dwight
+mail: dwight.massar@planetexpress.com
+userPassword: Dwight
+ou: flight_crew
+uid: 4580
+ Q==

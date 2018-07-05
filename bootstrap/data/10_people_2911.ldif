@@ -1,0 +1,13 @@
+dn: cn=Gabrielle+sn=Purdie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gabrielle Purdie
+cn: Purdie
+givenname: Gabrielle
+mail: gabrielle.purdie@planetexpress.com
+userPassword: Gabrielle
+ou: Group5
+uid: 2911
+ Q==

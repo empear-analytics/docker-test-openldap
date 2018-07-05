@@ -1,0 +1,13 @@
+dn: cn=Nikki+sn=Lampshire,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nikki Lampshire
+cn: Lampshire
+givenname: Nikki
+mail: nikki.lampshire@planetexpress.com
+userPassword: Nikki
+ou: Group5
+uid: 3977
+ Q==

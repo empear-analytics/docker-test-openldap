@@ -1,0 +1,13 @@
+dn: cn=Dollie+sn=Silsbee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dollie Silsbee
+cn: Silsbee
+givenname: Dollie
+mail: dollie.silsbee@planetexpress.com
+userPassword: Dollie
+ou: OtherGroup
+uid: 2243
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Alonso+sn=Gansburg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alonso Gansburg
+cn: Gansburg
+givenname: Alonso
+mail: alonso.gansburg@planetexpress.com
+userPassword: Alonso
+ou: flight_crew
+uid: 2363
+ Q==

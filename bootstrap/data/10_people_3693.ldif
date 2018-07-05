@@ -1,0 +1,13 @@
+dn: cn=Hilda+sn=Dahlstedt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hilda Dahlstedt
+cn: Dahlstedt
+givenname: Hilda
+mail: hilda.dahlstedt@planetexpress.com
+userPassword: Hilda
+ou: OtherGroup
+uid: 3693
+ Q==

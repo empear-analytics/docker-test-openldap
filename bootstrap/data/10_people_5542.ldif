@@ -1,0 +1,13 @@
+dn: cn=Gwenda+sn=Thiel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gwenda Thiel
+cn: Thiel
+givenname: Gwenda
+mail: gwenda.thiel@planetexpress.com
+userPassword: Gwenda
+ou: admin_staff
+uid: 5542
+ Q==

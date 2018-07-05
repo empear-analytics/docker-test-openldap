@@ -1,0 +1,13 @@
+dn: cn=Emma+sn=Sowinski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emma Sowinski
+cn: Sowinski
+givenname: Emma
+mail: emma.sowinski@planetexpress.com
+userPassword: Emma
+ou: flight_crew
+uid: 2354
+ Q==

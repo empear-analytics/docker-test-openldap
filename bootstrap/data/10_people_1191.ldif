@@ -1,0 +1,13 @@
+dn: cn=Lashon+sn=Trapeni,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lashon Trapeni
+cn: Trapeni
+givenname: Lashon
+mail: lashon.trapeni@planetexpress.com
+userPassword: Lashon
+ou: admin_staff
+uid: 1191
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Asha+sn=Laich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Asha Laich
+cn: Laich
+givenname: Asha
+mail: asha.laich@planetexpress.com
+userPassword: Asha
+ou: admin_staff
+uid: 3014
+ Q==

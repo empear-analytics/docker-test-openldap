@@ -1,0 +1,13 @@
+dn: cn=Xiomara+sn=Kempter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Xiomara Kempter
+cn: Kempter
+givenname: Xiomara
+mail: xiomara.kempter@planetexpress.com
+userPassword: Xiomara
+ou: flight_crew
+uid: 4128
+ Q==

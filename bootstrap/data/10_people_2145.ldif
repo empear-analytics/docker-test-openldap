@@ -1,0 +1,13 @@
+dn: cn=Alaine+sn=Hyatt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alaine Hyatt
+cn: Hyatt
+givenname: Alaine
+mail: alaine.hyatt@planetexpress.com
+userPassword: Alaine
+ou: Group5
+uid: 2145
+ Q==

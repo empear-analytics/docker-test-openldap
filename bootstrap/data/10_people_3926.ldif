@@ -1,0 +1,13 @@
+dn: cn=Shondra+sn=Andreola,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shondra Andreola
+cn: Andreola
+givenname: Shondra
+mail: shondra.andreola@planetexpress.com
+userPassword: Shondra
+ou: OtherGroup
+uid: 3926
+ Q==

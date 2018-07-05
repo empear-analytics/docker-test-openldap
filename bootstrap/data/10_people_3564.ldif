@@ -1,0 +1,13 @@
+dn: cn=Teisha+sn=Collica,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Teisha Collica
+cn: Collica
+givenname: Teisha
+mail: teisha.collica@planetexpress.com
+userPassword: Teisha
+ou: OtherGroup
+uid: 3564
+ Q==

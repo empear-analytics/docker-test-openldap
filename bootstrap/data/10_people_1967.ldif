@@ -1,0 +1,13 @@
+dn: cn=Lara+sn=Mesko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lara Mesko
+cn: Mesko
+givenname: Lara
+mail: lara.mesko@planetexpress.com
+userPassword: Lara
+ou: flight_crew
+uid: 1967
+ Q==

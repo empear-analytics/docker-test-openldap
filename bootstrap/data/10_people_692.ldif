@@ -1,0 +1,13 @@
+dn: cn=Anya+sn=Swamy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anya Swamy
+cn: Swamy
+givenname: Anya
+mail: anya.swamy@planetexpress.com
+userPassword: Anya
+ou: admin_staff
+uid: 692
+ Q==

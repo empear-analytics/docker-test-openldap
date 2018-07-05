@@ -1,0 +1,13 @@
+dn: cn=Winter+sn=Thruthley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Winter Thruthley
+cn: Thruthley
+givenname: Winter
+mail: winter.thruthley@planetexpress.com
+userPassword: Winter
+ou: OtherGroup
+uid: 581
+ Q==

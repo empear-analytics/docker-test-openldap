@@ -1,0 +1,13 @@
+dn: cn=Peg+sn=Ketteringham,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Peg Ketteringham
+cn: Ketteringham
+givenname: Peg
+mail: peg.ketteringham@planetexpress.com
+userPassword: Peg
+ou: Group5
+uid: 2231
+ Q==

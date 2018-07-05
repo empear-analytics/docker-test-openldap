@@ -1,0 +1,13 @@
+dn: cn=Reena+sn=Ficek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reena Ficek
+cn: Ficek
+givenname: Reena
+mail: reena.ficek@planetexpress.com
+userPassword: Reena
+ou: OtherGroup
+uid: 836
+ Q==

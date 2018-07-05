@@ -1,0 +1,13 @@
+dn: cn=Chau+sn=Porrini,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chau Porrini
+cn: Porrini
+givenname: Chau
+mail: chau.porrini@planetexpress.com
+userPassword: Chau
+ou: Group5
+uid: 2903
+ Q==

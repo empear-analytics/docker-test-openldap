@@ -1,0 +1,13 @@
+dn: cn=Nydia+sn=Berkovitz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nydia Berkovitz
+cn: Berkovitz
+givenname: Nydia
+mail: nydia.berkovitz@planetexpress.com
+userPassword: Nydia
+ou: flight_crew
+uid: 2043
+ Q==

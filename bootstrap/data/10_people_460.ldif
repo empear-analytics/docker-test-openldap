@@ -1,0 +1,13 @@
+dn: cn=Geri+sn=Rosada,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Geri Rosada
+cn: Rosada
+givenname: Geri
+mail: geri.rosada@planetexpress.com
+userPassword: Geri
+ou: flight_crew
+uid: 460
+ Q==

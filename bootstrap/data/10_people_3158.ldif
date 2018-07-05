@@ -1,0 +1,13 @@
+dn: cn=Calandra+sn=Filippelli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Calandra Filippelli
+cn: Filippelli
+givenname: Calandra
+mail: calandra.filippelli@planetexpress.com
+userPassword: Calandra
+ou: flight_crew
+uid: 3158
+ Q==

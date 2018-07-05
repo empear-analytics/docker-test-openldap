@@ -1,0 +1,13 @@
+dn: cn=Tasha+sn=Buckson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tasha Buckson
+cn: Buckson
+givenname: Tasha
+mail: tasha.buckson@planetexpress.com
+userPassword: Tasha
+ou: Group5
+uid: 278
+ Q==

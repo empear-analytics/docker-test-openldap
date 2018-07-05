@@ -1,0 +1,13 @@
+dn: cn=Velva+sn=Cornette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Velva Cornette
+cn: Cornette
+givenname: Velva
+mail: velva.cornette@planetexpress.com
+userPassword: Velva
+ou: flight_crew
+uid: 5899
+ Q==

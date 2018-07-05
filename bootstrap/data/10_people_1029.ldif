@@ -1,0 +1,13 @@
+dn: cn=Voncile+sn=Sessin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Voncile Sessin
+cn: Sessin
+givenname: Voncile
+mail: voncile.sessin@planetexpress.com
+userPassword: Voncile
+ou: admin_staff
+uid: 1029
+ Q==

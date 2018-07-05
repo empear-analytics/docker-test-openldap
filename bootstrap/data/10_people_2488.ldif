@@ -1,0 +1,13 @@
+dn: cn=Filiberto+sn=Clyburn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Filiberto Clyburn
+cn: Clyburn
+givenname: Filiberto
+mail: filiberto.clyburn@planetexpress.com
+userPassword: Filiberto
+ou: OtherGroup
+uid: 2488
+ Q==

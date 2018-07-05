@@ -1,0 +1,13 @@
+dn: cn=Jacinta+sn=Benamati,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacinta Benamati
+cn: Benamati
+givenname: Jacinta
+mail: jacinta.benamati@planetexpress.com
+userPassword: Jacinta
+ou: admin_staff
+uid: 1056
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Delila+sn=Dedrick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delila Dedrick
+cn: Dedrick
+givenname: Delila
+mail: delila.dedrick@planetexpress.com
+userPassword: Delila
+ou: Group5
+uid: 4988
+ Q==

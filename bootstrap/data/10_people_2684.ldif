@@ -1,0 +1,13 @@
+dn: cn=Hertha+sn=Searight,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hertha Searight
+cn: Searight
+givenname: Hertha
+mail: hertha.searight@planetexpress.com
+userPassword: Hertha
+ou: admin_staff
+uid: 2684
+ Q==

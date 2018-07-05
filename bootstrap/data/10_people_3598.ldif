@@ -1,0 +1,13 @@
+dn: cn=Tyisha+sn=Cervera,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tyisha Cervera
+cn: Cervera
+givenname: Tyisha
+mail: tyisha.cervera@planetexpress.com
+userPassword: Tyisha
+ou: admin_staff
+uid: 3598
+ Q==

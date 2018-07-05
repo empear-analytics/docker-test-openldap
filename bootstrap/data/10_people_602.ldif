@@ -1,0 +1,13 @@
+dn: cn=Jeanie+sn=Zenner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeanie Zenner
+cn: Zenner
+givenname: Jeanie
+mail: jeanie.zenner@planetexpress.com
+userPassword: Jeanie
+ou: flight_crew
+uid: 602
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Benito+sn=Wesolick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Benito Wesolick
+cn: Wesolick
+givenname: Benito
+mail: benito.wesolick@planetexpress.com
+userPassword: Benito
+ou: OtherGroup
+uid: 397
+ Q==

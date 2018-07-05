@@ -1,0 +1,13 @@
+dn: cn=Darrin+sn=Samorano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darrin Samorano
+cn: Samorano
+givenname: Darrin
+mail: darrin.samorano@planetexpress.com
+userPassword: Darrin
+ou: Group5
+uid: 5632
+ Q==

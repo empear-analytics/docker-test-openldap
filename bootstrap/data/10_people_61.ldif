@@ -1,0 +1,13 @@
+dn: cn=Meaghan+sn=Naron,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Meaghan Naron
+cn: Naron
+givenname: Meaghan
+mail: meaghan.naron@planetexpress.com
+userPassword: Meaghan
+ou: flight_crew
+uid: 61
+ Q==

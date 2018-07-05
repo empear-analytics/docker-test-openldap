@@ -1,0 +1,13 @@
+dn: cn=Rubin+sn=Eckberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rubin Eckberg
+cn: Eckberg
+givenname: Rubin
+mail: rubin.eckberg@planetexpress.com
+userPassword: Rubin
+ou: flight_crew
+uid: 1275
+ Q==

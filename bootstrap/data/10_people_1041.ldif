@@ -1,0 +1,13 @@
+dn: cn=Sherry+sn=Roon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherry Roon
+cn: Roon
+givenname: Sherry
+mail: sherry.roon@planetexpress.com
+userPassword: Sherry
+ou: OtherGroup
+uid: 1041
+ Q==

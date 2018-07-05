@@ -1,0 +1,13 @@
+dn: cn=Cletus+sn=Jami,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cletus Jami
+cn: Jami
+givenname: Cletus
+mail: cletus.jami@planetexpress.com
+userPassword: Cletus
+ou: admin_staff
+uid: 1181
+ Q==

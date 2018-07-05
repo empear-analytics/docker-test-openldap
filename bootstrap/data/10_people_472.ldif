@@ -1,0 +1,13 @@
+dn: cn=Avelina+sn=Dooner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Avelina Dooner
+cn: Dooner
+givenname: Avelina
+mail: avelina.dooner@planetexpress.com
+userPassword: Avelina
+ou: Group5
+uid: 472
+ Q==

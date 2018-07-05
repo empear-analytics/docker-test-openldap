@@ -1,0 +1,13 @@
+dn: cn=Jennefer+sn=Brinsfield,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jennefer Brinsfield
+cn: Brinsfield
+givenname: Jennefer
+mail: jennefer.brinsfield@planetexpress.com
+userPassword: Jennefer
+ou: admin_staff
+uid: 5159
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Pearly+sn=Kerr,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pearly Kerr
+cn: Kerr
+givenname: Pearly
+mail: pearly.kerr@planetexpress.com
+userPassword: Pearly
+ou: admin_staff
+uid: 4489
+ Q==

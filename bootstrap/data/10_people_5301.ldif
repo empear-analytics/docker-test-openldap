@@ -1,0 +1,13 @@
+dn: cn=Ngoc+sn=Shayne,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ngoc Shayne
+cn: Shayne
+givenname: Ngoc
+mail: ngoc.shayne@planetexpress.com
+userPassword: Ngoc
+ou: flight_crew
+uid: 5301
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Abby+sn=Roblin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Abby Roblin
+cn: Roblin
+givenname: Abby
+mail: abby.roblin@planetexpress.com
+userPassword: Abby
+ou: OtherGroup
+uid: 601
+ Q==

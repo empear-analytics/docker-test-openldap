@@ -1,0 +1,13 @@
+dn: cn=Terra+sn=Hustus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Terra Hustus
+cn: Hustus
+givenname: Terra
+mail: terra.hustus@planetexpress.com
+userPassword: Terra
+ou: OtherGroup
+uid: 5925
+ Q==

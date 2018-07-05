@@ -1,0 +1,13 @@
+dn: cn=Krystin+sn=Petrson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Krystin Petrson
+cn: Petrson
+givenname: Krystin
+mail: krystin.petrson@planetexpress.com
+userPassword: Krystin
+ou: admin_staff
+uid: 5848
+ Q==

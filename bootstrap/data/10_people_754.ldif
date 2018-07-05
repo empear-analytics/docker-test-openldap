@@ -1,0 +1,13 @@
+dn: cn=Pearline+sn=Sarles,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pearline Sarles
+cn: Sarles
+givenname: Pearline
+mail: pearline.sarles@planetexpress.com
+userPassword: Pearline
+ou: OtherGroup
+uid: 754
+ Q==

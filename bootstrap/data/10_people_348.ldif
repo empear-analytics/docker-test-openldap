@@ -1,0 +1,13 @@
+dn: cn=Kathie+sn=Lala,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kathie Lala
+cn: Lala
+givenname: Kathie
+mail: kathie.lala@planetexpress.com
+userPassword: Kathie
+ou: OtherGroup
+uid: 348
+ Q==

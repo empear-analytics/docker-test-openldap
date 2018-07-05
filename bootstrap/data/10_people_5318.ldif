@@ -1,0 +1,13 @@
+dn: cn=Mi+sn=Rubal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mi Rubal
+cn: Rubal
+givenname: Mi
+mail: mi.rubal@planetexpress.com
+userPassword: Mi
+ou: OtherGroup
+uid: 5318
+ Q==

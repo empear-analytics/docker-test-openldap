@@ -1,0 +1,13 @@
+dn: cn=Genia+sn=Nabarrete,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Genia Nabarrete
+cn: Nabarrete
+givenname: Genia
+mail: genia.nabarrete@planetexpress.com
+userPassword: Genia
+ou: Group5
+uid: 991
+ Q==

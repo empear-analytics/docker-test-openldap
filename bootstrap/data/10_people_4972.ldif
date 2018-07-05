@@ -1,0 +1,13 @@
+dn: cn=Kristan+sn=Frerking,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kristan Frerking
+cn: Frerking
+givenname: Kristan
+mail: kristan.frerking@planetexpress.com
+userPassword: Kristan
+ou: OtherGroup
+uid: 4972
+ Q==

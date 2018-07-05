@@ -1,0 +1,13 @@
+dn: cn=Glenda+sn=Cude,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Glenda Cude
+cn: Cude
+givenname: Glenda
+mail: glenda.cude@planetexpress.com
+userPassword: Glenda
+ou: flight_crew
+uid: 5037
+ Q==

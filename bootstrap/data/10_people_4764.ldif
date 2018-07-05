@@ -1,0 +1,13 @@
+dn: cn=Jadwiga+sn=Helmlinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jadwiga Helmlinger
+cn: Helmlinger
+givenname: Jadwiga
+mail: jadwiga.helmlinger@planetexpress.com
+userPassword: Jadwiga
+ou: flight_crew
+uid: 4764
+ Q==

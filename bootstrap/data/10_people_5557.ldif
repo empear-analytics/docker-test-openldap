@@ -1,0 +1,13 @@
+dn: cn=Milagro+sn=Barkenhagen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Milagro Barkenhagen
+cn: Barkenhagen
+givenname: Milagro
+mail: milagro.barkenhagen@planetexpress.com
+userPassword: Milagro
+ou: Group5
+uid: 5557
+ Q==

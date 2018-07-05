@@ -1,0 +1,13 @@
+dn: cn=Carrie+sn=Suren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carrie Suren
+cn: Suren
+givenname: Carrie
+mail: carrie.suren@planetexpress.com
+userPassword: Carrie
+ou: Group5
+uid: 2246
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Holli+sn=Delcine,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Holli Delcine
+cn: Delcine
+givenname: Holli
+mail: holli.delcine@planetexpress.com
+userPassword: Holli
+ou: OtherGroup
+uid: 5762
+ Q==

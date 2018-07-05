@@ -1,0 +1,13 @@
+dn: cn=Marcelo+sn=Reddick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marcelo Reddick
+cn: Reddick
+givenname: Marcelo
+mail: marcelo.reddick@planetexpress.com
+userPassword: Marcelo
+ou: OtherGroup
+uid: 3643
+ Q==

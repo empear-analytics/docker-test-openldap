@@ -1,0 +1,13 @@
+dn: cn=Krysta+sn=Delpapa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Krysta Delpapa
+cn: Delpapa
+givenname: Krysta
+mail: krysta.delpapa@planetexpress.com
+userPassword: Krysta
+ou: Group5
+uid: 4271
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Cara+sn=Hauman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cara Hauman
+cn: Hauman
+givenname: Cara
+mail: cara.hauman@planetexpress.com
+userPassword: Cara
+ou: Group5
+uid: 76
+ Q==

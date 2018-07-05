@@ -1,0 +1,13 @@
+dn: cn=Nada+sn=Derhammer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nada Derhammer
+cn: Derhammer
+givenname: Nada
+mail: nada.derhammer@planetexpress.com
+userPassword: Nada
+ou: OtherGroup
+uid: 4757
+ Q==

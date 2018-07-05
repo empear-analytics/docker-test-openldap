@@ -1,0 +1,13 @@
+dn: cn=Reynalda+sn=Gallegoz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reynalda Gallegoz
+cn: Gallegoz
+givenname: Reynalda
+mail: reynalda.gallegoz@planetexpress.com
+userPassword: Reynalda
+ou: OtherGroup
+uid: 2009
+ Q==

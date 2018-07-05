@@ -1,0 +1,13 @@
+dn: cn=Maryanna+sn=Barswell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maryanna Barswell
+cn: Barswell
+givenname: Maryanna
+mail: maryanna.barswell@planetexpress.com
+userPassword: Maryanna
+ou: Group5
+uid: 4413
+ Q==

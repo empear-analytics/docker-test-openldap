@@ -1,0 +1,13 @@
+dn: cn=Christa+sn=Kniphfer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christa Kniphfer
+cn: Kniphfer
+givenname: Christa
+mail: christa.kniphfer@planetexpress.com
+userPassword: Christa
+ou: OtherGroup
+uid: 1264
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Harrison+sn=Scaringi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Harrison Scaringi
+cn: Scaringi
+givenname: Harrison
+mail: harrison.scaringi@planetexpress.com
+userPassword: Harrison
+ou: admin_staff
+uid: 1374
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Homer+sn=Rosendorf,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Homer Rosendorf
+cn: Rosendorf
+givenname: Homer
+mail: homer.rosendorf@planetexpress.com
+userPassword: Homer
+ou: admin_staff
+uid: 575
+ Q==

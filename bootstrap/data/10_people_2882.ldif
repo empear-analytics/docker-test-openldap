@@ -1,0 +1,13 @@
+dn: cn=Elva+sn=Horsch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elva Horsch
+cn: Horsch
+givenname: Elva
+mail: elva.horsch@planetexpress.com
+userPassword: Elva
+ou: OtherGroup
+uid: 2882
+ Q==

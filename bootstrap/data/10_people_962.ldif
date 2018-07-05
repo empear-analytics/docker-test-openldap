@@ -1,0 +1,13 @@
+dn: cn=Chanel+sn=Firestone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chanel Firestone
+cn: Firestone
+givenname: Chanel
+mail: chanel.firestone@planetexpress.com
+userPassword: Chanel
+ou: OtherGroup
+uid: 962
+ Q==

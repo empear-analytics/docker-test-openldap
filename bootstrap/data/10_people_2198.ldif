@@ -1,0 +1,13 @@
+dn: cn=Blake+sn=Daughterty,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Blake Daughterty
+cn: Daughterty
+givenname: Blake
+mail: blake.daughterty@planetexpress.com
+userPassword: Blake
+ou: Group5
+uid: 2198
+ Q==

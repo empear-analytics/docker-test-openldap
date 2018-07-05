@@ -1,0 +1,13 @@
+dn: cn=Danilo+sn=Holtsclaw,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Danilo Holtsclaw
+cn: Holtsclaw
+givenname: Danilo
+mail: danilo.holtsclaw@planetexpress.com
+userPassword: Danilo
+ou: admin_staff
+uid: 1058
+ Q==

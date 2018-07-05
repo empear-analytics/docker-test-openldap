@@ -1,0 +1,13 @@
+dn: cn=Reed+sn=Tromburg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reed Tromburg
+cn: Tromburg
+givenname: Reed
+mail: reed.tromburg@planetexpress.com
+userPassword: Reed
+ou: Group5
+uid: 2260
+ Q==

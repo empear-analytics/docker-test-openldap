@@ -1,0 +1,13 @@
+dn: cn=Sheryl+sn=Taccariello,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sheryl Taccariello
+cn: Taccariello
+givenname: Sheryl
+mail: sheryl.taccariello@planetexpress.com
+userPassword: Sheryl
+ou: admin_staff
+uid: 2504
+ Q==

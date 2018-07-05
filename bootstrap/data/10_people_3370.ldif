@@ -1,0 +1,13 @@
+dn: cn=Bronwyn+sn=Rafter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bronwyn Rafter
+cn: Rafter
+givenname: Bronwyn
+mail: bronwyn.rafter@planetexpress.com
+userPassword: Bronwyn
+ou: OtherGroup
+uid: 3370
+ Q==

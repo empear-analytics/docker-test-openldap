@@ -1,0 +1,13 @@
+dn: cn=Sammy+sn=Steinacker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sammy Steinacker
+cn: Steinacker
+givenname: Sammy
+mail: sammy.steinacker@planetexpress.com
+userPassword: Sammy
+ou: Group5
+uid: 1109
+ Q==

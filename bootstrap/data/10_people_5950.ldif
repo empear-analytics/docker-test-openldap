@@ -1,0 +1,13 @@
+dn: cn=Judson+sn=Buckle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Judson Buckle
+cn: Buckle
+givenname: Judson
+mail: judson.buckle@planetexpress.com
+userPassword: Judson
+ou: OtherGroup
+uid: 5950
+ Q==

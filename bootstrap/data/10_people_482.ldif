@@ -1,0 +1,13 @@
+dn: cn=Coy+sn=President,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Coy President
+cn: President
+givenname: Coy
+mail: coy.president@planetexpress.com
+userPassword: Coy
+ou: Group5
+uid: 482
+ Q==

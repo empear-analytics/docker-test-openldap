@@ -1,0 +1,13 @@
+dn: cn=Joie+sn=Hobbs,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joie Hobbs
+cn: Hobbs
+givenname: Joie
+mail: joie.hobbs@planetexpress.com
+userPassword: Joie
+ou: Group5
+uid: 1548
+ Q==

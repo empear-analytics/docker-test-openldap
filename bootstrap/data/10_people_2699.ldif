@@ -1,0 +1,13 @@
+dn: cn=Winfred+sn=Warehime,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Winfred Warehime
+cn: Warehime
+givenname: Winfred
+mail: winfred.warehime@planetexpress.com
+userPassword: Winfred
+ou: OtherGroup
+uid: 2699
+ Q==

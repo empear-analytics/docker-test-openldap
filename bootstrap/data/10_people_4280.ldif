@@ -1,0 +1,13 @@
+dn: cn=Agnus+sn=Pacholski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Agnus Pacholski
+cn: Pacholski
+givenname: Agnus
+mail: agnus.pacholski@planetexpress.com
+userPassword: Agnus
+ou: Group5
+uid: 4280
+ Q==

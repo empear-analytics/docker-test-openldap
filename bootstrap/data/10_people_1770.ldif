@@ -1,0 +1,13 @@
+dn: cn=Jacqualine+sn=Malis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacqualine Malis
+cn: Malis
+givenname: Jacqualine
+mail: jacqualine.malis@planetexpress.com
+userPassword: Jacqualine
+ou: admin_staff
+uid: 1770
+ Q==

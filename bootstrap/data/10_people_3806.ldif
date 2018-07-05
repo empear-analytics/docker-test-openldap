@@ -1,0 +1,13 @@
+dn: cn=Lucy+sn=Maiava,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lucy Maiava
+cn: Maiava
+givenname: Lucy
+mail: lucy.maiava@planetexpress.com
+userPassword: Lucy
+ou: admin_staff
+uid: 3806
+ Q==

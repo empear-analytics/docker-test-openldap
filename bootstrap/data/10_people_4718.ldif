@@ -1,0 +1,13 @@
+dn: cn=Rosetta+sn=Marandola,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosetta Marandola
+cn: Marandola
+givenname: Rosetta
+mail: rosetta.marandola@planetexpress.com
+userPassword: Rosetta
+ou: flight_crew
+uid: 4718
+ Q==

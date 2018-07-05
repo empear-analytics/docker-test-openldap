@@ -1,0 +1,13 @@
+dn: cn=Milan+sn=Spinosa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Milan Spinosa
+cn: Spinosa
+givenname: Milan
+mail: milan.spinosa@planetexpress.com
+userPassword: Milan
+ou: OtherGroup
+uid: 1280
+ Q==

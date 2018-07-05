@@ -1,0 +1,13 @@
+dn: cn=Gus+sn=Laesser,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gus Laesser
+cn: Laesser
+givenname: Gus
+mail: gus.laesser@planetexpress.com
+userPassword: Gus
+ou: Group5
+uid: 3193
+ Q==

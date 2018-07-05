@@ -1,0 +1,13 @@
+dn: cn=Debera+sn=Wyand,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Debera Wyand
+cn: Wyand
+givenname: Debera
+mail: debera.wyand@planetexpress.com
+userPassword: Debera
+ou: Group5
+uid: 3143
+ Q==

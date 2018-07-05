@@ -1,0 +1,13 @@
+dn: cn=Renetta+sn=Deschino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Renetta Deschino
+cn: Deschino
+givenname: Renetta
+mail: renetta.deschino@planetexpress.com
+userPassword: Renetta
+ou: OtherGroup
+uid: 2387
+ Q==

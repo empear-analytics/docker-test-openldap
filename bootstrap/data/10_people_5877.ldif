@@ -1,0 +1,13 @@
+dn: cn=Gerri+sn=Lubrano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gerri Lubrano
+cn: Lubrano
+givenname: Gerri
+mail: gerri.lubrano@planetexpress.com
+userPassword: Gerri
+ou: admin_staff
+uid: 5877
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lean+sn=Clawson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lean Clawson
+cn: Clawson
+givenname: Lean
+mail: lean.clawson@planetexpress.com
+userPassword: Lean
+ou: Group5
+uid: 4192
+ Q==

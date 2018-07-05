@@ -1,0 +1,13 @@
+dn: cn=Bettie+sn=Heys,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bettie Heys
+cn: Heys
+givenname: Bettie
+mail: bettie.heys@planetexpress.com
+userPassword: Bettie
+ou: admin_staff
+uid: 461
+ Q==

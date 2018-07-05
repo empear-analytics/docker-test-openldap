@@ -1,0 +1,13 @@
+dn: cn=Eula+sn=Vanwingerden,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eula Vanwingerden
+cn: Vanwingerden
+givenname: Eula
+mail: eula.vanwingerden@planetexpress.com
+userPassword: Eula
+ou: Group5
+uid: 3164
+ Q==

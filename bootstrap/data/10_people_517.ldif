@@ -1,0 +1,13 @@
+dn: cn=Yadira+sn=Bruk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yadira Bruk
+cn: Bruk
+givenname: Yadira
+mail: yadira.bruk@planetexpress.com
+userPassword: Yadira
+ou: Group5
+uid: 517
+ Q==

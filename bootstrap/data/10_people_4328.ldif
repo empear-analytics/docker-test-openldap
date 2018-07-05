@@ -1,0 +1,13 @@
+dn: cn=Tatiana+sn=Monroy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tatiana Monroy
+cn: Monroy
+givenname: Tatiana
+mail: tatiana.monroy@planetexpress.com
+userPassword: Tatiana
+ou: Group5
+uid: 4328
+ Q==

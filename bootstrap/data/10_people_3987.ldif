@@ -1,0 +1,13 @@
+dn: cn=Marisela+sn=Chreene,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marisela Chreene
+cn: Chreene
+givenname: Marisela
+mail: marisela.chreene@planetexpress.com
+userPassword: Marisela
+ou: flight_crew
+uid: 3987
+ Q==

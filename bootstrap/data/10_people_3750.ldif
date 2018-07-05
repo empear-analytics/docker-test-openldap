@@ -1,0 +1,13 @@
+dn: cn=Etta+sn=Shepley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Etta Shepley
+cn: Shepley
+givenname: Etta
+mail: etta.shepley@planetexpress.com
+userPassword: Etta
+ou: flight_crew
+uid: 3750
+ Q==

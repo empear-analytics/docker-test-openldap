@@ -1,0 +1,13 @@
+dn: cn=Jacque+sn=Hubschmitt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacque Hubschmitt
+cn: Hubschmitt
+givenname: Jacque
+mail: jacque.hubschmitt@planetexpress.com
+userPassword: Jacque
+ou: OtherGroup
+uid: 5078
+ Q==

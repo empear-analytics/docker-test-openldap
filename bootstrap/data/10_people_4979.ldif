@@ -1,0 +1,13 @@
+dn: cn=Steffanie+sn=Wienecke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Steffanie Wienecke
+cn: Wienecke
+givenname: Steffanie
+mail: steffanie.wienecke@planetexpress.com
+userPassword: Steffanie
+ou: OtherGroup
+uid: 4979
+ Q==

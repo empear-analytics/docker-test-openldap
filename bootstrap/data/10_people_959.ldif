@@ -1,0 +1,13 @@
+dn: cn=Moshe+sn=Thetford,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Moshe Thetford
+cn: Thetford
+givenname: Moshe
+mail: moshe.thetford@planetexpress.com
+userPassword: Moshe
+ou: OtherGroup
+uid: 959
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Malorie+sn=Copple,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Malorie Copple
+cn: Copple
+givenname: Malorie
+mail: malorie.copple@planetexpress.com
+userPassword: Malorie
+ou: admin_staff
+uid: 1474
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Madaline+sn=Becher,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Madaline Becher
+cn: Becher
+givenname: Madaline
+mail: madaline.becher@planetexpress.com
+userPassword: Madaline
+ou: OtherGroup
+uid: 1680
+ Q==

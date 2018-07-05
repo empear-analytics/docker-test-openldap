@@ -1,0 +1,13 @@
+dn: cn=Maryellen+sn=Wechsler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maryellen Wechsler
+cn: Wechsler
+givenname: Maryellen
+mail: maryellen.wechsler@planetexpress.com
+userPassword: Maryellen
+ou: Group5
+uid: 1210
+ Q==

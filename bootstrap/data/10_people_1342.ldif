@@ -1,0 +1,13 @@
+dn: cn=Janee+sn=Dundlow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janee Dundlow
+cn: Dundlow
+givenname: Janee
+mail: janee.dundlow@planetexpress.com
+userPassword: Janee
+ou: flight_crew
+uid: 1342
+ Q==

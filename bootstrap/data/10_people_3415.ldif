@@ -1,0 +1,13 @@
+dn: cn=Norene+sn=Goulbourne,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Norene Goulbourne
+cn: Goulbourne
+givenname: Norene
+mail: norene.goulbourne@planetexpress.com
+userPassword: Norene
+ou: admin_staff
+uid: 3415
+ Q==

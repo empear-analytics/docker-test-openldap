@@ -1,0 +1,13 @@
+dn: cn=Von+sn=Ero,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Von Ero
+cn: Ero
+givenname: Von
+mail: von.ero@planetexpress.com
+userPassword: Von
+ou: admin_staff
+uid: 1287
+ Q==

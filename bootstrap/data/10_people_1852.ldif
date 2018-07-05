@@ -1,0 +1,13 @@
+dn: cn=Beryl+sn=Arkadie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beryl Arkadie
+cn: Arkadie
+givenname: Beryl
+mail: beryl.arkadie@planetexpress.com
+userPassword: Beryl
+ou: flight_crew
+uid: 1852
+ Q==

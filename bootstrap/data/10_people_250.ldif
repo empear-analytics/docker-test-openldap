@@ -1,0 +1,13 @@
+dn: cn=Tyrone+sn=Delliveneri,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tyrone Delliveneri
+cn: Delliveneri
+givenname: Tyrone
+mail: tyrone.delliveneri@planetexpress.com
+userPassword: Tyrone
+ou: flight_crew
+uid: 250
+ Q==

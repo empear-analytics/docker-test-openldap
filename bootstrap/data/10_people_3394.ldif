@@ -1,0 +1,13 @@
+dn: cn=Brianna+sn=Willison,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brianna Willison
+cn: Willison
+givenname: Brianna
+mail: brianna.willison@planetexpress.com
+userPassword: Brianna
+ou: admin_staff
+uid: 3394
+ Q==

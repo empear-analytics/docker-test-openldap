@@ -1,0 +1,13 @@
+dn: cn=Gwenda+sn=Dinsmoor,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gwenda Dinsmoor
+cn: Dinsmoor
+givenname: Gwenda
+mail: gwenda.dinsmoor@planetexpress.com
+userPassword: Gwenda
+ou: OtherGroup
+uid: 3271
+ Q==

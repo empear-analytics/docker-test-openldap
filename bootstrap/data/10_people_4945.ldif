@@ -1,0 +1,13 @@
+dn: cn=Garrett+sn=Vix,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Garrett Vix
+cn: Vix
+givenname: Garrett
+mail: garrett.vix@planetexpress.com
+userPassword: Garrett
+ou: Group5
+uid: 4945
+ Q==

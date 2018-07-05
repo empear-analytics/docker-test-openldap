@@ -1,0 +1,13 @@
+dn: cn=Osvaldo+sn=Gonthier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Osvaldo Gonthier
+cn: Gonthier
+givenname: Osvaldo
+mail: osvaldo.gonthier@planetexpress.com
+userPassword: Osvaldo
+ou: flight_crew
+uid: 5042
+ Q==

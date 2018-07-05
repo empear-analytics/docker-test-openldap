@@ -1,0 +1,13 @@
+dn: cn=Dina+sn=Kietzer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dina Kietzer
+cn: Kietzer
+givenname: Dina
+mail: dina.kietzer@planetexpress.com
+userPassword: Dina
+ou: OtherGroup
+uid: 401
+ Q==

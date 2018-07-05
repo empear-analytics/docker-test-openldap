@@ -1,0 +1,13 @@
+dn: cn=Major+sn=Quoss,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Major Quoss
+cn: Quoss
+givenname: Major
+mail: major.quoss@planetexpress.com
+userPassword: Major
+ou: Group5
+uid: 62
+ Q==

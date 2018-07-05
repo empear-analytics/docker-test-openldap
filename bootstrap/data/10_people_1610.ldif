@@ -1,0 +1,13 @@
+dn: cn=Daina+sn=Loewenstein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daina Loewenstein
+cn: Loewenstein
+givenname: Daina
+mail: daina.loewenstein@planetexpress.com
+userPassword: Daina
+ou: OtherGroup
+uid: 1610
+ Q==

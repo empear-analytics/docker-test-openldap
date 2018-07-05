@@ -1,0 +1,13 @@
+dn: cn=Daniela+sn=Maccini,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daniela Maccini
+cn: Maccini
+givenname: Daniela
+mail: daniela.maccini@planetexpress.com
+userPassword: Daniela
+ou: flight_crew
+uid: 4926
+ Q==

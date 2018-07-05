@@ -1,0 +1,13 @@
+dn: cn=Craig+sn=Vermeesch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Craig Vermeesch
+cn: Vermeesch
+givenname: Craig
+mail: craig.vermeesch@planetexpress.com
+userPassword: Craig
+ou: admin_staff
+uid: 2862
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Hee+sn=Sigers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hee Sigers
+cn: Sigers
+givenname: Hee
+mail: hee.sigers@planetexpress.com
+userPassword: Hee
+ou: flight_crew
+uid: 811
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Reanna+sn=Pritts,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reanna Pritts
+cn: Pritts
+givenname: Reanna
+mail: reanna.pritts@planetexpress.com
+userPassword: Reanna
+ou: flight_crew
+uid: 4383
+ Q==

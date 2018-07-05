@@ -1,0 +1,13 @@
+dn: cn=Arnulfo+sn=Pelchat,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arnulfo Pelchat
+cn: Pelchat
+givenname: Arnulfo
+mail: arnulfo.pelchat@planetexpress.com
+userPassword: Arnulfo
+ou: flight_crew
+uid: 2670
+ Q==

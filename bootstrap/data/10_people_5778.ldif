@@ -1,0 +1,13 @@
+dn: cn=Jonnie+sn=Ottinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jonnie Ottinger
+cn: Ottinger
+givenname: Jonnie
+mail: jonnie.ottinger@planetexpress.com
+userPassword: Jonnie
+ou: OtherGroup
+uid: 5778
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Louie+sn=Dirico,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Louie Dirico
+cn: Dirico
+givenname: Louie
+mail: louie.dirico@planetexpress.com
+userPassword: Louie
+ou: Group5
+uid: 3209
+ Q==

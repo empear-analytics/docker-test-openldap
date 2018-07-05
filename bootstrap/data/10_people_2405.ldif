@@ -1,0 +1,13 @@
+dn: cn=Sharonda+sn=Rude,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharonda Rude
+cn: Rude
+givenname: Sharonda
+mail: sharonda.rude@planetexpress.com
+userPassword: Sharonda
+ou: admin_staff
+uid: 2405
+ Q==

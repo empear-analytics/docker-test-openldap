@@ -1,0 +1,13 @@
+dn: cn=Bev+sn=Warf,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bev Warf
+cn: Warf
+givenname: Bev
+mail: bev.warf@planetexpress.com
+userPassword: Bev
+ou: flight_crew
+uid: 4806
+ Q==

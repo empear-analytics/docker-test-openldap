@@ -1,0 +1,13 @@
+dn: cn=Raven+sn=Cantoran,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raven Cantoran
+cn: Cantoran
+givenname: Raven
+mail: raven.cantoran@planetexpress.com
+userPassword: Raven
+ou: Group5
+uid: 2786
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Shera+sn=Montenegro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shera Montenegro
+cn: Montenegro
+givenname: Shera
+mail: shera.montenegro@planetexpress.com
+userPassword: Shera
+ou: admin_staff
+uid: 1418
+ Q==

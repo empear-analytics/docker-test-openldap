@@ -1,0 +1,13 @@
+dn: cn=Jeffrey+sn=Trobaugh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeffrey Trobaugh
+cn: Trobaugh
+givenname: Jeffrey
+mail: jeffrey.trobaugh@planetexpress.com
+userPassword: Jeffrey
+ou: OtherGroup
+uid: 4721
+ Q==

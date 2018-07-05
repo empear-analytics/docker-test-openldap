@@ -1,0 +1,13 @@
+dn: cn=Angelique+sn=Femmer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelique Femmer
+cn: Femmer
+givenname: Angelique
+mail: angelique.femmer@planetexpress.com
+userPassword: Angelique
+ou: admin_staff
+uid: 3009
+ Q==

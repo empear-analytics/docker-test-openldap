@@ -1,0 +1,13 @@
+dn: cn=Sima+sn=Mikulski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sima Mikulski
+cn: Mikulski
+givenname: Sima
+mail: sima.mikulski@planetexpress.com
+userPassword: Sima
+ou: flight_crew
+uid: 5360
+ Q==

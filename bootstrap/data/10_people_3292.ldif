@@ -1,0 +1,13 @@
+dn: cn=Mina+sn=Quinzi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mina Quinzi
+cn: Quinzi
+givenname: Mina
+mail: mina.quinzi@planetexpress.com
+userPassword: Mina
+ou: admin_staff
+uid: 3292
+ Q==

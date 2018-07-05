@@ -1,0 +1,13 @@
+dn: cn=Jerri+sn=Mckewen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jerri Mckewen
+cn: Mckewen
+givenname: Jerri
+mail: jerri.mckewen@planetexpress.com
+userPassword: Jerri
+ou: admin_staff
+uid: 1816
+ Q==

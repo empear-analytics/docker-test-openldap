@@ -1,0 +1,13 @@
+dn: cn=Kia+sn=Toy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kia Toy
+cn: Toy
+givenname: Kia
+mail: kia.toy@planetexpress.com
+userPassword: Kia
+ou: admin_staff
+uid: 986
+ Q==

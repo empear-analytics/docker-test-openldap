@@ -1,0 +1,13 @@
+dn: cn=Sean+sn=Powell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sean Powell
+cn: Powell
+givenname: Sean
+mail: sean.powell@planetexpress.com
+userPassword: Sean
+ou: OtherGroup
+uid: 5064
+ Q==

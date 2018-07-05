@@ -1,0 +1,13 @@
+dn: cn=Trinh+sn=Trewhitt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Trinh Trewhitt
+cn: Trewhitt
+givenname: Trinh
+mail: trinh.trewhitt@planetexpress.com
+userPassword: Trinh
+ou: Group5
+uid: 4
+ Q==

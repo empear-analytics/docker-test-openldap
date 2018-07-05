@@ -1,0 +1,13 @@
+dn: cn=Soraya+sn=Means,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Soraya Means
+cn: Means
+givenname: Soraya
+mail: soraya.means@planetexpress.com
+userPassword: Soraya
+ou: flight_crew
+uid: 871
+ Q==

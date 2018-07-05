@@ -1,0 +1,13 @@
+dn: cn=Stanton+sn=Hilmer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stanton Hilmer
+cn: Hilmer
+givenname: Stanton
+mail: stanton.hilmer@planetexpress.com
+userPassword: Stanton
+ou: flight_crew
+uid: 2114
+ Q==

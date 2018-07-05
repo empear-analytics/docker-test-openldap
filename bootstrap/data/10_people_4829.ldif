@@ -1,0 +1,13 @@
+dn: cn=Edgar+sn=Daise,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edgar Daise
+cn: Daise
+givenname: Edgar
+mail: edgar.daise@planetexpress.com
+userPassword: Edgar
+ou: OtherGroup
+uid: 4829
+ Q==

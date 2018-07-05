@@ -1,0 +1,13 @@
+dn: cn=Kris+sn=Tylwalk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kris Tylwalk
+cn: Tylwalk
+givenname: Kris
+mail: kris.tylwalk@planetexpress.com
+userPassword: Kris
+ou: admin_staff
+uid: 164
+ Q==

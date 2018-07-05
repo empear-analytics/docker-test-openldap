@@ -1,0 +1,13 @@
+dn: cn=Cuc+sn=Frack,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cuc Frack
+cn: Frack
+givenname: Cuc
+mail: cuc.frack@planetexpress.com
+userPassword: Cuc
+ou: flight_crew
+uid: 1768
+ Q==

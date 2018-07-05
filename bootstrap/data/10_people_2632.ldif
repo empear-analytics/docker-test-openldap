@@ -1,0 +1,13 @@
+dn: cn=Mazie+sn=Vong,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mazie Vong
+cn: Vong
+givenname: Mazie
+mail: mazie.vong@planetexpress.com
+userPassword: Mazie
+ou: Group5
+uid: 2632
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jacqualine+sn=Callaghan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacqualine Callaghan
+cn: Callaghan
+givenname: Jacqualine
+mail: jacqualine.callaghan@planetexpress.com
+userPassword: Jacqualine
+ou: flight_crew
+uid: 4844
+ Q==

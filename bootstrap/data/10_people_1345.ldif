@@ -1,0 +1,13 @@
+dn: cn=Wendolyn+sn=Steinmann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wendolyn Steinmann
+cn: Steinmann
+givenname: Wendolyn
+mail: wendolyn.steinmann@planetexpress.com
+userPassword: Wendolyn
+ou: OtherGroup
+uid: 1345
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tyson+sn=Shackley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tyson Shackley
+cn: Shackley
+givenname: Tyson
+mail: tyson.shackley@planetexpress.com
+userPassword: Tyson
+ou: OtherGroup
+uid: 2430
+ Q==

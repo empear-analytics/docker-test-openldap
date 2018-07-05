@@ -1,0 +1,13 @@
+dn: cn=Melida+sn=Furtaw,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melida Furtaw
+cn: Furtaw
+givenname: Melida
+mail: melida.furtaw@planetexpress.com
+userPassword: Melida
+ou: Group5
+uid: 3814
+ Q==

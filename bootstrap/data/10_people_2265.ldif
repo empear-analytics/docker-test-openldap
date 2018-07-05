@@ -1,0 +1,13 @@
+dn: cn=Asley+sn=Boera,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Asley Boera
+cn: Boera
+givenname: Asley
+mail: asley.boera@planetexpress.com
+userPassword: Asley
+ou: flight_crew
+uid: 2265
+ Q==

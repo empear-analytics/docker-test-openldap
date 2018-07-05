@@ -1,0 +1,13 @@
+dn: cn=Stephany+sn=Santarsiero,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stephany Santarsiero
+cn: Santarsiero
+givenname: Stephany
+mail: stephany.santarsiero@planetexpress.com
+userPassword: Stephany
+ou: Group5
+uid: 3651
+ Q==

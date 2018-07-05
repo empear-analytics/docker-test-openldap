@@ -1,0 +1,13 @@
+dn: cn=Merrilee+sn=Zebrowski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Merrilee Zebrowski
+cn: Zebrowski
+givenname: Merrilee
+mail: merrilee.zebrowski@planetexpress.com
+userPassword: Merrilee
+ou: Group5
+uid: 3211
+ Q==

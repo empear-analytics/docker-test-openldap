@@ -1,0 +1,13 @@
+dn: cn=Erick+sn=Barge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Erick Barge
+cn: Barge
+givenname: Erick
+mail: erick.barge@planetexpress.com
+userPassword: Erick
+ou: flight_crew
+uid: 4707
+ Q==

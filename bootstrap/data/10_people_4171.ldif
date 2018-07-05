@@ -1,0 +1,13 @@
+dn: cn=Ardell+sn=Won,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ardell Won
+cn: Won
+givenname: Ardell
+mail: ardell.won@planetexpress.com
+userPassword: Ardell
+ou: OtherGroup
+uid: 4171
+ Q==

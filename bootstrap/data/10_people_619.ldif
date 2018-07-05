@@ -1,0 +1,13 @@
+dn: cn=Brian+sn=Raffety,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brian Raffety
+cn: Raffety
+givenname: Brian
+mail: brian.raffety@planetexpress.com
+userPassword: Brian
+ou: flight_crew
+uid: 619
+ Q==

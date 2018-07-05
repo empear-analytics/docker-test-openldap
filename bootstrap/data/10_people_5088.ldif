@@ -1,0 +1,13 @@
+dn: cn=Lurline+sn=Pacas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lurline Pacas
+cn: Pacas
+givenname: Lurline
+mail: lurline.pacas@planetexpress.com
+userPassword: Lurline
+ou: Group5
+uid: 5088
+ Q==

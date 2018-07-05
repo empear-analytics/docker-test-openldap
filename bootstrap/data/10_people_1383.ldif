@@ -1,0 +1,13 @@
+dn: cn=Bonny+sn=Heckbert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bonny Heckbert
+cn: Heckbert
+givenname: Bonny
+mail: bonny.heckbert@planetexpress.com
+userPassword: Bonny
+ou: admin_staff
+uid: 1383
+ Q==

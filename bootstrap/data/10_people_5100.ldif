@@ -1,0 +1,13 @@
+dn: cn=Arlyne+sn=Gravatt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arlyne Gravatt
+cn: Gravatt
+givenname: Arlyne
+mail: arlyne.gravatt@planetexpress.com
+userPassword: Arlyne
+ou: flight_crew
+uid: 5100
+ Q==

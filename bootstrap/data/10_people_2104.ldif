@@ -1,0 +1,13 @@
+dn: cn=Natalia+sn=Kozlovsky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Natalia Kozlovsky
+cn: Kozlovsky
+givenname: Natalia
+mail: natalia.kozlovsky@planetexpress.com
+userPassword: Natalia
+ou: Group5
+uid: 2104
+ Q==

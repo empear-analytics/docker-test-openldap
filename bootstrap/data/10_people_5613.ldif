@@ -1,0 +1,13 @@
+dn: cn=Ferne+sn=Sekel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ferne Sekel
+cn: Sekel
+givenname: Ferne
+mail: ferne.sekel@planetexpress.com
+userPassword: Ferne
+ou: Group5
+uid: 5613
+ Q==

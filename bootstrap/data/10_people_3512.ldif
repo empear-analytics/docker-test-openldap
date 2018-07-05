@@ -1,0 +1,13 @@
+dn: cn=Dean+sn=Hartleben,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dean Hartleben
+cn: Hartleben
+givenname: Dean
+mail: dean.hartleben@planetexpress.com
+userPassword: Dean
+ou: flight_crew
+uid: 3512
+ Q==

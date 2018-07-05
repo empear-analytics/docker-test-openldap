@@ -1,0 +1,13 @@
+dn: cn=Jeanette+sn=Favero,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeanette Favero
+cn: Favero
+givenname: Jeanette
+mail: jeanette.favero@planetexpress.com
+userPassword: Jeanette
+ou: admin_staff
+uid: 3531
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Callie+sn=Tronstad,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Callie Tronstad
+cn: Tronstad
+givenname: Callie
+mail: callie.tronstad@planetexpress.com
+userPassword: Callie
+ou: OtherGroup
+uid: 3293
+ Q==

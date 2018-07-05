@@ -1,0 +1,13 @@
+dn: cn=Linnea+sn=Marmol,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Linnea Marmol
+cn: Marmol
+givenname: Linnea
+mail: linnea.marmol@planetexpress.com
+userPassword: Linnea
+ou: Group5
+uid: 3232
+ Q==

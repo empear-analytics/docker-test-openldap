@@ -1,0 +1,13 @@
+dn: cn=Elwood+sn=Zaruba,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elwood Zaruba
+cn: Zaruba
+givenname: Elwood
+mail: elwood.zaruba@planetexpress.com
+userPassword: Elwood
+ou: admin_staff
+uid: 3877
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Elenore+sn=Sages,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elenore Sages
+cn: Sages
+givenname: Elenore
+mail: elenore.sages@planetexpress.com
+userPassword: Elenore
+ou: flight_crew
+uid: 4296
+ Q==

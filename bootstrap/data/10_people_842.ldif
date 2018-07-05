@@ -1,0 +1,13 @@
+dn: cn=Willodean+sn=Reding,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Willodean Reding
+cn: Reding
+givenname: Willodean
+mail: willodean.reding@planetexpress.com
+userPassword: Willodean
+ou: Group5
+uid: 842
+ Q==

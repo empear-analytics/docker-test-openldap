@@ -1,0 +1,13 @@
+dn: cn=Iliana+sn=Hope,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Iliana Hope
+cn: Hope
+givenname: Iliana
+mail: iliana.hope@planetexpress.com
+userPassword: Iliana
+ou: Group5
+uid: 5790
+ Q==

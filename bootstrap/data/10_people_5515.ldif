@@ -1,0 +1,13 @@
+dn: cn=Ronnie+sn=Delcueto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ronnie Delcueto
+cn: Delcueto
+givenname: Ronnie
+mail: ronnie.delcueto@planetexpress.com
+userPassword: Ronnie
+ou: OtherGroup
+uid: 5515
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Mimi+sn=Brueck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mimi Brueck
+cn: Brueck
+givenname: Mimi
+mail: mimi.brueck@planetexpress.com
+userPassword: Mimi
+ou: flight_crew
+uid: 2570
+ Q==

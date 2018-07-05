@@ -1,0 +1,13 @@
+dn: cn=Divina+sn=Reul,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Divina Reul
+cn: Reul
+givenname: Divina
+mail: divina.reul@planetexpress.com
+userPassword: Divina
+ou: Group5
+uid: 83
+ Q==

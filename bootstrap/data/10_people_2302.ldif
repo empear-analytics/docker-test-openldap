@@ -1,0 +1,13 @@
+dn: cn=Tricia+sn=Terbush,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tricia Terbush
+cn: Terbush
+givenname: Tricia
+mail: tricia.terbush@planetexpress.com
+userPassword: Tricia
+ou: flight_crew
+uid: 2302
+ Q==

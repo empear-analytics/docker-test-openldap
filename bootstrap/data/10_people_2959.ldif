@@ -1,0 +1,13 @@
+dn: cn=Annabelle+sn=Bartolo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annabelle Bartolo
+cn: Bartolo
+givenname: Annabelle
+mail: annabelle.bartolo@planetexpress.com
+userPassword: Annabelle
+ou: admin_staff
+uid: 2959
+ Q==

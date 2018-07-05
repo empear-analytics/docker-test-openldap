@@ -1,0 +1,13 @@
+dn: cn=Naida+sn=Pagdanganan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Naida Pagdanganan
+cn: Pagdanganan
+givenname: Naida
+mail: naida.pagdanganan@planetexpress.com
+userPassword: Naida
+ou: Group5
+uid: 4361
+ Q==

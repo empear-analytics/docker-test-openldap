@@ -1,0 +1,13 @@
+dn: cn=Corrinne+sn=Vila,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Corrinne Vila
+cn: Vila
+givenname: Corrinne
+mail: corrinne.vila@planetexpress.com
+userPassword: Corrinne
+ou: flight_crew
+uid: 1148
+ Q==

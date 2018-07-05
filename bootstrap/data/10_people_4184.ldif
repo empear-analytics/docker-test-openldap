@@ -1,0 +1,13 @@
+dn: cn=Lolita+sn=Hay,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lolita Hay
+cn: Hay
+givenname: Lolita
+mail: lolita.hay@planetexpress.com
+userPassword: Lolita
+ou: OtherGroup
+uid: 4184
+ Q==

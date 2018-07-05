@@ -1,0 +1,13 @@
+dn: cn=Sharri+sn=Mcmanamy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharri Mcmanamy
+cn: Mcmanamy
+givenname: Sharri
+mail: sharri.mcmanamy@planetexpress.com
+userPassword: Sharri
+ou: admin_staff
+uid: 584
+ Q==

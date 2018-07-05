@@ -1,0 +1,13 @@
+dn: cn=Tatiana+sn=Gangelhoff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tatiana Gangelhoff
+cn: Gangelhoff
+givenname: Tatiana
+mail: tatiana.gangelhoff@planetexpress.com
+userPassword: Tatiana
+ou: flight_crew
+uid: 1561
+ Q==

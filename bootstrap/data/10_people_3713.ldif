@@ -1,0 +1,13 @@
+dn: cn=Roslyn+sn=Hertle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roslyn Hertle
+cn: Hertle
+givenname: Roslyn
+mail: roslyn.hertle@planetexpress.com
+userPassword: Roslyn
+ou: Group5
+uid: 3713
+ Q==

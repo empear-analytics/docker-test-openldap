@@ -1,0 +1,13 @@
+dn: cn=Numbers+sn=Shover,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Numbers Shover
+cn: Shover
+givenname: Numbers
+mail: numbers.shover@planetexpress.com
+userPassword: Numbers
+ou: flight_crew
+uid: 5530
+ Q==

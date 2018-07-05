@@ -1,0 +1,13 @@
+dn: cn=Christine+sn=Zulauf,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christine Zulauf
+cn: Zulauf
+givenname: Christine
+mail: christine.zulauf@planetexpress.com
+userPassword: Christine
+ou: OtherGroup
+uid: 496
+ Q==

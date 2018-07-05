@@ -1,0 +1,13 @@
+dn: cn=Rosana+sn=Deuermeyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosana Deuermeyer
+cn: Deuermeyer
+givenname: Rosana
+mail: rosana.deuermeyer@planetexpress.com
+userPassword: Rosana
+ou: admin_staff
+uid: 293
+ Q==

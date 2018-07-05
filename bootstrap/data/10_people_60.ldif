@@ -1,0 +1,13 @@
+dn: cn=Rachell+sn=Rolison,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rachell Rolison
+cn: Rolison
+givenname: Rachell
+mail: rachell.rolison@planetexpress.com
+userPassword: Rachell
+ou: admin_staff
+uid: 60
+ Q==

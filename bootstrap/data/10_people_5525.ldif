@@ -1,0 +1,13 @@
+dn: cn=Lanelle+sn=Heilbrun,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lanelle Heilbrun
+cn: Heilbrun
+givenname: Lanelle
+mail: lanelle.heilbrun@planetexpress.com
+userPassword: Lanelle
+ou: Group5
+uid: 5525
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Morgan+sn=Cubbage,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Morgan Cubbage
+cn: Cubbage
+givenname: Morgan
+mail: morgan.cubbage@planetexpress.com
+userPassword: Morgan
+ou: Group5
+uid: 5430
+ Q==

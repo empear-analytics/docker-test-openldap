@@ -1,0 +1,13 @@
+dn: cn=Alanna+sn=Nietupski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alanna Nietupski
+cn: Nietupski
+givenname: Alanna
+mail: alanna.nietupski@planetexpress.com
+userPassword: Alanna
+ou: flight_crew
+uid: 1098
+ Q==

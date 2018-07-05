@@ -1,0 +1,13 @@
+dn: cn=Kandi+sn=Feist,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kandi Feist
+cn: Feist
+givenname: Kandi
+mail: kandi.feist@planetexpress.com
+userPassword: Kandi
+ou: admin_staff
+uid: 3187
+ Q==

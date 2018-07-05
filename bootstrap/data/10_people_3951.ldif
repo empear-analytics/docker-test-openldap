@@ -1,0 +1,13 @@
+dn: cn=Elena+sn=Lofgreen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elena Lofgreen
+cn: Lofgreen
+givenname: Elena
+mail: elena.lofgreen@planetexpress.com
+userPassword: Elena
+ou: OtherGroup
+uid: 3951
+ Q==

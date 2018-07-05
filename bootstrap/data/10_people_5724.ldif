@@ -1,0 +1,13 @@
+dn: cn=Velia+sn=Esau,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Velia Esau
+cn: Esau
+givenname: Velia
+mail: velia.esau@planetexpress.com
+userPassword: Velia
+ou: admin_staff
+uid: 5724
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Eda+sn=Kovacich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eda Kovacich
+cn: Kovacich
+givenname: Eda
+mail: eda.kovacich@planetexpress.com
+userPassword: Eda
+ou: admin_staff
+uid: 4236
+ Q==

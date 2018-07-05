@@ -1,0 +1,13 @@
+dn: cn=Paul+sn=Dehass,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Paul Dehass
+cn: Dehass
+givenname: Paul
+mail: paul.dehass@planetexpress.com
+userPassword: Paul
+ou: admin_staff
+uid: 5240
+ Q==

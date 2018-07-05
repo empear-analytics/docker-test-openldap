@@ -1,0 +1,13 @@
+dn: cn=Jayson+sn=Allmond,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jayson Allmond
+cn: Allmond
+givenname: Jayson
+mail: jayson.allmond@planetexpress.com
+userPassword: Jayson
+ou: admin_staff
+uid: 3150
+ Q==

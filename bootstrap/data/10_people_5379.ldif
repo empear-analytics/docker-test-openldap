@@ -1,0 +1,13 @@
+dn: cn=Emmett+sn=Bagwill,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emmett Bagwill
+cn: Bagwill
+givenname: Emmett
+mail: emmett.bagwill@planetexpress.com
+userPassword: Emmett
+ou: flight_crew
+uid: 5379
+ Q==

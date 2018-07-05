@@ -1,0 +1,13 @@
+dn: cn=Setsuko+sn=Bohannan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Setsuko Bohannan
+cn: Bohannan
+givenname: Setsuko
+mail: setsuko.bohannan@planetexpress.com
+userPassword: Setsuko
+ou: OtherGroup
+uid: 5255
+ Q==

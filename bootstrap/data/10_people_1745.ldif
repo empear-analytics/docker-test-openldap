@@ -1,0 +1,13 @@
+dn: cn=Cassi+sn=Ardinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cassi Ardinger
+cn: Ardinger
+givenname: Cassi
+mail: cassi.ardinger@planetexpress.com
+userPassword: Cassi
+ou: Group5
+uid: 1745
+ Q==

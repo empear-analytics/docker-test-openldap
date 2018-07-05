@@ -1,0 +1,13 @@
+dn: cn=Gordon+sn=July,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gordon July
+cn: July
+givenname: Gordon
+mail: gordon.july@planetexpress.com
+userPassword: Gordon
+ou: admin_staff
+uid: 2486
+ Q==

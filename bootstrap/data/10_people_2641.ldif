@@ -1,0 +1,13 @@
+dn: cn=Ja+sn=Kamerer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ja Kamerer
+cn: Kamerer
+givenname: Ja
+mail: ja.kamerer@planetexpress.com
+userPassword: Ja
+ou: flight_crew
+uid: 2641
+ Q==

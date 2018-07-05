@@ -1,0 +1,13 @@
+dn: cn=Clifton+sn=Gadbois,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clifton Gadbois
+cn: Gadbois
+givenname: Clifton
+mail: clifton.gadbois@planetexpress.com
+userPassword: Clifton
+ou: Group5
+uid: 902
+ Q==

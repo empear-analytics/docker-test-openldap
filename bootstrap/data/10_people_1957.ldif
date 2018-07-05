@@ -1,0 +1,13 @@
+dn: cn=Chi+sn=Wieto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chi Wieto
+cn: Wieto
+givenname: Chi
+mail: chi.wieto@planetexpress.com
+userPassword: Chi
+ou: flight_crew
+uid: 1957
+ Q==

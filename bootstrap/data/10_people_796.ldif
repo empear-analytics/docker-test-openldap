@@ -1,0 +1,13 @@
+dn: cn=Eleni+sn=Tegarden,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eleni Tegarden
+cn: Tegarden
+givenname: Eleni
+mail: eleni.tegarden@planetexpress.com
+userPassword: Eleni
+ou: OtherGroup
+uid: 796
+ Q==

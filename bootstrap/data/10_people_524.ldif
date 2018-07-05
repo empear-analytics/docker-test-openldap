@@ -1,0 +1,13 @@
+dn: cn=Trina+sn=Sheaman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Trina Sheaman
+cn: Sheaman
+givenname: Trina
+mail: trina.sheaman@planetexpress.com
+userPassword: Trina
+ou: flight_crew
+uid: 524
+ Q==

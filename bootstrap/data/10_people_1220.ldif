@@ -1,0 +1,13 @@
+dn: cn=An+sn=Nasca,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: An Nasca
+cn: Nasca
+givenname: An
+mail: an.nasca@planetexpress.com
+userPassword: An
+ou: Group5
+uid: 1220
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Cherilyn+sn=Puc,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cherilyn Puc
+cn: Puc
+givenname: Cherilyn
+mail: cherilyn.puc@planetexpress.com
+userPassword: Cherilyn
+ou: flight_crew
+uid: 287
+ Q==

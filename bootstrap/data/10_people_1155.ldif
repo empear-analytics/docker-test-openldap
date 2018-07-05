@@ -1,0 +1,13 @@
+dn: cn=Jeana+sn=Draft,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeana Draft
+cn: Draft
+givenname: Jeana
+mail: jeana.draft@planetexpress.com
+userPassword: Jeana
+ou: Group5
+uid: 1155
+ Q==

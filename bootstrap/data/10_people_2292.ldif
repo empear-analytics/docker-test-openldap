@@ -1,0 +1,13 @@
+dn: cn=Cleopatra+sn=Teltschik,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cleopatra Teltschik
+cn: Teltschik
+givenname: Cleopatra
+mail: cleopatra.teltschik@planetexpress.com
+userPassword: Cleopatra
+ou: OtherGroup
+uid: 2292
+ Q==

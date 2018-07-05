@@ -1,0 +1,13 @@
+dn: cn=Lanelle+sn=Mohsin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lanelle Mohsin
+cn: Mohsin
+givenname: Lanelle
+mail: lanelle.mohsin@planetexpress.com
+userPassword: Lanelle
+ou: flight_crew
+uid: 1905
+ Q==

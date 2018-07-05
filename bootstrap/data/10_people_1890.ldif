@@ -1,0 +1,13 @@
+dn: cn=Jayme+sn=Romig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jayme Romig
+cn: Romig
+givenname: Jayme
+mail: jayme.romig@planetexpress.com
+userPassword: Jayme
+ou: flight_crew
+uid: 1890
+ Q==

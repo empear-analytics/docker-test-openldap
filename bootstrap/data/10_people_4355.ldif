@@ -1,0 +1,13 @@
+dn: cn=Cindie+sn=Boisse,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cindie Boisse
+cn: Boisse
+givenname: Cindie
+mail: cindie.boisse@planetexpress.com
+userPassword: Cindie
+ou: Group5
+uid: 4355
+ Q==

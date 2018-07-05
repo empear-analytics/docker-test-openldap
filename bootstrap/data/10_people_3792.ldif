@@ -1,0 +1,13 @@
+dn: cn=Madeleine+sn=Cratty,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Madeleine Cratty
+cn: Cratty
+givenname: Madeleine
+mail: madeleine.cratty@planetexpress.com
+userPassword: Madeleine
+ou: OtherGroup
+uid: 3792
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ladonna+sn=Yocum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ladonna Yocum
+cn: Yocum
+givenname: Ladonna
+mail: ladonna.yocum@planetexpress.com
+userPassword: Ladonna
+ou: flight_crew
+uid: 1919
+ Q==

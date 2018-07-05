@@ -1,0 +1,13 @@
+dn: cn=Shalonda+sn=Scheirman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shalonda Scheirman
+cn: Scheirman
+givenname: Shalonda
+mail: shalonda.scheirman@planetexpress.com
+userPassword: Shalonda
+ou: Group5
+uid: 3131
+ Q==

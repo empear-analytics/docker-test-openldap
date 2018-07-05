@@ -1,0 +1,13 @@
+dn: cn=Chong+sn=Shorten,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chong Shorten
+cn: Shorten
+givenname: Chong
+mail: chong.shorten@planetexpress.com
+userPassword: Chong
+ou: admin_staff
+uid: 55
+ Q==

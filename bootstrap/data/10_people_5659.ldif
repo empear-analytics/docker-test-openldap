@@ -1,0 +1,13 @@
+dn: cn=Joel+sn=Meester,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joel Meester
+cn: Meester
+givenname: Joel
+mail: joel.meester@planetexpress.com
+userPassword: Joel
+ou: OtherGroup
+uid: 5659
+ Q==

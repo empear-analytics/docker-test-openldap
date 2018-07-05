@@ -1,0 +1,13 @@
+dn: cn=Son+sn=Rister,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Son Rister
+cn: Rister
+givenname: Son
+mail: son.rister@planetexpress.com
+userPassword: Son
+ou: admin_staff
+uid: 4566
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lorita+sn=Berardino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lorita Berardino
+cn: Berardino
+givenname: Lorita
+mail: lorita.berardino@planetexpress.com
+userPassword: Lorita
+ou: OtherGroup
+uid: 1540
+ Q==

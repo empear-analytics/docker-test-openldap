@@ -1,0 +1,13 @@
+dn: cn=Vickey+sn=Splane,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vickey Splane
+cn: Splane
+givenname: Vickey
+mail: vickey.splane@planetexpress.com
+userPassword: Vickey
+ou: Group5
+uid: 2680
+ Q==

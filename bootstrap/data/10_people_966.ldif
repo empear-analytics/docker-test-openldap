@@ -1,0 +1,13 @@
+dn: cn=Jame+sn=Shilts,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jame Shilts
+cn: Shilts
+givenname: Jame
+mail: jame.shilts@planetexpress.com
+userPassword: Jame
+ou: OtherGroup
+uid: 966
+ Q==

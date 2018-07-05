@@ -1,0 +1,13 @@
+dn: cn=Jerilyn+sn=Star,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jerilyn Star
+cn: Star
+givenname: Jerilyn
+mail: jerilyn.star@planetexpress.com
+userPassword: Jerilyn
+ou: Group5
+uid: 760
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Clifton+sn=Heys,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clifton Heys
+cn: Heys
+givenname: Clifton
+mail: clifton.heys@planetexpress.com
+userPassword: Clifton
+ou: admin_staff
+uid: 611
+ Q==

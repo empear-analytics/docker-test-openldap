@@ -1,0 +1,13 @@
+dn: cn=Francisco+sn=Malo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Francisco Malo
+cn: Malo
+givenname: Francisco
+mail: francisco.malo@planetexpress.com
+userPassword: Francisco
+ou: admin_staff
+uid: 5189
+ Q==

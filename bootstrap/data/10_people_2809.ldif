@@ -1,0 +1,13 @@
+dn: cn=Bao+sn=Fagerstrom,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bao Fagerstrom
+cn: Fagerstrom
+givenname: Bao
+mail: bao.fagerstrom@planetexpress.com
+userPassword: Bao
+ou: Group5
+uid: 2809
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Leonie+sn=Dorge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leonie Dorge
+cn: Dorge
+givenname: Leonie
+mail: leonie.dorge@planetexpress.com
+userPassword: Leonie
+ou: admin_staff
+uid: 5488
+ Q==

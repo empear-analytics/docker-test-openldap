@@ -1,0 +1,13 @@
+dn: cn=Cathi+sn=Lendt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cathi Lendt
+cn: Lendt
+givenname: Cathi
+mail: cathi.lendt@planetexpress.com
+userPassword: Cathi
+ou: Group5
+uid: 228
+ Q==

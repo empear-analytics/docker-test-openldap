@@ -1,0 +1,13 @@
+dn: cn=Tanner+sn=Mcnight,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tanner Mcnight
+cn: Mcnight
+givenname: Tanner
+mail: tanner.mcnight@planetexpress.com
+userPassword: Tanner
+ou: flight_crew
+uid: 3923
+ Q==

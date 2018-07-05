@@ -1,0 +1,13 @@
+dn: cn=Kimberlee+sn=Delmastro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kimberlee Delmastro
+cn: Delmastro
+givenname: Kimberlee
+mail: kimberlee.delmastro@planetexpress.com
+userPassword: Kimberlee
+ou: flight_crew
+uid: 1874
+ Q==

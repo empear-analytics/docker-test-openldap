@@ -1,0 +1,13 @@
+dn: cn=Maia+sn=Salemo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maia Salemo
+cn: Salemo
+givenname: Maia
+mail: maia.salemo@planetexpress.com
+userPassword: Maia
+ou: Group5
+uid: 618
+ Q==

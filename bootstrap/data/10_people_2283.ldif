@@ -1,0 +1,13 @@
+dn: cn=Lyndsay+sn=Sliffe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lyndsay Sliffe
+cn: Sliffe
+givenname: Lyndsay
+mail: lyndsay.sliffe@planetexpress.com
+userPassword: Lyndsay
+ou: flight_crew
+uid: 2283
+ Q==

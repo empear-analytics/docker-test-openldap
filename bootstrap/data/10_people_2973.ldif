@@ -1,0 +1,13 @@
+dn: cn=Georgeanna+sn=Boniol,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Georgeanna Boniol
+cn: Boniol
+givenname: Georgeanna
+mail: georgeanna.boniol@planetexpress.com
+userPassword: Georgeanna
+ou: Group5
+uid: 2973
+ Q==

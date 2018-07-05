@@ -1,0 +1,13 @@
+dn: cn=Mina+sn=Cuzman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mina Cuzman
+cn: Cuzman
+givenname: Mina
+mail: mina.cuzman@planetexpress.com
+userPassword: Mina
+ou: admin_staff
+uid: 3452
+ Q==

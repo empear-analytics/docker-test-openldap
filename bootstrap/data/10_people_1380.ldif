@@ -1,0 +1,13 @@
+dn: cn=Shanta+sn=Jackowski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shanta Jackowski
+cn: Jackowski
+givenname: Shanta
+mail: shanta.jackowski@planetexpress.com
+userPassword: Shanta
+ou: Group5
+uid: 1380
+ Q==

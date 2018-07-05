@@ -1,0 +1,13 @@
+dn: cn=Dierdre+sn=Leonardis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dierdre Leonardis
+cn: Leonardis
+givenname: Dierdre
+mail: dierdre.leonardis@planetexpress.com
+userPassword: Dierdre
+ou: Group5
+uid: 4001
+ Q==

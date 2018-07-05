@@ -1,0 +1,13 @@
+dn: cn=Tisa+sn=Sennett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tisa Sennett
+cn: Sennett
+givenname: Tisa
+mail: tisa.sennett@planetexpress.com
+userPassword: Tisa
+ou: OtherGroup
+uid: 3133
+ Q==

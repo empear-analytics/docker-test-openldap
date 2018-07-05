@@ -1,0 +1,13 @@
+dn: cn=Jenifer+sn=Stimple,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jenifer Stimple
+cn: Stimple
+givenname: Jenifer
+mail: jenifer.stimple@planetexpress.com
+userPassword: Jenifer
+ou: flight_crew
+uid: 3694
+ Q==

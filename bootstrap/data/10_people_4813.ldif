@@ -1,0 +1,13 @@
+dn: cn=Ginette+sn=Gertner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ginette Gertner
+cn: Gertner
+givenname: Ginette
+mail: ginette.gertner@planetexpress.com
+userPassword: Ginette
+ou: OtherGroup
+uid: 4813
+ Q==

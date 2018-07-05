@@ -1,0 +1,13 @@
+dn: cn=Michal+sn=Kwiat,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Michal Kwiat
+cn: Kwiat
+givenname: Michal
+mail: michal.kwiat@planetexpress.com
+userPassword: Michal
+ou: admin_staff
+uid: 3938
+ Q==

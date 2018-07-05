@@ -1,0 +1,13 @@
+dn: cn=Tajuana+sn=Assum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tajuana Assum
+cn: Assum
+givenname: Tajuana
+mail: tajuana.assum@planetexpress.com
+userPassword: Tajuana
+ou: admin_staff
+uid: 2941
+ Q==

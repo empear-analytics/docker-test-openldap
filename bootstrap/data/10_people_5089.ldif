@@ -1,0 +1,13 @@
+dn: cn=Angel+sn=Brock,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angel Brock
+cn: Brock
+givenname: Angel
+mail: angel.brock@planetexpress.com
+userPassword: Angel
+ou: admin_staff
+uid: 5089
+ Q==

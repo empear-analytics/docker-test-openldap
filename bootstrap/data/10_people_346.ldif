@@ -1,0 +1,13 @@
+dn: cn=Lyndsey+sn=Auld,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lyndsey Auld
+cn: Auld
+givenname: Lyndsey
+mail: lyndsey.auld@planetexpress.com
+userPassword: Lyndsey
+ou: flight_crew
+uid: 346
+ Q==

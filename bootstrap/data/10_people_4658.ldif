@@ -1,0 +1,13 @@
+dn: cn=Tonette+sn=Holter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tonette Holter
+cn: Holter
+givenname: Tonette
+mail: tonette.holter@planetexpress.com
+userPassword: Tonette
+ou: admin_staff
+uid: 4658
+ Q==

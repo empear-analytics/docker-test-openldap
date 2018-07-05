@@ -1,0 +1,13 @@
+dn: cn=Vannesa+sn=Wickemeyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vannesa Wickemeyer
+cn: Wickemeyer
+givenname: Vannesa
+mail: vannesa.wickemeyer@planetexpress.com
+userPassword: Vannesa
+ou: flight_crew
+uid: 5366
+ Q==

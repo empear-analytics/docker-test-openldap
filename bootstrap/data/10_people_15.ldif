@@ -1,0 +1,13 @@
+dn: cn=Stephaine+sn=Oswald,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stephaine Oswald
+cn: Oswald
+givenname: Stephaine
+mail: stephaine.oswald@planetexpress.com
+userPassword: Stephaine
+ou: OtherGroup
+uid: 15
+ Q==

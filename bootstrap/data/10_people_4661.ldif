@@ -1,0 +1,13 @@
+dn: cn=Rosemarie+sn=Cadwallader,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosemarie Cadwallader
+cn: Cadwallader
+givenname: Rosemarie
+mail: rosemarie.cadwallader@planetexpress.com
+userPassword: Rosemarie
+ou: OtherGroup
+uid: 4661
+ Q==

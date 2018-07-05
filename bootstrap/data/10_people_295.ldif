@@ -1,0 +1,13 @@
+dn: cn=Valentina+sn=Luderman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Valentina Luderman
+cn: Luderman
+givenname: Valentina
+mail: valentina.luderman@planetexpress.com
+userPassword: Valentina
+ou: Group5
+uid: 295
+ Q==

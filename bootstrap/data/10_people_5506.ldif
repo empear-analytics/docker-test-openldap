@@ -1,0 +1,13 @@
+dn: cn=Francina+sn=Donaghue,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Francina Donaghue
+cn: Donaghue
+givenname: Francina
+mail: francina.donaghue@planetexpress.com
+userPassword: Francina
+ou: admin_staff
+uid: 5506
+ Q==

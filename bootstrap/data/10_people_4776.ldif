@@ -1,0 +1,13 @@
+dn: cn=Christopher+sn=Kotrys,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christopher Kotrys
+cn: Kotrys
+givenname: Christopher
+mail: christopher.kotrys@planetexpress.com
+userPassword: Christopher
+ou: OtherGroup
+uid: 4776
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lindsay+sn=Vitrano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lindsay Vitrano
+cn: Vitrano
+givenname: Lindsay
+mail: lindsay.vitrano@planetexpress.com
+userPassword: Lindsay
+ou: OtherGroup
+uid: 4795
+ Q==

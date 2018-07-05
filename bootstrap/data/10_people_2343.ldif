@@ -1,0 +1,13 @@
+dn: cn=Sharyn+sn=Dekrey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharyn Dekrey
+cn: Dekrey
+givenname: Sharyn
+mail: sharyn.dekrey@planetexpress.com
+userPassword: Sharyn
+ou: admin_staff
+uid: 2343
+ Q==

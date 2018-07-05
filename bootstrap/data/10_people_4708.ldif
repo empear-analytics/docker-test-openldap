@@ -1,0 +1,13 @@
+dn: cn=Lavera+sn=Minic,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lavera Minic
+cn: Minic
+givenname: Lavera
+mail: lavera.minic@planetexpress.com
+userPassword: Lavera
+ou: flight_crew
+uid: 4708
+ Q==

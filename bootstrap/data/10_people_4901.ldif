@@ -1,0 +1,13 @@
+dn: cn=Linnie+sn=Luckman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Linnie Luckman
+cn: Luckman
+givenname: Linnie
+mail: linnie.luckman@planetexpress.com
+userPassword: Linnie
+ou: Group5
+uid: 4901
+ Q==

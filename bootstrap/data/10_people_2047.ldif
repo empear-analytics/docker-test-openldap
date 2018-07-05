@@ -1,0 +1,13 @@
+dn: cn=Anthony+sn=Hillebrano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anthony Hillebrano
+cn: Hillebrano
+givenname: Anthony
+mail: anthony.hillebrano@planetexpress.com
+userPassword: Anthony
+ou: Group5
+uid: 2047
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Mee+sn=Perra,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mee Perra
+cn: Perra
+givenname: Mee
+mail: mee.perra@planetexpress.com
+userPassword: Mee
+ou: OtherGroup
+uid: 3533
+ Q==

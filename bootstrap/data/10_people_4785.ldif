@@ -1,0 +1,13 @@
+dn: cn=Arcelia+sn=Brevell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arcelia Brevell
+cn: Brevell
+givenname: Arcelia
+mail: arcelia.brevell@planetexpress.com
+userPassword: Arcelia
+ou: OtherGroup
+uid: 4785
+ Q==

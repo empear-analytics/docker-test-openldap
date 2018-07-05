@@ -1,0 +1,13 @@
+dn: cn=Anabel+sn=Perkinson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anabel Perkinson
+cn: Perkinson
+givenname: Anabel
+mail: anabel.perkinson@planetexpress.com
+userPassword: Anabel
+ou: admin_staff
+uid: 4379
+ Q==

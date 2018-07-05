@@ -1,0 +1,13 @@
+dn: cn=Doretta+sn=Vanhofwegen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Doretta Vanhofwegen
+cn: Vanhofwegen
+givenname: Doretta
+mail: doretta.vanhofwegen@planetexpress.com
+userPassword: Doretta
+ou: admin_staff
+uid: 4240
+ Q==

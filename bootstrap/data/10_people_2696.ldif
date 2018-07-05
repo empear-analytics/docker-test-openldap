@@ -1,0 +1,13 @@
+dn: cn=Mirella+sn=Wolzen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mirella Wolzen
+cn: Wolzen
+givenname: Mirella
+mail: mirella.wolzen@planetexpress.com
+userPassword: Mirella
+ou: OtherGroup
+uid: 2696
+ Q==

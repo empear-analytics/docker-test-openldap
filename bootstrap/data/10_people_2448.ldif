@@ -1,0 +1,13 @@
+dn: cn=Kassandra+sn=Refsell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kassandra Refsell
+cn: Refsell
+givenname: Kassandra
+mail: kassandra.refsell@planetexpress.com
+userPassword: Kassandra
+ou: Group5
+uid: 2448
+ Q==

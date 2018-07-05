@@ -1,0 +1,13 @@
+dn: cn=Christoper+sn=Bragg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christoper Bragg
+cn: Bragg
+givenname: Christoper
+mail: christoper.bragg@planetexpress.com
+userPassword: Christoper
+ou: flight_crew
+uid: 1568
+ Q==

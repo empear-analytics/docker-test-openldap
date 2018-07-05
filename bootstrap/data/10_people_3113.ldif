@@ -1,0 +1,13 @@
+dn: cn=Victorina+sn=Lechlak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Victorina Lechlak
+cn: Lechlak
+givenname: Victorina
+mail: victorina.lechlak@planetexpress.com
+userPassword: Victorina
+ou: flight_crew
+uid: 3113
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lester+sn=Topez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lester Topez
+cn: Topez
+givenname: Lester
+mail: lester.topez@planetexpress.com
+userPassword: Lester
+ou: Group5
+uid: 1137
+ Q==

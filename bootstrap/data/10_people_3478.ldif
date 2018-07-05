@@ -1,0 +1,13 @@
+dn: cn=Jessia+sn=Proffitt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jessia Proffitt
+cn: Proffitt
+givenname: Jessia
+mail: jessia.proffitt@planetexpress.com
+userPassword: Jessia
+ou: admin_staff
+uid: 3478
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Hanna+sn=Milliken,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hanna Milliken
+cn: Milliken
+givenname: Hanna
+mail: hanna.milliken@planetexpress.com
+userPassword: Hanna
+ou: flight_crew
+uid: 2950
+ Q==

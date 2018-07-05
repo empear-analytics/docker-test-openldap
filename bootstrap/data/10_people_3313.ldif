@@ -1,0 +1,13 @@
+dn: cn=Janiece+sn=Blosfield,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janiece Blosfield
+cn: Blosfield
+givenname: Janiece
+mail: janiece.blosfield@planetexpress.com
+userPassword: Janiece
+ou: flight_crew
+uid: 3313
+ Q==

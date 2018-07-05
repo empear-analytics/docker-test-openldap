@@ -1,0 +1,13 @@
+dn: cn=Cyril+sn=Votaua,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cyril Votaua
+cn: Votaua
+givenname: Cyril
+mail: cyril.votaua@planetexpress.com
+userPassword: Cyril
+ou: Group5
+uid: 1200
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Andree+sn=Delmonico,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andree Delmonico
+cn: Delmonico
+givenname: Andree
+mail: andree.delmonico@planetexpress.com
+userPassword: Andree
+ou: admin_staff
+uid: 984
+ Q==

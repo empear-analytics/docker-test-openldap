@@ -1,0 +1,13 @@
+dn: cn=Berniece+sn=Hassenfritz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Berniece Hassenfritz
+cn: Hassenfritz
+givenname: Berniece
+mail: berniece.hassenfritz@planetexpress.com
+userPassword: Berniece
+ou: Group5
+uid: 4011
+ Q==

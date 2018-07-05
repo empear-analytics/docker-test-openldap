@@ -1,0 +1,13 @@
+dn: cn=Malisa+sn=Vasallo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Malisa Vasallo
+cn: Vasallo
+givenname: Malisa
+mail: malisa.vasallo@planetexpress.com
+userPassword: Malisa
+ou: OtherGroup
+uid: 5840
+ Q==

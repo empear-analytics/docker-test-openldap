@@ -1,0 +1,13 @@
+dn: cn=Micheline+sn=Eby,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Micheline Eby
+cn: Eby
+givenname: Micheline
+mail: micheline.eby@planetexpress.com
+userPassword: Micheline
+ou: OtherGroup
+uid: 1952
+ Q==

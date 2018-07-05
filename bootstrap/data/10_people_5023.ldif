@@ -1,0 +1,13 @@
+dn: cn=Hilde+sn=Kegley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hilde Kegley
+cn: Kegley
+givenname: Hilde
+mail: hilde.kegley@planetexpress.com
+userPassword: Hilde
+ou: Group5
+uid: 5023
+ Q==

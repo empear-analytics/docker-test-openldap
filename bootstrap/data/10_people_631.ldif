@@ -1,0 +1,13 @@
+dn: cn=Cara+sn=Mostad,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cara Mostad
+cn: Mostad
+givenname: Cara
+mail: cara.mostad@planetexpress.com
+userPassword: Cara
+ou: OtherGroup
+uid: 631
+ Q==

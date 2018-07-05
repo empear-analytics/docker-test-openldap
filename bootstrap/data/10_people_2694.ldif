@@ -1,0 +1,13 @@
+dn: cn=Dakota+sn=Phoun,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dakota Phoun
+cn: Phoun
+givenname: Dakota
+mail: dakota.phoun@planetexpress.com
+userPassword: Dakota
+ou: admin_staff
+uid: 2694
+ Q==

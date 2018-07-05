@@ -1,0 +1,13 @@
+dn: cn=Vashti+sn=Yalon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vashti Yalon
+cn: Yalon
+givenname: Vashti
+mail: vashti.yalon@planetexpress.com
+userPassword: Vashti
+ou: flight_crew
+uid: 1022
+ Q==

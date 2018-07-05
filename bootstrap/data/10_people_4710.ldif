@@ -1,0 +1,13 @@
+dn: cn=Velva+sn=Miklas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Velva Miklas
+cn: Miklas
+givenname: Velva
+mail: velva.miklas@planetexpress.com
+userPassword: Velva
+ou: admin_staff
+uid: 4710
+ Q==

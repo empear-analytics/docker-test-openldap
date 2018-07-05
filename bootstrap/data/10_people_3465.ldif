@@ -1,0 +1,13 @@
+dn: cn=Missy+sn=Wiggett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Missy Wiggett
+cn: Wiggett
+givenname: Missy
+mail: missy.wiggett@planetexpress.com
+userPassword: Missy
+ou: admin_staff
+uid: 3465
+ Q==

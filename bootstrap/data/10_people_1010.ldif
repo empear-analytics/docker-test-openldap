@@ -1,0 +1,13 @@
+dn: cn=Chu+sn=Hairster,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chu Hairster
+cn: Hairster
+givenname: Chu
+mail: chu.hairster@planetexpress.com
+userPassword: Chu
+ou: OtherGroup
+uid: 1010
+ Q==

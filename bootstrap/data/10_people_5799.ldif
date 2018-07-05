@@ -1,0 +1,13 @@
+dn: cn=Leonard+sn=Eisiminger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leonard Eisiminger
+cn: Eisiminger
+givenname: Leonard
+mail: leonard.eisiminger@planetexpress.com
+userPassword: Leonard
+ou: Group5
+uid: 5799
+ Q==

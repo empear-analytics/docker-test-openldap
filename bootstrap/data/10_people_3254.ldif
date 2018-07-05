@@ -1,0 +1,13 @@
+dn: cn=Kelle+sn=Teer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kelle Teer
+cn: Teer
+givenname: Kelle
+mail: kelle.teer@planetexpress.com
+userPassword: Kelle
+ou: admin_staff
+uid: 3254
+ Q==

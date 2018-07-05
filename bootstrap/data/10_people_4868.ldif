@@ -1,0 +1,13 @@
+dn: cn=Luigi+sn=Baro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Luigi Baro
+cn: Baro
+givenname: Luigi
+mail: luigi.baro@planetexpress.com
+userPassword: Luigi
+ou: admin_staff
+uid: 4868
+ Q==

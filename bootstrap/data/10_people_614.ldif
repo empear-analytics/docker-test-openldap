@@ -1,0 +1,13 @@
+dn: cn=Ezequiel+sn=Roacho,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ezequiel Roacho
+cn: Roacho
+givenname: Ezequiel
+mail: ezequiel.roacho@planetexpress.com
+userPassword: Ezequiel
+ou: OtherGroup
+uid: 614
+ Q==

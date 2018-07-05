@@ -1,0 +1,13 @@
+dn: cn=Kirby+sn=Masiclat,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kirby Masiclat
+cn: Masiclat
+givenname: Kirby
+mail: kirby.masiclat@planetexpress.com
+userPassword: Kirby
+ou: flight_crew
+uid: 1787
+ Q==

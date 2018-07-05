@@ -1,0 +1,13 @@
+dn: cn=Dorothy+sn=Brickel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dorothy Brickel
+cn: Brickel
+givenname: Dorothy
+mail: dorothy.brickel@planetexpress.com
+userPassword: Dorothy
+ou: admin_staff
+uid: 13
+ Q==

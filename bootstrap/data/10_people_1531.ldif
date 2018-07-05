@@ -1,0 +1,13 @@
+dn: cn=Raeann+sn=Ruh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raeann Ruh
+cn: Ruh
+givenname: Raeann
+mail: raeann.ruh@planetexpress.com
+userPassword: Raeann
+ou: Group5
+uid: 1531
+ Q==

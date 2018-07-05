@@ -1,0 +1,13 @@
+dn: cn=Bell+sn=Belyea,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bell Belyea
+cn: Belyea
+givenname: Bell
+mail: bell.belyea@planetexpress.com
+userPassword: Bell
+ou: admin_staff
+uid: 5319
+ Q==

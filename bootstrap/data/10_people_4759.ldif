@@ -1,0 +1,13 @@
+dn: cn=Addie+sn=Terrall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Addie Terrall
+cn: Terrall
+givenname: Addie
+mail: addie.terrall@planetexpress.com
+userPassword: Addie
+ou: Group5
+uid: 4759
+ Q==

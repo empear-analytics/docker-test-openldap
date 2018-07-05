@@ -1,0 +1,13 @@
+dn: cn=Berenice+sn=Ryherd,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Berenice Ryherd
+cn: Ryherd
+givenname: Berenice
+mail: berenice.ryherd@planetexpress.com
+userPassword: Berenice
+ou: flight_crew
+uid: 4948
+ Q==

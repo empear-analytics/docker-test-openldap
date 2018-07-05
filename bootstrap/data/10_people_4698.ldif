@@ -1,0 +1,13 @@
+dn: cn=Dion+sn=Pellow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dion Pellow
+cn: Pellow
+givenname: Dion
+mail: dion.pellow@planetexpress.com
+userPassword: Dion
+ou: Group5
+uid: 4698
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Essie+sn=Didonna,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Essie Didonna
+cn: Didonna
+givenname: Essie
+mail: essie.didonna@planetexpress.com
+userPassword: Essie
+ou: admin_staff
+uid: 2179
+ Q==

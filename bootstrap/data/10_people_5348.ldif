@@ -1,0 +1,13 @@
+dn: cn=Nerissa+sn=Deida,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nerissa Deida
+cn: Deida
+givenname: Nerissa
+mail: nerissa.deida@planetexpress.com
+userPassword: Nerissa
+ou: Group5
+uid: 5348
+ Q==

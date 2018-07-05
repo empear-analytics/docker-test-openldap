@@ -1,0 +1,13 @@
+dn: cn=Martha+sn=Dechart,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Martha Dechart
+cn: Dechart
+givenname: Martha
+mail: martha.dechart@planetexpress.com
+userPassword: Martha
+ou: admin_staff
+uid: 4256
+ Q==

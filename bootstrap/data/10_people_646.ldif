@@ -1,0 +1,13 @@
+dn: cn=Jayne+sn=Orio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jayne Orio
+cn: Orio
+givenname: Jayne
+mail: jayne.orio@planetexpress.com
+userPassword: Jayne
+ou: OtherGroup
+uid: 646
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Adam+sn=Kubsch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adam Kubsch
+cn: Kubsch
+givenname: Adam
+mail: adam.kubsch@planetexpress.com
+userPassword: Adam
+ou: admin_staff
+uid: 5120
+ Q==

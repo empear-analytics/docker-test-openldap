@@ -1,0 +1,13 @@
+dn: cn=Claire+sn=Ravi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Claire Ravi
+cn: Ravi
+givenname: Claire
+mail: claire.ravi@planetexpress.com
+userPassword: Claire
+ou: Group5
+uid: 3599
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Shana+sn=Preister,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shana Preister
+cn: Preister
+givenname: Shana
+mail: shana.preister@planetexpress.com
+userPassword: Shana
+ou: OtherGroup
+uid: 4250
+ Q==

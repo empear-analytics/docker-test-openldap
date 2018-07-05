@@ -1,0 +1,13 @@
+dn: cn=Elvina+sn=Piske,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elvina Piske
+cn: Piske
+givenname: Elvina
+mail: elvina.piske@planetexpress.com
+userPassword: Elvina
+ou: OtherGroup
+uid: 5763
+ Q==

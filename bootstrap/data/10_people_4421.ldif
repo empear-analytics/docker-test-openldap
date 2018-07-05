@@ -1,0 +1,13 @@
+dn: cn=Katelynn+sn=Ramberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katelynn Ramberg
+cn: Ramberg
+givenname: Katelynn
+mail: katelynn.ramberg@planetexpress.com
+userPassword: Katelynn
+ou: flight_crew
+uid: 4421
+ Q==

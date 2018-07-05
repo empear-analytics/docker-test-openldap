@@ -1,0 +1,13 @@
+dn: cn=Manie+sn=Carron,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Manie Carron
+cn: Carron
+givenname: Manie
+mail: manie.carron@planetexpress.com
+userPassword: Manie
+ou: admin_staff
+uid: 4228
+ Q==

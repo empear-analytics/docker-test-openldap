@@ -1,0 +1,13 @@
+dn: cn=Leora+sn=Maiolo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leora Maiolo
+cn: Maiolo
+givenname: Leora
+mail: leora.maiolo@planetexpress.com
+userPassword: Leora
+ou: admin_staff
+uid: 1586
+ Q==

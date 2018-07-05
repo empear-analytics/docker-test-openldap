@@ -1,0 +1,13 @@
+dn: cn=Judson+sn=Duso,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Judson Duso
+cn: Duso
+givenname: Judson
+mail: judson.duso@planetexpress.com
+userPassword: Judson
+ou: admin_staff
+uid: 5868
+ Q==

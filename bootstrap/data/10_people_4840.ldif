@@ -1,0 +1,13 @@
+dn: cn=Racquel+sn=Danford,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Racquel Danford
+cn: Danford
+givenname: Racquel
+mail: racquel.danford@planetexpress.com
+userPassword: Racquel
+ou: OtherGroup
+uid: 4840
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Renata+sn=Eggenberger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Renata Eggenberger
+cn: Eggenberger
+givenname: Renata
+mail: renata.eggenberger@planetexpress.com
+userPassword: Renata
+ou: OtherGroup
+uid: 5105
+ Q==

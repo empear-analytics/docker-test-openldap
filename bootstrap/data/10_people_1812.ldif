@@ -1,0 +1,13 @@
+dn: cn=Veronica+sn=Opiela,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Veronica Opiela
+cn: Opiela
+givenname: Veronica
+mail: veronica.opiela@planetexpress.com
+userPassword: Veronica
+ou: OtherGroup
+uid: 1812
+ Q==

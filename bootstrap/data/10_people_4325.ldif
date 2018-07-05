@@ -1,0 +1,13 @@
+dn: cn=Emmy+sn=Veno,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emmy Veno
+cn: Veno
+givenname: Emmy
+mail: emmy.veno@planetexpress.com
+userPassword: Emmy
+ou: Group5
+uid: 4325
+ Q==

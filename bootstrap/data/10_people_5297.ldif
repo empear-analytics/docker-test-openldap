@@ -1,0 +1,13 @@
+dn: cn=Ricki+sn=Viebrock,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ricki Viebrock
+cn: Viebrock
+givenname: Ricki
+mail: ricki.viebrock@planetexpress.com
+userPassword: Ricki
+ou: flight_crew
+uid: 5297
+ Q==

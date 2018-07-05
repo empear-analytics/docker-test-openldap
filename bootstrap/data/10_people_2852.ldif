@@ -1,0 +1,13 @@
+dn: cn=Dewayne+sn=Loatman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dewayne Loatman
+cn: Loatman
+givenname: Dewayne
+mail: dewayne.loatman@planetexpress.com
+userPassword: Dewayne
+ou: Group5
+uid: 2852
+ Q==

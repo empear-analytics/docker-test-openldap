@@ -1,0 +1,13 @@
+dn: cn=Verdell+sn=Fantz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Verdell Fantz
+cn: Fantz
+givenname: Verdell
+mail: verdell.fantz@planetexpress.com
+userPassword: Verdell
+ou: flight_crew
+uid: 1367
+ Q==

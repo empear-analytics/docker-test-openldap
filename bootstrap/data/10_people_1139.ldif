@@ -1,0 +1,13 @@
+dn: cn=Jeannie+sn=Kahrer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeannie Kahrer
+cn: Kahrer
+givenname: Jeannie
+mail: jeannie.kahrer@planetexpress.com
+userPassword: Jeannie
+ou: OtherGroup
+uid: 1139
+ Q==

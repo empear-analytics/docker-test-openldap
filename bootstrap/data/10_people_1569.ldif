@@ -1,0 +1,13 @@
+dn: cn=Meghann+sn=Rodarta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Meghann Rodarta
+cn: Rodarta
+givenname: Meghann
+mail: meghann.rodarta@planetexpress.com
+userPassword: Meghann
+ou: flight_crew
+uid: 1569
+ Q==

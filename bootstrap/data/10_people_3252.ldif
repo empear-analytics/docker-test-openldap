@@ -1,0 +1,13 @@
+dn: cn=Adelle+sn=Weers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adelle Weers
+cn: Weers
+givenname: Adelle
+mail: adelle.weers@planetexpress.com
+userPassword: Adelle
+ou: Group5
+uid: 3252
+ Q==

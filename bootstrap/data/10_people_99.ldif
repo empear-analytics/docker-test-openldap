@@ -1,0 +1,13 @@
+dn: cn=Delfina+sn=Elhassan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delfina Elhassan
+cn: Elhassan
+givenname: Delfina
+mail: delfina.elhassan@planetexpress.com
+userPassword: Delfina
+ou: Group5
+uid: 99
+ Q==

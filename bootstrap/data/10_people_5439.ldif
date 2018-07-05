@@ -1,0 +1,13 @@
+dn: cn=Maybelle+sn=Henke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maybelle Henke
+cn: Henke
+givenname: Maybelle
+mail: maybelle.henke@planetexpress.com
+userPassword: Maybelle
+ou: flight_crew
+uid: 5439
+ Q==

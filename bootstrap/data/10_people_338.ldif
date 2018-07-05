@@ -1,0 +1,13 @@
+dn: cn=Xiao+sn=Baik,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Xiao Baik
+cn: Baik
+givenname: Xiao
+mail: xiao.baik@planetexpress.com
+userPassword: Xiao
+ou: admin_staff
+uid: 338
+ Q==

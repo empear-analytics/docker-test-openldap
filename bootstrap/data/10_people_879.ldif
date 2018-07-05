@@ -1,0 +1,13 @@
+dn: cn=Phung+sn=Iyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Phung Iyer
+cn: Iyer
+givenname: Phung
+mail: phung.iyer@planetexpress.com
+userPassword: Phung
+ou: Group5
+uid: 879
+ Q==

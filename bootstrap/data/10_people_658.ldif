@@ -1,0 +1,13 @@
+dn: cn=Travis+sn=Marquess,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Travis Marquess
+cn: Marquess
+givenname: Travis
+mail: travis.marquess@planetexpress.com
+userPassword: Travis
+ou: OtherGroup
+uid: 658
+ Q==

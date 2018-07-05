@@ -1,0 +1,13 @@
+dn: cn=Amalia+sn=Krum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Amalia Krum
+cn: Krum
+givenname: Amalia
+mail: amalia.krum@planetexpress.com
+userPassword: Amalia
+ou: flight_crew
+uid: 5453
+ Q==

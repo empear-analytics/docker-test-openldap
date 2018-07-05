@@ -1,0 +1,13 @@
+dn: cn=Tegan+sn=Bourgoine,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tegan Bourgoine
+cn: Bourgoine
+givenname: Tegan
+mail: tegan.bourgoine@planetexpress.com
+userPassword: Tegan
+ou: OtherGroup
+uid: 3910
+ Q==

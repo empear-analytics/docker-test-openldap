@@ -1,0 +1,13 @@
+dn: cn=Elois+sn=Matthies,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elois Matthies
+cn: Matthies
+givenname: Elois
+mail: elois.matthies@planetexpress.com
+userPassword: Elois
+ou: Group5
+uid: 5188
+ Q==

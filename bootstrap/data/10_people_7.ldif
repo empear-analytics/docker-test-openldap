@@ -1,0 +1,13 @@
+dn: cn=Thora+sn=Murchison,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thora Murchison
+cn: Murchison
+givenname: Thora
+mail: thora.murchison@planetexpress.com
+userPassword: Thora
+ou: admin_staff
+uid: 7
+ Q==

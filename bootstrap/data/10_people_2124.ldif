@@ -1,0 +1,13 @@
+dn: cn=Annita+sn=Terpstra,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annita Terpstra
+cn: Terpstra
+givenname: Annita
+mail: annita.terpstra@planetexpress.com
+userPassword: Annita
+ou: Group5
+uid: 2124
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kayleigh+sn=Babino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kayleigh Babino
+cn: Babino
+givenname: Kayleigh
+mail: kayleigh.babino@planetexpress.com
+userPassword: Kayleigh
+ou: Group5
+uid: 5404
+ Q==

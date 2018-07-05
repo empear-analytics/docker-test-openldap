@@ -1,0 +1,13 @@
+dn: cn=Kathlene+sn=Copper,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kathlene Copper
+cn: Copper
+givenname: Kathlene
+mail: kathlene.copper@planetexpress.com
+userPassword: Kathlene
+ou: Group5
+uid: 3741
+ Q==

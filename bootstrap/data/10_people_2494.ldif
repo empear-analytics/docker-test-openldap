@@ -1,0 +1,13 @@
+dn: cn=Kindra+sn=Stein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kindra Stein
+cn: Stein
+givenname: Kindra
+mail: kindra.stein@planetexpress.com
+userPassword: Kindra
+ou: admin_staff
+uid: 2494
+ Q==

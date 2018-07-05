@@ -1,0 +1,13 @@
+dn: cn=Natasha+sn=Ritchko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Natasha Ritchko
+cn: Ritchko
+givenname: Natasha
+mail: natasha.ritchko@planetexpress.com
+userPassword: Natasha
+ou: OtherGroup
+uid: 5534
+ Q==

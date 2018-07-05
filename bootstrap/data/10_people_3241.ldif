@@ -1,0 +1,13 @@
+dn: cn=Sean+sn=Stong,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sean Stong
+cn: Stong
+givenname: Sean
+mail: sean.stong@planetexpress.com
+userPassword: Sean
+ou: Group5
+uid: 3241
+ Q==

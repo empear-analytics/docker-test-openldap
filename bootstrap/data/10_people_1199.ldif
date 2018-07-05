@@ -1,0 +1,13 @@
+dn: cn=Marjory+sn=Wiedrich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marjory Wiedrich
+cn: Wiedrich
+givenname: Marjory
+mail: marjory.wiedrich@planetexpress.com
+userPassword: Marjory
+ou: OtherGroup
+uid: 1199
+ Q==

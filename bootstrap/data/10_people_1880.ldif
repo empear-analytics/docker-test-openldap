@@ -1,0 +1,13 @@
+dn: cn=Shae+sn=Suozzo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shae Suozzo
+cn: Suozzo
+givenname: Shae
+mail: shae.suozzo@planetexpress.com
+userPassword: Shae
+ou: OtherGroup
+uid: 1880
+ Q==

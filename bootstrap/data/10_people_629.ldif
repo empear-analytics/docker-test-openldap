@@ -1,0 +1,13 @@
+dn: cn=Romelia+sn=Azer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Romelia Azer
+cn: Azer
+givenname: Romelia
+mail: romelia.azer@planetexpress.com
+userPassword: Romelia
+ou: OtherGroup
+uid: 629
+ Q==

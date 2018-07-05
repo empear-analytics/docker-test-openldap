@@ -1,0 +1,13 @@
+dn: cn=Carmon+sn=Tekell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carmon Tekell
+cn: Tekell
+givenname: Carmon
+mail: carmon.tekell@planetexpress.com
+userPassword: Carmon
+ou: admin_staff
+uid: 860
+ Q==

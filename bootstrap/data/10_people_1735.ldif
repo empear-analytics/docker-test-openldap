@@ -1,0 +1,13 @@
+dn: cn=Kayce+sn=Phair,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kayce Phair
+cn: Phair
+givenname: Kayce
+mail: kayce.phair@planetexpress.com
+userPassword: Kayce
+ou: Group5
+uid: 1735
+ Q==

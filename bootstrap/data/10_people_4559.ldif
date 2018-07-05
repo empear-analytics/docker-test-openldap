@@ -1,0 +1,13 @@
+dn: cn=Jodie+sn=Sollman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jodie Sollman
+cn: Sollman
+givenname: Jodie
+mail: jodie.sollman@planetexpress.com
+userPassword: Jodie
+ou: Group5
+uid: 4559
+ Q==

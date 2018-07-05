@@ -1,0 +1,13 @@
+dn: cn=Karlene+sn=Buckholz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karlene Buckholz
+cn: Buckholz
+givenname: Karlene
+mail: karlene.buckholz@planetexpress.com
+userPassword: Karlene
+ou: OtherGroup
+uid: 5649
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Evelin+sn=Sczbecki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Evelin Sczbecki
+cn: Sczbecki
+givenname: Evelin
+mail: evelin.sczbecki@planetexpress.com
+userPassword: Evelin
+ou: OtherGroup
+uid: 3719
+ Q==

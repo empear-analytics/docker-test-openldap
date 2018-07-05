@@ -1,0 +1,13 @@
+dn: cn=Carmen+sn=Arnaudet,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carmen Arnaudet
+cn: Arnaudet
+givenname: Carmen
+mail: carmen.arnaudet@planetexpress.com
+userPassword: Carmen
+ou: OtherGroup
+uid: 1948
+ Q==

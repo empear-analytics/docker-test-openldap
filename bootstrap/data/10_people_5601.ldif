@@ -1,0 +1,13 @@
+dn: cn=Anglea+sn=Colona,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anglea Colona
+cn: Colona
+givenname: Anglea
+mail: anglea.colona@planetexpress.com
+userPassword: Anglea
+ou: flight_crew
+uid: 5601
+ Q==

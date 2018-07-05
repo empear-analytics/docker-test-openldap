@@ -1,0 +1,13 @@
+dn: cn=Rikki+sn=Yuk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rikki Yuk
+cn: Yuk
+givenname: Rikki
+mail: rikki.yuk@planetexpress.com
+userPassword: Rikki
+ou: Group5
+uid: 43
+ Q==

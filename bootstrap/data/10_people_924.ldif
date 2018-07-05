@@ -1,0 +1,13 @@
+dn: cn=Eddie+sn=Boge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eddie Boge
+cn: Boge
+givenname: Eddie
+mail: eddie.boge@planetexpress.com
+userPassword: Eddie
+ou: admin_staff
+uid: 924
+ Q==

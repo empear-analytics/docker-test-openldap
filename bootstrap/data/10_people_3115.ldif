@@ -1,0 +1,13 @@
+dn: cn=Devin+sn=Metcalfe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Devin Metcalfe
+cn: Metcalfe
+givenname: Devin
+mail: devin.metcalfe@planetexpress.com
+userPassword: Devin
+ou: flight_crew
+uid: 3115
+ Q==

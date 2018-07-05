@@ -1,0 +1,13 @@
+dn: cn=Hildred+sn=Galson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hildred Galson
+cn: Galson
+givenname: Hildred
+mail: hildred.galson@planetexpress.com
+userPassword: Hildred
+ou: Group5
+uid: 1543
+ Q==

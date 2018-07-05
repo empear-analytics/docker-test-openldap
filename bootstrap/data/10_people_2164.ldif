@@ -1,0 +1,13 @@
+dn: cn=Magdalen+sn=Lahip,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Magdalen Lahip
+cn: Lahip
+givenname: Magdalen
+mail: magdalen.lahip@planetexpress.com
+userPassword: Magdalen
+ou: OtherGroup
+uid: 2164
+ Q==

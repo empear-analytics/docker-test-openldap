@@ -1,0 +1,13 @@
+dn: cn=Tarra+sn=Dress,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tarra Dress
+cn: Dress
+givenname: Tarra
+mail: tarra.dress@planetexpress.com
+userPassword: Tarra
+ou: OtherGroup
+uid: 3086
+ Q==

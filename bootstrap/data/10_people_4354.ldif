@@ -1,0 +1,13 @@
+dn: cn=Alyse+sn=Fanizzi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alyse Fanizzi
+cn: Fanizzi
+givenname: Alyse
+mail: alyse.fanizzi@planetexpress.com
+userPassword: Alyse
+ou: flight_crew
+uid: 4354
+ Q==

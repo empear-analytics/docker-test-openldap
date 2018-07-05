@@ -1,0 +1,13 @@
+dn: cn=Alyson+sn=Gilmour,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alyson Gilmour
+cn: Gilmour
+givenname: Alyson
+mail: alyson.gilmour@planetexpress.com
+userPassword: Alyson
+ou: admin_staff
+uid: 3646
+ Q==

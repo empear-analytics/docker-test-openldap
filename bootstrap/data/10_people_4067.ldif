@@ -1,0 +1,13 @@
+dn: cn=Jan+sn=Elsberry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jan Elsberry
+cn: Elsberry
+givenname: Jan
+mail: jan.elsberry@planetexpress.com
+userPassword: Jan
+ou: admin_staff
+uid: 4067
+ Q==

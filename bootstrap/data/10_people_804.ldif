@@ -1,0 +1,13 @@
+dn: cn=Roni+sn=Jonathan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roni Jonathan
+cn: Jonathan
+givenname: Roni
+mail: roni.jonathan@planetexpress.com
+userPassword: Roni
+ou: flight_crew
+uid: 804
+ Q==

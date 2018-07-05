@@ -1,0 +1,13 @@
+dn: cn=Rosanna+sn=Blomker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosanna Blomker
+cn: Blomker
+givenname: Rosanna
+mail: rosanna.blomker@planetexpress.com
+userPassword: Rosanna
+ou: Group5
+uid: 4973
+ Q==

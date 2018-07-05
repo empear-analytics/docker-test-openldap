@@ -1,0 +1,13 @@
+dn: cn=Brandon+sn=Aispuro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brandon Aispuro
+cn: Aispuro
+givenname: Brandon
+mail: brandon.aispuro@planetexpress.com
+userPassword: Brandon
+ou: Group5
+uid: 1648
+ Q==

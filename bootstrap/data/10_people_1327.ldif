@@ -1,0 +1,13 @@
+dn: cn=Brinda+sn=Adamczyk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brinda Adamczyk
+cn: Adamczyk
+givenname: Brinda
+mail: brinda.adamczyk@planetexpress.com
+userPassword: Brinda
+ou: Group5
+uid: 1327
+ Q==

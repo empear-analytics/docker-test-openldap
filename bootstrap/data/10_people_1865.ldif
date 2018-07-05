@@ -1,0 +1,13 @@
+dn: cn=Celestina+sn=Ledebuhr,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Celestina Ledebuhr
+cn: Ledebuhr
+givenname: Celestina
+mail: celestina.ledebuhr@planetexpress.com
+userPassword: Celestina
+ou: admin_staff
+uid: 1865
+ Q==

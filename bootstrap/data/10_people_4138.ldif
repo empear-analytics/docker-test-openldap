@@ -1,0 +1,13 @@
+dn: cn=Julio+sn=Sainliere,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Julio Sainliere
+cn: Sainliere
+givenname: Julio
+mail: julio.sainliere@planetexpress.com
+userPassword: Julio
+ou: OtherGroup
+uid: 4138
+ Q==

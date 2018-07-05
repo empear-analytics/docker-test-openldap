@@ -1,0 +1,13 @@
+dn: cn=Luanne+sn=Wilund,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Luanne Wilund
+cn: Wilund
+givenname: Luanne
+mail: luanne.wilund@planetexpress.com
+userPassword: Luanne
+ou: OtherGroup
+uid: 1233
+ Q==

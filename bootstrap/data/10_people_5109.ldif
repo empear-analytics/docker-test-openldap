@@ -1,0 +1,13 @@
+dn: cn=Sid+sn=Edelblute,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sid Edelblute
+cn: Edelblute
+givenname: Sid
+mail: sid.edelblute@planetexpress.com
+userPassword: Sid
+ou: Group5
+uid: 5109
+ Q==

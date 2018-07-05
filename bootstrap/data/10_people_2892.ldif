@@ -1,0 +1,13 @@
+dn: cn=Kay+sn=Swanner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kay Swanner
+cn: Swanner
+givenname: Kay
+mail: kay.swanner@planetexpress.com
+userPassword: Kay
+ou: OtherGroup
+uid: 2892
+ Q==

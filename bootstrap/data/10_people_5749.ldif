@@ -1,0 +1,13 @@
+dn: cn=Larita+sn=Sanda,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Larita Sanda
+cn: Sanda
+givenname: Larita
+mail: larita.sanda@planetexpress.com
+userPassword: Larita
+ou: flight_crew
+uid: 5749
+ Q==

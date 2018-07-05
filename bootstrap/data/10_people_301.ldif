@@ -1,0 +1,13 @@
+dn: cn=Johnna+sn=Yehle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Johnna Yehle
+cn: Yehle
+givenname: Johnna
+mail: johnna.yehle@planetexpress.com
+userPassword: Johnna
+ou: Group5
+uid: 301
+ Q==

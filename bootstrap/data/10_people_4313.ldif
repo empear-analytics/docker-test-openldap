@@ -1,0 +1,13 @@
+dn: cn=Katharine+sn=Schwab,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katharine Schwab
+cn: Schwab
+givenname: Katharine
+mail: katharine.schwab@planetexpress.com
+userPassword: Katharine
+ou: OtherGroup
+uid: 4313
+ Q==

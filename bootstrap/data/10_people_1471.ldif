@@ -1,0 +1,13 @@
+dn: cn=Idella+sn=Watwood,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Idella Watwood
+cn: Watwood
+givenname: Idella
+mail: idella.watwood@planetexpress.com
+userPassword: Idella
+ou: flight_crew
+uid: 1471
+ Q==

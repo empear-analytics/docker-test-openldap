@@ -1,0 +1,13 @@
+dn: cn=Romaine+sn=Howenstine,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Romaine Howenstine
+cn: Howenstine
+givenname: Romaine
+mail: romaine.howenstine@planetexpress.com
+userPassword: Romaine
+ou: OtherGroup
+uid: 4012
+ Q==

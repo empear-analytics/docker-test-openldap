@@ -1,0 +1,13 @@
+dn: cn=Paulina+sn=Kallberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Paulina Kallberg
+cn: Kallberg
+givenname: Paulina
+mail: paulina.kallberg@planetexpress.com
+userPassword: Paulina
+ou: OtherGroup
+uid: 542
+ Q==

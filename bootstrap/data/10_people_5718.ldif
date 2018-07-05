@@ -1,0 +1,13 @@
+dn: cn=Darrin+sn=Siewert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darrin Siewert
+cn: Siewert
+givenname: Darrin
+mail: darrin.siewert@planetexpress.com
+userPassword: Darrin
+ou: admin_staff
+uid: 5718
+ Q==

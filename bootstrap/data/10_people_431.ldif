@@ -1,0 +1,13 @@
+dn: cn=Sheron+sn=Fedorko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sheron Fedorko
+cn: Fedorko
+givenname: Sheron
+mail: sheron.fedorko@planetexpress.com
+userPassword: Sheron
+ou: OtherGroup
+uid: 431
+ Q==

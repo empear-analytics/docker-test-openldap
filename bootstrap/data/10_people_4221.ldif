@@ -1,0 +1,13 @@
+dn: cn=Sadie+sn=Jerden,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sadie Jerden
+cn: Jerden
+givenname: Sadie
+mail: sadie.jerden@planetexpress.com
+userPassword: Sadie
+ou: flight_crew
+uid: 4221
+ Q==

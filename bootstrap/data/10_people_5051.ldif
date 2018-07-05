@@ -1,0 +1,13 @@
+dn: cn=Taneka+sn=Berendt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Taneka Berendt
+cn: Berendt
+givenname: Taneka
+mail: taneka.berendt@planetexpress.com
+userPassword: Taneka
+ou: OtherGroup
+uid: 5051
+ Q==

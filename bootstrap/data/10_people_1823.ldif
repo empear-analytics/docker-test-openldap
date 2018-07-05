@@ -1,0 +1,13 @@
+dn: cn=Marceline+sn=Brochard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marceline Brochard
+cn: Brochard
+givenname: Marceline
+mail: marceline.brochard@planetexpress.com
+userPassword: Marceline
+ou: OtherGroup
+uid: 1823
+ Q==

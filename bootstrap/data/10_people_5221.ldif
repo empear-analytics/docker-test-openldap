@@ -1,0 +1,13 @@
+dn: cn=Milford+sn=Bogenschneide,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Milford Bogenschneide
+cn: Bogenschneide
+givenname: Milford
+mail: milford.bogenschneide@planetexpress.com
+userPassword: Milford
+ou: flight_crew
+uid: 5221
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Selena+sn=Gross,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Selena Gross
+cn: Gross
+givenname: Selena
+mail: selena.gross@planetexpress.com
+userPassword: Selena
+ou: admin_staff
+uid: 1990
+ Q==

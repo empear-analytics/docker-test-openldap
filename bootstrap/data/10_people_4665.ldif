@@ -1,0 +1,13 @@
+dn: cn=Leontine+sn=Werner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leontine Werner
+cn: Werner
+givenname: Leontine
+mail: leontine.werner@planetexpress.com
+userPassword: Leontine
+ou: OtherGroup
+uid: 4665
+ Q==

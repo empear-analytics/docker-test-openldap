@@ -1,0 +1,13 @@
+dn: cn=Gertha+sn=Gess,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gertha Gess
+cn: Gess
+givenname: Gertha
+mail: gertha.gess@planetexpress.com
+userPassword: Gertha
+ou: admin_staff
+uid: 117
+ Q==

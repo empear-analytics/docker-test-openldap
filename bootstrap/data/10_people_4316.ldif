@@ -1,0 +1,13 @@
+dn: cn=Terrance+sn=Ronquillo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Terrance Ronquillo
+cn: Ronquillo
+givenname: Terrance
+mail: terrance.ronquillo@planetexpress.com
+userPassword: Terrance
+ou: OtherGroup
+uid: 4316
+ Q==

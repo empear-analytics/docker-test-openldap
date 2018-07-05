@@ -1,0 +1,13 @@
+dn: cn=Michale+sn=Pirkey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Michale Pirkey
+cn: Pirkey
+givenname: Michale
+mail: michale.pirkey@planetexpress.com
+userPassword: Michale
+ou: Group5
+uid: 1994
+ Q==

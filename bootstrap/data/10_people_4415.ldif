@@ -1,0 +1,13 @@
+dn: cn=Frederica+sn=Wied,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Frederica Wied
+cn: Wied
+givenname: Frederica
+mail: frederica.wied@planetexpress.com
+userPassword: Frederica
+ou: admin_staff
+uid: 4415
+ Q==

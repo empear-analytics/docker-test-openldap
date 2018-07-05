@@ -1,0 +1,13 @@
+dn: cn=Son+sn=Ashwell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Son Ashwell
+cn: Ashwell
+givenname: Son
+mail: son.ashwell@planetexpress.com
+userPassword: Son
+ou: Group5
+uid: 1344
+ Q==

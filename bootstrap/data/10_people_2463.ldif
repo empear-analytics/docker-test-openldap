@@ -1,0 +1,13 @@
+dn: cn=Lynn+sn=Shier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lynn Shier
+cn: Shier
+givenname: Lynn
+mail: lynn.shier@planetexpress.com
+userPassword: Lynn
+ou: OtherGroup
+uid: 2463
+ Q==

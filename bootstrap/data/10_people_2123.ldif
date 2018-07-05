@@ -1,0 +1,13 @@
+dn: cn=Terra+sn=Doxtator,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Terra Doxtator
+cn: Doxtator
+givenname: Terra
+mail: terra.doxtator@planetexpress.com
+userPassword: Terra
+ou: OtherGroup
+uid: 2123
+ Q==

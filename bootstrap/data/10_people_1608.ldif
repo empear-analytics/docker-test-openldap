@@ -1,0 +1,13 @@
+dn: cn=Genia+sn=Sebert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Genia Sebert
+cn: Sebert
+givenname: Genia
+mail: genia.sebert@planetexpress.com
+userPassword: Genia
+ou: OtherGroup
+uid: 1608
+ Q==

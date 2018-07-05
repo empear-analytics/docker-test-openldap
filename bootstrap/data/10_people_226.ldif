@@ -1,0 +1,13 @@
+dn: cn=Maisha+sn=Loughery,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maisha Loughery
+cn: Loughery
+givenname: Maisha
+mail: maisha.loughery@planetexpress.com
+userPassword: Maisha
+ou: admin_staff
+uid: 226
+ Q==

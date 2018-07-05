@@ -1,0 +1,13 @@
+dn: cn=Hwa+sn=Stufflebeam,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hwa Stufflebeam
+cn: Stufflebeam
+givenname: Hwa
+mail: hwa.stufflebeam@planetexpress.com
+userPassword: Hwa
+ou: Group5
+uid: 2965
+ Q==

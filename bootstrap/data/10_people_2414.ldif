@@ -1,0 +1,13 @@
+dn: cn=Colby+sn=Mushrush,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Colby Mushrush
+cn: Mushrush
+givenname: Colby
+mail: colby.mushrush@planetexpress.com
+userPassword: Colby
+ou: Group5
+uid: 2414
+ Q==

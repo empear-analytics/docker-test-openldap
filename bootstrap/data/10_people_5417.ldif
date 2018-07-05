@@ -1,0 +1,13 @@
+dn: cn=Gene+sn=Affelt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gene Affelt
+cn: Affelt
+givenname: Gene
+mail: gene.affelt@planetexpress.com
+userPassword: Gene
+ou: Group5
+uid: 5417
+ Q==

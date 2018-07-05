@@ -1,0 +1,13 @@
+dn: cn=Kiersten+sn=Youn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kiersten Youn
+cn: Youn
+givenname: Kiersten
+mail: kiersten.youn@planetexpress.com
+userPassword: Kiersten
+ou: flight_crew
+uid: 3922
+ Q==

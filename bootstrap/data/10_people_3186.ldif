@@ -1,0 +1,13 @@
+dn: cn=Mallory+sn=Cerruto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mallory Cerruto
+cn: Cerruto
+givenname: Mallory
+mail: mallory.cerruto@planetexpress.com
+userPassword: Mallory
+ou: Group5
+uid: 3186
+ Q==

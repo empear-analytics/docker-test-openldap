@@ -1,0 +1,13 @@
+dn: cn=Jinny+sn=Finkel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jinny Finkel
+cn: Finkel
+givenname: Jinny
+mail: jinny.finkel@planetexpress.com
+userPassword: Jinny
+ou: flight_crew
+uid: 2693
+ Q==

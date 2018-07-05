@@ -1,0 +1,13 @@
+dn: cn=Alanna+sn=Lawalin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alanna Lawalin
+cn: Lawalin
+givenname: Alanna
+mail: alanna.lawalin@planetexpress.com
+userPassword: Alanna
+ou: Group5
+uid: 1950
+ Q==

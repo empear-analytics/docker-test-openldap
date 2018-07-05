@@ -1,0 +1,13 @@
+dn: cn=Doreen+sn=Carmley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Doreen Carmley
+cn: Carmley
+givenname: Doreen
+mail: doreen.carmley@planetexpress.com
+userPassword: Doreen
+ou: admin_staff
+uid: 2673
+ Q==

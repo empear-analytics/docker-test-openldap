@@ -1,0 +1,13 @@
+dn: cn=Jerlene+sn=Murawski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jerlene Murawski
+cn: Murawski
+givenname: Jerlene
+mail: jerlene.murawski@planetexpress.com
+userPassword: Jerlene
+ou: admin_staff
+uid: 3048
+ Q==

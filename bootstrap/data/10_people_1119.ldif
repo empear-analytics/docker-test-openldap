@@ -1,0 +1,13 @@
+dn: cn=Millie+sn=Strumpf,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Millie Strumpf
+cn: Strumpf
+givenname: Millie
+mail: millie.strumpf@planetexpress.com
+userPassword: Millie
+ou: Group5
+uid: 1119
+ Q==

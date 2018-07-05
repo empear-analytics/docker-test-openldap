@@ -1,0 +1,13 @@
+dn: cn=Farrah+sn=Heilman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Farrah Heilman
+cn: Heilman
+givenname: Farrah
+mail: farrah.heilman@planetexpress.com
+userPassword: Farrah
+ou: Group5
+uid: 1819
+ Q==

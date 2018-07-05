@@ -1,0 +1,13 @@
+dn: cn=Mike+sn=Dorinirl,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mike Dorinirl
+cn: Dorinirl
+givenname: Mike
+mail: mike.dorinirl@planetexpress.com
+userPassword: Mike
+ou: flight_crew
+uid: 4026
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Alida+sn=Eighmey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alida Eighmey
+cn: Eighmey
+givenname: Alida
+mail: alida.eighmey@planetexpress.com
+userPassword: Alida
+ou: Group5
+uid: 4056
+ Q==

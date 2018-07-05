@@ -1,0 +1,13 @@
+dn: cn=Lauralee+sn=Groves,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lauralee Groves
+cn: Groves
+givenname: Lauralee
+mail: lauralee.groves@planetexpress.com
+userPassword: Lauralee
+ou: flight_crew
+uid: 1968
+ Q==

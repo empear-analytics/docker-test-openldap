@@ -1,0 +1,13 @@
+dn: cn=Ayanna+sn=Ruger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ayanna Ruger
+cn: Ruger
+givenname: Ayanna
+mail: ayanna.ruger@planetexpress.com
+userPassword: Ayanna
+ou: admin_staff
+uid: 3856
+ Q==

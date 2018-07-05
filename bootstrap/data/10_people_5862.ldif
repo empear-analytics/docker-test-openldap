@@ -1,0 +1,13 @@
+dn: cn=Gigi+sn=Bregman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gigi Bregman
+cn: Bregman
+givenname: Gigi
+mail: gigi.bregman@planetexpress.com
+userPassword: Gigi
+ou: admin_staff
+uid: 5862
+ Q==

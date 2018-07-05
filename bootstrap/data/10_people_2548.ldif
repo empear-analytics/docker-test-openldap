@@ -1,0 +1,13 @@
+dn: cn=Kyoko+sn=Tasker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kyoko Tasker
+cn: Tasker
+givenname: Kyoko
+mail: kyoko.tasker@planetexpress.com
+userPassword: Kyoko
+ou: flight_crew
+uid: 2548
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Sherlene+sn=Robante,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherlene Robante
+cn: Robante
+givenname: Sherlene
+mail: sherlene.robante@planetexpress.com
+userPassword: Sherlene
+ou: flight_crew
+uid: 1395
+ Q==

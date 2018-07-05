@@ -1,0 +1,13 @@
+dn: cn=Lore+sn=Wassam,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lore Wassam
+cn: Wassam
+givenname: Lore
+mail: lore.wassam@planetexpress.com
+userPassword: Lore
+ou: admin_staff
+uid: 5804
+ Q==

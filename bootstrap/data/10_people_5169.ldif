@@ -1,0 +1,13 @@
+dn: cn=Reda+sn=Moenius,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reda Moenius
+cn: Moenius
+givenname: Reda
+mail: reda.moenius@planetexpress.com
+userPassword: Reda
+ou: OtherGroup
+uid: 5169
+ Q==

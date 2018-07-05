@@ -1,0 +1,13 @@
+dn: cn=Ilda+sn=Elvey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ilda Elvey
+cn: Elvey
+givenname: Ilda
+mail: ilda.elvey@planetexpress.com
+userPassword: Ilda
+ou: flight_crew
+uid: 4880
+ Q==

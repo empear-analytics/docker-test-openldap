@@ -1,0 +1,13 @@
+dn: cn=Shirely+sn=Loewenstein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shirely Loewenstein
+cn: Loewenstein
+givenname: Shirely
+mail: shirely.loewenstein@planetexpress.com
+userPassword: Shirely
+ou: admin_staff
+uid: 2334
+ Q==

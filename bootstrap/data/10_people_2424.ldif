@@ -1,0 +1,13 @@
+dn: cn=Yasmin+sn=Uzzo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yasmin Uzzo
+cn: Uzzo
+givenname: Yasmin
+mail: yasmin.uzzo@planetexpress.com
+userPassword: Yasmin
+ou: admin_staff
+uid: 2424
+ Q==

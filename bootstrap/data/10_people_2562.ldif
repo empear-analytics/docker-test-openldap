@@ -1,0 +1,13 @@
+dn: cn=Ryan+sn=Petree,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ryan Petree
+cn: Petree
+givenname: Ryan
+mail: ryan.petree@planetexpress.com
+userPassword: Ryan
+ou: admin_staff
+uid: 2562
+ Q==

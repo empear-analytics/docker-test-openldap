@@ -1,0 +1,13 @@
+dn: cn=Clara+sn=Houchins,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clara Houchins
+cn: Houchins
+givenname: Clara
+mail: clara.houchins@planetexpress.com
+userPassword: Clara
+ou: OtherGroup
+uid: 4765
+ Q==

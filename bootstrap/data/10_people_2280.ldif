@@ -1,0 +1,13 @@
+dn: cn=Yen+sn=Trosclair,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yen Trosclair
+cn: Trosclair
+givenname: Yen
+mail: yen.trosclair@planetexpress.com
+userPassword: Yen
+ou: OtherGroup
+uid: 2280
+ Q==

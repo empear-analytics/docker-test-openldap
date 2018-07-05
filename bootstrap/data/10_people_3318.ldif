@@ -1,0 +1,13 @@
+dn: cn=Sharda+sn=Keelin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharda Keelin
+cn: Keelin
+givenname: Sharda
+mail: sharda.keelin@planetexpress.com
+userPassword: Sharda
+ou: OtherGroup
+uid: 3318
+ Q==

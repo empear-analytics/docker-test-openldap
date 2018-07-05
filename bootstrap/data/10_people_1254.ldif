@@ -1,0 +1,13 @@
+dn: cn=Faviola+sn=Fekety,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Faviola Fekety
+cn: Fekety
+givenname: Faviola
+mail: faviola.fekety@planetexpress.com
+userPassword: Faviola
+ou: Group5
+uid: 1254
+ Q==

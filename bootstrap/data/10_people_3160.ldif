@@ -1,0 +1,13 @@
+dn: cn=Nathaniel+sn=Leith,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nathaniel Leith
+cn: Leith
+givenname: Nathaniel
+mail: nathaniel.leith@planetexpress.com
+userPassword: Nathaniel
+ou: admin_staff
+uid: 3160
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jesenia+sn=Turrey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jesenia Turrey
+cn: Turrey
+givenname: Jesenia
+mail: jesenia.turrey@planetexpress.com
+userPassword: Jesenia
+ou: Group5
+uid: 3206
+ Q==

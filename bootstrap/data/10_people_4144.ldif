@@ -1,0 +1,13 @@
+dn: cn=Marcus+sn=Sellin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marcus Sellin
+cn: Sellin
+givenname: Marcus
+mail: marcus.sellin@planetexpress.com
+userPassword: Marcus
+ou: Group5
+uid: 4144
+ Q==

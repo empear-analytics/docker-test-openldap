@@ -1,0 +1,13 @@
+dn: cn=Arlene+sn=Mucklow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arlene Mucklow
+cn: Mucklow
+givenname: Arlene
+mail: arlene.mucklow@planetexpress.com
+userPassword: Arlene
+ou: admin_staff
+uid: 3470
+ Q==

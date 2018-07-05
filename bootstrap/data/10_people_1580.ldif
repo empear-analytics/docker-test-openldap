@@ -1,0 +1,13 @@
+dn: cn=Ileen+sn=Barkett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ileen Barkett
+cn: Barkett
+givenname: Ileen
+mail: ileen.barkett@planetexpress.com
+userPassword: Ileen
+ou: Group5
+uid: 1580
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Theodora+sn=Obringer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Theodora Obringer
+cn: Obringer
+givenname: Theodora
+mail: theodora.obringer@planetexpress.com
+userPassword: Theodora
+ou: Group5
+uid: 3346
+ Q==

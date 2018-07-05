@@ -1,0 +1,13 @@
+dn: cn=Rickey+sn=Fontanetta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rickey Fontanetta
+cn: Fontanetta
+givenname: Rickey
+mail: rickey.fontanetta@planetexpress.com
+userPassword: Rickey
+ou: Group5
+uid: 538
+ Q==

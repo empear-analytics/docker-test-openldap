@@ -1,0 +1,13 @@
+dn: cn=Willie+sn=Hargis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Willie Hargis
+cn: Hargis
+givenname: Willie
+mail: willie.hargis@planetexpress.com
+userPassword: Willie
+ou: admin_staff
+uid: 2881
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Robbin+sn=Itri,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Robbin Itri
+cn: Itri
+givenname: Robbin
+mail: robbin.itri@planetexpress.com
+userPassword: Robbin
+ou: admin_staff
+uid: 3315
+ Q==

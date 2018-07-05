@@ -1,0 +1,13 @@
+dn: cn=Staci+sn=Boughamer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Staci Boughamer
+cn: Boughamer
+givenname: Staci
+mail: staci.boughamer@planetexpress.com
+userPassword: Staci
+ou: OtherGroup
+uid: 28
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lincoln+sn=Finegan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lincoln Finegan
+cn: Finegan
+givenname: Lincoln
+mail: lincoln.finegan@planetexpress.com
+userPassword: Lincoln
+ou: OtherGroup
+uid: 5810
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Brandi+sn=Waffle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brandi Waffle
+cn: Waffle
+givenname: Brandi
+mail: brandi.waffle@planetexpress.com
+userPassword: Brandi
+ou: admin_staff
+uid: 1578
+ Q==

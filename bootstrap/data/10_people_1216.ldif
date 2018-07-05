@@ -1,0 +1,13 @@
+dn: cn=Caroll+sn=Jacek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Caroll Jacek
+cn: Jacek
+givenname: Caroll
+mail: caroll.jacek@planetexpress.com
+userPassword: Caroll
+ou: Group5
+uid: 1216
+ Q==

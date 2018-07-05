@@ -1,0 +1,13 @@
+dn: cn=Versie+sn=Pelz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Versie Pelz
+cn: Pelz
+givenname: Versie
+mail: versie.pelz@planetexpress.com
+userPassword: Versie
+ou: OtherGroup
+uid: 4135
+ Q==

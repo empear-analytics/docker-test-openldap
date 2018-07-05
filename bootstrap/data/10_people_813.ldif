@@ -1,0 +1,13 @@
+dn: cn=Ninfa+sn=Kirtley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ninfa Kirtley
+cn: Kirtley
+givenname: Ninfa
+mail: ninfa.kirtley@planetexpress.com
+userPassword: Ninfa
+ou: admin_staff
+uid: 813
+ Q==

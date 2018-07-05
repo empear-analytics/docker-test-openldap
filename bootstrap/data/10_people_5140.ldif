@@ -1,0 +1,13 @@
+dn: cn=Bennie+sn=Lubelski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bennie Lubelski
+cn: Lubelski
+givenname: Bennie
+mail: bennie.lubelski@planetexpress.com
+userPassword: Bennie
+ou: Group5
+uid: 5140
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Candelaria+sn=Hogancamp,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Candelaria Hogancamp
+cn: Hogancamp
+givenname: Candelaria
+mail: candelaria.hogancamp@planetexpress.com
+userPassword: Candelaria
+ou: OtherGroup
+uid: 3194
+ Q==

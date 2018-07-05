@@ -1,0 +1,13 @@
+dn: cn=Lupita+sn=Kinnaman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lupita Kinnaman
+cn: Kinnaman
+givenname: Lupita
+mail: lupita.kinnaman@planetexpress.com
+userPassword: Lupita
+ou: Group5
+uid: 1413
+ Q==

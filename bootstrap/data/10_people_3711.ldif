@@ -1,0 +1,13 @@
+dn: cn=Mozell+sn=Mikolajczyk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mozell Mikolajczyk
+cn: Mikolajczyk
+givenname: Mozell
+mail: mozell.mikolajczyk@planetexpress.com
+userPassword: Mozell
+ou: OtherGroup
+uid: 3711
+ Q==

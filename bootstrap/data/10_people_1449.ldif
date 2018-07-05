@@ -1,0 +1,13 @@
+dn: cn=Rachal+sn=Jonsson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rachal Jonsson
+cn: Jonsson
+givenname: Rachal
+mail: rachal.jonsson@planetexpress.com
+userPassword: Rachal
+ou: Group5
+uid: 1449
+ Q==

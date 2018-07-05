@@ -1,0 +1,13 @@
+dn: cn=Chuck+sn=Sadin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chuck Sadin
+cn: Sadin
+givenname: Chuck
+mail: chuck.sadin@planetexpress.com
+userPassword: Chuck
+ou: flight_crew
+uid: 604
+ Q==

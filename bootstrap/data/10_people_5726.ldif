@@ -1,0 +1,13 @@
+dn: cn=Karmen+sn=Mcdermond,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karmen Mcdermond
+cn: Mcdermond
+givenname: Karmen
+mail: karmen.mcdermond@planetexpress.com
+userPassword: Karmen
+ou: admin_staff
+uid: 5726
+ Q==

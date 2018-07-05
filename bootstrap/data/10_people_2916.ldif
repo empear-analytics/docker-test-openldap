@@ -1,0 +1,13 @@
+dn: cn=Yi+sn=Ohanlon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yi Ohanlon
+cn: Ohanlon
+givenname: Yi
+mail: yi.ohanlon@planetexpress.com
+userPassword: Yi
+ou: admin_staff
+uid: 2916
+ Q==

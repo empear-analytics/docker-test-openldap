@@ -1,0 +1,13 @@
+dn: cn=Estell+sn=Arcos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Estell Arcos
+cn: Arcos
+givenname: Estell
+mail: estell.arcos@planetexpress.com
+userPassword: Estell
+ou: admin_staff
+uid: 2027
+ Q==

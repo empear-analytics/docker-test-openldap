@@ -1,0 +1,13 @@
+dn: cn=Josef+sn=Pizzulo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Josef Pizzulo
+cn: Pizzulo
+givenname: Josef
+mail: josef.pizzulo@planetexpress.com
+userPassword: Josef
+ou: OtherGroup
+uid: 4627
+ Q==

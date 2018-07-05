@@ -1,0 +1,13 @@
+dn: cn=Celena+sn=Pettry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Celena Pettry
+cn: Pettry
+givenname: Celena
+mail: celena.pettry@planetexpress.com
+userPassword: Celena
+ou: admin_staff
+uid: 5663
+ Q==

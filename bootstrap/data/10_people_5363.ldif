@@ -1,0 +1,13 @@
+dn: cn=Minerva+sn=Bliek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Minerva Bliek
+cn: Bliek
+givenname: Minerva
+mail: minerva.bliek@planetexpress.com
+userPassword: Minerva
+ou: Group5
+uid: 5363
+ Q==

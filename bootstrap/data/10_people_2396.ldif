@@ -1,0 +1,13 @@
+dn: cn=Thomas+sn=Loney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thomas Loney
+cn: Loney
+givenname: Thomas
+mail: thomas.loney@planetexpress.com
+userPassword: Thomas
+ou: OtherGroup
+uid: 2396
+ Q==

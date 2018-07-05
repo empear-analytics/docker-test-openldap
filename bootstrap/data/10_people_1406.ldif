@@ -1,0 +1,13 @@
+dn: cn=Maranda+sn=Deruiter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maranda Deruiter
+cn: Deruiter
+givenname: Maranda
+mail: maranda.deruiter@planetexpress.com
+userPassword: Maranda
+ou: OtherGroup
+uid: 1406
+ Q==

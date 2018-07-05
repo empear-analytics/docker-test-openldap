@@ -1,0 +1,13 @@
+dn: cn=Cuc+sn=Rosaro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cuc Rosaro
+cn: Rosaro
+givenname: Cuc
+mail: cuc.rosaro@planetexpress.com
+userPassword: Cuc
+ou: flight_crew
+uid: 1566
+ Q==

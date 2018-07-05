@@ -1,0 +1,13 @@
+dn: cn=Latrina+sn=Boeser,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Latrina Boeser
+cn: Boeser
+givenname: Latrina
+mail: latrina.boeser@planetexpress.com
+userPassword: Latrina
+ou: OtherGroup
+uid: 323
+ Q==

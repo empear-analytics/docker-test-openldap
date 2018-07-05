@@ -1,0 +1,13 @@
+dn: cn=Leonora+sn=Spillman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leonora Spillman
+cn: Spillman
+givenname: Leonora
+mail: leonora.spillman@planetexpress.com
+userPassword: Leonora
+ou: OtherGroup
+uid: 2554
+ Q==

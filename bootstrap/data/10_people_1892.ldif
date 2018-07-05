@@ -1,0 +1,13 @@
+dn: cn=Enrique+sn=Ottomaniello,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Enrique Ottomaniello
+cn: Ottomaniello
+givenname: Enrique
+mail: enrique.ottomaniello@planetexpress.com
+userPassword: Enrique
+ou: flight_crew
+uid: 1892
+ Q==

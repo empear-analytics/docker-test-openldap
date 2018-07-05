@@ -1,0 +1,13 @@
+dn: cn=Liza+sn=Werth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Liza Werth
+cn: Werth
+givenname: Liza
+mail: liza.werth@planetexpress.com
+userPassword: Liza
+ou: flight_crew
+uid: 995
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Dominica+sn=Helbling,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dominica Helbling
+cn: Helbling
+givenname: Dominica
+mail: dominica.helbling@planetexpress.com
+userPassword: Dominica
+ou: OtherGroup
+uid: 2793
+ Q==

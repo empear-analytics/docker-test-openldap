@@ -1,0 +1,13 @@
+dn: cn=Reginald+sn=Fowlie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reginald Fowlie
+cn: Fowlie
+givenname: Reginald
+mail: reginald.fowlie@planetexpress.com
+userPassword: Reginald
+ou: admin_staff
+uid: 768
+ Q==

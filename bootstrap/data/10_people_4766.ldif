@@ -1,0 +1,13 @@
+dn: cn=Myles+sn=Goates,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Myles Goates
+cn: Goates
+givenname: Myles
+mail: myles.goates@planetexpress.com
+userPassword: Myles
+ou: admin_staff
+uid: 4766
+ Q==

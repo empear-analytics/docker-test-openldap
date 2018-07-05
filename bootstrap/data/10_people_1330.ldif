@@ -1,0 +1,13 @@
+dn: cn=Alton+sn=Beaule,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alton Beaule
+cn: Beaule
+givenname: Alton
+mail: alton.beaule@planetexpress.com
+userPassword: Alton
+ou: Group5
+uid: 1330
+ Q==

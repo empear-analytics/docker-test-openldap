@@ -1,0 +1,13 @@
+dn: cn=Audrea+sn=Tandy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Audrea Tandy
+cn: Tandy
+givenname: Audrea
+mail: audrea.tandy@planetexpress.com
+userPassword: Audrea
+ou: flight_crew
+uid: 4311
+ Q==

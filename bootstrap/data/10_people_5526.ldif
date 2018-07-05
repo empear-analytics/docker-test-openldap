@@ -1,0 +1,13 @@
+dn: cn=Tristan+sn=Jankoff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tristan Jankoff
+cn: Jankoff
+givenname: Tristan
+mail: tristan.jankoff@planetexpress.com
+userPassword: Tristan
+ou: Group5
+uid: 5526
+ Q==

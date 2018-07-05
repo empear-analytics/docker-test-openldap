@@ -1,0 +1,13 @@
+dn: cn=Robyn+sn=Luckey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Robyn Luckey
+cn: Luckey
+givenname: Robyn
+mail: robyn.luckey@planetexpress.com
+userPassword: Robyn
+ou: OtherGroup
+uid: 5581
+ Q==

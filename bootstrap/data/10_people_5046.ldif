@@ -1,0 +1,13 @@
+dn: cn=Dolly+sn=Blandon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dolly Blandon
+cn: Blandon
+givenname: Dolly
+mail: dolly.blandon@planetexpress.com
+userPassword: Dolly
+ou: admin_staff
+uid: 5046
+ Q==

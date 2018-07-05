@@ -1,0 +1,13 @@
+dn: cn=Beth+sn=Masloski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beth Masloski
+cn: Masloski
+givenname: Beth
+mail: beth.masloski@planetexpress.com
+userPassword: Beth
+ou: Group5
+uid: 1370
+ Q==

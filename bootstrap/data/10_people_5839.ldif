@@ -1,0 +1,13 @@
+dn: cn=Bree+sn=Purdue,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bree Purdue
+cn: Purdue
+givenname: Bree
+mail: bree.purdue@planetexpress.com
+userPassword: Bree
+ou: flight_crew
+uid: 5839
+ Q==

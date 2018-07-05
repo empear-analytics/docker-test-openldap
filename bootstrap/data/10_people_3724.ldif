@@ -1,0 +1,13 @@
+dn: cn=Jamison+sn=Hollenshead,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamison Hollenshead
+cn: Hollenshead
+givenname: Jamison
+mail: jamison.hollenshead@planetexpress.com
+userPassword: Jamison
+ou: Group5
+uid: 3724
+ Q==

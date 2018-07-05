@@ -1,0 +1,13 @@
+dn: cn=Patrice+sn=Wallet,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Patrice Wallet
+cn: Wallet
+givenname: Patrice
+mail: patrice.wallet@planetexpress.com
+userPassword: Patrice
+ou: OtherGroup
+uid: 249
+ Q==

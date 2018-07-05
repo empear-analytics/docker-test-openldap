@@ -1,0 +1,13 @@
+dn: cn=Ginette+sn=Rakes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ginette Rakes
+cn: Rakes
+givenname: Ginette
+mail: ginette.rakes@planetexpress.com
+userPassword: Ginette
+ou: flight_crew
+uid: 5370
+ Q==

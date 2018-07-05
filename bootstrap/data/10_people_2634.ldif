@@ -1,0 +1,13 @@
+dn: cn=Valentine+sn=Mitchem,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Valentine Mitchem
+cn: Mitchem
+givenname: Valentine
+mail: valentine.mitchem@planetexpress.com
+userPassword: Valentine
+ou: admin_staff
+uid: 2634
+ Q==

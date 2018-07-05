@@ -1,0 +1,13 @@
+dn: cn=Gay+sn=Ohara,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gay Ohara
+cn: Ohara
+givenname: Gay
+mail: gay.ohara@planetexpress.com
+userPassword: Gay
+ou: Group5
+uid: 2683
+ Q==

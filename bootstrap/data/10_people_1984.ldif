@@ -1,0 +1,13 @@
+dn: cn=Stewart+sn=Brucker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stewart Brucker
+cn: Brucker
+givenname: Stewart
+mail: stewart.brucker@planetexpress.com
+userPassword: Stewart
+ou: OtherGroup
+uid: 1984
+ Q==

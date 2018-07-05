@@ -1,0 +1,13 @@
+dn: cn=Julian+sn=Rubendall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Julian Rubendall
+cn: Rubendall
+givenname: Julian
+mail: julian.rubendall@planetexpress.com
+userPassword: Julian
+ou: OtherGroup
+uid: 2605
+ Q==

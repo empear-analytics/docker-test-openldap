@@ -1,0 +1,13 @@
+dn: cn=Charissa+sn=Seeley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charissa Seeley
+cn: Seeley
+givenname: Charissa
+mail: charissa.seeley@planetexpress.com
+userPassword: Charissa
+ou: flight_crew
+uid: 3771
+ Q==

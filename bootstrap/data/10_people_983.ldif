@@ -1,0 +1,13 @@
+dn: cn=Graciela+sn=Beckom,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Graciela Beckom
+cn: Beckom
+givenname: Graciela
+mail: graciela.beckom@planetexpress.com
+userPassword: Graciela
+ou: flight_crew
+uid: 983
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Hermine+sn=Polowy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hermine Polowy
+cn: Polowy
+givenname: Hermine
+mail: hermine.polowy@planetexpress.com
+userPassword: Hermine
+ou: OtherGroup
+uid: 4334
+ Q==

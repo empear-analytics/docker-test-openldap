@@ -1,0 +1,13 @@
+dn: cn=Lyle+sn=Glory,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lyle Glory
+cn: Glory
+givenname: Lyle
+mail: lyle.glory@planetexpress.com
+userPassword: Lyle
+ou: admin_staff
+uid: 837
+ Q==

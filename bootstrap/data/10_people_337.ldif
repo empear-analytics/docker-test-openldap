@@ -1,0 +1,13 @@
+dn: cn=Lilly+sn=Bacot,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lilly Bacot
+cn: Bacot
+givenname: Lilly
+mail: lilly.bacot@planetexpress.com
+userPassword: Lilly
+ou: flight_crew
+uid: 337
+ Q==

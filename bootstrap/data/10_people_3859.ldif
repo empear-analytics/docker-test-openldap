@@ -1,0 +1,13 @@
+dn: cn=Nida+sn=Mcgurren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nida Mcgurren
+cn: Mcgurren
+givenname: Nida
+mail: nida.mcgurren@planetexpress.com
+userPassword: Nida
+ou: admin_staff
+uid: 3859
+ Q==

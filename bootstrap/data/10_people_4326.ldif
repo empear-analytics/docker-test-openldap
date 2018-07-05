@@ -1,0 +1,13 @@
+dn: cn=Anissa+sn=Starch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anissa Starch
+cn: Starch
+givenname: Anissa
+mail: anissa.starch@planetexpress.com
+userPassword: Anissa
+ou: flight_crew
+uid: 4326
+ Q==

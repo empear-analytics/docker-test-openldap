@@ -1,0 +1,13 @@
+dn: cn=Eulah+sn=Elhaj,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eulah Elhaj
+cn: Elhaj
+givenname: Eulah
+mail: eulah.elhaj@planetexpress.com
+userPassword: Eulah
+ou: flight_crew
+uid: 5535
+ Q==

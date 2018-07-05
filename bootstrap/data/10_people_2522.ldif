@@ -1,0 +1,13 @@
+dn: cn=Robert+sn=Dragone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Robert Dragone
+cn: Dragone
+givenname: Robert
+mail: robert.dragone@planetexpress.com
+userPassword: Robert
+ou: flight_crew
+uid: 2522
+ Q==

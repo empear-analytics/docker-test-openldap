@@ -1,0 +1,13 @@
+dn: cn=Salina+sn=Wion,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Salina Wion
+cn: Wion
+givenname: Salina
+mail: salina.wion@planetexpress.com
+userPassword: Salina
+ou: Group5
+uid: 589
+ Q==

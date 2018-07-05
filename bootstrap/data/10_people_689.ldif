@@ -1,0 +1,13 @@
+dn: cn=Rosa+sn=Unsicker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosa Unsicker
+cn: Unsicker
+givenname: Rosa
+mail: rosa.unsicker@planetexpress.com
+userPassword: Rosa
+ou: Group5
+uid: 689
+ Q==

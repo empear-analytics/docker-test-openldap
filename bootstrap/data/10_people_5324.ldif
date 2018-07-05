@@ -1,0 +1,13 @@
+dn: cn=Tonda+sn=Lenhard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tonda Lenhard
+cn: Lenhard
+givenname: Tonda
+mail: tonda.lenhard@planetexpress.com
+userPassword: Tonda
+ou: admin_staff
+uid: 5324
+ Q==

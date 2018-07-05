@@ -1,0 +1,13 @@
+dn: cn=Georgene+sn=Moland,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Georgene Moland
+cn: Moland
+givenname: Georgene
+mail: georgene.moland@planetexpress.com
+userPassword: Georgene
+ou: OtherGroup
+uid: 2584
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kelly+sn=Wayment,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kelly Wayment
+cn: Wayment
+givenname: Kelly
+mail: kelly.wayment@planetexpress.com
+userPassword: Kelly
+ou: flight_crew
+uid: 2893
+ Q==

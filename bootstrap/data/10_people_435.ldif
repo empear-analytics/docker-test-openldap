@@ -1,0 +1,13 @@
+dn: cn=Ligia+sn=Ricucci,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ligia Ricucci
+cn: Ricucci
+givenname: Ligia
+mail: ligia.ricucci@planetexpress.com
+userPassword: Ligia
+ou: flight_crew
+uid: 435
+ Q==

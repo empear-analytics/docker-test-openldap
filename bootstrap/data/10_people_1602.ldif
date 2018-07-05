@@ -1,0 +1,13 @@
+dn: cn=Cyril+sn=Biedrzycki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cyril Biedrzycki
+cn: Biedrzycki
+givenname: Cyril
+mail: cyril.biedrzycki@planetexpress.com
+userPassword: Cyril
+ou: flight_crew
+uid: 1602
+ Q==

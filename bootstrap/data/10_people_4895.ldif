@@ -1,0 +1,13 @@
+dn: cn=Clarisa+sn=Lokuta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clarisa Lokuta
+cn: Lokuta
+givenname: Clarisa
+mail: clarisa.lokuta@planetexpress.com
+userPassword: Clarisa
+ou: Group5
+uid: 4895
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Sheryll+sn=Solar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sheryll Solar
+cn: Solar
+givenname: Sheryll
+mail: sheryll.solar@planetexpress.com
+userPassword: Sheryll
+ou: OtherGroup
+uid: 1791
+ Q==

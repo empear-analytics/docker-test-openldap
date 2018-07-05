@@ -1,0 +1,13 @@
+dn: cn=Kennith+sn=Belding,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kennith Belding
+cn: Belding
+givenname: Kennith
+mail: kennith.belding@planetexpress.com
+userPassword: Kennith
+ou: admin_staff
+uid: 2844
+ Q==

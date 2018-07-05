@@ -1,0 +1,13 @@
+dn: cn=Tawny+sn=Riddick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tawny Riddick
+cn: Riddick
+givenname: Tawny
+mail: tawny.riddick@planetexpress.com
+userPassword: Tawny
+ou: admin_staff
+uid: 5897
+ Q==

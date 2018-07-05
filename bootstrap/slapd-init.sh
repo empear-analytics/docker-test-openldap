@@ -78,7 +78,6 @@ load_initial_data() {
     done
 }
 
-
 ## Init
 
 reconfigure_slapd

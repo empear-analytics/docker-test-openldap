@@ -1,0 +1,13 @@
+dn: cn=Beulah+sn=Oleary,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beulah Oleary
+cn: Oleary
+givenname: Beulah
+mail: beulah.oleary@planetexpress.com
+userPassword: Beulah
+ou: Group5
+uid: 709
+ Q==

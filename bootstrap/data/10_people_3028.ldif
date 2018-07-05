@@ -1,0 +1,13 @@
+dn: cn=Elda+sn=Mcteer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elda Mcteer
+cn: Mcteer
+givenname: Elda
+mail: elda.mcteer@planetexpress.com
+userPassword: Elda
+ou: Group5
+uid: 3028
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Shawnda+sn=Heffron,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shawnda Heffron
+cn: Heffron
+givenname: Shawnda
+mail: shawnda.heffron@planetexpress.com
+userPassword: Shawnda
+ou: flight_crew
+uid: 2163
+ Q==

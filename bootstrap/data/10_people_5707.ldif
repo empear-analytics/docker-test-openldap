@@ -1,0 +1,13 @@
+dn: cn=Leeann+sn=Wortinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leeann Wortinger
+cn: Wortinger
+givenname: Leeann
+mail: leeann.wortinger@planetexpress.com
+userPassword: Leeann
+ou: Group5
+uid: 5707
+ Q==

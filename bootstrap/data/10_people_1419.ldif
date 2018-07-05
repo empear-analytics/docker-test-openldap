@@ -1,0 +1,13 @@
+dn: cn=Esmeralda+sn=Fader,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Esmeralda Fader
+cn: Fader
+givenname: Esmeralda
+mail: esmeralda.fader@planetexpress.com
+userPassword: Esmeralda
+ou: flight_crew
+uid: 1419
+ Q==

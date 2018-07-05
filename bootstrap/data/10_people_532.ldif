@@ -1,0 +1,13 @@
+dn: cn=Ginger+sn=Plewinski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ginger Plewinski
+cn: Plewinski
+givenname: Ginger
+mail: ginger.plewinski@planetexpress.com
+userPassword: Ginger
+ou: flight_crew
+uid: 532
+ Q==

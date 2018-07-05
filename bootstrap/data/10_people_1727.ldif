@@ -1,0 +1,13 @@
+dn: cn=Billi+sn=Wolkow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Billi Wolkow
+cn: Wolkow
+givenname: Billi
+mail: billi.wolkow@planetexpress.com
+userPassword: Billi
+ou: admin_staff
+uid: 1727
+ Q==

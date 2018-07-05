@@ -1,0 +1,13 @@
+dn: cn=Terrie+sn=Romash,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Terrie Romash
+cn: Romash
+givenname: Terrie
+mail: terrie.romash@planetexpress.com
+userPassword: Terrie
+ou: Group5
+uid: 2308
+ Q==

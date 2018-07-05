@@ -1,0 +1,13 @@
+dn: cn=Shondra+sn=Manteca,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shondra Manteca
+cn: Manteca
+givenname: Shondra
+mail: shondra.manteca@planetexpress.com
+userPassword: Shondra
+ou: Group5
+uid: 3233
+ Q==

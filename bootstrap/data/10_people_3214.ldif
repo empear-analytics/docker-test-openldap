@@ -1,0 +1,13 @@
+dn: cn=Anna+sn=Cardosi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anna Cardosi
+cn: Cardosi
+givenname: Anna
+mail: anna.cardosi@planetexpress.com
+userPassword: Anna
+ou: flight_crew
+uid: 3214
+ Q==

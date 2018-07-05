@@ -1,0 +1,13 @@
+dn: cn=Martha+sn=Picerno,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Martha Picerno
+cn: Picerno
+givenname: Martha
+mail: martha.picerno@planetexpress.com
+userPassword: Martha
+ou: flight_crew
+uid: 3778
+ Q==

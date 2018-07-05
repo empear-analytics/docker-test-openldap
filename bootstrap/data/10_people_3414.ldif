@@ -1,0 +1,13 @@
+dn: cn=Sid+sn=Schoenfelder,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sid Schoenfelder
+cn: Schoenfelder
+givenname: Sid
+mail: sid.schoenfelder@planetexpress.com
+userPassword: Sid
+ou: admin_staff
+uid: 3414
+ Q==

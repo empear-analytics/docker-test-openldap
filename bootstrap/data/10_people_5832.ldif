@@ -1,0 +1,13 @@
+dn: cn=Cherelle+sn=Kuzmin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cherelle Kuzmin
+cn: Kuzmin
+givenname: Cherelle
+mail: cherelle.kuzmin@planetexpress.com
+userPassword: Cherelle
+ou: Group5
+uid: 5832
+ Q==

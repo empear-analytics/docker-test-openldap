@@ -1,0 +1,13 @@
+dn: cn=Classie+sn=Mahala,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Classie Mahala
+cn: Mahala
+givenname: Classie
+mail: classie.mahala@planetexpress.com
+userPassword: Classie
+ou: flight_crew
+uid: 4175
+ Q==

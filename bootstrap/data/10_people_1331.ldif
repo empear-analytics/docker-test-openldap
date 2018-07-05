@@ -1,0 +1,13 @@
+dn: cn=Iraida+sn=Wolvin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Iraida Wolvin
+cn: Wolvin
+givenname: Iraida
+mail: iraida.wolvin@planetexpress.com
+userPassword: Iraida
+ou: Group5
+uid: 1331
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Wilhemina+sn=Dejoie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wilhemina Dejoie
+cn: Dejoie
+givenname: Wilhemina
+mail: wilhemina.dejoie@planetexpress.com
+userPassword: Wilhemina
+ou: Group5
+uid: 4870
+ Q==

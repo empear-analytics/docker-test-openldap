@@ -1,0 +1,13 @@
+dn: cn=Doretta+sn=Capra,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Doretta Capra
+cn: Capra
+givenname: Doretta
+mail: doretta.capra@planetexpress.com
+userPassword: Doretta
+ou: OtherGroup
+uid: 2841
+ Q==

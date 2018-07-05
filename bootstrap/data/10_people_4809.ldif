@@ -1,0 +1,13 @@
+dn: cn=Raymundo+sn=Voto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raymundo Voto
+cn: Voto
+givenname: Raymundo
+mail: raymundo.voto@planetexpress.com
+userPassword: Raymundo
+ou: Group5
+uid: 4809
+ Q==

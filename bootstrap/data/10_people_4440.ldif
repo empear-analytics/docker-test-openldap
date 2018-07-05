@@ -1,0 +1,13 @@
+dn: cn=Pedro+sn=Guiliano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pedro Guiliano
+cn: Guiliano
+givenname: Pedro
+mail: pedro.guiliano@planetexpress.com
+userPassword: Pedro
+ou: admin_staff
+uid: 4440
+ Q==

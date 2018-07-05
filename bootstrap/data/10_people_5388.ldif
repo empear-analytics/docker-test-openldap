@@ -1,0 +1,13 @@
+dn: cn=Jennette+sn=Doshier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jennette Doshier
+cn: Doshier
+givenname: Jennette
+mail: jennette.doshier@planetexpress.com
+userPassword: Jennette
+ou: OtherGroup
+uid: 5388
+ Q==

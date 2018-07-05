@@ -1,0 +1,13 @@
+dn: cn=Deangelo+sn=Bumbaca,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deangelo Bumbaca
+cn: Bumbaca
+givenname: Deangelo
+mail: deangelo.bumbaca@planetexpress.com
+userPassword: Deangelo
+ou: admin_staff
+uid: 724
+ Q==

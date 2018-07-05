@@ -1,0 +1,13 @@
+dn: cn=Daniell+sn=Steurer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daniell Steurer
+cn: Steurer
+givenname: Daniell
+mail: daniell.steurer@planetexpress.com
+userPassword: Daniell
+ou: Group5
+uid: 3474
+ Q==

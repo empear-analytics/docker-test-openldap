@@ -1,0 +1,13 @@
+dn: cn=Liz+sn=Nanez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Liz Nanez
+cn: Nanez
+givenname: Liz
+mail: liz.nanez@planetexpress.com
+userPassword: Liz
+ou: flight_crew
+uid: 1573
+ Q==

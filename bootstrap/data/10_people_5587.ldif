@@ -1,0 +1,13 @@
+dn: cn=Chery+sn=Salmond,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chery Salmond
+cn: Salmond
+givenname: Chery
+mail: chery.salmond@planetexpress.com
+userPassword: Chery
+ou: Group5
+uid: 5587
+ Q==

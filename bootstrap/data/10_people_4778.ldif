@@ -1,0 +1,13 @@
+dn: cn=Ingeborg+sn=Sosh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ingeborg Sosh
+cn: Sosh
+givenname: Ingeborg
+mail: ingeborg.sosh@planetexpress.com
+userPassword: Ingeborg
+ou: flight_crew
+uid: 4778
+ Q==

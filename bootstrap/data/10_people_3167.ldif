@@ -1,0 +1,13 @@
+dn: cn=Clay+sn=Behne,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clay Behne
+cn: Behne
+givenname: Clay
+mail: clay.behne@planetexpress.com
+userPassword: Clay
+ou: OtherGroup
+uid: 3167
+ Q==

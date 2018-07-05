@@ -1,0 +1,13 @@
+dn: cn=Allison+sn=Nanez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Allison Nanez
+cn: Nanez
+givenname: Allison
+mail: allison.nanez@planetexpress.com
+userPassword: Allison
+ou: Group5
+uid: 5536
+ Q==

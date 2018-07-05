@@ -1,0 +1,13 @@
+dn: cn=Rochel+sn=Filipiak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rochel Filipiak
+cn: Filipiak
+givenname: Rochel
+mail: rochel.filipiak@planetexpress.com
+userPassword: Rochel
+ou: Group5
+uid: 5288
+ Q==

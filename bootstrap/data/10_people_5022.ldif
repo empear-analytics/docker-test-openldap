@@ -1,0 +1,13 @@
+dn: cn=Jason+sn=Thaller,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jason Thaller
+cn: Thaller
+givenname: Jason
+mail: jason.thaller@planetexpress.com
+userPassword: Jason
+ou: flight_crew
+uid: 5022
+ Q==

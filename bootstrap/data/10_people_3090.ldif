@@ -1,0 +1,13 @@
+dn: cn=Ossie+sn=Mcglaun,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ossie Mcglaun
+cn: Mcglaun
+givenname: Ossie
+mail: ossie.mcglaun@planetexpress.com
+userPassword: Ossie
+ou: flight_crew
+uid: 3090
+ Q==

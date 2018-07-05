@@ -1,0 +1,13 @@
+dn: cn=Alicia+sn=Egizi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alicia Egizi
+cn: Egizi
+givenname: Alicia
+mail: alicia.egizi@planetexpress.com
+userPassword: Alicia
+ou: Group5
+uid: 2836
+ Q==

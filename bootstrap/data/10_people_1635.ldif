@@ -1,0 +1,13 @@
+dn: cn=Cordia+sn=Iopa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cordia Iopa
+cn: Iopa
+givenname: Cordia
+mail: cordia.iopa@planetexpress.com
+userPassword: Cordia
+ou: OtherGroup
+uid: 1635
+ Q==

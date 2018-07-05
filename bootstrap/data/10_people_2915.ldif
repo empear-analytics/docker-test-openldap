@@ -1,0 +1,13 @@
+dn: cn=Chadwick+sn=Kovarovic,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chadwick Kovarovic
+cn: Kovarovic
+givenname: Chadwick
+mail: chadwick.kovarovic@planetexpress.com
+userPassword: Chadwick
+ou: Group5
+uid: 2915
+ Q==

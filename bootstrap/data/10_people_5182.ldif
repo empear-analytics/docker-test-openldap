@@ -1,0 +1,13 @@
+dn: cn=Marylou+sn=Jamaica,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marylou Jamaica
+cn: Jamaica
+givenname: Marylou
+mail: marylou.jamaica@planetexpress.com
+userPassword: Marylou
+ou: flight_crew
+uid: 5182
+ Q==

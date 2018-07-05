@@ -1,0 +1,13 @@
+dn: cn=Stephaine+sn=Hassing,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stephaine Hassing
+cn: Hassing
+givenname: Stephaine
+mail: stephaine.hassing@planetexpress.com
+userPassword: Stephaine
+ou: OtherGroup
+uid: 5244
+ Q==

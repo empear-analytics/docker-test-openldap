@@ -1,0 +1,13 @@
+dn: cn=Tommie+sn=Gnau,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tommie Gnau
+cn: Gnau
+givenname: Tommie
+mail: tommie.gnau@planetexpress.com
+userPassword: Tommie
+ou: flight_crew
+uid: 1218
+ Q==

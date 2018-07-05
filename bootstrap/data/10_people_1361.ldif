@@ -1,0 +1,13 @@
+dn: cn=Jillian+sn=Kravetz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jillian Kravetz
+cn: Kravetz
+givenname: Jillian
+mail: jillian.kravetz@planetexpress.com
+userPassword: Jillian
+ou: flight_crew
+uid: 1361
+ Q==

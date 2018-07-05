@@ -1,0 +1,13 @@
+dn: cn=Kurt+sn=Cassel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kurt Cassel
+cn: Cassel
+givenname: Kurt
+mail: kurt.cassel@planetexpress.com
+userPassword: Kurt
+ou: flight_crew
+uid: 4558
+ Q==

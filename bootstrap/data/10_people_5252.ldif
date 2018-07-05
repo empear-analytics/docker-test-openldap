@@ -1,0 +1,13 @@
+dn: cn=Venice+sn=Khosravi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Venice Khosravi
+cn: Khosravi
+givenname: Venice
+mail: venice.khosravi@planetexpress.com
+userPassword: Venice
+ou: admin_staff
+uid: 5252
+ Q==

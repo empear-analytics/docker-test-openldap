@@ -1,0 +1,13 @@
+dn: cn=Evette+sn=Grew,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Evette Grew
+cn: Grew
+givenname: Evette
+mail: evette.grew@planetexpress.com
+userPassword: Evette
+ou: OtherGroup
+uid: 5952
+ Q==

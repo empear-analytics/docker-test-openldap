@@ -1,0 +1,13 @@
+dn: cn=Blake+sn=Sherief,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Blake Sherief
+cn: Sherief
+givenname: Blake
+mail: blake.sherief@planetexpress.com
+userPassword: Blake
+ou: admin_staff
+uid: 360
+ Q==

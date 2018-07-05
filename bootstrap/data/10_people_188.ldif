@@ -1,0 +1,13 @@
+dn: cn=Lesley+sn=Lococo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lesley Lococo
+cn: Lococo
+givenname: Lesley
+mail: lesley.lococo@planetexpress.com
+userPassword: Lesley
+ou: OtherGroup
+uid: 188
+ Q==

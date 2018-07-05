@@ -1,0 +1,13 @@
+dn: cn=Rosina+sn=Zaniboni,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosina Zaniboni
+cn: Zaniboni
+givenname: Rosina
+mail: rosina.zaniboni@planetexpress.com
+userPassword: Rosina
+ou: OtherGroup
+uid: 4317
+ Q==

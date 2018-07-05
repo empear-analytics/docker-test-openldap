@@ -1,0 +1,13 @@
+dn: cn=Ethelyn+sn=Declet,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ethelyn Declet
+cn: Declet
+givenname: Ethelyn
+mail: ethelyn.declet@planetexpress.com
+userPassword: Ethelyn
+ou: flight_crew
+uid: 634
+ Q==

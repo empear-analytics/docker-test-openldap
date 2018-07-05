@@ -1,0 +1,13 @@
+dn: cn=Colette+sn=Patmore,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Colette Patmore
+cn: Patmore
+givenname: Colette
+mail: colette.patmore@planetexpress.com
+userPassword: Colette
+ou: OtherGroup
+uid: 2707
+ Q==

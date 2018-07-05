@@ -1,0 +1,13 @@
+dn: cn=Polly+sn=Dekorte,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Polly Dekorte
+cn: Dekorte
+givenname: Polly
+mail: polly.dekorte@planetexpress.com
+userPassword: Polly
+ou: admin_staff
+uid: 1371
+ Q==

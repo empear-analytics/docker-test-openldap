@@ -1,0 +1,13 @@
+dn: cn=Ashli+sn=Bowgren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ashli Bowgren
+cn: Bowgren
+givenname: Ashli
+mail: ashli.bowgren@planetexpress.com
+userPassword: Ashli
+ou: flight_crew
+uid: 1202
+ Q==

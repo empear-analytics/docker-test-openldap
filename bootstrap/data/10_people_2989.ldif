@@ -1,0 +1,13 @@
+dn: cn=Shelby+sn=Macione,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shelby Macione
+cn: Macione
+givenname: Shelby
+mail: shelby.macione@planetexpress.com
+userPassword: Shelby
+ou: OtherGroup
+uid: 2989
+ Q==

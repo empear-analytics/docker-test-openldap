@@ -1,0 +1,13 @@
+dn: cn=Scotty+sn=Cotton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Scotty Cotton
+cn: Cotton
+givenname: Scotty
+mail: scotty.cotton@planetexpress.com
+userPassword: Scotty
+ou: OtherGroup
+uid: 1969
+ Q==

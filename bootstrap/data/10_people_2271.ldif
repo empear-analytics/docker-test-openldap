@@ -1,0 +1,13 @@
+dn: cn=Augustine+sn=Fettes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Augustine Fettes
+cn: Fettes
+givenname: Augustine
+mail: augustine.fettes@planetexpress.com
+userPassword: Augustine
+ou: OtherGroup
+uid: 2271
+ Q==

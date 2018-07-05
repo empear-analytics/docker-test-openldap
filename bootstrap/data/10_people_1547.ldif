@@ -1,0 +1,13 @@
+dn: cn=Porsha+sn=Ogilvie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Porsha Ogilvie
+cn: Ogilvie
+givenname: Porsha
+mail: porsha.ogilvie@planetexpress.com
+userPassword: Porsha
+ou: Group5
+uid: 1547
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Edith+sn=Day,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edith Day
+cn: Day
+givenname: Edith
+mail: edith.day@planetexpress.com
+userPassword: Edith
+ou: flight_crew
+uid: 5785
+ Q==

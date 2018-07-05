@@ -1,0 +1,13 @@
+dn: cn=Camellia+sn=Wormley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Camellia Wormley
+cn: Wormley
+givenname: Camellia
+mail: camellia.wormley@planetexpress.com
+userPassword: Camellia
+ou: flight_crew
+uid: 189
+ Q==

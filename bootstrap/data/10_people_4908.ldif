@@ -1,0 +1,13 @@
+dn: cn=Ettie+sn=Gruening,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ettie Gruening
+cn: Gruening
+givenname: Ettie
+mail: ettie.gruening@planetexpress.com
+userPassword: Ettie
+ou: admin_staff
+uid: 4908
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jamaal+sn=Clippinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamaal Clippinger
+cn: Clippinger
+givenname: Jamaal
+mail: jamaal.clippinger@planetexpress.com
+userPassword: Jamaal
+ou: OtherGroup
+uid: 2322
+ Q==

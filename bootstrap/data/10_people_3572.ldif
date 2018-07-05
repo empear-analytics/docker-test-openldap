@@ -1,0 +1,13 @@
+dn: cn=Carisa+sn=Chenot,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carisa Chenot
+cn: Chenot
+givenname: Carisa
+mail: carisa.chenot@planetexpress.com
+userPassword: Carisa
+ou: admin_staff
+uid: 3572
+ Q==

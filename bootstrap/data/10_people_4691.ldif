@@ -1,0 +1,13 @@
+dn: cn=Billye+sn=Pettinato,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Billye Pettinato
+cn: Pettinato
+givenname: Billye
+mail: billye.pettinato@planetexpress.com
+userPassword: Billye
+ou: Group5
+uid: 4691
+ Q==

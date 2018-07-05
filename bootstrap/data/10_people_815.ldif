@@ -1,0 +1,13 @@
+dn: cn=Glady+sn=Steinour,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Glady Steinour
+cn: Steinour
+givenname: Glady
+mail: glady.steinour@planetexpress.com
+userPassword: Glady
+ou: Group5
+uid: 815
+ Q==

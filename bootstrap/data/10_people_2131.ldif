@@ -1,0 +1,13 @@
+dn: cn=Glynda+sn=Rochow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Glynda Rochow
+cn: Rochow
+givenname: Glynda
+mail: glynda.rochow@planetexpress.com
+userPassword: Glynda
+ou: flight_crew
+uid: 2131
+ Q==

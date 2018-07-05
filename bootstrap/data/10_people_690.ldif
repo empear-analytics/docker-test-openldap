@@ -1,0 +1,13 @@
+dn: cn=Beaulah+sn=Ruffing,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beaulah Ruffing
+cn: Ruffing
+givenname: Beaulah
+mail: beaulah.ruffing@planetexpress.com
+userPassword: Beaulah
+ou: OtherGroup
+uid: 690
+ Q==

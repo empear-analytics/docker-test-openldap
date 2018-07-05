@@ -1,0 +1,13 @@
+dn: cn=Kaycee+sn=Massanet,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kaycee Massanet
+cn: Massanet
+givenname: Kaycee
+mail: kaycee.massanet@planetexpress.com
+userPassword: Kaycee
+ou: flight_crew
+uid: 5153
+ Q==

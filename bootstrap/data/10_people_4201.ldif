@@ -1,0 +1,13 @@
+dn: cn=Salley+sn=Cazzell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Salley Cazzell
+cn: Cazzell
+givenname: Salley
+mail: salley.cazzell@planetexpress.com
+userPassword: Salley
+ou: admin_staff
+uid: 4201
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jamey+sn=Tackett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamey Tackett
+cn: Tackett
+givenname: Jamey
+mail: jamey.tackett@planetexpress.com
+userPassword: Jamey
+ou: Group5
+uid: 1742
+ Q==

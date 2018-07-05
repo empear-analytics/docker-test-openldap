@@ -1,0 +1,13 @@
+dn: cn=Gonzalo+sn=Zapico,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gonzalo Zapico
+cn: Zapico
+givenname: Gonzalo
+mail: gonzalo.zapico@planetexpress.com
+userPassword: Gonzalo
+ou: Group5
+uid: 5791
+ Q==

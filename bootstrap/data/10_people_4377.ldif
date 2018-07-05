@@ -1,0 +1,13 @@
+dn: cn=Hortense+sn=Yip,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hortense Yip
+cn: Yip
+givenname: Hortense
+mail: hortense.yip@planetexpress.com
+userPassword: Hortense
+ou: OtherGroup
+uid: 4377
+ Q==

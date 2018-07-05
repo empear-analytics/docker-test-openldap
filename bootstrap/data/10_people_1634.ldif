@@ -1,0 +1,13 @@
+dn: cn=Matt+sn=Estronza,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Matt Estronza
+cn: Estronza
+givenname: Matt
+mail: matt.estronza@planetexpress.com
+userPassword: Matt
+ou: flight_crew
+uid: 1634
+ Q==

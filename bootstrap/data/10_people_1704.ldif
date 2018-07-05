@@ -1,0 +1,13 @@
+dn: cn=Sandy+sn=Walson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sandy Walson
+cn: Walson
+givenname: Sandy
+mail: sandy.walson@planetexpress.com
+userPassword: Sandy
+ou: Group5
+uid: 1704
+ Q==

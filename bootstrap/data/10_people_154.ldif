@@ -1,0 +1,13 @@
+dn: cn=Ghislaine+sn=Radej,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ghislaine Radej
+cn: Radej
+givenname: Ghislaine
+mail: ghislaine.radej@planetexpress.com
+userPassword: Ghislaine
+ou: OtherGroup
+uid: 154
+ Q==

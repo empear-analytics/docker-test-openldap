@@ -1,0 +1,13 @@
+dn: cn=Anh+sn=Daisley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anh Daisley
+cn: Daisley
+givenname: Anh
+mail: anh.daisley@planetexpress.com
+userPassword: Anh
+ou: OtherGroup
+uid: 1624
+ Q==

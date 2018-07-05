@@ -1,0 +1,13 @@
+dn: cn=Bethanie+sn=Laios,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bethanie Laios
+cn: Laios
+givenname: Bethanie
+mail: bethanie.laios@planetexpress.com
+userPassword: Bethanie
+ou: admin_staff
+uid: 4961
+ Q==

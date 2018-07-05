@@ -1,0 +1,13 @@
+dn: cn=Lena+sn=Moher,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lena Moher
+cn: Moher
+givenname: Lena
+mail: lena.moher@planetexpress.com
+userPassword: Lena
+ou: OtherGroup
+uid: 5923
+ Q==

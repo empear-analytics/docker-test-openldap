@@ -1,0 +1,13 @@
+dn: cn=Karole+sn=Lamantia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karole Lamantia
+cn: Lamantia
+givenname: Karole
+mail: karole.lamantia@planetexpress.com
+userPassword: Karole
+ou: OtherGroup
+uid: 4551
+ Q==

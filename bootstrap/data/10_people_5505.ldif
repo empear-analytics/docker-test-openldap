@@ -1,0 +1,13 @@
+dn: cn=Louie+sn=Kirby,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Louie Kirby
+cn: Kirby
+givenname: Louie
+mail: louie.kirby@planetexpress.com
+userPassword: Louie
+ou: admin_staff
+uid: 5505
+ Q==

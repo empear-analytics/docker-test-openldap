@@ -1,0 +1,13 @@
+dn: cn=Birdie+sn=Bordeaux,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Birdie Bordeaux
+cn: Bordeaux
+givenname: Birdie
+mail: birdie.bordeaux@planetexpress.com
+userPassword: Birdie
+ou: flight_crew
+uid: 1975
+ Q==

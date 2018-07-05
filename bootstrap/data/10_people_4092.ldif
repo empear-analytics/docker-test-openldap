@@ -1,0 +1,13 @@
+dn: cn=Lavonia+sn=Latona,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lavonia Latona
+cn: Latona
+givenname: Lavonia
+mail: lavonia.latona@planetexpress.com
+userPassword: Lavonia
+ou: OtherGroup
+uid: 4092
+ Q==

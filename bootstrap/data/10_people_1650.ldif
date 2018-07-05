@@ -1,0 +1,13 @@
+dn: cn=Rosaura+sn=Schnur,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosaura Schnur
+cn: Schnur
+givenname: Rosaura
+mail: rosaura.schnur@planetexpress.com
+userPassword: Rosaura
+ou: OtherGroup
+uid: 1650
+ Q==

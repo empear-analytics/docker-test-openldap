@@ -1,0 +1,13 @@
+dn: cn=Shara+sn=Phomphithak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shara Phomphithak
+cn: Phomphithak
+givenname: Shara
+mail: shara.phomphithak@planetexpress.com
+userPassword: Shara
+ou: admin_staff
+uid: 5063
+ Q==

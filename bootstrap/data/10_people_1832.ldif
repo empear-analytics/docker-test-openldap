@@ -1,0 +1,13 @@
+dn: cn=Viva+sn=Balestra,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Viva Balestra
+cn: Balestra
+givenname: Viva
+mail: viva.balestra@planetexpress.com
+userPassword: Viva
+ou: flight_crew
+uid: 1832
+ Q==

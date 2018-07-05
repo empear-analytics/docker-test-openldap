@@ -1,0 +1,13 @@
+dn: cn=Matilde+sn=Cochis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Matilde Cochis
+cn: Cochis
+givenname: Matilde
+mail: matilde.cochis@planetexpress.com
+userPassword: Matilde
+ou: OtherGroup
+uid: 2461
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Niki+sn=Eltringham,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Niki Eltringham
+cn: Eltringham
+givenname: Niki
+mail: niki.eltringham@planetexpress.com
+userPassword: Niki
+ou: Group5
+uid: 989
+ Q==

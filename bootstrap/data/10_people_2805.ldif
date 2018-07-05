@@ -1,0 +1,13 @@
+dn: cn=Anna+sn=Bredemeier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anna Bredemeier
+cn: Bredemeier
+givenname: Anna
+mail: anna.bredemeier@planetexpress.com
+userPassword: Anna
+ou: Group5
+uid: 2805
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Michael+sn=Foard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Michael Foard
+cn: Foard
+givenname: Michael
+mail: michael.foard@planetexpress.com
+userPassword: Michael
+ou: flight_crew
+uid: 1030
+ Q==

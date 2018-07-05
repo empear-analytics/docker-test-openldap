@@ -1,0 +1,13 @@
+dn: cn=Bobbi+sn=Braver,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bobbi Braver
+cn: Braver
+givenname: Bobbi
+mail: bobbi.braver@planetexpress.com
+userPassword: Bobbi
+ou: flight_crew
+uid: 3557
+ Q==

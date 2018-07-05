@@ -1,0 +1,13 @@
+dn: cn=Carri+sn=Bottcher,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carri Bottcher
+cn: Bottcher
+givenname: Carri
+mail: carri.bottcher@planetexpress.com
+userPassword: Carri
+ou: OtherGroup
+uid: 5866
+ Q==

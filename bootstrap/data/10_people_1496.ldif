@@ -1,0 +1,13 @@
+dn: cn=Coreen+sn=Kuehnle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Coreen Kuehnle
+cn: Kuehnle
+givenname: Coreen
+mail: coreen.kuehnle@planetexpress.com
+userPassword: Coreen
+ou: OtherGroup
+uid: 1496
+ Q==

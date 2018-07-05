@@ -1,0 +1,13 @@
+dn: cn=Garry+sn=Atnip,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Garry Atnip
+cn: Atnip
+givenname: Garry
+mail: garry.atnip@planetexpress.com
+userPassword: Garry
+ou: Group5
+uid: 4424
+ Q==

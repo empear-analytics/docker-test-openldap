@@ -1,0 +1,13 @@
+dn: cn=Florence+sn=Rousse,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Florence Rousse
+cn: Rousse
+givenname: Florence
+mail: florence.rousse@planetexpress.com
+userPassword: Florence
+ou: flight_crew
+uid: 3621
+ Q==

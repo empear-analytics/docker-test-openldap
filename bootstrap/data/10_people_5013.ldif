@@ -1,0 +1,13 @@
+dn: cn=Dorthea+sn=Freibert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dorthea Freibert
+cn: Freibert
+givenname: Dorthea
+mail: dorthea.freibert@planetexpress.com
+userPassword: Dorthea
+ou: OtherGroup
+uid: 5013
+ Q==

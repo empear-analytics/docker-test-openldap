@@ -1,0 +1,13 @@
+dn: cn=Tamar+sn=Hymowitz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tamar Hymowitz
+cn: Hymowitz
+givenname: Tamar
+mail: tamar.hymowitz@planetexpress.com
+userPassword: Tamar
+ou: flight_crew
+uid: 5640
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Gladis+sn=Christopherse,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gladis Christopherse
+cn: Christopherse
+givenname: Gladis
+mail: gladis.christopherse@planetexpress.com
+userPassword: Gladis
+ou: Group5
+uid: 1502
+ Q==

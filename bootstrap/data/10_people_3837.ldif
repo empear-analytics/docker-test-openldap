@@ -1,0 +1,13 @@
+dn: cn=Brandi+sn=Glassco,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brandi Glassco
+cn: Glassco
+givenname: Brandi
+mail: brandi.glassco@planetexpress.com
+userPassword: Brandi
+ou: OtherGroup
+uid: 3837
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Nelia+sn=Melser,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nelia Melser
+cn: Melser
+givenname: Nelia
+mail: nelia.melser@planetexpress.com
+userPassword: Nelia
+ou: flight_crew
+uid: 2785
+ Q==

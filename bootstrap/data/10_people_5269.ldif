@@ -1,0 +1,13 @@
+dn: cn=Bernadine+sn=Boven,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bernadine Boven
+cn: Boven
+givenname: Bernadine
+mail: bernadine.boven@planetexpress.com
+userPassword: Bernadine
+ou: flight_crew
+uid: 5269
+ Q==

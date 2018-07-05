@@ -1,0 +1,13 @@
+dn: cn=Benito+sn=Elahi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Benito Elahi
+cn: Elahi
+givenname: Benito
+mail: benito.elahi@planetexpress.com
+userPassword: Benito
+ou: admin_staff
+uid: 2276
+ Q==

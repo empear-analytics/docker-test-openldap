@@ -1,0 +1,13 @@
+dn: cn=Yolando+sn=Towlerton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yolando Towlerton
+cn: Towlerton
+givenname: Yolando
+mail: yolando.towlerton@planetexpress.com
+userPassword: Yolando
+ou: Group5
+uid: 3935
+ Q==

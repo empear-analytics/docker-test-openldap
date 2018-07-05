@@ -1,0 +1,13 @@
+dn: cn=Almeta+sn=Lardner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Almeta Lardner
+cn: Lardner
+givenname: Almeta
+mail: almeta.lardner@planetexpress.com
+userPassword: Almeta
+ou: flight_crew
+uid: 1259
+ Q==

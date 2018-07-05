@@ -1,0 +1,13 @@
+dn: cn=Clarence+sn=Roosa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clarence Roosa
+cn: Roosa
+givenname: Clarence
+mail: clarence.roosa@planetexpress.com
+userPassword: Clarence
+ou: admin_staff
+uid: 1086
+ Q==

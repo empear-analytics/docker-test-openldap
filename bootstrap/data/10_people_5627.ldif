@@ -1,0 +1,13 @@
+dn: cn=Solomon+sn=Gramling,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Solomon Gramling
+cn: Gramling
+givenname: Solomon
+mail: solomon.gramling@planetexpress.com
+userPassword: Solomon
+ou: admin_staff
+uid: 5627
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ethyl+sn=Scheetz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ethyl Scheetz
+cn: Scheetz
+givenname: Ethyl
+mail: ethyl.scheetz@planetexpress.com
+userPassword: Ethyl
+ou: flight_crew
+uid: 5459
+ Q==

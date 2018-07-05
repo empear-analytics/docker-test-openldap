@@ -1,0 +1,13 @@
+dn: cn=Velia+sn=Ozaine,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Velia Ozaine
+cn: Ozaine
+givenname: Velia
+mail: velia.ozaine@planetexpress.com
+userPassword: Velia
+ou: OtherGroup
+uid: 1831
+ Q==

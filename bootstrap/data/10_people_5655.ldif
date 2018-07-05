@@ -1,0 +1,13 @@
+dn: cn=Donnette+sn=Marengo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Donnette Marengo
+cn: Marengo
+givenname: Donnette
+mail: donnette.marengo@planetexpress.com
+userPassword: Donnette
+ou: OtherGroup
+uid: 5655
+ Q==

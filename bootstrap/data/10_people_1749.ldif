@@ -1,0 +1,13 @@
+dn: cn=Marth+sn=Buttimer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marth Buttimer
+cn: Buttimer
+givenname: Marth
+mail: marth.buttimer@planetexpress.com
+userPassword: Marth
+ou: flight_crew
+uid: 1749
+ Q==

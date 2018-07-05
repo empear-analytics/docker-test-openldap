@@ -1,0 +1,13 @@
+dn: cn=Marion+sn=Jacome,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marion Jacome
+cn: Jacome
+givenname: Marion
+mail: marion.jacome@planetexpress.com
+userPassword: Marion
+ou: Group5
+uid: 3273
+ Q==

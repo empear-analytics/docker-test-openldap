@@ -1,0 +1,13 @@
+dn: cn=Lona+sn=Golding,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lona Golding
+cn: Golding
+givenname: Lona
+mail: lona.golding@planetexpress.com
+userPassword: Lona
+ou: Group5
+uid: 4294
+ Q==

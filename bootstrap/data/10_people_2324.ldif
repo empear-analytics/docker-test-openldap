@@ -1,0 +1,13 @@
+dn: cn=Sumiko+sn=Rayburn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sumiko Rayburn
+cn: Rayburn
+givenname: Sumiko
+mail: sumiko.rayburn@planetexpress.com
+userPassword: Sumiko
+ou: admin_staff
+uid: 2324
+ Q==

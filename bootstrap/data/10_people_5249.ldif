@@ -1,0 +1,13 @@
+dn: cn=Ayanna+sn=Wnukowski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ayanna Wnukowski
+cn: Wnukowski
+givenname: Ayanna
+mail: ayanna.wnukowski@planetexpress.com
+userPassword: Ayanna
+ou: flight_crew
+uid: 5249
+ Q==

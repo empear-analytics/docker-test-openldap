@@ -1,0 +1,13 @@
+dn: cn=Bess+sn=Lumpp,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bess Lumpp
+cn: Lumpp
+givenname: Bess
+mail: bess.lumpp@planetexpress.com
+userPassword: Bess
+ou: flight_crew
+uid: 385
+ Q==

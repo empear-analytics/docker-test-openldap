@@ -1,0 +1,13 @@
+dn: cn=Janelle+sn=Tiegs,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janelle Tiegs
+cn: Tiegs
+givenname: Janelle
+mail: janelle.tiegs@planetexpress.com
+userPassword: Janelle
+ou: OtherGroup
+uid: 2947
+ Q==

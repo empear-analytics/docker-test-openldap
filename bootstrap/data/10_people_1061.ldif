@@ -1,0 +1,13 @@
+dn: cn=Agueda+sn=Kourkoumellis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Agueda Kourkoumellis
+cn: Kourkoumellis
+givenname: Agueda
+mail: agueda.kourkoumellis@planetexpress.com
+userPassword: Agueda
+ou: Group5
+uid: 1061
+ Q==

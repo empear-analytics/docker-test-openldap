@@ -1,0 +1,13 @@
+dn: cn=Asuncion+sn=Lotzer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Asuncion Lotzer
+cn: Lotzer
+givenname: Asuncion
+mail: asuncion.lotzer@planetexpress.com
+userPassword: Asuncion
+ou: flight_crew
+uid: 3342
+ Q==

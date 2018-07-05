@@ -1,0 +1,13 @@
+dn: cn=Celeste+sn=Edouard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Celeste Edouard
+cn: Edouard
+givenname: Celeste
+mail: celeste.edouard@planetexpress.com
+userPassword: Celeste
+ou: flight_crew
+uid: 5758
+ Q==

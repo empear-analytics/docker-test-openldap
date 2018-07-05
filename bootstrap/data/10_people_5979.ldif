@@ -1,0 +1,13 @@
+dn: cn=Ashleigh+sn=Claridge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ashleigh Claridge
+cn: Claridge
+givenname: Ashleigh
+mail: ashleigh.claridge@planetexpress.com
+userPassword: Ashleigh
+ou: flight_crew
+uid: 5979
+ Q==

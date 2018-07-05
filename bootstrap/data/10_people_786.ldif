@@ -1,0 +1,13 @@
+dn: cn=Lloyd+sn=Desantigo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lloyd Desantigo
+cn: Desantigo
+givenname: Lloyd
+mail: lloyd.desantigo@planetexpress.com
+userPassword: Lloyd
+ou: flight_crew
+uid: 786
+ Q==

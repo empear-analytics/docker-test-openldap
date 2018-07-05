@@ -1,0 +1,13 @@
+dn: cn=Charley+sn=Swierczek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charley Swierczek
+cn: Swierczek
+givenname: Charley
+mail: charley.swierczek@planetexpress.com
+userPassword: Charley
+ou: Group5
+uid: 5135
+ Q==

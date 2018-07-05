@@ -1,0 +1,13 @@
+dn: cn=Ashely+sn=Lothrop,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ashely Lothrop
+cn: Lothrop
+givenname: Ashely
+mail: ashely.lothrop@planetexpress.com
+userPassword: Ashely
+ou: admin_staff
+uid: 1039
+ Q==

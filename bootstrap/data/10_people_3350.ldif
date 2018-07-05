@@ -1,0 +1,13 @@
+dn: cn=Melaine+sn=Shimonishi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melaine Shimonishi
+cn: Shimonishi
+givenname: Melaine
+mail: melaine.shimonishi@planetexpress.com
+userPassword: Melaine
+ou: admin_staff
+uid: 3350
+ Q==

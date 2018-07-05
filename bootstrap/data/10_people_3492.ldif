@@ -1,0 +1,13 @@
+dn: cn=Gigi+sn=Cackowski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gigi Cackowski
+cn: Cackowski
+givenname: Gigi
+mail: gigi.cackowski@planetexpress.com
+userPassword: Gigi
+ou: Group5
+uid: 3492
+ Q==

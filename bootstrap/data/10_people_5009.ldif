@@ -1,0 +1,13 @@
+dn: cn=Mandy+sn=Volinsky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mandy Volinsky
+cn: Volinsky
+givenname: Mandy
+mail: mandy.volinsky@planetexpress.com
+userPassword: Mandy
+ou: OtherGroup
+uid: 5009
+ Q==

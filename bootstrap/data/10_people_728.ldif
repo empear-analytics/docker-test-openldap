@@ -1,0 +1,13 @@
+dn: cn=Cinderella+sn=Bluming,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cinderella Bluming
+cn: Bluming
+givenname: Cinderella
+mail: cinderella.bluming@planetexpress.com
+userPassword: Cinderella
+ou: Group5
+uid: 728
+ Q==

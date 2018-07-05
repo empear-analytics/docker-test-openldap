@@ -1,0 +1,13 @@
+dn: cn=Alleen+sn=Womer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alleen Womer
+cn: Womer
+givenname: Alleen
+mail: alleen.womer@planetexpress.com
+userPassword: Alleen
+ou: flight_crew
+uid: 1947
+ Q==

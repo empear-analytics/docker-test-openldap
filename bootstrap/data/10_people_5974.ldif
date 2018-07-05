@@ -1,0 +1,13 @@
+dn: cn=Deann+sn=Nuon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deann Nuon
+cn: Nuon
+givenname: Deann
+mail: deann.nuon@planetexpress.com
+userPassword: Deann
+ou: OtherGroup
+uid: 5974
+ Q==

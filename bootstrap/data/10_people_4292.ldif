@@ -1,0 +1,13 @@
+dn: cn=Rosetta+sn=Lachowsky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosetta Lachowsky
+cn: Lachowsky
+givenname: Rosetta
+mail: rosetta.lachowsky@planetexpress.com
+userPassword: Rosetta
+ou: OtherGroup
+uid: 4292
+ Q==

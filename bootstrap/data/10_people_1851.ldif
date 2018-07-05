@@ -1,0 +1,13 @@
+dn: cn=Brian+sn=Culberson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brian Culberson
+cn: Culberson
+givenname: Brian
+mail: brian.culberson@planetexpress.com
+userPassword: Brian
+ou: Group5
+uid: 1851
+ Q==

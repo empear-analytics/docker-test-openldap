@@ -1,0 +1,13 @@
+dn: cn=Margarite+sn=Tercero,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margarite Tercero
+cn: Tercero
+givenname: Margarite
+mail: margarite.tercero@planetexpress.com
+userPassword: Margarite
+ou: OtherGroup
+uid: 1019
+ Q==

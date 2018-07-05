@@ -1,0 +1,13 @@
+dn: cn=Elvira+sn=Hentze,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elvira Hentze
+cn: Hentze
+givenname: Elvira
+mail: elvira.hentze@planetexpress.com
+userPassword: Elvira
+ou: flight_crew
+uid: 5514
+ Q==

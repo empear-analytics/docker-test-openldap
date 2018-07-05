@@ -1,0 +1,13 @@
+dn: cn=Kira+sn=Baken,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kira Baken
+cn: Baken
+givenname: Kira
+mail: kira.baken@planetexpress.com
+userPassword: Kira
+ou: OtherGroup
+uid: 2291
+ Q==

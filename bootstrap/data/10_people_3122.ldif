@@ -1,0 +1,13 @@
+dn: cn=Karren+sn=Sukhram,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karren Sukhram
+cn: Sukhram
+givenname: Karren
+mail: karren.sukhram@planetexpress.com
+userPassword: Karren
+ou: admin_staff
+uid: 3122
+ Q==

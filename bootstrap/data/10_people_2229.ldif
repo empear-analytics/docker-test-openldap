@@ -1,0 +1,13 @@
+dn: cn=Johnny+sn=Nachazel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Johnny Nachazel
+cn: Nachazel
+givenname: Johnny
+mail: johnny.nachazel@planetexpress.com
+userPassword: Johnny
+ou: Group5
+uid: 2229
+ Q==

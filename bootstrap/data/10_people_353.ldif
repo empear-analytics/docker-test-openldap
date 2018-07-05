@@ -1,0 +1,13 @@
+dn: cn=Chadwick+sn=Cuzco,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chadwick Cuzco
+cn: Cuzco
+givenname: Chadwick
+mail: chadwick.cuzco@planetexpress.com
+userPassword: Chadwick
+ou: OtherGroup
+uid: 353
+ Q==

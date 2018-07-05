@@ -1,0 +1,13 @@
+dn: cn=Vera+sn=Lupiani,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vera Lupiani
+cn: Lupiani
+givenname: Vera
+mail: vera.lupiani@planetexpress.com
+userPassword: Vera
+ou: flight_crew
+uid: 2358
+ Q==

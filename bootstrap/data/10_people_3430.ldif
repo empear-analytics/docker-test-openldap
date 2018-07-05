@@ -1,0 +1,13 @@
+dn: cn=Ernestine+sn=Cardamone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ernestine Cardamone
+cn: Cardamone
+givenname: Ernestine
+mail: ernestine.cardamone@planetexpress.com
+userPassword: Ernestine
+ou: OtherGroup
+uid: 3430
+ Q==

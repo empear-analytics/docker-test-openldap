@@ -1,0 +1,13 @@
+dn: cn=Marcia+sn=Resureccion,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marcia Resureccion
+cn: Resureccion
+givenname: Marcia
+mail: marcia.resureccion@planetexpress.com
+userPassword: Marcia
+ou: flight_crew
+uid: 334
+ Q==

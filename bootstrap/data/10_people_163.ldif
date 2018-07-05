@@ -1,0 +1,13 @@
+dn: cn=Zenia+sn=Mccandles,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zenia Mccandles
+cn: Mccandles
+givenname: Zenia
+mail: zenia.mccandles@planetexpress.com
+userPassword: Zenia
+ou: Group5
+uid: 163
+ Q==

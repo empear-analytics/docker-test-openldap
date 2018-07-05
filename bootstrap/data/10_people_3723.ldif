@@ -1,0 +1,13 @@
+dn: cn=Daren+sn=Pisegna,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daren Pisegna
+cn: Pisegna
+givenname: Daren
+mail: daren.pisegna@planetexpress.com
+userPassword: Daren
+ou: admin_staff
+uid: 3723
+ Q==

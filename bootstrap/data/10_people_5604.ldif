@@ -1,0 +1,13 @@
+dn: cn=Cheryl+sn=Linebrink,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cheryl Linebrink
+cn: Linebrink
+givenname: Cheryl
+mail: cheryl.linebrink@planetexpress.com
+userPassword: Cheryl
+ou: admin_staff
+uid: 5604
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ethyl+sn=Armistead,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ethyl Armistead
+cn: Armistead
+givenname: Ethyl
+mail: ethyl.armistead@planetexpress.com
+userPassword: Ethyl
+ou: flight_crew
+uid: 2376
+ Q==

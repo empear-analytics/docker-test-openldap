@@ -1,0 +1,13 @@
+dn: cn=Ivey+sn=Rubenfeld,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ivey Rubenfeld
+cn: Rubenfeld
+givenname: Ivey
+mail: ivey.rubenfeld@planetexpress.com
+userPassword: Ivey
+ou: admin_staff
+uid: 0
+ Q==

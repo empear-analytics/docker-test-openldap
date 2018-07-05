@@ -1,0 +1,13 @@
+dn: cn=Morton+sn=Berke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Morton Berke
+cn: Berke
+givenname: Morton
+mail: morton.berke@planetexpress.com
+userPassword: Morton
+ou: Group5
+uid: 3845
+ Q==

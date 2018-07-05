@@ -1,0 +1,13 @@
+dn: cn=Roy+sn=Rainbolt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roy Rainbolt
+cn: Rainbolt
+givenname: Roy
+mail: roy.rainbolt@planetexpress.com
+userPassword: Roy
+ou: flight_crew
+uid: 740
+ Q==

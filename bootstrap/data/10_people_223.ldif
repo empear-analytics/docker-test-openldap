@@ -1,0 +1,13 @@
+dn: cn=Hannah+sn=Matlack,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hannah Matlack
+cn: Matlack
+givenname: Hannah
+mail: hannah.matlack@planetexpress.com
+userPassword: Hannah
+ou: Group5
+uid: 223
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Carletta+sn=Dyba,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carletta Dyba
+cn: Dyba
+givenname: Carletta
+mail: carletta.dyba@planetexpress.com
+userPassword: Carletta
+ou: flight_crew
+uid: 5561
+ Q==

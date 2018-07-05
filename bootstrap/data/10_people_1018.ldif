@@ -1,0 +1,13 @@
+dn: cn=Janeen+sn=Bullen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janeen Bullen
+cn: Bullen
+givenname: Janeen
+mail: janeen.bullen@planetexpress.com
+userPassword: Janeen
+ou: admin_staff
+uid: 1018
+ Q==

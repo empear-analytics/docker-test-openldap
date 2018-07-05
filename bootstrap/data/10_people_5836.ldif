@@ -1,0 +1,13 @@
+dn: cn=Madie+sn=Kanniard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Madie Kanniard
+cn: Kanniard
+givenname: Madie
+mail: madie.kanniard@planetexpress.com
+userPassword: Madie
+ou: Group5
+uid: 5836
+ Q==

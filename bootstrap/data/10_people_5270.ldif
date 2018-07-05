@@ -1,0 +1,13 @@
+dn: cn=Jule+sn=Pennison,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jule Pennison
+cn: Pennison
+givenname: Jule
+mail: jule.pennison@planetexpress.com
+userPassword: Jule
+ou: OtherGroup
+uid: 5270
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Toshiko+sn=Shapero,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Toshiko Shapero
+cn: Shapero
+givenname: Toshiko
+mail: toshiko.shapero@planetexpress.com
+userPassword: Toshiko
+ou: Group5
+uid: 5558
+ Q==

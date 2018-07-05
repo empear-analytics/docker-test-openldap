@@ -1,0 +1,13 @@
+dn: cn=Athena+sn=Pawlowicz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Athena Pawlowicz
+cn: Pawlowicz
+givenname: Athena
+mail: athena.pawlowicz@planetexpress.com
+userPassword: Athena
+ou: admin_staff
+uid: 5575
+ Q==

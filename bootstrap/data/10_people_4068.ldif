@@ -1,0 +1,13 @@
+dn: cn=Neil+sn=Sweetman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Neil Sweetman
+cn: Sweetman
+givenname: Neil
+mail: neil.sweetman@planetexpress.com
+userPassword: Neil
+ou: flight_crew
+uid: 4068
+ Q==

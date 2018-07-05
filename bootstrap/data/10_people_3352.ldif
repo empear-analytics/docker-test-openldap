@@ -1,0 +1,13 @@
+dn: cn=Carroll+sn=Haakinson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carroll Haakinson
+cn: Haakinson
+givenname: Carroll
+mail: carroll.haakinson@planetexpress.com
+userPassword: Carroll
+ou: flight_crew
+uid: 3352
+ Q==

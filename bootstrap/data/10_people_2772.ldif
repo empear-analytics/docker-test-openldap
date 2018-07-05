@@ -1,0 +1,13 @@
+dn: cn=Micah+sn=Pezzuto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Micah Pezzuto
+cn: Pezzuto
+givenname: Micah
+mail: micah.pezzuto@planetexpress.com
+userPassword: Micah
+ou: flight_crew
+uid: 2772
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Sunday+sn=Fackler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sunday Fackler
+cn: Fackler
+givenname: Sunday
+mail: sunday.fackler@planetexpress.com
+userPassword: Sunday
+ou: admin_staff
+uid: 1122
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lachelle+sn=Sylvestre,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lachelle Sylvestre
+cn: Sylvestre
+givenname: Lachelle
+mail: lachelle.sylvestre@planetexpress.com
+userPassword: Lachelle
+ou: flight_crew
+uid: 2559
+ Q==

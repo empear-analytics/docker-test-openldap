@@ -1,0 +1,13 @@
+dn: cn=Natalia+sn=Popple,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Natalia Popple
+cn: Popple
+givenname: Natalia
+mail: natalia.popple@planetexpress.com
+userPassword: Natalia
+ou: admin_staff
+uid: 2147
+ Q==

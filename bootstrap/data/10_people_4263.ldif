@@ -1,0 +1,13 @@
+dn: cn=Jeremiah+sn=Heckbert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeremiah Heckbert
+cn: Heckbert
+givenname: Jeremiah
+mail: jeremiah.heckbert@planetexpress.com
+userPassword: Jeremiah
+ou: admin_staff
+uid: 4263
+ Q==

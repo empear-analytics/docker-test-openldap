@@ -1,0 +1,13 @@
+dn: cn=Len+sn=Hanahan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Len Hanahan
+cn: Hanahan
+givenname: Len
+mail: len.hanahan@planetexpress.com
+userPassword: Len
+ou: OtherGroup
+uid: 5818
+ Q==

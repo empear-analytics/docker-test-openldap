@@ -1,0 +1,13 @@
+dn: cn=Verda+sn=Lachiatto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Verda Lachiatto
+cn: Lachiatto
+givenname: Verda
+mail: verda.lachiatto@planetexpress.com
+userPassword: Verda
+ou: Group5
+uid: 4242
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Deborah+sn=More,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deborah More
+cn: More
+givenname: Deborah
+mail: deborah.more@planetexpress.com
+userPassword: Deborah
+ou: flight_crew
+uid: 3622
+ Q==

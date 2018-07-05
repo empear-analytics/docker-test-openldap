@@ -1,0 +1,13 @@
+dn: cn=Nicholle+sn=Dargan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nicholle Dargan
+cn: Dargan
+givenname: Nicholle
+mail: nicholle.dargan@planetexpress.com
+userPassword: Nicholle
+ou: flight_crew
+uid: 4298
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Aida+sn=Holdorf,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aida Holdorf
+cn: Holdorf
+givenname: Aida
+mail: aida.holdorf@planetexpress.com
+userPassword: Aida
+ou: flight_crew
+uid: 3793
+ Q==

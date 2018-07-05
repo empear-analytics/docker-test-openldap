@@ -1,0 +1,13 @@
+dn: cn=Laquita+sn=Prestipino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Laquita Prestipino
+cn: Prestipino
+givenname: Laquita
+mail: laquita.prestipino@planetexpress.com
+userPassword: Laquita
+ou: OtherGroup
+uid: 4027
+ Q==

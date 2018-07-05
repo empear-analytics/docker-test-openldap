@@ -1,0 +1,13 @@
+dn: cn=Bettye+sn=Pizza,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bettye Pizza
+cn: Pizza
+givenname: Bettye
+mail: bettye.pizza@planetexpress.com
+userPassword: Bettye
+ou: OtherGroup
+uid: 3198
+ Q==

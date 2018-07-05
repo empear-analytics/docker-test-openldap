@@ -1,0 +1,13 @@
+dn: cn=Christia+sn=Stieber,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christia Stieber
+cn: Stieber
+givenname: Christia
+mail: christia.stieber@planetexpress.com
+userPassword: Christia
+ou: admin_staff
+uid: 733
+ Q==

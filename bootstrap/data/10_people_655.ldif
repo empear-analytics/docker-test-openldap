@@ -1,0 +1,13 @@
+dn: cn=Marhta+sn=Schum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marhta Schum
+cn: Schum
+givenname: Marhta
+mail: marhta.schum@planetexpress.com
+userPassword: Marhta
+ou: admin_staff
+uid: 655
+ Q==

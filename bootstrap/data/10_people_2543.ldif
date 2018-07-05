@@ -1,0 +1,13 @@
+dn: cn=Fred+sn=Opray,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fred Opray
+cn: Opray
+givenname: Fred
+mail: fred.opray@planetexpress.com
+userPassword: Fred
+ou: admin_staff
+uid: 2543
+ Q==

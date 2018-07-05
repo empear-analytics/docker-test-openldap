@@ -1,0 +1,13 @@
+dn: cn=Aurelio+sn=Stjuste,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aurelio Stjuste
+cn: Stjuste
+givenname: Aurelio
+mail: aurelio.stjuste@planetexpress.com
+userPassword: Aurelio
+ou: OtherGroup
+uid: 1875
+ Q==

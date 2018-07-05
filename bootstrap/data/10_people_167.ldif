@@ -1,0 +1,13 @@
+dn: cn=Darleen+sn=Heiliger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darleen Heiliger
+cn: Heiliger
+givenname: Darleen
+mail: darleen.heiliger@planetexpress.com
+userPassword: Darleen
+ou: Group5
+uid: 167
+ Q==

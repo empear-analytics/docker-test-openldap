@@ -1,0 +1,13 @@
+dn: cn=Edmundo+sn=Hemmen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edmundo Hemmen
+cn: Hemmen
+givenname: Edmundo
+mail: edmundo.hemmen@planetexpress.com
+userPassword: Edmundo
+ou: flight_crew
+uid: 3808
+ Q==

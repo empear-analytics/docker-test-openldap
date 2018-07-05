@@ -1,0 +1,13 @@
+dn: cn=Roxanne+sn=Hurry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roxanne Hurry
+cn: Hurry
+givenname: Roxanne
+mail: roxanne.hurry@planetexpress.com
+userPassword: Roxanne
+ou: flight_crew
+uid: 116
+ Q==

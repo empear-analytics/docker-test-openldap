@@ -1,0 +1,13 @@
+dn: cn=Floria+sn=Lupoe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Floria Lupoe
+cn: Lupoe
+givenname: Floria
+mail: floria.lupoe@planetexpress.com
+userPassword: Floria
+ou: flight_crew
+uid: 1844
+ Q==

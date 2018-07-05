@@ -1,0 +1,13 @@
+dn: cn=Willy+sn=Agurs,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Willy Agurs
+cn: Agurs
+givenname: Willy
+mail: willy.agurs@planetexpress.com
+userPassword: Willy
+ou: admin_staff
+uid: 5527
+ Q==

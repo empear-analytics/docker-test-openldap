@@ -1,0 +1,13 @@
+dn: cn=Sarita+sn=Snellenberger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sarita Snellenberger
+cn: Snellenberger
+givenname: Sarita
+mail: sarita.snellenberger@planetexpress.com
+userPassword: Sarita
+ou: flight_crew
+uid: 1134
+ Q==

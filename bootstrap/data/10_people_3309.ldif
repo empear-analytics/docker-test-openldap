@@ -1,0 +1,13 @@
+dn: cn=Jocelyn+sn=Crecelius,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jocelyn Crecelius
+cn: Crecelius
+givenname: Jocelyn
+mail: jocelyn.crecelius@planetexpress.com
+userPassword: Jocelyn
+ou: flight_crew
+uid: 3309
+ Q==

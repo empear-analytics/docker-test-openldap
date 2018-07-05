@@ -1,0 +1,13 @@
+dn: cn=Theresa+sn=Larios,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Theresa Larios
+cn: Larios
+givenname: Theresa
+mail: theresa.larios@planetexpress.com
+userPassword: Theresa
+ou: Group5
+uid: 1262
+ Q==

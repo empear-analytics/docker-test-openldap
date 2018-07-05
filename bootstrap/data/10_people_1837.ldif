@@ -1,0 +1,13 @@
+dn: cn=Loyce+sn=Purdue,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loyce Purdue
+cn: Purdue
+givenname: Loyce
+mail: loyce.purdue@planetexpress.com
+userPassword: Loyce
+ou: OtherGroup
+uid: 1837
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Anh+sn=Vancamp,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anh Vancamp
+cn: Vancamp
+givenname: Anh
+mail: anh.vancamp@planetexpress.com
+userPassword: Anh
+ou: flight_crew
+uid: 3842
+ Q==

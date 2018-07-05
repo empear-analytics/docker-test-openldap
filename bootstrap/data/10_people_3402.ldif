@@ -1,0 +1,13 @@
+dn: cn=Kerri+sn=Wick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kerri Wick
+cn: Wick
+givenname: Kerri
+mail: kerri.wick@planetexpress.com
+userPassword: Kerri
+ou: flight_crew
+uid: 3402
+ Q==

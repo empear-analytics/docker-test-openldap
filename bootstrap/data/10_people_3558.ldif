@@ -1,0 +1,13 @@
+dn: cn=Marvella+sn=Zirbel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marvella Zirbel
+cn: Zirbel
+givenname: Marvella
+mail: marvella.zirbel@planetexpress.com
+userPassword: Marvella
+ou: OtherGroup
+uid: 3558
+ Q==

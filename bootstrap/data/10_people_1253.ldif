@@ -1,0 +1,13 @@
+dn: cn=Missy+sn=Kida,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Missy Kida
+cn: Kida
+givenname: Missy
+mail: missy.kida@planetexpress.com
+userPassword: Missy
+ou: admin_staff
+uid: 1253
+ Q==

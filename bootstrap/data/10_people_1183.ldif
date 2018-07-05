@@ -1,0 +1,13 @@
+dn: cn=Linnie+sn=Nicklow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Linnie Nicklow
+cn: Nicklow
+givenname: Linnie
+mail: linnie.nicklow@planetexpress.com
+userPassword: Linnie
+ou: admin_staff
+uid: 1183
+ Q==

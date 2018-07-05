@@ -1,0 +1,13 @@
+dn: cn=Allison+sn=Rigsbee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Allison Rigsbee
+cn: Rigsbee
+givenname: Allison
+mail: allison.rigsbee@planetexpress.com
+userPassword: Allison
+ou: flight_crew
+uid: 1706
+ Q==

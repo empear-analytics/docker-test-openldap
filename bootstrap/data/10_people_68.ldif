@@ -1,0 +1,13 @@
+dn: cn=Brittani+sn=Plumer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brittani Plumer
+cn: Plumer
+givenname: Brittani
+mail: brittani.plumer@planetexpress.com
+userPassword: Brittani
+ou: admin_staff
+uid: 68
+ Q==

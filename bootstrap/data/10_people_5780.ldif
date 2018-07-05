@@ -1,0 +1,13 @@
+dn: cn=Zetta+sn=Quezergue,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zetta Quezergue
+cn: Quezergue
+givenname: Zetta
+mail: zetta.quezergue@planetexpress.com
+userPassword: Zetta
+ou: admin_staff
+uid: 5780
+ Q==

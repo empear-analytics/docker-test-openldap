@@ -1,0 +1,13 @@
+dn: cn=Luna+sn=Playle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Luna Playle
+cn: Playle
+givenname: Luna
+mail: luna.playle@planetexpress.com
+userPassword: Luna
+ou: admin_staff
+uid: 5708
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Harriett+sn=Eldredge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Harriett Eldredge
+cn: Eldredge
+givenname: Harriett
+mail: harriett.eldredge@planetexpress.com
+userPassword: Harriett
+ou: admin_staff
+uid: 1112
+ Q==

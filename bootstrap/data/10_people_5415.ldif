@@ -1,0 +1,13 @@
+dn: cn=Kina+sn=Statton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kina Statton
+cn: Statton
+givenname: Kina
+mail: kina.statton@planetexpress.com
+userPassword: Kina
+ou: OtherGroup
+uid: 5415
+ Q==

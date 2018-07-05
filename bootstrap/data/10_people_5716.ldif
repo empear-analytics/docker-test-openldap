@@ -1,0 +1,13 @@
+dn: cn=Dorathy+sn=Whitebird,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dorathy Whitebird
+cn: Whitebird
+givenname: Dorathy
+mail: dorathy.whitebird@planetexpress.com
+userPassword: Dorathy
+ou: flight_crew
+uid: 5716
+ Q==

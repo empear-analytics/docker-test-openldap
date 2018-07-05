@@ -1,0 +1,13 @@
+dn: cn=Valerie+sn=Sangi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Valerie Sangi
+cn: Sangi
+givenname: Valerie
+mail: valerie.sangi@planetexpress.com
+userPassword: Valerie
+ou: OtherGroup
+uid: 2874
+ Q==

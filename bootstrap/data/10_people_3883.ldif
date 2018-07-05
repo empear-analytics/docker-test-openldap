@@ -1,0 +1,13 @@
+dn: cn=Thomasena+sn=Mankus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thomasena Mankus
+cn: Mankus
+givenname: Thomasena
+mail: thomasena.mankus@planetexpress.com
+userPassword: Thomasena
+ou: admin_staff
+uid: 3883
+ Q==

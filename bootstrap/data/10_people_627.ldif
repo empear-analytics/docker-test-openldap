@@ -1,0 +1,13 @@
+dn: cn=Maribel+sn=Stencel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maribel Stencel
+cn: Stencel
+givenname: Maribel
+mail: maribel.stencel@planetexpress.com
+userPassword: Maribel
+ou: admin_staff
+uid: 627
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Noe+sn=Scrabeck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Noe Scrabeck
+cn: Scrabeck
+givenname: Noe
+mail: noe.scrabeck@planetexpress.com
+userPassword: Noe
+ou: admin_staff
+uid: 5243
+ Q==

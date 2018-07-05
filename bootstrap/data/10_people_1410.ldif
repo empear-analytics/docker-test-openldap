@@ -1,0 +1,13 @@
+dn: cn=Cherri+sn=Yandell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cherri Yandell
+cn: Yandell
+givenname: Cherri
+mail: cherri.yandell@planetexpress.com
+userPassword: Cherri
+ou: flight_crew
+uid: 1410
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jon+sn=Bussert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jon Bussert
+cn: Bussert
+givenname: Jon
+mail: jon.bussert@planetexpress.com
+userPassword: Jon
+ou: admin_staff
+uid: 4815
+ Q==

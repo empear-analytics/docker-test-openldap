@@ -1,0 +1,13 @@
+dn: cn=Gemma+sn=Zink,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gemma Zink
+cn: Zink
+givenname: Gemma
+mail: gemma.zink@planetexpress.com
+userPassword: Gemma
+ou: Group5
+uid: 233
+ Q==

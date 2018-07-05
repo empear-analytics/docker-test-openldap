@@ -1,0 +1,13 @@
+dn: cn=Wilford+sn=Condon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wilford Condon
+cn: Condon
+givenname: Wilford
+mail: wilford.condon@planetexpress.com
+userPassword: Wilford
+ou: admin_staff
+uid: 5271
+ Q==

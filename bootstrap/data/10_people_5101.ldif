@@ -1,0 +1,13 @@
+dn: cn=Eddie+sn=Kohan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eddie Kohan
+cn: Kohan
+givenname: Eddie
+mail: eddie.kohan@planetexpress.com
+userPassword: Eddie
+ou: Group5
+uid: 5101
+ Q==

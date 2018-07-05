@@ -1,0 +1,13 @@
+dn: cn=Juan+sn=Verwers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Juan Verwers
+cn: Verwers
+givenname: Juan
+mail: juan.verwers@planetexpress.com
+userPassword: Juan
+ou: flight_crew
+uid: 4257
+ Q==

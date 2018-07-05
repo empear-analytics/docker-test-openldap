@@ -1,0 +1,13 @@
+dn: cn=Zelda+sn=Goodacre,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zelda Goodacre
+cn: Goodacre
+givenname: Zelda
+mail: zelda.goodacre@planetexpress.com
+userPassword: Zelda
+ou: flight_crew
+uid: 2985
+ Q==

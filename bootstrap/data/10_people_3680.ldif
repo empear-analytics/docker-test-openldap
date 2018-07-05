@@ -1,0 +1,13 @@
+dn: cn=Malissa+sn=Penovich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Malissa Penovich
+cn: Penovich
+givenname: Malissa
+mail: malissa.penovich@planetexpress.com
+userPassword: Malissa
+ou: admin_staff
+uid: 3680
+ Q==

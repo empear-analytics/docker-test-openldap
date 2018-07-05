@@ -1,0 +1,13 @@
+dn: cn=Shaunna+sn=Chittam,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shaunna Chittam
+cn: Chittam
+givenname: Shaunna
+mail: shaunna.chittam@planetexpress.com
+userPassword: Shaunna
+ou: OtherGroup
+uid: 5890
+ Q==

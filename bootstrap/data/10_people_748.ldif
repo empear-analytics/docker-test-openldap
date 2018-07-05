@@ -1,0 +1,13 @@
+dn: cn=Angelika+sn=Ebling,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelika Ebling
+cn: Ebling
+givenname: Angelika
+mail: angelika.ebling@planetexpress.com
+userPassword: Angelika
+ou: flight_crew
+uid: 748
+ Q==

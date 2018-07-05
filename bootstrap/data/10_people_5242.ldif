@@ -1,0 +1,13 @@
+dn: cn=Ismael+sn=Truss,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ismael Truss
+cn: Truss
+givenname: Ismael
+mail: ismael.truss@planetexpress.com
+userPassword: Ismael
+ou: admin_staff
+uid: 5242
+ Q==

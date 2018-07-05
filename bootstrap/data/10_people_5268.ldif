@@ -1,0 +1,13 @@
+dn: cn=Deja+sn=Hamling,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deja Hamling
+cn: Hamling
+givenname: Deja
+mail: deja.hamling@planetexpress.com
+userPassword: Deja
+ou: Group5
+uid: 5268
+ Q==

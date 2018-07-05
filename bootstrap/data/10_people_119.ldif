@@ -1,0 +1,13 @@
+dn: cn=Dovie+sn=Mcilvenny,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dovie Mcilvenny
+cn: Mcilvenny
+givenname: Dovie
+mail: dovie.mcilvenny@planetexpress.com
+userPassword: Dovie
+ou: admin_staff
+uid: 119
+ Q==

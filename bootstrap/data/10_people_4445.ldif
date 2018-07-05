@@ -1,0 +1,13 @@
+dn: cn=Anitra+sn=Ambeau,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anitra Ambeau
+cn: Ambeau
+givenname: Anitra
+mail: anitra.ambeau@planetexpress.com
+userPassword: Anitra
+ou: flight_crew
+uid: 4445
+ Q==

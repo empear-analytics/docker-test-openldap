@@ -1,0 +1,13 @@
+dn: cn=Marcos+sn=Baray,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marcos Baray
+cn: Baray
+givenname: Marcos
+mail: marcos.baray@planetexpress.com
+userPassword: Marcos
+ou: Group5
+uid: 1739
+ Q==

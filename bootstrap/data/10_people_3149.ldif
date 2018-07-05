@@ -1,0 +1,13 @@
+dn: cn=Harold+sn=Steenwyk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Harold Steenwyk
+cn: Steenwyk
+givenname: Harold
+mail: harold.steenwyk@planetexpress.com
+userPassword: Harold
+ou: Group5
+uid: 3149
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Paris+sn=Ventola,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Paris Ventola
+cn: Ventola
+givenname: Paris
+mail: paris.ventola@planetexpress.com
+userPassword: Paris
+ou: flight_crew
+uid: 442
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Claudie+sn=Shaer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Claudie Shaer
+cn: Shaer
+givenname: Claudie
+mail: claudie.shaer@planetexpress.com
+userPassword: Claudie
+ou: flight_crew
+uid: 782
+ Q==

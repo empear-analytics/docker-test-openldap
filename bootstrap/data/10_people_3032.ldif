@@ -1,0 +1,13 @@
+dn: cn=Era+sn=Sieminski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Era Sieminski
+cn: Sieminski
+givenname: Era
+mail: era.sieminski@planetexpress.com
+userPassword: Era
+ou: admin_staff
+uid: 3032
+ Q==

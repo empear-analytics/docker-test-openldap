@@ -1,0 +1,13 @@
+dn: cn=Carlena+sn=Marner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carlena Marner
+cn: Marner
+givenname: Carlena
+mail: carlena.marner@planetexpress.com
+userPassword: Carlena
+ou: OtherGroup
+uid: 678
+ Q==

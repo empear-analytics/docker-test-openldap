@@ -1,0 +1,13 @@
+dn: cn=Zoila+sn=Reznicek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zoila Reznicek
+cn: Reznicek
+givenname: Zoila
+mail: zoila.reznicek@planetexpress.com
+userPassword: Zoila
+ou: OtherGroup
+uid: 5528
+ Q==

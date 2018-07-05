@@ -1,0 +1,13 @@
+dn: cn=Keren+sn=Christal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keren Christal
+cn: Christal
+givenname: Keren
+mail: keren.christal@planetexpress.com
+userPassword: Keren
+ou: admin_staff
+uid: 2678
+ Q==

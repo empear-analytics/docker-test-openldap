@@ -1,0 +1,13 @@
+dn: cn=Zena+sn=Mouw,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zena Mouw
+cn: Mouw
+givenname: Zena
+mail: zena.mouw@planetexpress.com
+userPassword: Zena
+ou: admin_staff
+uid: 4920
+ Q==

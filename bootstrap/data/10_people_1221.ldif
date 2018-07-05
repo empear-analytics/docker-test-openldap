@@ -1,0 +1,13 @@
+dn: cn=Genoveva+sn=Maglaras,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Genoveva Maglaras
+cn: Maglaras
+givenname: Genoveva
+mail: genoveva.maglaras@planetexpress.com
+userPassword: Genoveva
+ou: flight_crew
+uid: 1221
+ Q==

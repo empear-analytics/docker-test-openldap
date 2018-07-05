@@ -1,0 +1,13 @@
+dn: cn=Kami+sn=Sleppy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kami Sleppy
+cn: Sleppy
+givenname: Kami
+mail: kami.sleppy@planetexpress.com
+userPassword: Kami
+ou: OtherGroup
+uid: 4324
+ Q==

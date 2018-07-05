@@ -1,0 +1,13 @@
+dn: cn=Madelyn+sn=Salasar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Madelyn Salasar
+cn: Salasar
+givenname: Madelyn
+mail: madelyn.salasar@planetexpress.com
+userPassword: Madelyn
+ou: Group5
+uid: 2538
+ Q==

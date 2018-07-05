@@ -1,0 +1,13 @@
+dn: cn=Karry+sn=Debord,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karry Debord
+cn: Debord
+givenname: Karry
+mail: karry.debord@planetexpress.com
+userPassword: Karry
+ou: admin_staff
+uid: 1883
+ Q==

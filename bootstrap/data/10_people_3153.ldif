@@ -1,0 +1,13 @@
+dn: cn=Rosaria+sn=Goodley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosaria Goodley
+cn: Goodley
+givenname: Rosaria
+mail: rosaria.goodley@planetexpress.com
+userPassword: Rosaria
+ou: OtherGroup
+uid: 3153
+ Q==

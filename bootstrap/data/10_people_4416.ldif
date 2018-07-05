@@ -1,0 +1,13 @@
+dn: cn=Shondra+sn=Davila,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shondra Davila
+cn: Davila
+givenname: Shondra
+mail: shondra.davila@planetexpress.com
+userPassword: Shondra
+ou: Group5
+uid: 4416
+ Q==

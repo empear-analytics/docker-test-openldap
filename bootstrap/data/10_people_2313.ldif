@@ -1,0 +1,13 @@
+dn: cn=Kristy+sn=Damas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kristy Damas
+cn: Damas
+givenname: Kristy
+mail: kristy.damas@planetexpress.com
+userPassword: Kristy
+ou: admin_staff
+uid: 2313
+ Q==

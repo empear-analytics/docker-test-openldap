@@ -1,0 +1,13 @@
+dn: cn=Cathey+sn=Draft,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cathey Draft
+cn: Draft
+givenname: Cathey
+mail: cathey.draft@planetexpress.com
+userPassword: Cathey
+ou: Group5
+uid: 4069
+ Q==

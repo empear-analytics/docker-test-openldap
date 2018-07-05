@@ -1,0 +1,13 @@
+dn: cn=Daysi+sn=Medearis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daysi Medearis
+cn: Medearis
+givenname: Daysi
+mail: daysi.medearis@planetexpress.com
+userPassword: Daysi
+ou: admin_staff
+uid: 2228
+ Q==

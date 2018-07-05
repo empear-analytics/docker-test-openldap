@@ -1,0 +1,13 @@
+dn: cn=Harold+sn=Marines,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Harold Marines
+cn: Marines
+givenname: Harold
+mail: harold.marines@planetexpress.com
+userPassword: Harold
+ou: flight_crew
+uid: 1971
+ Q==

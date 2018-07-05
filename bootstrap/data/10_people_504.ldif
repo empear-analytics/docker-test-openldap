@@ -1,0 +1,13 @@
+dn: cn=Signe+sn=Irving,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Signe Irving
+cn: Irving
+givenname: Signe
+mail: signe.irving@planetexpress.com
+userPassword: Signe
+ou: admin_staff
+uid: 504
+ Q==

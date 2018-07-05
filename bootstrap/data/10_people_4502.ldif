@@ -1,0 +1,13 @@
+dn: cn=Shalonda+sn=Barne,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shalonda Barne
+cn: Barne
+givenname: Shalonda
+mail: shalonda.barne@planetexpress.com
+userPassword: Shalonda
+ou: admin_staff
+uid: 4502
+ Q==

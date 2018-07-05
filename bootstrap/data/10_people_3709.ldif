@@ -1,0 +1,13 @@
+dn: cn=Elvis+sn=Montalbo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elvis Montalbo
+cn: Montalbo
+givenname: Elvis
+mail: elvis.montalbo@planetexpress.com
+userPassword: Elvis
+ou: flight_crew
+uid: 3709
+ Q==

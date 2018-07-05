@@ -1,0 +1,13 @@
+dn: cn=Gennie+sn=Yarris,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gennie Yarris
+cn: Yarris
+givenname: Gennie
+mail: gennie.yarris@planetexpress.com
+userPassword: Gennie
+ou: admin_staff
+uid: 66
+ Q==

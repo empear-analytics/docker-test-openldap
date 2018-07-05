@@ -1,0 +1,13 @@
+dn: cn=Collen+sn=Pasqualetti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Collen Pasqualetti
+cn: Pasqualetti
+givenname: Collen
+mail: collen.pasqualetti@planetexpress.com
+userPassword: Collen
+ou: flight_crew
+uid: 897
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ora+sn=Zelasco,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ora Zelasco
+cn: Zelasco
+givenname: Ora
+mail: ora.zelasco@planetexpress.com
+userPassword: Ora
+ou: OtherGroup
+uid: 4345
+ Q==

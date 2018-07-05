@@ -1,0 +1,13 @@
+dn: cn=Vesta+sn=Mazikowski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vesta Mazikowski
+cn: Mazikowski
+givenname: Vesta
+mail: vesta.mazikowski@planetexpress.com
+userPassword: Vesta
+ou: Group5
+uid: 1167
+ Q==

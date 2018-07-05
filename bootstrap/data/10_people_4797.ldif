@@ -1,0 +1,13 @@
+dn: cn=Nicole+sn=Smolinsky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nicole Smolinsky
+cn: Smolinsky
+givenname: Nicole
+mail: nicole.smolinsky@planetexpress.com
+userPassword: Nicole
+ou: flight_crew
+uid: 4797
+ Q==

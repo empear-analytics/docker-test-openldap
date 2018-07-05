@@ -1,0 +1,13 @@
+dn: cn=Antonietta+sn=Capanna,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Antonietta Capanna
+cn: Capanna
+givenname: Antonietta
+mail: antonietta.capanna@planetexpress.com
+userPassword: Antonietta
+ou: flight_crew
+uid: 5837
+ Q==

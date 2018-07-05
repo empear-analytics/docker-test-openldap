@@ -1,0 +1,13 @@
+dn: cn=Margy+sn=Hartis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margy Hartis
+cn: Hartis
+givenname: Margy
+mail: margy.hartis@planetexpress.com
+userPassword: Margy
+ou: Group5
+uid: 4574
+ Q==

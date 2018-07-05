@@ -1,0 +1,13 @@
+dn: cn=Terina+sn=Feddersen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Terina Feddersen
+cn: Feddersen
+givenname: Terina
+mail: terina.feddersen@planetexpress.com
+userPassword: Terina
+ou: flight_crew
+uid: 1702
+ Q==

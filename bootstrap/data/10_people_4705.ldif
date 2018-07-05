@@ -1,0 +1,13 @@
+dn: cn=Sabina+sn=Brockwell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sabina Brockwell
+cn: Brockwell
+givenname: Sabina
+mail: sabina.brockwell@planetexpress.com
+userPassword: Sabina
+ou: Group5
+uid: 4705
+ Q==

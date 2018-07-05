@@ -1,0 +1,13 @@
+dn: cn=Marcella+sn=Heeralall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marcella Heeralall
+cn: Heeralall
+givenname: Marcella
+mail: marcella.heeralall@planetexpress.com
+userPassword: Marcella
+ou: Group5
+uid: 5050
+ Q==

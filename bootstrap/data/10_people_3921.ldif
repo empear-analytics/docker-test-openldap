@@ -1,0 +1,13 @@
+dn: cn=Bee+sn=Smathers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bee Smathers
+cn: Smathers
+givenname: Bee
+mail: bee.smathers@planetexpress.com
+userPassword: Bee
+ou: Group5
+uid: 3921
+ Q==

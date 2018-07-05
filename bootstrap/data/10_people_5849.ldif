@@ -1,0 +1,13 @@
+dn: cn=Carl+sn=Larmett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carl Larmett
+cn: Larmett
+givenname: Carl
+mail: carl.larmett@planetexpress.com
+userPassword: Carl
+ou: Group5
+uid: 5849
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Gail+sn=Robinett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gail Robinett
+cn: Robinett
+givenname: Gail
+mail: gail.robinett@planetexpress.com
+userPassword: Gail
+ou: OtherGroup
+uid: 5600
+ Q==

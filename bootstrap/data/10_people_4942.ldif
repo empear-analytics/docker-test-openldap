@@ -1,0 +1,13 @@
+dn: cn=Edda+sn=Mckibbin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edda Mckibbin
+cn: Mckibbin
+givenname: Edda
+mail: edda.mckibbin@planetexpress.com
+userPassword: Edda
+ou: Group5
+uid: 4942
+ Q==

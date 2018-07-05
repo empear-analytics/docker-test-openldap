@@ -1,0 +1,13 @@
+dn: cn=Dacia+sn=Beddingfield,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dacia Beddingfield
+cn: Beddingfield
+givenname: Dacia
+mail: dacia.beddingfield@planetexpress.com
+userPassword: Dacia
+ou: OtherGroup
+uid: 3148
+ Q==

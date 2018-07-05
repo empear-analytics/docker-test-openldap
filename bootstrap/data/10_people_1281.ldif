@@ -1,0 +1,13 @@
+dn: cn=Robt+sn=Mildren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Robt Mildren
+cn: Mildren
+givenname: Robt
+mail: robt.mildren@planetexpress.com
+userPassword: Robt
+ou: flight_crew
+uid: 1281
+ Q==

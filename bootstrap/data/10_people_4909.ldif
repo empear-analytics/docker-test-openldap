@@ -1,0 +1,13 @@
+dn: cn=Louie+sn=Dluhy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Louie Dluhy
+cn: Dluhy
+givenname: Louie
+mail: louie.dluhy@planetexpress.com
+userPassword: Louie
+ou: Group5
+uid: 4909
+ Q==

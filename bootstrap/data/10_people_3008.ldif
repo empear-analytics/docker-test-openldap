@@ -1,0 +1,13 @@
+dn: cn=Tiffany+sn=Mcmaken,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tiffany Mcmaken
+cn: Mcmaken
+givenname: Tiffany
+mail: tiffany.mcmaken@planetexpress.com
+userPassword: Tiffany
+ou: Group5
+uid: 3008
+ Q==

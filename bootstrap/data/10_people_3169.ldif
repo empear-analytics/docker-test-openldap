@@ -1,0 +1,13 @@
+dn: cn=Lakeshia+sn=Pagani,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lakeshia Pagani
+cn: Pagani
+givenname: Lakeshia
+mail: lakeshia.pagani@planetexpress.com
+userPassword: Lakeshia
+ou: OtherGroup
+uid: 3169
+ Q==

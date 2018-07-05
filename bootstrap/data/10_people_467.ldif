@@ -1,0 +1,13 @@
+dn: cn=Asley+sn=Gomora,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Asley Gomora
+cn: Gomora
+givenname: Asley
+mail: asley.gomora@planetexpress.com
+userPassword: Asley
+ou: OtherGroup
+uid: 467
+ Q==

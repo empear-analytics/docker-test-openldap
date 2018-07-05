@@ -1,0 +1,13 @@
+dn: cn=Alva+sn=Devillier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alva Devillier
+cn: Devillier
+givenname: Alva
+mail: alva.devillier@planetexpress.com
+userPassword: Alva
+ou: flight_crew
+uid: 350
+ Q==

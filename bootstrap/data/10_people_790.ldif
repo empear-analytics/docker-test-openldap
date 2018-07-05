@@ -1,0 +1,13 @@
+dn: cn=Oretha+sn=Mulkin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Oretha Mulkin
+cn: Mulkin
+givenname: Oretha
+mail: oretha.mulkin@planetexpress.com
+userPassword: Oretha
+ou: OtherGroup
+uid: 790
+ Q==

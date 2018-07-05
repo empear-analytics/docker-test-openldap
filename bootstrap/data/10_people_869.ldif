@@ -1,0 +1,13 @@
+dn: cn=Shanell+sn=Cha,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shanell Cha
+cn: Cha
+givenname: Shanell
+mail: shanell.cha@planetexpress.com
+userPassword: Shanell
+ou: flight_crew
+uid: 869
+ Q==

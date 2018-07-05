@@ -1,0 +1,13 @@
+dn: cn=Guillermina+sn=Emslander,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Guillermina Emslander
+cn: Emslander
+givenname: Guillermina
+mail: guillermina.emslander@planetexpress.com
+userPassword: Guillermina
+ou: admin_staff
+uid: 4048
+ Q==

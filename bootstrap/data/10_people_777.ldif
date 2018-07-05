@@ -1,0 +1,13 @@
+dn: cn=Nila+sn=Shadle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nila Shadle
+cn: Shadle
+givenname: Nila
+mail: nila.shadle@planetexpress.com
+userPassword: Nila
+ou: OtherGroup
+uid: 777
+ Q==

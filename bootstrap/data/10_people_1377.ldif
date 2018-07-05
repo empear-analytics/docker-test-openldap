@@ -1,0 +1,13 @@
+dn: cn=Bette+sn=Chesson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bette Chesson
+cn: Chesson
+givenname: Bette
+mail: bette.chesson@planetexpress.com
+userPassword: Bette
+ou: admin_staff
+uid: 1377
+ Q==

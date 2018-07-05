@@ -1,0 +1,13 @@
+dn: cn=Davina+sn=Kolar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Davina Kolar
+cn: Kolar
+givenname: Davina
+mail: davina.kolar@planetexpress.com
+userPassword: Davina
+ou: admin_staff
+uid: 3403
+ Q==

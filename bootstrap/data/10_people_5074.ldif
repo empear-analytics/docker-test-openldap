@@ -1,0 +1,13 @@
+dn: cn=Karyn+sn=Grein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karyn Grein
+cn: Grein
+givenname: Karyn
+mail: karyn.grein@planetexpress.com
+userPassword: Karyn
+ou: admin_staff
+uid: 5074
+ Q==

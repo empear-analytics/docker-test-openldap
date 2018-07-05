@@ -1,0 +1,13 @@
+dn: cn=Trey+sn=Sachez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Trey Sachez
+cn: Sachez
+givenname: Trey
+mail: trey.sachez@planetexpress.com
+userPassword: Trey
+ou: OtherGroup
+uid: 3706
+ Q==

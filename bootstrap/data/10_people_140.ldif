@@ -1,0 +1,13 @@
+dn: cn=Trisha+sn=Coles,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Trisha Coles
+cn: Coles
+givenname: Trisha
+mail: trisha.coles@planetexpress.com
+userPassword: Trisha
+ou: Group5
+uid: 140
+ Q==

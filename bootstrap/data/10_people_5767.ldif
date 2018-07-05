@@ -1,0 +1,13 @@
+dn: cn=Neville+sn=Jowett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Neville Jowett
+cn: Jowett
+givenname: Neville
+mail: neville.jowett@planetexpress.com
+userPassword: Neville
+ou: flight_crew
+uid: 5767
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Samatha+sn=Breiten,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Samatha Breiten
+cn: Breiten
+givenname: Samatha
+mail: samatha.breiten@planetexpress.com
+userPassword: Samatha
+ou: admin_staff
+uid: 1205
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Candie+sn=Tucknott,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Candie Tucknott
+cn: Tucknott
+givenname: Candie
+mail: candie.tucknott@planetexpress.com
+userPassword: Candie
+ou: OtherGroup
+uid: 3263
+ Q==

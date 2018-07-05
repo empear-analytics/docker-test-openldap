@@ -1,0 +1,13 @@
+dn: cn=Andrew+sn=Sciara,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andrew Sciara
+cn: Sciara
+givenname: Andrew
+mail: andrew.sciara@planetexpress.com
+userPassword: Andrew
+ou: flight_crew
+uid: 3240
+ Q==

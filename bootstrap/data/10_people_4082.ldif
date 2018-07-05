@@ -1,0 +1,13 @@
+dn: cn=Vincent+sn=Lichte,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vincent Lichte
+cn: Lichte
+givenname: Vincent
+mail: vincent.lichte@planetexpress.com
+userPassword: Vincent
+ou: admin_staff
+uid: 4082
+ Q==

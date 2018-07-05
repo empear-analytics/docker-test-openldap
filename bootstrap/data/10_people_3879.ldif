@@ -1,0 +1,13 @@
+dn: cn=Judy+sn=Niggemann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Judy Niggemann
+cn: Niggemann
+givenname: Judy
+mail: judy.niggemann@planetexpress.com
+userPassword: Judy
+ou: OtherGroup
+uid: 3879
+ Q==

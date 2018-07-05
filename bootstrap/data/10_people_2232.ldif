@@ -1,0 +1,13 @@
+dn: cn=Donald+sn=Galvez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Donald Galvez
+cn: Galvez
+givenname: Donald
+mail: donald.galvez@planetexpress.com
+userPassword: Donald
+ou: OtherGroup
+uid: 2232
+ Q==

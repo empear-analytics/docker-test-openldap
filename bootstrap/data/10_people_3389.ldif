@@ -1,0 +1,13 @@
+dn: cn=Lakita+sn=Rykaczewski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lakita Rykaczewski
+cn: Rykaczewski
+givenname: Lakita
+mail: lakita.rykaczewski@planetexpress.com
+userPassword: Lakita
+ou: OtherGroup
+uid: 3389
+ Q==

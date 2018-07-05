@@ -1,0 +1,13 @@
+dn: cn=Angelo+sn=Reano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelo Reano
+cn: Reano
+givenname: Angelo
+mail: angelo.reano@planetexpress.com
+userPassword: Angelo
+ou: OtherGroup
+uid: 2079
+ Q==

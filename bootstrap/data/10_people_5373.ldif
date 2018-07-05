@@ -1,0 +1,13 @@
+dn: cn=Alona+sn=Prial,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alona Prial
+cn: Prial
+givenname: Alona
+mail: alona.prial@planetexpress.com
+userPassword: Alona
+ou: OtherGroup
+uid: 5373
+ Q==

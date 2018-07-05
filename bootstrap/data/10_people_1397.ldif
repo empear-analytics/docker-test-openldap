@@ -1,0 +1,13 @@
+dn: cn=Gertrude+sn=Mehr,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gertrude Mehr
+cn: Mehr
+givenname: Gertrude
+mail: gertrude.mehr@planetexpress.com
+userPassword: Gertrude
+ou: OtherGroup
+uid: 1397
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Adelia+sn=Buhlig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adelia Buhlig
+cn: Buhlig
+givenname: Adelia
+mail: adelia.buhlig@planetexpress.com
+userPassword: Adelia
+ou: Group5
+uid: 3332
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Afton+sn=Jerone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Afton Jerone
+cn: Jerone
+givenname: Afton
+mail: afton.jerone@planetexpress.com
+userPassword: Afton
+ou: Group5
+uid: 315
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Marilynn+sn=Hoseck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marilynn Hoseck
+cn: Hoseck
+givenname: Marilynn
+mail: marilynn.hoseck@planetexpress.com
+userPassword: Marilynn
+ou: admin_staff
+uid: 236
+ Q==

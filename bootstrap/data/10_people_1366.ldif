@@ -1,0 +1,13 @@
+dn: cn=Kati+sn=Fichtner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kati Fichtner
+cn: Fichtner
+givenname: Kati
+mail: kati.fichtner@planetexpress.com
+userPassword: Kati
+ou: OtherGroup
+uid: 1366
+ Q==

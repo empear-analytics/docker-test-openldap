@@ -1,0 +1,13 @@
+dn: cn=Angeles+sn=Gaubert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angeles Gaubert
+cn: Gaubert
+givenname: Angeles
+mail: angeles.gaubert@planetexpress.com
+userPassword: Angeles
+ou: admin_staff
+uid: 5703
+ Q==

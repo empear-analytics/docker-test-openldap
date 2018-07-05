@@ -1,0 +1,13 @@
+dn: cn=Beatrice+sn=Hershkowitz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beatrice Hershkowitz
+cn: Hershkowitz
+givenname: Beatrice
+mail: beatrice.hershkowitz@planetexpress.com
+userPassword: Beatrice
+ou: admin_staff
+uid: 5235
+ Q==

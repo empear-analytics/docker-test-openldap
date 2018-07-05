@@ -1,0 +1,13 @@
+dn: cn=Felecia+sn=Wanko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Felecia Wanko
+cn: Wanko
+givenname: Felecia
+mail: felecia.wanko@planetexpress.com
+userPassword: Felecia
+ou: OtherGroup
+uid: 5420
+ Q==

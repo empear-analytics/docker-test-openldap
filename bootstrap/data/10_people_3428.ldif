@@ -1,0 +1,13 @@
+dn: cn=Vivan+sn=Piluso,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vivan Piluso
+cn: Piluso
+givenname: Vivan
+mail: vivan.piluso@planetexpress.com
+userPassword: Vivan
+ou: Group5
+uid: 3428
+ Q==

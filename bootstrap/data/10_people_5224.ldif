@@ -1,0 +1,13 @@
+dn: cn=Kathrine+sn=Swigert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kathrine Swigert
+cn: Swigert
+givenname: Kathrine
+mail: kathrine.swigert@planetexpress.com
+userPassword: Kathrine
+ou: admin_staff
+uid: 5224
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Shirlene+sn=Woodfork,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shirlene Woodfork
+cn: Woodfork
+givenname: Shirlene
+mail: shirlene.woodfork@planetexpress.com
+userPassword: Shirlene
+ou: admin_staff
+uid: 2815
+ Q==

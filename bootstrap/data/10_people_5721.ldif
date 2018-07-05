@@ -1,0 +1,13 @@
+dn: cn=Paul+sn=Hack,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Paul Hack
+cn: Hack
+givenname: Paul
+mail: paul.hack@planetexpress.com
+userPassword: Paul
+ou: flight_crew
+uid: 5721
+ Q==

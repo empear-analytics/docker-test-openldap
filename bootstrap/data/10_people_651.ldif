@@ -1,0 +1,13 @@
+dn: cn=Neva+sn=People,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Neva People
+cn: People
+givenname: Neva
+mail: neva.people@planetexpress.com
+userPassword: Neva
+ou: admin_staff
+uid: 651
+ Q==

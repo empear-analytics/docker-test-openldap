@@ -1,0 +1,13 @@
+dn: cn=Jalisa+sn=Handrick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jalisa Handrick
+cn: Handrick
+givenname: Jalisa
+mail: jalisa.handrick@planetexpress.com
+userPassword: Jalisa
+ou: admin_staff
+uid: 852
+ Q==

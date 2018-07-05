@@ -1,0 +1,13 @@
+dn: cn=Lovella+sn=Cocco,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lovella Cocco
+cn: Cocco
+givenname: Lovella
+mail: lovella.cocco@planetexpress.com
+userPassword: Lovella
+ou: flight_crew
+uid: 2309
+ Q==

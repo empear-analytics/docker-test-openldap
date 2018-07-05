@@ -1,0 +1,13 @@
+dn: cn=Aileen+sn=Purtlebaugh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aileen Purtlebaugh
+cn: Purtlebaugh
+givenname: Aileen
+mail: aileen.purtlebaugh@planetexpress.com
+userPassword: Aileen
+ou: OtherGroup
+uid: 3030
+ Q==

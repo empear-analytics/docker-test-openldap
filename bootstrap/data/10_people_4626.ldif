@@ -1,0 +1,13 @@
+dn: cn=Santana+sn=Reinstein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Santana Reinstein
+cn: Reinstein
+givenname: Santana
+mail: santana.reinstein@planetexpress.com
+userPassword: Santana
+ou: OtherGroup
+uid: 4626
+ Q==

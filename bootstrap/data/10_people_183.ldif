@@ -1,0 +1,13 @@
+dn: cn=Doloris+sn=Datil,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Doloris Datil
+cn: Datil
+givenname: Doloris
+mail: doloris.datil@planetexpress.com
+userPassword: Doloris
+ou: flight_crew
+uid: 183
+ Q==

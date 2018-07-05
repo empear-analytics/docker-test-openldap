@@ -1,0 +1,13 @@
+dn: cn=Christena+sn=Holdcraft,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christena Holdcraft
+cn: Holdcraft
+givenname: Christena
+mail: christena.holdcraft@planetexpress.com
+userPassword: Christena
+ou: admin_staff
+uid: 65
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Leona+sn=Thorton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leona Thorton
+cn: Thorton
+givenname: Leona
+mail: leona.thorton@planetexpress.com
+userPassword: Leona
+ou: admin_staff
+uid: 4107
+ Q==

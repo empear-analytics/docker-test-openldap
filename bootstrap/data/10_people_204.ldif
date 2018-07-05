@@ -1,0 +1,13 @@
+dn: cn=Darcey+sn=Garing,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darcey Garing
+cn: Garing
+givenname: Darcey
+mail: darcey.garing@planetexpress.com
+userPassword: Darcey
+ou: flight_crew
+uid: 204
+ Q==

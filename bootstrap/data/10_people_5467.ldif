@@ -1,0 +1,13 @@
+dn: cn=Ranae+sn=Bagdon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ranae Bagdon
+cn: Bagdon
+givenname: Ranae
+mail: ranae.bagdon@planetexpress.com
+userPassword: Ranae
+ou: flight_crew
+uid: 5467
+ Q==

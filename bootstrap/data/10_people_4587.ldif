@@ -1,0 +1,13 @@
+dn: cn=Nohemi+sn=Kyzer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nohemi Kyzer
+cn: Kyzer
+givenname: Nohemi
+mail: nohemi.kyzer@planetexpress.com
+userPassword: Nohemi
+ou: flight_crew
+uid: 4587
+ Q==

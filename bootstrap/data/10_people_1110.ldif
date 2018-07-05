@@ -1,0 +1,13 @@
+dn: cn=Ramona+sn=Williston,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ramona Williston
+cn: Williston
+givenname: Ramona
+mail: ramona.williston@planetexpress.com
+userPassword: Ramona
+ou: Group5
+uid: 1110
+ Q==

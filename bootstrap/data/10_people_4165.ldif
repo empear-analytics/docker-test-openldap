@@ -1,0 +1,13 @@
+dn: cn=Luisa+sn=Stania,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Luisa Stania
+cn: Stania
+givenname: Luisa
+mail: luisa.stania@planetexpress.com
+userPassword: Luisa
+ou: Group5
+uid: 4165
+ Q==

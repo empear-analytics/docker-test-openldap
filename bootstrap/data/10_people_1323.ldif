@@ -1,0 +1,13 @@
+dn: cn=Laverna+sn=Oestreich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Laverna Oestreich
+cn: Oestreich
+givenname: Laverna
+mail: laverna.oestreich@planetexpress.com
+userPassword: Laverna
+ou: Group5
+uid: 1323
+ Q==

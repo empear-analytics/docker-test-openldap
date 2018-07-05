@@ -1,0 +1,13 @@
+dn: cn=Georgetta+sn=Berther,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Georgetta Berther
+cn: Berther
+givenname: Georgetta
+mail: georgetta.berther@planetexpress.com
+userPassword: Georgetta
+ou: OtherGroup
+uid: 1189
+ Q==

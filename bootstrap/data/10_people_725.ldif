@@ -1,0 +1,13 @@
+dn: cn=Avery+sn=Gochenour,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Avery Gochenour
+cn: Gochenour
+givenname: Avery
+mail: avery.gochenour@planetexpress.com
+userPassword: Avery
+ou: flight_crew
+uid: 725
+ Q==

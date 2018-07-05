@@ -1,0 +1,13 @@
+dn: cn=Kimberlie+sn=Glotzbach,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kimberlie Glotzbach
+cn: Glotzbach
+givenname: Kimberlie
+mail: kimberlie.glotzbach@planetexpress.com
+userPassword: Kimberlie
+ou: admin_staff
+uid: 4751
+ Q==

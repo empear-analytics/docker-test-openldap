@@ -1,0 +1,13 @@
+dn: cn=Kristeen+sn=Linn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kristeen Linn
+cn: Linn
+givenname: Kristeen
+mail: kristeen.linn@planetexpress.com
+userPassword: Kristeen
+ou: flight_crew
+uid: 313
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Mike+sn=Kresha,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mike Kresha
+cn: Kresha
+givenname: Mike
+mail: mike.kresha@planetexpress.com
+userPassword: Mike
+ou: Group5
+uid: 283
+ Q==

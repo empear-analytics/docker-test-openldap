@@ -1,0 +1,13 @@
+dn: cn=Miriam+sn=Scullawl,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Miriam Scullawl
+cn: Scullawl
+givenname: Miriam
+mail: miriam.scullawl@planetexpress.com
+userPassword: Miriam
+ou: Group5
+uid: 438
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Glady+sn=Latulippe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Glady Latulippe
+cn: Latulippe
+givenname: Glady
+mail: glady.latulippe@planetexpress.com
+userPassword: Glady
+ou: Group5
+uid: 1316
+ Q==

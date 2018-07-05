@@ -1,0 +1,13 @@
+dn: cn=Rufus+sn=Mccann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rufus Mccann
+cn: Mccann
+givenname: Rufus
+mail: rufus.mccann@planetexpress.com
+userPassword: Rufus
+ou: flight_crew
+uid: 4281
+ Q==

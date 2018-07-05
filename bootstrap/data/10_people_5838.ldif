@@ -1,0 +1,13 @@
+dn: cn=Camie+sn=Takeshita,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Camie Takeshita
+cn: Takeshita
+givenname: Camie
+mail: camie.takeshita@planetexpress.com
+userPassword: Camie
+ou: OtherGroup
+uid: 5838
+ Q==

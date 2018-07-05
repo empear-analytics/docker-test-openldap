@@ -1,0 +1,13 @@
+dn: cn=August+sn=Lutke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: August Lutke
+cn: Lutke
+givenname: August
+mail: august.lutke@planetexpress.com
+userPassword: August
+ou: admin_staff
+uid: 459
+ Q==

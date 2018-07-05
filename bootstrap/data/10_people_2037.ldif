@@ -1,0 +1,13 @@
+dn: cn=Cletus+sn=Eyubeh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cletus Eyubeh
+cn: Eyubeh
+givenname: Cletus
+mail: cletus.eyubeh@planetexpress.com
+userPassword: Cletus
+ou: flight_crew
+uid: 2037
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tressa+sn=Crispell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tressa Crispell
+cn: Crispell
+givenname: Tressa
+mail: tressa.crispell@planetexpress.com
+userPassword: Tressa
+ou: Group5
+uid: 1386
+ Q==

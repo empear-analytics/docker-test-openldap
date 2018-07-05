@@ -1,0 +1,13 @@
+dn: cn=Linette+sn=Traphagen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Linette Traphagen
+cn: Traphagen
+givenname: Linette
+mail: linette.traphagen@planetexpress.com
+userPassword: Linette
+ou: OtherGroup
+uid: 2086
+ Q==

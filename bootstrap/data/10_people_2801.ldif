@@ -1,0 +1,13 @@
+dn: cn=Toni+sn=Imbriale,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Toni Imbriale
+cn: Imbriale
+givenname: Toni
+mail: toni.imbriale@planetexpress.com
+userPassword: Toni
+ou: Group5
+uid: 2801
+ Q==

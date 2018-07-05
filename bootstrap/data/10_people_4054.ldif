@@ -1,0 +1,13 @@
+dn: cn=Flo+sn=Brighter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Flo Brighter
+cn: Brighter
+givenname: Flo
+mail: flo.brighter@planetexpress.com
+userPassword: Flo
+ou: flight_crew
+uid: 4054
+ Q==

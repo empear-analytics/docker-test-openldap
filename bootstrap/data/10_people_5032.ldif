@@ -1,0 +1,13 @@
+dn: cn=Yong+sn=Golian,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yong Golian
+cn: Golian
+givenname: Yong
+mail: yong.golian@planetexpress.com
+userPassword: Yong
+ou: flight_crew
+uid: 5032
+ Q==

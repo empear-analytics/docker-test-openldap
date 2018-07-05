@@ -1,0 +1,13 @@
+dn: cn=Aundrea+sn=Hoyal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aundrea Hoyal
+cn: Hoyal
+givenname: Aundrea
+mail: aundrea.hoyal@planetexpress.com
+userPassword: Aundrea
+ou: Group5
+uid: 4007
+ Q==

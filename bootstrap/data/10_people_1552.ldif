@@ -1,0 +1,13 @@
+dn: cn=Kassie+sn=Dame,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kassie Dame
+cn: Dame
+givenname: Kassie
+mail: kassie.dame@planetexpress.com
+userPassword: Kassie
+ou: flight_crew
+uid: 1552
+ Q==

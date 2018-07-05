@@ -1,0 +1,13 @@
+dn: cn=Lauren+sn=Steppe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lauren Steppe
+cn: Steppe
+givenname: Lauren
+mail: lauren.steppe@planetexpress.com
+userPassword: Lauren
+ou: flight_crew
+uid: 260
+ Q==

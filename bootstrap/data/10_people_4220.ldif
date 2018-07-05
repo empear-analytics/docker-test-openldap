@@ -1,0 +1,13 @@
+dn: cn=Patrica+sn=Kasperski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Patrica Kasperski
+cn: Kasperski
+givenname: Patrica
+mail: patrica.kasperski@planetexpress.com
+userPassword: Patrica
+ou: flight_crew
+uid: 4220
+ Q==

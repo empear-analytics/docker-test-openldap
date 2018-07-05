@@ -1,0 +1,13 @@
+dn: cn=Jeanna+sn=Sakic,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeanna Sakic
+cn: Sakic
+givenname: Jeanna
+mail: jeanna.sakic@planetexpress.com
+userPassword: Jeanna
+ou: admin_staff
+uid: 5113
+ Q==

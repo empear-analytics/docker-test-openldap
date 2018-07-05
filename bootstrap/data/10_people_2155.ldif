@@ -1,0 +1,13 @@
+dn: cn=Johnathan+sn=Minniear,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Johnathan Minniear
+cn: Minniear
+givenname: Johnathan
+mail: johnathan.minniear@planetexpress.com
+userPassword: Johnathan
+ou: Group5
+uid: 2155
+ Q==

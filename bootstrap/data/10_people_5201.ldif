@@ -1,0 +1,13 @@
+dn: cn=Classie+sn=Burkard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Classie Burkard
+cn: Burkard
+givenname: Classie
+mail: classie.burkard@planetexpress.com
+userPassword: Classie
+ou: OtherGroup
+uid: 5201
+ Q==

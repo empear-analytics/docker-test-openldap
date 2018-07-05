@@ -1,0 +1,13 @@
+dn: cn=Ines+sn=Gunderson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ines Gunderson
+cn: Gunderson
+givenname: Ines
+mail: ines.gunderson@planetexpress.com
+userPassword: Ines
+ou: admin_staff
+uid: 4394
+ Q==

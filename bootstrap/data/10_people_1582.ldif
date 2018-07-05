@@ -1,0 +1,13 @@
+dn: cn=Lillian+sn=Bevevino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lillian Bevevino
+cn: Bevevino
+givenname: Lillian
+mail: lillian.bevevino@planetexpress.com
+userPassword: Lillian
+ou: flight_crew
+uid: 1582
+ Q==

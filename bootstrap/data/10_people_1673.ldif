@@ -1,0 +1,13 @@
+dn: cn=Priscilla+sn=Weyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Priscilla Weyer
+cn: Weyer
+givenname: Priscilla
+mail: priscilla.weyer@planetexpress.com
+userPassword: Priscilla
+ou: flight_crew
+uid: 1673
+ Q==

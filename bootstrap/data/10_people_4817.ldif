@@ -1,0 +1,13 @@
+dn: cn=Randell+sn=Kuhn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Randell Kuhn
+cn: Kuhn
+givenname: Randell
+mail: randell.kuhn@planetexpress.com
+userPassword: Randell
+ou: admin_staff
+uid: 4817
+ Q==

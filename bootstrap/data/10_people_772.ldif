@@ -1,0 +1,13 @@
+dn: cn=Rosetta+sn=Calendine,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosetta Calendine
+cn: Calendine
+givenname: Rosetta
+mail: rosetta.calendine@planetexpress.com
+userPassword: Rosetta
+ou: Group5
+uid: 772
+ Q==

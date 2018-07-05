@@ -1,0 +1,13 @@
+dn: cn=Lynwood+sn=Fabozzi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lynwood Fabozzi
+cn: Fabozzi
+givenname: Lynwood
+mail: lynwood.fabozzi@planetexpress.com
+userPassword: Lynwood
+ou: OtherGroup
+uid: 3033
+ Q==

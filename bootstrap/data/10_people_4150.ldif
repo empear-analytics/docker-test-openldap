@@ -1,0 +1,13 @@
+dn: cn=Mable+sn=Marsters,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mable Marsters
+cn: Marsters
+givenname: Mable
+mail: mable.marsters@planetexpress.com
+userPassword: Mable
+ou: Group5
+uid: 4150
+ Q==

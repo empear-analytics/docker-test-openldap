@@ -1,0 +1,13 @@
+dn: cn=Autumn+sn=Kobis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Autumn Kobis
+cn: Kobis
+givenname: Autumn
+mail: autumn.kobis@planetexpress.com
+userPassword: Autumn
+ou: Group5
+uid: 5491
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kirstin+sn=Gamez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kirstin Gamez
+cn: Gamez
+givenname: Kirstin
+mail: kirstin.gamez@planetexpress.com
+userPassword: Kirstin
+ou: Group5
+uid: 3351
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Neoma+sn=Sultemeier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Neoma Sultemeier
+cn: Sultemeier
+givenname: Neoma
+mail: neoma.sultemeier@planetexpress.com
+userPassword: Neoma
+ou: Group5
+uid: 5700
+ Q==

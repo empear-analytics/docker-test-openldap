@@ -1,0 +1,13 @@
+dn: cn=Roy+sn=Cantrall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roy Cantrall
+cn: Cantrall
+givenname: Roy
+mail: roy.cantrall@planetexpress.com
+userPassword: Roy
+ou: admin_staff
+uid: 3950
+ Q==

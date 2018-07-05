@@ -1,0 +1,13 @@
+dn: cn=Lanell+sn=Ziadie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lanell Ziadie
+cn: Ziadie
+givenname: Lanell
+mail: lanell.ziadie@planetexpress.com
+userPassword: Lanell
+ou: OtherGroup
+uid: 4147
+ Q==

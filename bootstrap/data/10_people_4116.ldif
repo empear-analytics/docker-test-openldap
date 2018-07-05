@@ -1,0 +1,13 @@
+dn: cn=Young+sn=Hewlett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Young Hewlett
+cn: Hewlett
+givenname: Young
+mail: young.hewlett@planetexpress.com
+userPassword: Young
+ou: admin_staff
+uid: 4116
+ Q==

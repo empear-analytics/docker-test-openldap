@@ -1,0 +1,13 @@
+dn: cn=Maybelle+sn=Blada,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maybelle Blada
+cn: Blada
+givenname: Maybelle
+mail: maybelle.blada@planetexpress.com
+userPassword: Maybelle
+ou: Group5
+uid: 1925
+ Q==

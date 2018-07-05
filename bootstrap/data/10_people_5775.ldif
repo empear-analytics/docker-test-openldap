@@ -1,0 +1,13 @@
+dn: cn=Magen+sn=Dutile,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Magen Dutile
+cn: Dutile
+givenname: Magen
+mail: magen.dutile@planetexpress.com
+userPassword: Magen
+ou: Group5
+uid: 5775
+ Q==

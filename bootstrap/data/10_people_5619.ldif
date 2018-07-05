@@ -1,0 +1,13 @@
+dn: cn=Katie+sn=Gosling,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katie Gosling
+cn: Gosling
+givenname: Katie
+mail: katie.gosling@planetexpress.com
+userPassword: Katie
+ou: OtherGroup
+uid: 5619
+ Q==

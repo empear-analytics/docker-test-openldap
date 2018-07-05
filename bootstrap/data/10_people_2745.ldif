@@ -1,0 +1,13 @@
+dn: cn=Adam+sn=Homme,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adam Homme
+cn: Homme
+givenname: Adam
+mail: adam.homme@planetexpress.com
+userPassword: Adam
+ou: Group5
+uid: 2745
+ Q==

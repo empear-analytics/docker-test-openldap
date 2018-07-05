@@ -1,0 +1,13 @@
+dn: cn=Mira+sn=Scheuermann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mira Scheuermann
+cn: Scheuermann
+givenname: Mira
+mail: mira.scheuermann@planetexpress.com
+userPassword: Mira
+ou: flight_crew
+uid: 2823
+ Q==

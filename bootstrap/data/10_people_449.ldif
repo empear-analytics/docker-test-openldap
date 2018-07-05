@@ -1,0 +1,13 @@
+dn: cn=Elmo+sn=Mihalek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elmo Mihalek
+cn: Mihalek
+givenname: Elmo
+mail: elmo.mihalek@planetexpress.com
+userPassword: Elmo
+ou: OtherGroup
+uid: 449
+ Q==

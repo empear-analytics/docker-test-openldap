@@ -1,0 +1,13 @@
+dn: cn=Glenn+sn=Fulgham,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Glenn Fulgham
+cn: Fulgham
+givenname: Glenn
+mail: glenn.fulgham@planetexpress.com
+userPassword: Glenn
+ou: flight_crew
+uid: 3188
+ Q==

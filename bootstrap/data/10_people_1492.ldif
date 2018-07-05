@@ -1,0 +1,13 @@
+dn: cn=Concha+sn=Davidsen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Concha Davidsen
+cn: Davidsen
+givenname: Concha
+mail: concha.davidsen@planetexpress.com
+userPassword: Concha
+ou: flight_crew
+uid: 1492
+ Q==

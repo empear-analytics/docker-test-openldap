@@ -1,0 +1,13 @@
+dn: cn=Judson+sn=Handeland,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Judson Handeland
+cn: Handeland
+givenname: Judson
+mail: judson.handeland@planetexpress.com
+userPassword: Judson
+ou: OtherGroup
+uid: 2607
+ Q==

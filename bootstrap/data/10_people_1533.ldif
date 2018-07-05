@@ -1,0 +1,13 @@
+dn: cn=Galina+sn=Menendez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Galina Menendez
+cn: Menendez
+givenname: Galina
+mail: galina.menendez@planetexpress.com
+userPassword: Galina
+ou: Group5
+uid: 1533
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Caitlin+sn=Ruggs,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Caitlin Ruggs
+cn: Ruggs
+givenname: Caitlin
+mail: caitlin.ruggs@planetexpress.com
+userPassword: Caitlin
+ou: Group5
+uid: 4554
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Darius+sn=Winchell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darius Winchell
+cn: Winchell
+givenname: Darius
+mail: darius.winchell@planetexpress.com
+userPassword: Darius
+ou: Group5
+uid: 859
+ Q==

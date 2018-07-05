@@ -1,0 +1,13 @@
+dn: cn=Carlo+sn=Kupihea,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carlo Kupihea
+cn: Kupihea
+givenname: Carlo
+mail: carlo.kupihea@planetexpress.com
+userPassword: Carlo
+ou: flight_crew
+uid: 272
+ Q==

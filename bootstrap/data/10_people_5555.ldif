@@ -1,0 +1,13 @@
+dn: cn=Tashia+sn=Levario,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tashia Levario
+cn: Levario
+givenname: Tashia
+mail: tashia.levario@planetexpress.com
+userPassword: Tashia
+ou: Group5
+uid: 5555
+ Q==

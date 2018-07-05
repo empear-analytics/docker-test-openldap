@@ -1,0 +1,13 @@
+dn: cn=Bessie+sn=Crumly,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bessie Crumly
+cn: Crumly
+givenname: Bessie
+mail: bessie.crumly@planetexpress.com
+userPassword: Bessie
+ou: admin_staff
+uid: 1076
+ Q==

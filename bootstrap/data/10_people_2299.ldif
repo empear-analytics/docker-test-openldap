@@ -1,0 +1,13 @@
+dn: cn=Nga+sn=Vince,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nga Vince
+cn: Vince
+givenname: Nga
+mail: nga.vince@planetexpress.com
+userPassword: Nga
+ou: OtherGroup
+uid: 2299
+ Q==

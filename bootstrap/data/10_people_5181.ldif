@@ -1,0 +1,13 @@
+dn: cn=Xavier+sn=Laudat,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Xavier Laudat
+cn: Laudat
+givenname: Xavier
+mail: xavier.laudat@planetexpress.com
+userPassword: Xavier
+ou: OtherGroup
+uid: 5181
+ Q==

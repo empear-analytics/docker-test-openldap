@@ -1,0 +1,13 @@
+dn: cn=Bernita+sn=Bruegger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bernita Bruegger
+cn: Bruegger
+givenname: Bernita
+mail: bernita.bruegger@planetexpress.com
+userPassword: Bernita
+ou: flight_crew
+uid: 3154
+ Q==

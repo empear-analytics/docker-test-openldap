@@ -1,0 +1,13 @@
+dn: cn=Melonie+sn=Demeritt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melonie Demeritt
+cn: Demeritt
+givenname: Melonie
+mail: melonie.demeritt@planetexpress.com
+userPassword: Melonie
+ou: admin_staff
+uid: 5843
+ Q==

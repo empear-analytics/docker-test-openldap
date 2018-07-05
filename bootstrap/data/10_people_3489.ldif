@@ -1,0 +1,13 @@
+dn: cn=Ramiro+sn=Arrants,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ramiro Arrants
+cn: Arrants
+givenname: Ramiro
+mail: ramiro.arrants@planetexpress.com
+userPassword: Ramiro
+ou: OtherGroup
+uid: 3489
+ Q==

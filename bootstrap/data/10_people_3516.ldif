@@ -1,0 +1,13 @@
+dn: cn=Katerine+sn=Grimsley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katerine Grimsley
+cn: Grimsley
+givenname: Katerine
+mail: katerine.grimsley@planetexpress.com
+userPassword: Katerine
+ou: admin_staff
+uid: 3516
+ Q==

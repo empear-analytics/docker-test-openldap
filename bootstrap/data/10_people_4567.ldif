@@ -1,0 +1,13 @@
+dn: cn=Mammie+sn=Wildrick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mammie Wildrick
+cn: Wildrick
+givenname: Mammie
+mail: mammie.wildrick@planetexpress.com
+userPassword: Mammie
+ou: OtherGroup
+uid: 4567
+ Q==

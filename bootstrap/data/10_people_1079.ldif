@@ -1,0 +1,13 @@
+dn: cn=Calandra+sn=Renburg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Calandra Renburg
+cn: Renburg
+givenname: Calandra
+mail: calandra.renburg@planetexpress.com
+userPassword: Calandra
+ou: admin_staff
+uid: 1079
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Crista+sn=Rabsatt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Crista Rabsatt
+cn: Rabsatt
+givenname: Crista
+mail: crista.rabsatt@planetexpress.com
+userPassword: Crista
+ou: admin_staff
+uid: 4273
+ Q==

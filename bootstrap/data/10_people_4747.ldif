@@ -1,0 +1,13 @@
+dn: cn=Cyril+sn=Kinstler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cyril Kinstler
+cn: Kinstler
+givenname: Cyril
+mail: cyril.kinstler@planetexpress.com
+userPassword: Cyril
+ou: OtherGroup
+uid: 4747
+ Q==

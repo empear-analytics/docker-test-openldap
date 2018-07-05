@@ -1,0 +1,13 @@
+dn: cn=Mui+sn=Loren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mui Loren
+cn: Loren
+givenname: Mui
+mail: mui.loren@planetexpress.com
+userPassword: Mui
+ou: admin_staff
+uid: 5118
+ Q==

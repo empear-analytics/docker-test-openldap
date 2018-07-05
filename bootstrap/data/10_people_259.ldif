@@ -1,0 +1,13 @@
+dn: cn=Helga+sn=Schrieber,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Helga Schrieber
+cn: Schrieber
+givenname: Helga
+mail: helga.schrieber@planetexpress.com
+userPassword: Helga
+ou: flight_crew
+uid: 259
+ Q==

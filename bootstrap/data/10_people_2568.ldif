@@ -1,0 +1,13 @@
+dn: cn=Verna+sn=Canerday,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Verna Canerday
+cn: Canerday
+givenname: Verna
+mail: verna.canerday@planetexpress.com
+userPassword: Verna
+ou: OtherGroup
+uid: 2568
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Aleshia+sn=Pencil,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aleshia Pencil
+cn: Pencil
+givenname: Aleshia
+mail: aleshia.pencil@planetexpress.com
+userPassword: Aleshia
+ou: flight_crew
+uid: 4834
+ Q==

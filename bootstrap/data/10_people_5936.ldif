@@ -1,0 +1,13 @@
+dn: cn=Dalia+sn=Maka,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dalia Maka
+cn: Maka
+givenname: Dalia
+mail: dalia.maka@planetexpress.com
+userPassword: Dalia
+ou: Group5
+uid: 5936
+ Q==

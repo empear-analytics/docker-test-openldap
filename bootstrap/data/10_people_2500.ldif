@@ -1,0 +1,13 @@
+dn: cn=Talisha+sn=Marcusen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Talisha Marcusen
+cn: Marcusen
+givenname: Talisha
+mail: talisha.marcusen@planetexpress.com
+userPassword: Talisha
+ou: admin_staff
+uid: 2500
+ Q==

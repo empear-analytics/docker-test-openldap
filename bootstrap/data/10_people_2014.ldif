@@ -1,0 +1,13 @@
+dn: cn=Season+sn=Arbour,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Season Arbour
+cn: Arbour
+givenname: Season
+mail: season.arbour@planetexpress.com
+userPassword: Season
+ou: OtherGroup
+uid: 2014
+ Q==

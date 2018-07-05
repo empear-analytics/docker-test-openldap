@@ -1,0 +1,13 @@
+dn: cn=Kelli+sn=Miu,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kelli Miu
+cn: Miu
+givenname: Kelli
+mail: kelli.miu@planetexpress.com
+userPassword: Kelli
+ou: admin_staff
+uid: 5209
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Clarice+sn=Pride,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clarice Pride
+cn: Pride
+givenname: Clarice
+mail: clarice.pride@planetexpress.com
+userPassword: Clarice
+ou: admin_staff
+uid: 2899
+ Q==

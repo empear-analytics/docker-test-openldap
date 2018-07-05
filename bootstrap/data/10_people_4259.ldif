@@ -1,0 +1,13 @@
+dn: cn=Vania+sn=Lasserre,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vania Lasserre
+cn: Lasserre
+givenname: Vania
+mail: vania.lasserre@planetexpress.com
+userPassword: Vania
+ou: flight_crew
+uid: 4259
+ Q==

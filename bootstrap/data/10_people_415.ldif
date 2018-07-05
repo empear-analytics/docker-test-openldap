@@ -1,0 +1,13 @@
+dn: cn=Colby+sn=Arnoldi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Colby Arnoldi
+cn: Arnoldi
+givenname: Colby
+mail: colby.arnoldi@planetexpress.com
+userPassword: Colby
+ou: Group5
+uid: 415
+ Q==

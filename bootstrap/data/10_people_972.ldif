@@ -1,0 +1,13 @@
+dn: cn=Esta+sn=Nall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Esta Nall
+cn: Nall
+givenname: Esta
+mail: esta.nall@planetexpress.com
+userPassword: Esta
+ou: flight_crew
+uid: 972
+ Q==

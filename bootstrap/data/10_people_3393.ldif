@@ -1,0 +1,13 @@
+dn: cn=Charlie+sn=Gaillard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charlie Gaillard
+cn: Gaillard
+givenname: Charlie
+mail: charlie.gaillard@planetexpress.com
+userPassword: Charlie
+ou: OtherGroup
+uid: 3393
+ Q==

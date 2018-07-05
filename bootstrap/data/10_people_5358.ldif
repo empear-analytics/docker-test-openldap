@@ -1,0 +1,13 @@
+dn: cn=Collin+sn=Zarazua,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Collin Zarazua
+cn: Zarazua
+givenname: Collin
+mail: collin.zarazua@planetexpress.com
+userPassword: Collin
+ou: flight_crew
+uid: 5358
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Aurea+sn=Topalian,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aurea Topalian
+cn: Topalian
+givenname: Aurea
+mail: aurea.topalian@planetexpress.com
+userPassword: Aurea
+ou: Group5
+uid: 192
+ Q==

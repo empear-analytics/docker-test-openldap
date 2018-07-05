@@ -1,0 +1,13 @@
+dn: cn=Edris+sn=Kleckley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edris Kleckley
+cn: Kleckley
+givenname: Edris
+mail: edris.kleckley@planetexpress.com
+userPassword: Edris
+ou: OtherGroup
+uid: 2170
+ Q==

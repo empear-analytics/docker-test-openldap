@@ -1,0 +1,13 @@
+dn: cn=Darnell+sn=Voedisch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darnell Voedisch
+cn: Voedisch
+givenname: Darnell
+mail: darnell.voedisch@planetexpress.com
+userPassword: Darnell
+ou: OtherGroup
+uid: 2096
+ Q==

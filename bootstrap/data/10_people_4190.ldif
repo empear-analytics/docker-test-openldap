@@ -1,0 +1,13 @@
+dn: cn=Luis+sn=Kraeger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Luis Kraeger
+cn: Kraeger
+givenname: Luis
+mail: luis.kraeger@planetexpress.com
+userPassword: Luis
+ou: OtherGroup
+uid: 4190
+ Q==

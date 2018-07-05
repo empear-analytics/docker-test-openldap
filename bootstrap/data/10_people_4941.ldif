@@ -1,0 +1,13 @@
+dn: cn=Fairy+sn=Gingues,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fairy Gingues
+cn: Gingues
+givenname: Fairy
+mail: fairy.gingues@planetexpress.com
+userPassword: Fairy
+ou: admin_staff
+uid: 4941
+ Q==

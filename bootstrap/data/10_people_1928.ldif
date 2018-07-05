@@ -1,0 +1,13 @@
+dn: cn=Shauna+sn=Twiddy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shauna Twiddy
+cn: Twiddy
+givenname: Shauna
+mail: shauna.twiddy@planetexpress.com
+userPassword: Shauna
+ou: admin_staff
+uid: 1928
+ Q==

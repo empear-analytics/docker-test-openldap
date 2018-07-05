@@ -1,0 +1,13 @@
+dn: cn=Gregorio+sn=Kapetanos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gregorio Kapetanos
+cn: Kapetanos
+givenname: Gregorio
+mail: gregorio.kapetanos@planetexpress.com
+userPassword: Gregorio
+ou: OtherGroup
+uid: 1698
+ Q==

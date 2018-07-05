@@ -1,0 +1,13 @@
+dn: cn=Felica+sn=Mcilrath,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Felica Mcilrath
+cn: Mcilrath
+givenname: Felica
+mail: felica.mcilrath@planetexpress.com
+userPassword: Felica
+ou: OtherGroup
+uid: 4449
+ Q==

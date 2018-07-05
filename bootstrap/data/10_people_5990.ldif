@@ -1,0 +1,13 @@
+dn: cn=Eleanor+sn=Bielat,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eleanor Bielat
+cn: Bielat
+givenname: Eleanor
+mail: eleanor.bielat@planetexpress.com
+userPassword: Eleanor
+ou: flight_crew
+uid: 5990
+ Q==

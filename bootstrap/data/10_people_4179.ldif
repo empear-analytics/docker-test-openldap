@@ -1,0 +1,13 @@
+dn: cn=Lizette+sn=Tilus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lizette Tilus
+cn: Tilus
+givenname: Lizette
+mail: lizette.tilus@planetexpress.com
+userPassword: Lizette
+ou: flight_crew
+uid: 4179
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Guadalupe+sn=Benek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Guadalupe Benek
+cn: Benek
+givenname: Guadalupe
+mail: guadalupe.benek@planetexpress.com
+userPassword: Guadalupe
+ou: OtherGroup
+uid: 1864
+ Q==

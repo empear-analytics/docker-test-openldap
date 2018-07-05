@@ -1,0 +1,13 @@
+dn: cn=Cinthia+sn=Perrault,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cinthia Perrault
+cn: Perrault
+givenname: Cinthia
+mail: cinthia.perrault@planetexpress.com
+userPassword: Cinthia
+ou: admin_staff
+uid: 2386
+ Q==

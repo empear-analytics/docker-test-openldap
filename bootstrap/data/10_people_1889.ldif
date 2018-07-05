@@ -1,0 +1,13 @@
+dn: cn=Nadia+sn=Simpkin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nadia Simpkin
+cn: Simpkin
+givenname: Nadia
+mail: nadia.simpkin@planetexpress.com
+userPassword: Nadia
+ou: Group5
+uid: 1889
+ Q==

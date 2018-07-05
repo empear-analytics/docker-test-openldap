@@ -1,0 +1,13 @@
+dn: cn=Hugh+sn=Lacouette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hugh Lacouette
+cn: Lacouette
+givenname: Hugh
+mail: hugh.lacouette@planetexpress.com
+userPassword: Hugh
+ou: Group5
+uid: 3565
+ Q==

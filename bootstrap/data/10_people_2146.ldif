@@ -1,0 +1,13 @@
+dn: cn=Andrew+sn=Soucier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andrew Soucier
+cn: Soucier
+givenname: Andrew
+mail: andrew.soucier@planetexpress.com
+userPassword: Andrew
+ou: admin_staff
+uid: 2146
+ Q==

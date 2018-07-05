@@ -1,0 +1,13 @@
+dn: cn=Eric+sn=Lawnicki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eric Lawnicki
+cn: Lawnicki
+givenname: Eric
+mail: eric.lawnicki@planetexpress.com
+userPassword: Eric
+ou: admin_staff
+uid: 3555
+ Q==

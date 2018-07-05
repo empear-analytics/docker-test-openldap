@@ -1,0 +1,13 @@
+dn: cn=Pearlene+sn=Nemunaitis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pearlene Nemunaitis
+cn: Nemunaitis
+givenname: Pearlene
+mail: pearlene.nemunaitis@planetexpress.com
+userPassword: Pearlene
+ou: Group5
+uid: 2318
+ Q==

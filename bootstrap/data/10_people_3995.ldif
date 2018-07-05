@@ -1,0 +1,13 @@
+dn: cn=Jillian+sn=Lamberth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jillian Lamberth
+cn: Lamberth
+givenname: Jillian
+mail: jillian.lamberth@planetexpress.com
+userPassword: Jillian
+ou: flight_crew
+uid: 3995
+ Q==

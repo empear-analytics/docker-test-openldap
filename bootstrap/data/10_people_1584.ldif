@@ -1,0 +1,13 @@
+dn: cn=Lang+sn=Addicks,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lang Addicks
+cn: Addicks
+givenname: Lang
+mail: lang.addicks@planetexpress.com
+userPassword: Lang
+ou: flight_crew
+uid: 1584
+ Q==

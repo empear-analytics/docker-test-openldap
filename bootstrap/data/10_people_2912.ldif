@@ -1,0 +1,13 @@
+dn: cn=Margert+sn=Simelton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margert Simelton
+cn: Simelton
+givenname: Margert
+mail: margert.simelton@planetexpress.com
+userPassword: Margert
+ou: OtherGroup
+uid: 2912
+ Q==

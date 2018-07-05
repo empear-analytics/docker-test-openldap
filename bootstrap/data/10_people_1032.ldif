@@ -1,0 +1,13 @@
+dn: cn=Dannie+sn=Perciful,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dannie Perciful
+cn: Perciful
+givenname: Dannie
+mail: dannie.perciful@planetexpress.com
+userPassword: Dannie
+ou: flight_crew
+uid: 1032
+ Q==

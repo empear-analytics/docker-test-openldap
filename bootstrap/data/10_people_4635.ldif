@@ -1,0 +1,13 @@
+dn: cn=Jacqualine+sn=Lamirand,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacqualine Lamirand
+cn: Lamirand
+givenname: Jacqualine
+mail: jacqualine.lamirand@planetexpress.com
+userPassword: Jacqualine
+ou: flight_crew
+uid: 4635
+ Q==

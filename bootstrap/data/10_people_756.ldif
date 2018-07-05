@@ -1,0 +1,13 @@
+dn: cn=Joycelyn+sn=Roehler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joycelyn Roehler
+cn: Roehler
+givenname: Joycelyn
+mail: joycelyn.roehler@planetexpress.com
+userPassword: Joycelyn
+ou: admin_staff
+uid: 756
+ Q==

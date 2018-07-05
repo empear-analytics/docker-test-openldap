@@ -1,0 +1,13 @@
+dn: cn=Stacia+sn=Gowins,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stacia Gowins
+cn: Gowins
+givenname: Stacia
+mail: stacia.gowins@planetexpress.com
+userPassword: Stacia
+ou: flight_crew
+uid: 2978
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tona+sn=Tomasello,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tona Tomasello
+cn: Tomasello
+givenname: Tona
+mail: tona.tomasello@planetexpress.com
+userPassword: Tona
+ou: OtherGroup
+uid: 2404
+ Q==

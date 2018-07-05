@@ -1,0 +1,13 @@
+dn: cn=Darrin+sn=Dunemn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darrin Dunemn
+cn: Dunemn
+givenname: Darrin
+mail: darrin.dunemn@planetexpress.com
+userPassword: Darrin
+ou: admin_staff
+uid: 717
+ Q==

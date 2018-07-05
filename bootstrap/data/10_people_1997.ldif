@@ -1,0 +1,13 @@
+dn: cn=Laraine+sn=Merette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Laraine Merette
+cn: Merette
+givenname: Laraine
+mail: laraine.merette@planetexpress.com
+userPassword: Laraine
+ou: OtherGroup
+uid: 1997
+ Q==

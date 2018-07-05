@@ -1,0 +1,13 @@
+dn: cn=Evan+sn=Bough,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Evan Bough
+cn: Bough
+givenname: Evan
+mail: evan.bough@planetexpress.com
+userPassword: Evan
+ou: Group5
+uid: 3983
+ Q==

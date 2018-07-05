@@ -1,0 +1,13 @@
+dn: cn=Joni+sn=Marazas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joni Marazas
+cn: Marazas
+givenname: Joni
+mail: joni.marazas@planetexpress.com
+userPassword: Joni
+ou: OtherGroup
+uid: 3436
+ Q==

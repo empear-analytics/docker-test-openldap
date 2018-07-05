@@ -1,0 +1,13 @@
+dn: cn=Jay+sn=Aboytes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jay Aboytes
+cn: Aboytes
+givenname: Jay
+mail: jay.aboytes@planetexpress.com
+userPassword: Jay
+ou: admin_staff
+uid: 5679
+ Q==

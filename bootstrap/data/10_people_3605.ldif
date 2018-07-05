@@ -1,0 +1,13 @@
+dn: cn=Lucile+sn=Parhan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lucile Parhan
+cn: Parhan
+givenname: Lucile
+mail: lucile.parhan@planetexpress.com
+userPassword: Lucile
+ou: admin_staff
+uid: 3605
+ Q==

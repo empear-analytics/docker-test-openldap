@@ -1,0 +1,13 @@
+dn: cn=Frederica+sn=Allocca,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Frederica Allocca
+cn: Allocca
+givenname: Frederica
+mail: frederica.allocca@planetexpress.com
+userPassword: Frederica
+ou: Group5
+uid: 328
+ Q==

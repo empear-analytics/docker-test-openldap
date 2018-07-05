@@ -1,0 +1,13 @@
+dn: cn=Patrina+sn=Rigsbee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Patrina Rigsbee
+cn: Rigsbee
+givenname: Patrina
+mail: patrina.rigsbee@planetexpress.com
+userPassword: Patrina
+ou: admin_staff
+uid: 4211
+ Q==

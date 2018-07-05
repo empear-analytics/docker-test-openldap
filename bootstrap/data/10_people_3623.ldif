@@ -1,0 +1,13 @@
+dn: cn=Mitzie+sn=Santis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mitzie Santis
+cn: Santis
+givenname: Mitzie
+mail: mitzie.santis@planetexpress.com
+userPassword: Mitzie
+ou: OtherGroup
+uid: 3623
+ Q==

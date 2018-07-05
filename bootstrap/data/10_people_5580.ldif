@@ -1,0 +1,13 @@
+dn: cn=Martina+sn=Heater,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Martina Heater
+cn: Heater
+givenname: Martina
+mail: martina.heater@planetexpress.com
+userPassword: Martina
+ou: Group5
+uid: 5580
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Janell+sn=Yaftali,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janell Yaftali
+cn: Yaftali
+givenname: Janell
+mail: janell.yaftali@planetexpress.com
+userPassword: Janell
+ou: OtherGroup
+uid: 5311
+ Q==

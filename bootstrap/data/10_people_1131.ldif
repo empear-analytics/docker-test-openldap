@@ -1,0 +1,13 @@
+dn: cn=Lynn+sn=Latzke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lynn Latzke
+cn: Latzke
+givenname: Lynn
+mail: lynn.latzke@planetexpress.com
+userPassword: Lynn
+ou: admin_staff
+uid: 1131
+ Q==

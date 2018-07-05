@@ -1,0 +1,13 @@
+dn: cn=George+sn=Lipinsky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: George Lipinsky
+cn: Lipinsky
+givenname: George
+mail: george.lipinsky@planetexpress.com
+userPassword: George
+ou: flight_crew
+uid: 4936
+ Q==

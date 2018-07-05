@@ -1,0 +1,13 @@
+dn: cn=Doug+sn=Otta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Doug Otta
+cn: Otta
+givenname: Doug
+mail: doug.otta@planetexpress.com
+userPassword: Doug
+ou: OtherGroup
+uid: 2597
+ Q==

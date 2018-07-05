@@ -1,0 +1,13 @@
+dn: cn=September+sn=Librandi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: September Librandi
+cn: Librandi
+givenname: September
+mail: september.librandi@planetexpress.com
+userPassword: September
+ou: admin_staff
+uid: 2491
+ Q==

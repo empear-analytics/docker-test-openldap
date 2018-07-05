@@ -1,0 +1,13 @@
+dn: cn=Nereida+sn=Jin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nereida Jin
+cn: Jin
+givenname: Nereida
+mail: nereida.jin@planetexpress.com
+userPassword: Nereida
+ou: OtherGroup
+uid: 1601
+ Q==

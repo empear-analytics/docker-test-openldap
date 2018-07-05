@@ -1,0 +1,13 @@
+dn: cn=Berry+sn=Wolk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Berry Wolk
+cn: Wolk
+givenname: Berry
+mail: berry.wolk@planetexpress.com
+userPassword: Berry
+ou: admin_staff
+uid: 2023
+ Q==

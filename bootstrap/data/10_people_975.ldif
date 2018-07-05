@@ -1,0 +1,13 @@
+dn: cn=Florinda+sn=Loviska,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Florinda Loviska
+cn: Loviska
+givenname: Florinda
+mail: florinda.loviska@planetexpress.com
+userPassword: Florinda
+ou: flight_crew
+uid: 975
+ Q==

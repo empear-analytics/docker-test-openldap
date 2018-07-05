@@ -1,0 +1,13 @@
+dn: cn=Denny+sn=Stolarz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Denny Stolarz
+cn: Stolarz
+givenname: Denny
+mail: denny.stolarz@planetexpress.com
+userPassword: Denny
+ou: Group5
+uid: 5103
+ Q==

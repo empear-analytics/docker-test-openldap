@@ -1,0 +1,13 @@
+dn: cn=Palmira+sn=Marinos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Palmira Marinos
+cn: Marinos
+givenname: Palmira
+mail: palmira.marinos@planetexpress.com
+userPassword: Palmira
+ou: flight_crew
+uid: 831
+ Q==

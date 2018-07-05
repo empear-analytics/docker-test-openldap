@@ -1,0 +1,13 @@
+dn: cn=Lacresha+sn=Keyna,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lacresha Keyna
+cn: Keyna
+givenname: Lacresha
+mail: lacresha.keyna@planetexpress.com
+userPassword: Lacresha
+ou: flight_crew
+uid: 5667
+ Q==

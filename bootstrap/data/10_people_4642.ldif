@@ -1,0 +1,13 @@
+dn: cn=Lou+sn=Kless,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lou Kless
+cn: Kless
+givenname: Lou
+mail: lou.kless@planetexpress.com
+userPassword: Lou
+ou: OtherGroup
+uid: 4642
+ Q==

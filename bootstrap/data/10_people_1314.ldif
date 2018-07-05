@@ -1,0 +1,13 @@
+dn: cn=Dorie+sn=Vantrease,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dorie Vantrease
+cn: Vantrease
+givenname: Dorie
+mail: dorie.vantrease@planetexpress.com
+userPassword: Dorie
+ou: OtherGroup
+uid: 1314
+ Q==

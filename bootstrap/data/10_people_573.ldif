@@ -1,0 +1,13 @@
+dn: cn=Stanford+sn=Bradner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stanford Bradner
+cn: Bradner
+givenname: Stanford
+mail: stanford.bradner@planetexpress.com
+userPassword: Stanford
+ou: admin_staff
+uid: 573
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Shawn+sn=Folkner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shawn Folkner
+cn: Folkner
+givenname: Shawn
+mail: shawn.folkner@planetexpress.com
+userPassword: Shawn
+ou: OtherGroup
+uid: 1917
+ Q==

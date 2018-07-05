@@ -1,0 +1,13 @@
+dn: cn=Leeanna+sn=Faustini,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leeanna Faustini
+cn: Faustini
+givenname: Leeanna
+mail: leeanna.faustini@planetexpress.com
+userPassword: Leeanna
+ou: flight_crew
+uid: 1063
+ Q==

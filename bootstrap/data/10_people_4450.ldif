@@ -1,0 +1,13 @@
+dn: cn=Aline+sn=Bairos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aline Bairos
+cn: Bairos
+givenname: Aline
+mail: aline.bairos@planetexpress.com
+userPassword: Aline
+ou: OtherGroup
+uid: 4450
+ Q==

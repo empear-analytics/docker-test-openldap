@@ -1,0 +1,13 @@
+dn: cn=Marisol+sn=Stringari,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marisol Stringari
+cn: Stringari
+givenname: Marisol
+mail: marisol.stringari@planetexpress.com
+userPassword: Marisol
+ou: OtherGroup
+uid: 3192
+ Q==

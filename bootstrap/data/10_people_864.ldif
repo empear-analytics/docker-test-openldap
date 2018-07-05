@@ -1,0 +1,13 @@
+dn: cn=Mara+sn=Deluz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mara Deluz
+cn: Deluz
+givenname: Mara
+mail: mara.deluz@planetexpress.com
+userPassword: Mara
+ou: admin_staff
+uid: 864
+ Q==

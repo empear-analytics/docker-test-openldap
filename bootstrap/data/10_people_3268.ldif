@@ -1,0 +1,13 @@
+dn: cn=Lacey+sn=Groch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lacey Groch
+cn: Groch
+givenname: Lacey
+mail: lacey.groch@planetexpress.com
+userPassword: Lacey
+ou: OtherGroup
+uid: 3268
+ Q==

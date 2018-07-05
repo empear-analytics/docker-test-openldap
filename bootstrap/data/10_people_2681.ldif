@@ -1,0 +1,13 @@
+dn: cn=Latashia+sn=Tasse,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Latashia Tasse
+cn: Tasse
+givenname: Latashia
+mail: latashia.tasse@planetexpress.com
+userPassword: Latashia
+ou: admin_staff
+uid: 2681
+ Q==

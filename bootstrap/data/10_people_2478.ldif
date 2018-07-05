@@ -1,0 +1,13 @@
+dn: cn=Delphine+sn=Messenger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delphine Messenger
+cn: Messenger
+givenname: Delphine
+mail: delphine.messenger@planetexpress.com
+userPassword: Delphine
+ou: admin_staff
+uid: 2478
+ Q==

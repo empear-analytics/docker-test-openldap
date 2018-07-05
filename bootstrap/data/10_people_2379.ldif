@@ -1,0 +1,13 @@
+dn: cn=Catrina+sn=Sovey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Catrina Sovey
+cn: Sovey
+givenname: Catrina
+mail: catrina.sovey@planetexpress.com
+userPassword: Catrina
+ou: Group5
+uid: 2379
+ Q==

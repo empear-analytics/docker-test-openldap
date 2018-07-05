@@ -1,0 +1,13 @@
+dn: cn=Jessi+sn=Lott,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jessi Lott
+cn: Lott
+givenname: Jessi
+mail: jessi.lott@planetexpress.com
+userPassword: Jessi
+ou: OtherGroup
+uid: 2268
+ Q==

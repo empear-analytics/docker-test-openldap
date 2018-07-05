@@ -1,0 +1,13 @@
+dn: cn=Santos+sn=Wilmott,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Santos Wilmott
+cn: Wilmott
+givenname: Santos
+mail: santos.wilmott@planetexpress.com
+userPassword: Santos
+ou: Group5
+uid: 1145
+ Q==

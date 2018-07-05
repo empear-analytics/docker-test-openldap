@@ -1,0 +1,13 @@
+dn: cn=Exie+sn=Schlitt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Exie Schlitt
+cn: Schlitt
+givenname: Exie
+mail: exie.schlitt@planetexpress.com
+userPassword: Exie
+ou: Group5
+uid: 3972
+ Q==

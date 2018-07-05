@@ -1,0 +1,13 @@
+dn: cn=Kareem+sn=Brodtmann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kareem Brodtmann
+cn: Brodtmann
+givenname: Kareem
+mail: kareem.brodtmann@planetexpress.com
+userPassword: Kareem
+ou: admin_staff
+uid: 1879
+ Q==

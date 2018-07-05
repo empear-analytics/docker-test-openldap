@@ -1,0 +1,13 @@
+dn: cn=Sharon+sn=Brimmer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharon Brimmer
+cn: Brimmer
+givenname: Sharon
+mail: sharon.brimmer@planetexpress.com
+userPassword: Sharon
+ou: admin_staff
+uid: 1170
+ Q==

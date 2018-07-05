@@ -1,0 +1,13 @@
+dn: cn=Xuan+sn=Rehberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Xuan Rehberg
+cn: Rehberg
+givenname: Xuan
+mail: xuan.rehberg@planetexpress.com
+userPassword: Xuan
+ou: OtherGroup
+uid: 1247
+ Q==

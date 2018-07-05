@@ -1,0 +1,13 @@
+dn: cn=Edwina+sn=Turnblom,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edwina Turnblom
+cn: Turnblom
+givenname: Edwina
+mail: edwina.turnblom@planetexpress.com
+userPassword: Edwina
+ou: flight_crew
+uid: 5351
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Migdalia+sn=Markt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Migdalia Markt
+cn: Markt
+givenname: Migdalia
+mail: migdalia.markt@planetexpress.com
+userPassword: Migdalia
+ou: Group5
+uid: 4244
+ Q==

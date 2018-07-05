@@ -1,0 +1,13 @@
+dn: cn=Tilda+sn=Potthoff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tilda Potthoff
+cn: Potthoff
+givenname: Tilda
+mail: tilda.potthoff@planetexpress.com
+userPassword: Tilda
+ou: OtherGroup
+uid: 1277
+ Q==

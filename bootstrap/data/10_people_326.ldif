@@ -1,0 +1,13 @@
+dn: cn=Herminia+sn=Grollman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Herminia Grollman
+cn: Grollman
+givenname: Herminia
+mail: herminia.grollman@planetexpress.com
+userPassword: Herminia
+ou: OtherGroup
+uid: 326
+ Q==

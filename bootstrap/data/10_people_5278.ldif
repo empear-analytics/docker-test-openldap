@@ -1,0 +1,13 @@
+dn: cn=Eloy+sn=Keliipaakaua,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eloy Keliipaakaua
+cn: Keliipaakaua
+givenname: Eloy
+mail: eloy.keliipaakaua@planetexpress.com
+userPassword: Eloy
+ou: Group5
+uid: 5278
+ Q==

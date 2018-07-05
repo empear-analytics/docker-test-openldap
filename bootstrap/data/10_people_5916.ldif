@@ -1,0 +1,13 @@
+dn: cn=Franklyn+sn=Blackman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Franklyn Blackman
+cn: Blackman
+givenname: Franklyn
+mail: franklyn.blackman@planetexpress.com
+userPassword: Franklyn
+ou: flight_crew
+uid: 5916
+ Q==

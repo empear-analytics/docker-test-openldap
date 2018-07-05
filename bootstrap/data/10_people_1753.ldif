@@ -1,0 +1,13 @@
+dn: cn=Mimi+sn=Gaukroger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mimi Gaukroger
+cn: Gaukroger
+givenname: Mimi
+mail: mimi.gaukroger@planetexpress.com
+userPassword: Mimi
+ou: flight_crew
+uid: 1753
+ Q==

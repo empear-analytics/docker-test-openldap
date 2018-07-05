@@ -1,0 +1,13 @@
+dn: cn=Lavonda+sn=Axe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lavonda Axe
+cn: Axe
+givenname: Lavonda
+mail: lavonda.axe@planetexpress.com
+userPassword: Lavonda
+ou: Group5
+uid: 44
+ Q==

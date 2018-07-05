@@ -1,0 +1,13 @@
+dn: cn=Reynalda+sn=Sharman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reynalda Sharman
+cn: Sharman
+givenname: Reynalda
+mail: reynalda.sharman@planetexpress.com
+userPassword: Reynalda
+ou: OtherGroup
+uid: 2952
+ Q==

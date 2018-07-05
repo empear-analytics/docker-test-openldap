@@ -1,0 +1,13 @@
+dn: cn=Kerri+sn=Jemmott,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kerri Jemmott
+cn: Jemmott
+givenname: Kerri
+mail: kerri.jemmott@planetexpress.com
+userPassword: Kerri
+ou: admin_staff
+uid: 4965
+ Q==

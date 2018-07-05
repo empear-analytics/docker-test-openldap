@@ -1,0 +1,13 @@
+dn: cn=Antone+sn=Spinks,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Antone Spinks
+cn: Spinks
+givenname: Antone
+mail: antone.spinks@planetexpress.com
+userPassword: Antone
+ou: Group5
+uid: 2967
+ Q==

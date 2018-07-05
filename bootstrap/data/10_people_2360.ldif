@@ -1,0 +1,13 @@
+dn: cn=Nelly+sn=Allateef,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nelly Allateef
+cn: Allateef
+givenname: Nelly
+mail: nelly.allateef@planetexpress.com
+userPassword: Nelly
+ou: OtherGroup
+uid: 2360
+ Q==

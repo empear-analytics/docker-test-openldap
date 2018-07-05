@@ -1,0 +1,13 @@
+dn: cn=Yun+sn=Breda,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yun Breda
+cn: Breda
+givenname: Yun
+mail: yun.breda@planetexpress.com
+userPassword: Yun
+ou: flight_crew
+uid: 5501
+ Q==

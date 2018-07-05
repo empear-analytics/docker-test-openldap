@@ -1,0 +1,13 @@
+dn: cn=Lillie+sn=Scherschligt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lillie Scherschligt
+cn: Scherschligt
+givenname: Lillie
+mail: lillie.scherschligt@planetexpress.com
+userPassword: Lillie
+ou: flight_crew
+uid: 225
+ Q==

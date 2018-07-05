@@ -1,0 +1,13 @@
+dn: cn=Shawanna+sn=Gallaga,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shawanna Gallaga
+cn: Gallaga
+givenname: Shawanna
+mail: shawanna.gallaga@planetexpress.com
+userPassword: Shawanna
+ou: flight_crew
+uid: 4663
+ Q==

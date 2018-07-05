@@ -1,0 +1,13 @@
+dn: cn=Elidia+sn=Oliveros,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elidia Oliveros
+cn: Oliveros
+givenname: Elidia
+mail: elidia.oliveros@planetexpress.com
+userPassword: Elidia
+ou: Group5
+uid: 3708
+ Q==

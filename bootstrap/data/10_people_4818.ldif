@@ -1,0 +1,13 @@
+dn: cn=Kimiko+sn=Bowersock,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kimiko Bowersock
+cn: Bowersock
+givenname: Kimiko
+mail: kimiko.bowersock@planetexpress.com
+userPassword: Kimiko
+ou: OtherGroup
+uid: 4818
+ Q==

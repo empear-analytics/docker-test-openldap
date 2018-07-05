@@ -1,0 +1,13 @@
+dn: cn=Enda+sn=Desotel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Enda Desotel
+cn: Desotel
+givenname: Enda
+mail: enda.desotel@planetexpress.com
+userPassword: Enda
+ou: Group5
+uid: 4860
+ Q==

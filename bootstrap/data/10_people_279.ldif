@@ -1,0 +1,13 @@
+dn: cn=Lorna+sn=Statum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lorna Statum
+cn: Statum
+givenname: Lorna
+mail: lorna.statum@planetexpress.com
+userPassword: Lorna
+ou: flight_crew
+uid: 279
+ Q==

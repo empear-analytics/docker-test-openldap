@@ -1,0 +1,13 @@
+dn: cn=Hilaria+sn=Mcsween,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hilaria Mcsween
+cn: Mcsween
+givenname: Hilaria
+mail: hilaria.mcsween@planetexpress.com
+userPassword: Hilaria
+ou: OtherGroup
+uid: 882
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Josefa+sn=Marquette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Josefa Marquette
+cn: Marquette
+givenname: Josefa
+mail: josefa.marquette@planetexpress.com
+userPassword: Josefa
+ou: Group5
+uid: 1192
+ Q==

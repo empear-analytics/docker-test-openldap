@@ -1,0 +1,13 @@
+dn: cn=Lyman+sn=Vanbergen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lyman Vanbergen
+cn: Vanbergen
+givenname: Lyman
+mail: lyman.vanbergen@planetexpress.com
+userPassword: Lyman
+ou: flight_crew
+uid: 4172
+ Q==

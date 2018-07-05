@@ -1,0 +1,13 @@
+dn: cn=Oswaldo+sn=Phlieger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Oswaldo Phlieger
+cn: Phlieger
+givenname: Oswaldo
+mail: oswaldo.phlieger@planetexpress.com
+userPassword: Oswaldo
+ou: admin_staff
+uid: 2498
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Gilberte+sn=Minix,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gilberte Minix
+cn: Minix
+givenname: Gilberte
+mail: gilberte.minix@planetexpress.com
+userPassword: Gilberte
+ou: OtherGroup
+uid: 4994
+ Q==

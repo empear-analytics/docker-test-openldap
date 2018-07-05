@@ -1,0 +1,13 @@
+dn: cn=Franklyn+sn=Aricas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Franklyn Aricas
+cn: Aricas
+givenname: Franklyn
+mail: franklyn.aricas@planetexpress.com
+userPassword: Franklyn
+ou: Group5
+uid: 271
+ Q==

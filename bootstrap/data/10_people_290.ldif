@@ -1,0 +1,13 @@
+dn: cn=Ariane+sn=Mudget,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ariane Mudget
+cn: Mudget
+givenname: Ariane
+mail: ariane.mudget@planetexpress.com
+userPassword: Ariane
+ou: Group5
+uid: 290
+ Q==

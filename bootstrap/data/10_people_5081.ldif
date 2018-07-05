@@ -1,0 +1,13 @@
+dn: cn=Jimmy+sn=Werlinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jimmy Werlinger
+cn: Werlinger
+givenname: Jimmy
+mail: jimmy.werlinger@planetexpress.com
+userPassword: Jimmy
+ou: flight_crew
+uid: 5081
+ Q==

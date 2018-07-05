@@ -1,0 +1,13 @@
+dn: cn=Greta+sn=Strobel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Greta Strobel
+cn: Strobel
+givenname: Greta
+mail: greta.strobel@planetexpress.com
+userPassword: Greta
+ou: flight_crew
+uid: 1658
+ Q==

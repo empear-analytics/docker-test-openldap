@@ -1,0 +1,13 @@
+dn: cn=Margaretta+sn=Aksoy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margaretta Aksoy
+cn: Aksoy
+givenname: Margaretta
+mail: margaretta.aksoy@planetexpress.com
+userPassword: Margaretta
+ou: OtherGroup
+uid: 2020
+ Q==

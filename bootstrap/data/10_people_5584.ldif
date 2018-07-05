@@ -1,0 +1,13 @@
+dn: cn=Mittie+sn=Rothchild,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mittie Rothchild
+cn: Rothchild
+givenname: Mittie
+mail: mittie.rothchild@planetexpress.com
+userPassword: Mittie
+ou: OtherGroup
+uid: 5584
+ Q==

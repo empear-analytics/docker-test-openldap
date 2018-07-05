@@ -1,0 +1,13 @@
+dn: cn=Abbie+sn=Comeau,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Abbie Comeau
+cn: Comeau
+givenname: Abbie
+mail: abbie.comeau@planetexpress.com
+userPassword: Abbie
+ou: Group5
+uid: 3992
+ Q==

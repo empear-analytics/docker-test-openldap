@@ -1,0 +1,13 @@
+dn: cn=Charlene+sn=Tunby,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charlene Tunby
+cn: Tunby
+givenname: Charlene
+mail: charlene.tunby@planetexpress.com
+userPassword: Charlene
+ou: Group5
+uid: 80
+ Q==

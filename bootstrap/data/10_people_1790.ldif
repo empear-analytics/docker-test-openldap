@@ -1,0 +1,13 @@
+dn: cn=Katherin+sn=Lokhmatov,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katherin Lokhmatov
+cn: Lokhmatov
+givenname: Katherin
+mail: katherin.lokhmatov@planetexpress.com
+userPassword: Katherin
+ou: flight_crew
+uid: 1790
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Arthur+sn=Houts,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arthur Houts
+cn: Houts
+givenname: Arthur
+mail: arthur.houts@planetexpress.com
+userPassword: Arthur
+ou: OtherGroup
+uid: 4529
+ Q==

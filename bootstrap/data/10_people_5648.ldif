@@ -1,0 +1,13 @@
+dn: cn=Thomas+sn=Ancar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thomas Ancar
+cn: Ancar
+givenname: Thomas
+mail: thomas.ancar@planetexpress.com
+userPassword: Thomas
+ou: admin_staff
+uid: 5648
+ Q==

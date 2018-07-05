@@ -1,0 +1,13 @@
+dn: cn=Leida+sn=Norgaard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leida Norgaard
+cn: Norgaard
+givenname: Leida
+mail: leida.norgaard@planetexpress.com
+userPassword: Leida
+ou: OtherGroup
+uid: 5073
+ Q==

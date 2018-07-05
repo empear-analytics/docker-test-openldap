@@ -1,0 +1,13 @@
+dn: cn=Jena+sn=Mainville,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jena Mainville
+cn: Mainville
+givenname: Jena
+mail: jena.mainville@planetexpress.com
+userPassword: Jena
+ou: Group5
+uid: 5052
+ Q==

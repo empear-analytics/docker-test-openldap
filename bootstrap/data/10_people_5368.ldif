@@ -1,0 +1,13 @@
+dn: cn=Kemberly+sn=Shepheard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kemberly Shepheard
+cn: Shepheard
+givenname: Kemberly
+mail: kemberly.shepheard@planetexpress.com
+userPassword: Kemberly
+ou: Group5
+uid: 5368
+ Q==

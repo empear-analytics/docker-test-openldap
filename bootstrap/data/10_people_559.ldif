@@ -1,0 +1,13 @@
+dn: cn=Lory+sn=Schinkel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lory Schinkel
+cn: Schinkel
+givenname: Lory
+mail: lory.schinkel@planetexpress.com
+userPassword: Lory
+ou: flight_crew
+uid: 559
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Season+sn=Smietana,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Season Smietana
+cn: Smietana
+givenname: Season
+mail: season.smietana@planetexpress.com
+userPassword: Season
+ou: flight_crew
+uid: 4180
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Miguel+sn=Schnipper,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Miguel Schnipper
+cn: Schnipper
+givenname: Miguel
+mail: miguel.schnipper@planetexpress.com
+userPassword: Miguel
+ou: OtherGroup
+uid: 156
+ Q==

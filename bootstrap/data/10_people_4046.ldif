@@ -1,0 +1,13 @@
+dn: cn=Ebonie+sn=Atoe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ebonie Atoe
+cn: Atoe
+givenname: Ebonie
+mail: ebonie.atoe@planetexpress.com
+userPassword: Ebonie
+ou: Group5
+uid: 4046
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Sheilah+sn=Grusenmeyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sheilah Grusenmeyer
+cn: Grusenmeyer
+givenname: Sheilah
+mail: sheilah.grusenmeyer@planetexpress.com
+userPassword: Sheilah
+ou: Group5
+uid: 258
+ Q==

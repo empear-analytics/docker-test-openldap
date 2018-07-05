@@ -1,0 +1,13 @@
+dn: cn=Glenda+sn=Droege,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Glenda Droege
+cn: Droege
+givenname: Glenda
+mail: glenda.droege@planetexpress.com
+userPassword: Glenda
+ou: Group5
+uid: 5960
+ Q==

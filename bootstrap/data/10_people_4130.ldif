@@ -1,0 +1,13 @@
+dn: cn=Myrle+sn=Mezzinni,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Myrle Mezzinni
+cn: Mezzinni
+givenname: Myrle
+mail: myrle.mezzinni@planetexpress.com
+userPassword: Myrle
+ou: flight_crew
+uid: 4130
+ Q==

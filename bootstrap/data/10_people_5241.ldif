@@ -1,0 +1,13 @@
+dn: cn=Clark+sn=Bowne,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clark Bowne
+cn: Bowne
+givenname: Clark
+mail: clark.bowne@planetexpress.com
+userPassword: Clark
+ou: flight_crew
+uid: 5241
+ Q==

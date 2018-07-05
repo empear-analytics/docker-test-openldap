@@ -1,0 +1,13 @@
+dn: cn=Mitzi+sn=Galapon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mitzi Galapon
+cn: Galapon
+givenname: Mitzi
+mail: mitzi.galapon@planetexpress.com
+userPassword: Mitzi
+ou: admin_staff
+uid: 4365
+ Q==

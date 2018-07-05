@@ -1,0 +1,13 @@
+dn: cn=Bart+sn=Gerraro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bart Gerraro
+cn: Gerraro
+givenname: Bart
+mail: bart.gerraro@planetexpress.com
+userPassword: Bart
+ou: OtherGroup
+uid: 702
+ Q==

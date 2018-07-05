@@ -1,0 +1,13 @@
+dn: cn=Candyce+sn=Boxton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Candyce Boxton
+cn: Boxton
+givenname: Candyce
+mail: candyce.boxton@planetexpress.com
+userPassword: Candyce
+ou: admin_staff
+uid: 4455
+ Q==

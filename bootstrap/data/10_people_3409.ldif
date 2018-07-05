@@ -1,0 +1,13 @@
+dn: cn=Carleen+sn=Hughs,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carleen Hughs
+cn: Hughs
+givenname: Carleen
+mail: carleen.hughs@planetexpress.com
+userPassword: Carleen
+ou: admin_staff
+uid: 3409
+ Q==

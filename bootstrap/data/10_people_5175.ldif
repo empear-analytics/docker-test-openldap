@@ -1,0 +1,13 @@
+dn: cn=Dwana+sn=Rollins,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dwana Rollins
+cn: Rollins
+givenname: Dwana
+mail: dwana.rollins@planetexpress.com
+userPassword: Dwana
+ou: flight_crew
+uid: 5175
+ Q==

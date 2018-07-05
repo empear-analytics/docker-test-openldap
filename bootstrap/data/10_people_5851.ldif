@@ -1,0 +1,13 @@
+dn: cn=Breanna+sn=Dergance,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Breanna Dergance
+cn: Dergance
+givenname: Breanna
+mail: breanna.dergance@planetexpress.com
+userPassword: Breanna
+ou: admin_staff
+uid: 5851
+ Q==

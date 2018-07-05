@@ -1,0 +1,13 @@
+dn: cn=Kathryn+sn=Neloms,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kathryn Neloms
+cn: Neloms
+givenname: Kathryn
+mail: kathryn.neloms@planetexpress.com
+userPassword: Kathryn
+ou: admin_staff
+uid: 4555
+ Q==

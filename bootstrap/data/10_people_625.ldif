@@ -1,0 +1,13 @@
+dn: cn=Elise+sn=Lacour,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elise Lacour
+cn: Lacour
+givenname: Elise
+mail: elise.lacour@planetexpress.com
+userPassword: Elise
+ou: admin_staff
+uid: 625
+ Q==

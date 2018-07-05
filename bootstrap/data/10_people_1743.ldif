@@ -1,0 +1,13 @@
+dn: cn=Ebonie+sn=Hessenthaler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ebonie Hessenthaler
+cn: Hessenthaler
+givenname: Ebonie
+mail: ebonie.hessenthaler@planetexpress.com
+userPassword: Ebonie
+ou: admin_staff
+uid: 1743
+ Q==

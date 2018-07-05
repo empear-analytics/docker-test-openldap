@@ -1,0 +1,13 @@
+dn: cn=Kara+sn=Loney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kara Loney
+cn: Loney
+givenname: Kara
+mail: kara.loney@planetexpress.com
+userPassword: Kara
+ou: Group5
+uid: 4385
+ Q==

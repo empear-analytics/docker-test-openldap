@@ -1,0 +1,13 @@
+dn: cn=Tammie+sn=Tullison,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tammie Tullison
+cn: Tullison
+givenname: Tammie
+mail: tammie.tullison@planetexpress.com
+userPassword: Tammie
+ou: Group5
+uid: 1981
+ Q==

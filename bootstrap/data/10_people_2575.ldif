@@ -1,0 +1,13 @@
+dn: cn=Helaine+sn=Desormo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Helaine Desormo
+cn: Desormo
+givenname: Helaine
+mail: helaine.desormo@planetexpress.com
+userPassword: Helaine
+ou: OtherGroup
+uid: 2575
+ Q==

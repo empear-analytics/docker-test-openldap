@@ -1,0 +1,13 @@
+dn: cn=Robbin+sn=Loso,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Robbin Loso
+cn: Loso
+givenname: Robbin
+mail: robbin.loso@planetexpress.com
+userPassword: Robbin
+ou: OtherGroup
+uid: 4322
+ Q==

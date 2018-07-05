@@ -1,0 +1,13 @@
+dn: cn=Hee+sn=Pugsley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hee Pugsley
+cn: Pugsley
+givenname: Hee
+mail: hee.pugsley@planetexpress.com
+userPassword: Hee
+ou: OtherGroup
+uid: 3674
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Maritza+sn=Ortell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maritza Ortell
+cn: Ortell
+givenname: Maritza
+mail: maritza.ortell@planetexpress.com
+userPassword: Maritza
+ou: OtherGroup
+uid: 3121
+ Q==

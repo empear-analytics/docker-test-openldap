@@ -1,0 +1,13 @@
+dn: cn=Dorothy+sn=Lenton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dorothy Lenton
+cn: Lenton
+givenname: Dorothy
+mail: dorothy.lenton@planetexpress.com
+userPassword: Dorothy
+ou: flight_crew
+uid: 3821
+ Q==

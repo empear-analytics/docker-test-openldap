@@ -1,0 +1,13 @@
+dn: cn=Berneice+sn=Reber,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Berneice Reber
+cn: Reber
+givenname: Berneice
+mail: berneice.reber@planetexpress.com
+userPassword: Berneice
+ou: OtherGroup
+uid: 79
+ Q==

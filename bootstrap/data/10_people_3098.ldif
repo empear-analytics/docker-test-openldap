@@ -1,0 +1,13 @@
+dn: cn=Precious+sn=Fricano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Precious Fricano
+cn: Fricano
+givenname: Precious
+mail: precious.fricano@planetexpress.com
+userPassword: Precious
+ou: flight_crew
+uid: 3098
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Annie+sn=Dipinto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annie Dipinto
+cn: Dipinto
+givenname: Annie
+mail: annie.dipinto@planetexpress.com
+userPassword: Annie
+ou: flight_crew
+uid: 292
+ Q==

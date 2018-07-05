@@ -1,0 +1,13 @@
+dn: cn=Raisa+sn=Natonabah,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raisa Natonabah
+cn: Natonabah
+givenname: Raisa
+mail: raisa.natonabah@planetexpress.com
+userPassword: Raisa
+ou: Group5
+uid: 4703
+ Q==

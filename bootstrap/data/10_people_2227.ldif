@@ -1,0 +1,13 @@
+dn: cn=Miguelina+sn=Tri,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Miguelina Tri
+cn: Tri
+givenname: Miguelina
+mail: miguelina.tri@planetexpress.com
+userPassword: Miguelina
+ou: flight_crew
+uid: 2227
+ Q==

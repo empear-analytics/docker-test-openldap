@@ -1,0 +1,13 @@
+dn: cn=Denisse+sn=Arnow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Denisse Arnow
+cn: Arnow
+givenname: Denisse
+mail: denisse.arnow@planetexpress.com
+userPassword: Denisse
+ou: flight_crew
+uid: 5531
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Mike+sn=Regner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mike Regner
+cn: Regner
+givenname: Mike
+mail: mike.regner@planetexpress.com
+userPassword: Mike
+ou: Group5
+uid: 5894
+ Q==

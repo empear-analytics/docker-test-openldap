@@ -1,0 +1,13 @@
+dn: cn=Margert+sn=Ledon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margert Ledon
+cn: Ledon
+givenname: Margert
+mail: margert.ledon@planetexpress.com
+userPassword: Margert
+ou: OtherGroup
+uid: 5503
+ Q==

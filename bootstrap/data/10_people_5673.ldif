@@ -1,0 +1,13 @@
+dn: cn=Sheree+sn=Tharrington,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sheree Tharrington
+cn: Tharrington
+givenname: Sheree
+mail: sheree.tharrington@planetexpress.com
+userPassword: Sheree
+ou: admin_staff
+uid: 5673
+ Q==

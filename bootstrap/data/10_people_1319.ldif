@@ -1,0 +1,13 @@
+dn: cn=Anna+sn=Kali,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anna Kali
+cn: Kali
+givenname: Anna
+mail: anna.kali@planetexpress.com
+userPassword: Anna
+ou: flight_crew
+uid: 1319
+ Q==

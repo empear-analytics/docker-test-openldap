@@ -1,0 +1,13 @@
+dn: cn=Arleen+sn=Bickelhaupt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arleen Bickelhaupt
+cn: Bickelhaupt
+givenname: Arleen
+mail: arleen.bickelhaupt@planetexpress.com
+userPassword: Arleen
+ou: admin_staff
+uid: 1271
+ Q==

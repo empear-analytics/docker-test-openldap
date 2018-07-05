@@ -1,0 +1,13 @@
+dn: cn=Loralee+sn=Riggenbach,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loralee Riggenbach
+cn: Riggenbach
+givenname: Loralee
+mail: loralee.riggenbach@planetexpress.com
+userPassword: Loralee
+ou: Group5
+uid: 2813
+ Q==

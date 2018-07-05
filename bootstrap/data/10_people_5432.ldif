@@ -1,0 +1,13 @@
+dn: cn=Cleora+sn=Tenor,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cleora Tenor
+cn: Tenor
+givenname: Cleora
+mail: cleora.tenor@planetexpress.com
+userPassword: Cleora
+ou: admin_staff
+uid: 5432
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tora+sn=Bonaccorso,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tora Bonaccorso
+cn: Bonaccorso
+givenname: Tora
+mail: tora.bonaccorso@planetexpress.com
+userPassword: Tora
+ou: OtherGroup
+uid: 5383
+ Q==

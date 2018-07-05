@@ -1,0 +1,13 @@
+dn: cn=Farah+sn=Standen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Farah Standen
+cn: Standen
+givenname: Farah
+mail: farah.standen@planetexpress.com
+userPassword: Farah
+ou: flight_crew
+uid: 4687
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Merrilee+sn=Wironen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Merrilee Wironen
+cn: Wironen
+givenname: Merrilee
+mail: merrilee.wironen@planetexpress.com
+userPassword: Merrilee
+ou: flight_crew
+uid: 4731
+ Q==

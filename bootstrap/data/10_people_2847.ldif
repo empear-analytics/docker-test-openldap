@@ -1,0 +1,13 @@
+dn: cn=Franchesca+sn=Ziminski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Franchesca Ziminski
+cn: Ziminski
+givenname: Franchesca
+mail: franchesca.ziminski@planetexpress.com
+userPassword: Franchesca
+ou: OtherGroup
+uid: 2847
+ Q==

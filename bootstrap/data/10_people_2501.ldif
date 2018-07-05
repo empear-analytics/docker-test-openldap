@@ -1,0 +1,13 @@
+dn: cn=Katlyn+sn=Carstarphen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katlyn Carstarphen
+cn: Carstarphen
+givenname: Katlyn
+mail: katlyn.carstarphen@planetexpress.com
+userPassword: Katlyn
+ou: OtherGroup
+uid: 2501
+ Q==

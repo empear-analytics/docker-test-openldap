@@ -1,0 +1,13 @@
+dn: cn=Cody+sn=Lindenfelser,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cody Lindenfelser
+cn: Lindenfelser
+givenname: Cody
+mail: cody.lindenfelser@planetexpress.com
+userPassword: Cody
+ou: flight_crew
+uid: 916
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Marybelle+sn=Krane,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marybelle Krane
+cn: Krane
+givenname: Marybelle
+mail: marybelle.krane@planetexpress.com
+userPassword: Marybelle
+ou: admin_staff
+uid: 3480
+ Q==

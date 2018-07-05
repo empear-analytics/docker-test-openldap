@@ -1,0 +1,13 @@
+dn: cn=So+sn=Hopperstad,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: So Hopperstad
+cn: Hopperstad
+givenname: So
+mail: so.hopperstad@planetexpress.com
+userPassword: So
+ou: admin_staff
+uid: 3432
+ Q==

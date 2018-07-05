@@ -1,0 +1,13 @@
+dn: cn=Randa+sn=Greenmyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Randa Greenmyer
+cn: Greenmyer
+givenname: Randa
+mail: randa.greenmyer@planetexpress.com
+userPassword: Randa
+ou: OtherGroup
+uid: 2826
+ Q==

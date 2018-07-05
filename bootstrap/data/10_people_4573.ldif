@@ -1,0 +1,13 @@
+dn: cn=Piper+sn=Gulde,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Piper Gulde
+cn: Gulde
+givenname: Piper
+mail: piper.gulde@planetexpress.com
+userPassword: Piper
+ou: admin_staff
+uid: 4573
+ Q==

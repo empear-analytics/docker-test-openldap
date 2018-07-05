@@ -1,0 +1,13 @@
+dn: cn=Lanora+sn=Elgas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lanora Elgas
+cn: Elgas
+givenname: Lanora
+mail: lanora.elgas@planetexpress.com
+userPassword: Lanora
+ou: OtherGroup
+uid: 2513
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Gil+sn=Degooyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gil Degooyer
+cn: Degooyer
+givenname: Gil
+mail: gil.degooyer@planetexpress.com
+userPassword: Gil
+ou: OtherGroup
+uid: 1922
+ Q==

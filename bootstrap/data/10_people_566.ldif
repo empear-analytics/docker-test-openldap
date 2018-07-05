@@ -1,0 +1,13 @@
+dn: cn=Ebony+sn=Espy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ebony Espy
+cn: Espy
+givenname: Ebony
+mail: ebony.espy@planetexpress.com
+userPassword: Ebony
+ou: Group5
+uid: 566
+ Q==

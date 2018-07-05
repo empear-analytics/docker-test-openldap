@@ -1,0 +1,13 @@
+dn: cn=Dolly+sn=Woloszyn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dolly Woloszyn
+cn: Woloszyn
+givenname: Dolly
+mail: dolly.woloszyn@planetexpress.com
+userPassword: Dolly
+ou: OtherGroup
+uid: 2835
+ Q==

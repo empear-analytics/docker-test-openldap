@@ -1,0 +1,13 @@
+dn: cn=Eveline+sn=Branaman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eveline Branaman
+cn: Branaman
+givenname: Eveline
+mail: eveline.branaman@planetexpress.com
+userPassword: Eveline
+ou: flight_crew
+uid: 1100
+ Q==

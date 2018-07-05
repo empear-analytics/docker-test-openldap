@@ -1,0 +1,13 @@
+dn: cn=Deon+sn=Parrot,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deon Parrot
+cn: Parrot
+givenname: Deon
+mail: deon.parrot@planetexpress.com
+userPassword: Deon
+ou: OtherGroup
+uid: 1563
+ Q==

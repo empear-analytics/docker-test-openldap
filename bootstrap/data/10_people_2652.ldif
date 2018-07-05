@@ -1,0 +1,13 @@
+dn: cn=Nancee+sn=Nayee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nancee Nayee
+cn: Nayee
+givenname: Nancee
+mail: nancee.nayee@planetexpress.com
+userPassword: Nancee
+ou: Group5
+uid: 2652
+ Q==

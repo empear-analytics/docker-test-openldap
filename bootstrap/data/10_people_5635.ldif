@@ -1,0 +1,13 @@
+dn: cn=Denis+sn=Wheldon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Denis Wheldon
+cn: Wheldon
+givenname: Denis
+mail: denis.wheldon@planetexpress.com
+userPassword: Denis
+ou: Group5
+uid: 5635
+ Q==

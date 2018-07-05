@@ -1,0 +1,13 @@
+dn: cn=Joshua+sn=Harsh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joshua Harsh
+cn: Harsh
+givenname: Joshua
+mail: joshua.harsh@planetexpress.com
+userPassword: Joshua
+ou: flight_crew
+uid: 1746
+ Q==

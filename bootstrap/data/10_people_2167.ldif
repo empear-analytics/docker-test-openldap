@@ -1,0 +1,13 @@
+dn: cn=Le+sn=Rinehimer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Le Rinehimer
+cn: Rinehimer
+givenname: Le
+mail: le.rinehimer@planetexpress.com
+userPassword: Le
+ou: admin_staff
+uid: 2167
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Wai+sn=Valladolid,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wai Valladolid
+cn: Valladolid
+givenname: Wai
+mail: wai.valladolid@planetexpress.com
+userPassword: Wai
+ou: admin_staff
+uid: 3201
+ Q==

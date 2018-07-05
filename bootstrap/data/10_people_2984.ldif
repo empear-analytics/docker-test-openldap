@@ -1,0 +1,13 @@
+dn: cn=Kurt+sn=Giacomini,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kurt Giacomini
+cn: Giacomini
+givenname: Kurt
+mail: kurt.giacomini@planetexpress.com
+userPassword: Kurt
+ou: OtherGroup
+uid: 2984
+ Q==

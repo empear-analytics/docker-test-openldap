@@ -1,0 +1,13 @@
+dn: cn=Matilda+sn=Huttman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Matilda Huttman
+cn: Huttman
+givenname: Matilda
+mail: matilda.huttman@planetexpress.com
+userPassword: Matilda
+ou: Group5
+uid: 1326
+ Q==

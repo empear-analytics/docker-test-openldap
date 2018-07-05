@@ -1,0 +1,13 @@
+dn: cn=Royce+sn=Devincentis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Royce Devincentis
+cn: Devincentis
+givenname: Royce
+mail: royce.devincentis@planetexpress.com
+userPassword: Royce
+ou: flight_crew
+uid: 5766
+ Q==

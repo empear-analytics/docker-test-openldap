@@ -1,0 +1,13 @@
+dn: cn=Deedra+sn=Bullen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deedra Bullen
+cn: Bullen
+givenname: Deedra
+mail: deedra.bullen@planetexpress.com
+userPassword: Deedra
+ou: flight_crew
+uid: 2567
+ Q==

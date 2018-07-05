@@ -1,0 +1,13 @@
+dn: cn=Kenny+sn=Forget,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kenny Forget
+cn: Forget
+givenname: Kenny
+mail: kenny.forget@planetexpress.com
+userPassword: Kenny
+ou: admin_staff
+uid: 1295
+ Q==

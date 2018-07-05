@@ -1,0 +1,13 @@
+dn: cn=Florentina+sn=Sepulvado,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Florentina Sepulvado
+cn: Sepulvado
+givenname: Florentina
+mail: florentina.sepulvado@planetexpress.com
+userPassword: Florentina
+ou: admin_staff
+uid: 3406
+ Q==

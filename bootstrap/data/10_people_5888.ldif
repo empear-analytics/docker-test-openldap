@@ -1,0 +1,13 @@
+dn: cn=Charlena+sn=Balzarini,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charlena Balzarini
+cn: Balzarini
+givenname: Charlena
+mail: charlena.balzarini@planetexpress.com
+userPassword: Charlena
+ou: Group5
+uid: 5888
+ Q==

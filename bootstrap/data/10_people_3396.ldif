@@ -1,0 +1,13 @@
+dn: cn=Isaias+sn=Hawkings,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Isaias Hawkings
+cn: Hawkings
+givenname: Isaias
+mail: isaias.hawkings@planetexpress.com
+userPassword: Isaias
+ou: flight_crew
+uid: 3396
+ Q==

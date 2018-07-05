@@ -1,0 +1,13 @@
+dn: cn=Bryanna+sn=Harver,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bryanna Harver
+cn: Harver
+givenname: Bryanna
+mail: bryanna.harver@planetexpress.com
+userPassword: Bryanna
+ou: OtherGroup
+uid: 3069
+ Q==

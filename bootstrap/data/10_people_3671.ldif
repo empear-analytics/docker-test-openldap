@@ -1,0 +1,13 @@
+dn: cn=Jay+sn=Sansalone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jay Sansalone
+cn: Sansalone
+givenname: Jay
+mail: jay.sansalone@planetexpress.com
+userPassword: Jay
+ou: Group5
+uid: 3671
+ Q==

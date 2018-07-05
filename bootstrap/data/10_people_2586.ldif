@@ -1,0 +1,13 @@
+dn: cn=Lelah+sn=Fitzke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lelah Fitzke
+cn: Fitzke
+givenname: Lelah
+mail: lelah.fitzke@planetexpress.com
+userPassword: Lelah
+ou: admin_staff
+uid: 2586
+ Q==

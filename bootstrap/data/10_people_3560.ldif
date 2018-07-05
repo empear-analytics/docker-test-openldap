@@ -1,0 +1,13 @@
+dn: cn=Fredericka+sn=Daiton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fredericka Daiton
+cn: Daiton
+givenname: Fredericka
+mail: fredericka.daiton@planetexpress.com
+userPassword: Fredericka
+ou: flight_crew
+uid: 3560
+ Q==

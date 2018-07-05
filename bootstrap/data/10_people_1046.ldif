@@ -1,0 +1,13 @@
+dn: cn=Julissa+sn=Pillard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Julissa Pillard
+cn: Pillard
+givenname: Julissa
+mail: julissa.pillard@planetexpress.com
+userPassword: Julissa
+ou: flight_crew
+uid: 1046
+ Q==

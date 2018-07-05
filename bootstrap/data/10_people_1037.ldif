@@ -1,0 +1,13 @@
+dn: cn=An+sn=Firman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: An Firman
+cn: Firman
+givenname: An
+mail: an.firman@planetexpress.com
+userPassword: An
+ou: flight_crew
+uid: 1037
+ Q==

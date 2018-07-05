@@ -1,0 +1,13 @@
+dn: cn=Herma+sn=Dagis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Herma Dagis
+cn: Dagis
+givenname: Herma
+mail: herma.dagis@planetexpress.com
+userPassword: Herma
+ou: OtherGroup
+uid: 1974
+ Q==

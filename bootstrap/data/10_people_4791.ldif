@@ -1,0 +1,13 @@
+dn: cn=Troy+sn=Nacisse,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Troy Nacisse
+cn: Nacisse
+givenname: Troy
+mail: troy.nacisse@planetexpress.com
+userPassword: Troy
+ou: Group5
+uid: 4791
+ Q==

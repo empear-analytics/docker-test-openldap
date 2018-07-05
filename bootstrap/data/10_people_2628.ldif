@@ -1,0 +1,13 @@
+dn: cn=Barrett+sn=Mcgray,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Barrett Mcgray
+cn: Mcgray
+givenname: Barrett
+mail: barrett.mcgray@planetexpress.com
+userPassword: Barrett
+ou: flight_crew
+uid: 2628
+ Q==

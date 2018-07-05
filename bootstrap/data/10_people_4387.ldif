@@ -1,0 +1,13 @@
+dn: cn=Moses+sn=Laubersheimer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Moses Laubersheimer
+cn: Laubersheimer
+givenname: Moses
+mail: moses.laubersheimer@planetexpress.com
+userPassword: Moses
+ou: Group5
+uid: 4387
+ Q==

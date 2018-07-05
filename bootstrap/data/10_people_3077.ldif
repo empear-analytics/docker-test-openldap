@@ -1,0 +1,13 @@
+dn: cn=Angelo+sn=Reger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelo Reger
+cn: Reger
+givenname: Angelo
+mail: angelo.reger@planetexpress.com
+userPassword: Angelo
+ou: OtherGroup
+uid: 3077
+ Q==

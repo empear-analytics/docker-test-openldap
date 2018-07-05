@@ -1,0 +1,13 @@
+dn: cn=Prudence+sn=Lepre,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Prudence Lepre
+cn: Lepre
+givenname: Prudence
+mail: prudence.lepre@planetexpress.com
+userPassword: Prudence
+ou: OtherGroup
+uid: 387
+ Q==

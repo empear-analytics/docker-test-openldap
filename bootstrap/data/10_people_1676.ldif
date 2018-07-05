@@ -1,0 +1,13 @@
+dn: cn=Toccara+sn=Weatherall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Toccara Weatherall
+cn: Weatherall
+givenname: Toccara
+mail: toccara.weatherall@planetexpress.com
+userPassword: Toccara
+ou: Group5
+uid: 1676
+ Q==

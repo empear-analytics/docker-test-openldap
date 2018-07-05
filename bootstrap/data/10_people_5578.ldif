@@ -1,0 +1,13 @@
+dn: cn=Noreen+sn=Arritola,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Noreen Arritola
+cn: Arritola
+givenname: Noreen
+mail: noreen.arritola@planetexpress.com
+userPassword: Noreen
+ou: flight_crew
+uid: 5578
+ Q==

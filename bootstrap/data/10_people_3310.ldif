@@ -1,0 +1,13 @@
+dn: cn=Migdalia+sn=Ortmeyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Migdalia Ortmeyer
+cn: Ortmeyer
+givenname: Migdalia
+mail: migdalia.ortmeyer@planetexpress.com
+userPassword: Migdalia
+ou: admin_staff
+uid: 3310
+ Q==

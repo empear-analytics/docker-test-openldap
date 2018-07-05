@@ -1,0 +1,13 @@
+dn: cn=Madge+sn=Luzader,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Madge Luzader
+cn: Luzader
+givenname: Madge
+mail: madge.luzader@planetexpress.com
+userPassword: Madge
+ou: Group5
+uid: 2120
+ Q==

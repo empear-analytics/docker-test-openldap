@@ -1,0 +1,13 @@
+dn: cn=Debroah+sn=Boggioni,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Debroah Boggioni
+cn: Boggioni
+givenname: Debroah
+mail: debroah.boggioni@planetexpress.com
+userPassword: Debroah
+ou: Group5
+uid: 3733
+ Q==

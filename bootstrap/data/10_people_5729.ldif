@@ -1,0 +1,13 @@
+dn: cn=Maple+sn=Firkey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maple Firkey
+cn: Firkey
+givenname: Maple
+mail: maple.firkey@planetexpress.com
+userPassword: Maple
+ou: flight_crew
+uid: 5729
+ Q==

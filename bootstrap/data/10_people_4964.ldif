@@ -1,0 +1,13 @@
+dn: cn=Billie+sn=Adank,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Billie Adank
+cn: Adank
+givenname: Billie
+mail: billie.adank@planetexpress.com
+userPassword: Billie
+ou: flight_crew
+uid: 4964
+ Q==

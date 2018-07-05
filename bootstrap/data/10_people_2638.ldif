@@ -1,0 +1,13 @@
+dn: cn=Bret+sn=Bapties,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bret Bapties
+cn: Bapties
+givenname: Bret
+mail: bret.bapties@planetexpress.com
+userPassword: Bret
+ou: flight_crew
+uid: 2638
+ Q==

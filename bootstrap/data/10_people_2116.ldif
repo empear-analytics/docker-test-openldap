@@ -1,0 +1,13 @@
+dn: cn=Adrianne+sn=Lavatch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adrianne Lavatch
+cn: Lavatch
+givenname: Adrianne
+mail: adrianne.lavatch@planetexpress.com
+userPassword: Adrianne
+ou: Group5
+uid: 2116
+ Q==

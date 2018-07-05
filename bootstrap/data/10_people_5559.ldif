@@ -1,0 +1,13 @@
+dn: cn=Lindy+sn=Cassens,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lindy Cassens
+cn: Cassens
+givenname: Lindy
+mail: lindy.cassens@planetexpress.com
+userPassword: Lindy
+ou: admin_staff
+uid: 5559
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Madlyn+sn=Mcdougall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Madlyn Mcdougall
+cn: Mcdougall
+givenname: Madlyn
+mail: madlyn.mcdougall@planetexpress.com
+userPassword: Madlyn
+ou: admin_staff
+uid: 590
+ Q==

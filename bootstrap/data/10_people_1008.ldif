@@ -1,0 +1,13 @@
+dn: cn=Loida+sn=Pfeifer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loida Pfeifer
+cn: Pfeifer
+givenname: Loida
+mail: loida.pfeifer@planetexpress.com
+userPassword: Loida
+ou: Group5
+uid: 1008
+ Q==

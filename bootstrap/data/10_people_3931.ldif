@@ -1,0 +1,13 @@
+dn: cn=Thao+sn=Macklem,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thao Macklem
+cn: Macklem
+givenname: Thao
+mail: thao.macklem@planetexpress.com
+userPassword: Thao
+ou: admin_staff
+uid: 3931
+ Q==

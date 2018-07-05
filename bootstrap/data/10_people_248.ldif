@@ -1,0 +1,13 @@
+dn: cn=Kamala+sn=Ambagis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kamala Ambagis
+cn: Ambagis
+givenname: Kamala
+mail: kamala.ambagis@planetexpress.com
+userPassword: Kamala
+ou: Group5
+uid: 248
+ Q==

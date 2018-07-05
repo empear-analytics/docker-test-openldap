@@ -1,0 +1,13 @@
+dn: cn=Roy+sn=Stittgen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roy Stittgen
+cn: Stittgen
+givenname: Roy
+mail: roy.stittgen@planetexpress.com
+userPassword: Roy
+ou: admin_staff
+uid: 4270
+ Q==

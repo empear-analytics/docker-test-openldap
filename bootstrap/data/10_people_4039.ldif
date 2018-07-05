@@ -1,0 +1,13 @@
+dn: cn=Ciara+sn=Graleski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ciara Graleski
+cn: Graleski
+givenname: Ciara
+mail: ciara.graleski@planetexpress.com
+userPassword: Ciara
+ou: Group5
+uid: 4039
+ Q==

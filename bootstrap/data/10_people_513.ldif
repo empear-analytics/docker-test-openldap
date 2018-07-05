@@ -1,0 +1,13 @@
+dn: cn=Chantay+sn=Buis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chantay Buis
+cn: Buis
+givenname: Chantay
+mail: chantay.buis@planetexpress.com
+userPassword: Chantay
+ou: flight_crew
+uid: 513
+ Q==

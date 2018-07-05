@@ -1,0 +1,13 @@
+dn: cn=Lamont+sn=Habbyshaw,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lamont Habbyshaw
+cn: Habbyshaw
+givenname: Lamont
+mail: lamont.habbyshaw@planetexpress.com
+userPassword: Lamont
+ou: admin_staff
+uid: 3251
+ Q==

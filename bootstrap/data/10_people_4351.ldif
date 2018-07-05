@@ -1,0 +1,13 @@
+dn: cn=Kathlyn+sn=Safdeye,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kathlyn Safdeye
+cn: Safdeye
+givenname: Kathlyn
+mail: kathlyn.safdeye@planetexpress.com
+userPassword: Kathlyn
+ou: flight_crew
+uid: 4351
+ Q==

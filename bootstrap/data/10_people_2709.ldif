@@ -1,0 +1,13 @@
+dn: cn=Sabrina+sn=Lamoine,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sabrina Lamoine
+cn: Lamoine
+givenname: Sabrina
+mail: sabrina.lamoine@planetexpress.com
+userPassword: Sabrina
+ou: OtherGroup
+uid: 2709
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tobi+sn=Zirbel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tobi Zirbel
+cn: Zirbel
+givenname: Tobi
+mail: tobi.zirbel@planetexpress.com
+userPassword: Tobi
+ou: OtherGroup
+uid: 5200
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Debbi+sn=Friedeck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Debbi Friedeck
+cn: Friedeck
+givenname: Debbi
+mail: debbi.friedeck@planetexpress.com
+userPassword: Debbi
+ou: flight_crew
+uid: 4277
+ Q==

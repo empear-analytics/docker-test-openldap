@@ -1,0 +1,13 @@
+dn: cn=King+sn=Cohron,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: King Cohron
+cn: Cohron
+givenname: King
+mail: king.cohron@planetexpress.com
+userPassword: King
+ou: flight_crew
+uid: 310
+ Q==

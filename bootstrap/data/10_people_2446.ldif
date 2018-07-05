@@ -1,0 +1,13 @@
+dn: cn=Catrice+sn=Kaller,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Catrice Kaller
+cn: Kaller
+givenname: Catrice
+mail: catrice.kaller@planetexpress.com
+userPassword: Catrice
+ou: admin_staff
+uid: 2446
+ Q==

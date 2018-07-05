@@ -1,0 +1,13 @@
+dn: cn=Piedad+sn=Streiff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Piedad Streiff
+cn: Streiff
+givenname: Piedad
+mail: piedad.streiff@planetexpress.com
+userPassword: Piedad
+ou: admin_staff
+uid: 1539
+ Q==

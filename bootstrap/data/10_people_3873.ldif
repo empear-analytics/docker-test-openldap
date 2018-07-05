@@ -1,0 +1,13 @@
+dn: cn=Despina+sn=Sigmond,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Despina Sigmond
+cn: Sigmond
+givenname: Despina
+mail: despina.sigmond@planetexpress.com
+userPassword: Despina
+ou: flight_crew
+uid: 3873
+ Q==

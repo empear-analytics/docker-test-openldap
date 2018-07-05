@@ -1,0 +1,13 @@
+dn: cn=Lannie+sn=Munday,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lannie Munday
+cn: Munday
+givenname: Lannie
+mail: lannie.munday@planetexpress.com
+userPassword: Lannie
+ou: Group5
+uid: 4786
+ Q==

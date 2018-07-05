@@ -1,0 +1,13 @@
+dn: cn=Pearly+sn=Abrahamian,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pearly Abrahamian
+cn: Abrahamian
+givenname: Pearly
+mail: pearly.abrahamian@planetexpress.com
+userPassword: Pearly
+ou: OtherGroup
+uid: 4483
+ Q==

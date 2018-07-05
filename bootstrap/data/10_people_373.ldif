@@ -1,0 +1,13 @@
+dn: cn=Olevia+sn=Blaney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Olevia Blaney
+cn: Blaney
+givenname: Olevia
+mail: olevia.blaney@planetexpress.com
+userPassword: Olevia
+ou: admin_staff
+uid: 373
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Forest+sn=Zola,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Forest Zola
+cn: Zola
+givenname: Forest
+mail: forest.zola@planetexpress.com
+userPassword: Forest
+ou: Group5
+uid: 349
+ Q==

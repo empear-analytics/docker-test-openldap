@@ -1,0 +1,13 @@
+dn: cn=Carie+sn=Spoto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carie Spoto
+cn: Spoto
+givenname: Carie
+mail: carie.spoto@planetexpress.com
+userPassword: Carie
+ou: admin_staff
+uid: 4235
+ Q==

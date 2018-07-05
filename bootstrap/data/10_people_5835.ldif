@@ -1,0 +1,13 @@
+dn: cn=Josef+sn=Delibertis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Josef Delibertis
+cn: Delibertis
+givenname: Josef
+mail: josef.delibertis@planetexpress.com
+userPassword: Josef
+ou: admin_staff
+uid: 5835
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Amalia+sn=Langton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Amalia Langton
+cn: Langton
+givenname: Amalia
+mail: amalia.langton@planetexpress.com
+userPassword: Amalia
+ou: admin_staff
+uid: 5658
+ Q==

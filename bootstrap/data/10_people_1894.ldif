@@ -1,0 +1,13 @@
+dn: cn=Richard+sn=Gallardo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Richard Gallardo
+cn: Gallardo
+givenname: Richard
+mail: richard.gallardo@planetexpress.com
+userPassword: Richard
+ou: flight_crew
+uid: 1894
+ Q==

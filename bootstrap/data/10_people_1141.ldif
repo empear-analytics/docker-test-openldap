@@ -1,0 +1,13 @@
+dn: cn=Susie+sn=Litalien,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Susie Litalien
+cn: Litalien
+givenname: Susie
+mail: susie.litalien@planetexpress.com
+userPassword: Susie
+ou: OtherGroup
+uid: 1141
+ Q==

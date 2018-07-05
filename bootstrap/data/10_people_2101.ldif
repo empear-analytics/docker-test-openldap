@@ -1,0 +1,13 @@
+dn: cn=Fredia+sn=Lappas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fredia Lappas
+cn: Lappas
+givenname: Fredia
+mail: fredia.lappas@planetexpress.com
+userPassword: Fredia
+ou: flight_crew
+uid: 2101
+ Q==

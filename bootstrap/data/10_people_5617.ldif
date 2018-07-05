@@ -1,0 +1,13 @@
+dn: cn=Summer+sn=Tardio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Summer Tardio
+cn: Tardio
+givenname: Summer
+mail: summer.tardio@planetexpress.com
+userPassword: Summer
+ou: Group5
+uid: 5617
+ Q==

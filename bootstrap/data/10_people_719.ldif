@@ -1,0 +1,13 @@
+dn: cn=Ivory+sn=Melso,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ivory Melso
+cn: Melso
+givenname: Ivory
+mail: ivory.melso@planetexpress.com
+userPassword: Ivory
+ou: flight_crew
+uid: 719
+ Q==

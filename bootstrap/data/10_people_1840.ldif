@@ -1,0 +1,13 @@
+dn: cn=Adrienne+sn=Cruser,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adrienne Cruser
+cn: Cruser
+givenname: Adrienne
+mail: adrienne.cruser@planetexpress.com
+userPassword: Adrienne
+ou: admin_staff
+uid: 1840
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Hipolito+sn=Sinon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hipolito Sinon
+cn: Sinon
+givenname: Hipolito
+mail: hipolito.sinon@planetexpress.com
+userPassword: Hipolito
+ou: admin_staff
+uid: 5884
+ Q==

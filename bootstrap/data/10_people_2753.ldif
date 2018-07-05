@@ -1,0 +1,13 @@
+dn: cn=Fletcher+sn=Susana,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fletcher Susana
+cn: Susana
+givenname: Fletcher
+mail: fletcher.susana@planetexpress.com
+userPassword: Fletcher
+ou: OtherGroup
+uid: 2753
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Halley+sn=Friling,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Halley Friling
+cn: Friling
+givenname: Halley
+mail: halley.friling@planetexpress.com
+userPassword: Halley
+ou: Group5
+uid: 3545
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Chuck+sn=Glowski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chuck Glowski
+cn: Glowski
+givenname: Chuck
+mail: chuck.glowski@planetexpress.com
+userPassword: Chuck
+ou: OtherGroup
+uid: 5349
+ Q==

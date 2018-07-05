@@ -1,0 +1,13 @@
+dn: cn=Chung+sn=Nighman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chung Nighman
+cn: Nighman
+givenname: Chung
+mail: chung.nighman@planetexpress.com
+userPassword: Chung
+ou: admin_staff
+uid: 1115
+ Q==

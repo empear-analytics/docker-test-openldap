@@ -1,0 +1,13 @@
+dn: cn=Mark+sn=Villafana,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mark Villafana
+cn: Villafana
+givenname: Mark
+mail: mark.villafana@planetexpress.com
+userPassword: Mark
+ou: flight_crew
+uid: 3364
+ Q==

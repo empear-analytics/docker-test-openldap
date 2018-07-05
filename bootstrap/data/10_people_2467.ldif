@@ -1,0 +1,13 @@
+dn: cn=Florene+sn=Bottiglieri,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Florene Bottiglieri
+cn: Bottiglieri
+givenname: Florene
+mail: florene.bottiglieri@planetexpress.com
+userPassword: Florene
+ou: OtherGroup
+uid: 2467
+ Q==

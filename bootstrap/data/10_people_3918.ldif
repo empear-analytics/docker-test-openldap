@@ -1,0 +1,13 @@
+dn: cn=Elijah+sn=Pedersen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elijah Pedersen
+cn: Pedersen
+givenname: Elijah
+mail: elijah.pedersen@planetexpress.com
+userPassword: Elijah
+ou: Group5
+uid: 3918
+ Q==

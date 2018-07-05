@@ -1,0 +1,13 @@
+dn: cn=Enedina+sn=Todt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Enedina Todt
+cn: Todt
+givenname: Enedina
+mail: enedina.todt@planetexpress.com
+userPassword: Enedina
+ou: flight_crew
+uid: 312
+ Q==

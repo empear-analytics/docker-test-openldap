@@ -1,0 +1,13 @@
+dn: cn=Alice+sn=Lone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alice Lone
+cn: Lone
+givenname: Alice
+mail: alice.lone@planetexpress.com
+userPassword: Alice
+ou: OtherGroup
+uid: 4362
+ Q==

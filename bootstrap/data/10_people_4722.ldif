@@ -1,0 +1,13 @@
+dn: cn=Latonia+sn=Youngkin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Latonia Youngkin
+cn: Youngkin
+givenname: Latonia
+mail: latonia.youngkin@planetexpress.com
+userPassword: Latonia
+ou: admin_staff
+uid: 4722
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Sanda+sn=Boursaw,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sanda Boursaw
+cn: Boursaw
+givenname: Sanda
+mail: sanda.boursaw@planetexpress.com
+userPassword: Sanda
+ou: Group5
+uid: 1376
+ Q==

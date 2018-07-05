@@ -1,0 +1,13 @@
+dn: cn=Lloyd+sn=Ojanen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lloyd Ojanen
+cn: Ojanen
+givenname: Lloyd
+mail: lloyd.ojanen@planetexpress.com
+userPassword: Lloyd
+ou: admin_staff
+uid: 2741
+ Q==

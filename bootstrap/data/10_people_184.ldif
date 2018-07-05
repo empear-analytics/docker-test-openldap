@@ -1,0 +1,13 @@
+dn: cn=Sharice+sn=Diefendorf,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharice Diefendorf
+cn: Diefendorf
+givenname: Sharice
+mail: sharice.diefendorf@planetexpress.com
+userPassword: Sharice
+ou: flight_crew
+uid: 184
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ray+sn=Eviston,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ray Eviston
+cn: Eviston
+givenname: Ray
+mail: ray.eviston@planetexpress.com
+userPassword: Ray
+ou: OtherGroup
+uid: 4071
+ Q==

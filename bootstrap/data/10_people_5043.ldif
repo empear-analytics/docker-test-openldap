@@ -1,0 +1,13 @@
+dn: cn=Alphonse+sn=Hennessy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alphonse Hennessy
+cn: Hennessy
+givenname: Alphonse
+mail: alphonse.hennessy@planetexpress.com
+userPassword: Alphonse
+ou: Group5
+uid: 5043
+ Q==

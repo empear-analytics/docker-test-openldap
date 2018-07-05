@@ -1,0 +1,13 @@
+dn: cn=Jadwiga+sn=Kylish,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jadwiga Kylish
+cn: Kylish
+givenname: Jadwiga
+mail: jadwiga.kylish@planetexpress.com
+userPassword: Jadwiga
+ou: admin_staff
+uid: 767
+ Q==

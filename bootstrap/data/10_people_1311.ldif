@@ -1,0 +1,13 @@
+dn: cn=Glory+sn=Warshauer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Glory Warshauer
+cn: Warshauer
+givenname: Glory
+mail: glory.warshauer@planetexpress.com
+userPassword: Glory
+ou: OtherGroup
+uid: 1311
+ Q==

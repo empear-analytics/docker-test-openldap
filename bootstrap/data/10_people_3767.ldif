@@ -1,0 +1,13 @@
+dn: cn=Alda+sn=Markevich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alda Markevich
+cn: Markevich
+givenname: Alda
+mail: alda.markevich@planetexpress.com
+userPassword: Alda
+ou: Group5
+uid: 3767
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Gertha+sn=Oajaca,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gertha Oajaca
+cn: Oajaca
+givenname: Gertha
+mail: gertha.oajaca@planetexpress.com
+userPassword: Gertha
+ou: OtherGroup
+uid: 2828
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jane+sn=Mcalmond,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jane Mcalmond
+cn: Mcalmond
+givenname: Jane
+mail: jane.mcalmond@planetexpress.com
+userPassword: Jane
+ou: Group5
+uid: 2064
+ Q==

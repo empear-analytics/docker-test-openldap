@@ -1,0 +1,13 @@
+dn: cn=Rosena+sn=Bewley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosena Bewley
+cn: Bewley
+givenname: Rosena
+mail: rosena.bewley@planetexpress.com
+userPassword: Rosena
+ou: flight_crew
+uid: 2755
+ Q==

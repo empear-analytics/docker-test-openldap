@@ -1,0 +1,13 @@
+dn: cn=Gianna+sn=Krumholz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gianna Krumholz
+cn: Krumholz
+givenname: Gianna
+mail: gianna.krumholz@planetexpress.com
+userPassword: Gianna
+ou: OtherGroup
+uid: 1143
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Francie+sn=Baish,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Francie Baish
+cn: Baish
+givenname: Francie
+mail: francie.baish@planetexpress.com
+userPassword: Francie
+ou: admin_staff
+uid: 3644
+ Q==

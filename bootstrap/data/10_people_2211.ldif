@@ -1,0 +1,13 @@
+dn: cn=Allyn+sn=Ulshafer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Allyn Ulshafer
+cn: Ulshafer
+givenname: Allyn
+mail: allyn.ulshafer@planetexpress.com
+userPassword: Allyn
+ou: Group5
+uid: 2211
+ Q==

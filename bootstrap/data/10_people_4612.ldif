@@ -1,0 +1,13 @@
+dn: cn=Selene+sn=Nusom,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Selene Nusom
+cn: Nusom
+givenname: Selene
+mail: selene.nusom@planetexpress.com
+userPassword: Selene
+ou: Group5
+uid: 4612
+ Q==

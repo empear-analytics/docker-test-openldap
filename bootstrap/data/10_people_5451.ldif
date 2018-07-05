@@ -1,0 +1,13 @@
+dn: cn=Otelia+sn=Virelli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Otelia Virelli
+cn: Virelli
+givenname: Otelia
+mail: otelia.virelli@planetexpress.com
+userPassword: Otelia
+ou: admin_staff
+uid: 5451
+ Q==

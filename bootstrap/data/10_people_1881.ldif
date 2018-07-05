@@ -1,0 +1,13 @@
+dn: cn=Brandi+sn=Weekes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brandi Weekes
+cn: Weekes
+givenname: Brandi
+mail: brandi.weekes@planetexpress.com
+userPassword: Brandi
+ou: admin_staff
+uid: 1881
+ Q==

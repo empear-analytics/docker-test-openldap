@@ -1,0 +1,13 @@
+dn: cn=Polly+sn=Moldrem,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Polly Moldrem
+cn: Moldrem
+givenname: Polly
+mail: polly.moldrem@planetexpress.com
+userPassword: Polly
+ou: flight_crew
+uid: 2891
+ Q==

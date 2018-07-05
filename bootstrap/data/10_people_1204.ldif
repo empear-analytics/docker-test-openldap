@@ -1,0 +1,13 @@
+dn: cn=Christiane+sn=Squiers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christiane Squiers
+cn: Squiers
+givenname: Christiane
+mail: christiane.squiers@planetexpress.com
+userPassword: Christiane
+ou: OtherGroup
+uid: 1204
+ Q==

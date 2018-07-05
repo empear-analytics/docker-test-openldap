@@ -1,0 +1,13 @@
+dn: cn=Estrella+sn=Westland,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Estrella Westland
+cn: Westland
+givenname: Estrella
+mail: estrella.westland@planetexpress.com
+userPassword: Estrella
+ou: Group5
+uid: 3325
+ Q==

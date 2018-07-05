@@ -1,0 +1,13 @@
+dn: cn=Hortense+sn=Tindal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hortense Tindal
+cn: Tindal
+givenname: Hortense
+mail: hortense.tindal@planetexpress.com
+userPassword: Hortense
+ou: admin_staff
+uid: 4673
+ Q==

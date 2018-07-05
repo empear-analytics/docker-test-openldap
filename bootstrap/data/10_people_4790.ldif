@@ -1,0 +1,13 @@
+dn: cn=Hildegard+sn=Uresti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hildegard Uresti
+cn: Uresti
+givenname: Hildegard
+mail: hildegard.uresti@planetexpress.com
+userPassword: Hildegard
+ou: flight_crew
+uid: 4790
+ Q==

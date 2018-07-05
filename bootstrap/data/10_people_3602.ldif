@@ -1,0 +1,13 @@
+dn: cn=Macy+sn=Hawks,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Macy Hawks
+cn: Hawks
+givenname: Macy
+mail: macy.hawks@planetexpress.com
+userPassword: Macy
+ou: Group5
+uid: 3602
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Catherine+sn=Resendes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Catherine Resendes
+cn: Resendes
+givenname: Catherine
+mail: catherine.resendes@planetexpress.com
+userPassword: Catherine
+ou: Group5
+uid: 3530
+ Q==

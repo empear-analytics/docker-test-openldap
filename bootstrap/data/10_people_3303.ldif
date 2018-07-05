@@ -1,0 +1,13 @@
+dn: cn=Janett+sn=Udell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janett Udell
+cn: Udell
+givenname: Janett
+mail: janett.udell@planetexpress.com
+userPassword: Janett
+ou: OtherGroup
+uid: 3303
+ Q==

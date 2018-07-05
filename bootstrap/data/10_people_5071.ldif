@@ -1,0 +1,13 @@
+dn: cn=Denyse+sn=Klem,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Denyse Klem
+cn: Klem
+givenname: Denyse
+mail: denyse.klem@planetexpress.com
+userPassword: Denyse
+ou: OtherGroup
+uid: 5071
+ Q==

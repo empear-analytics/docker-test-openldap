@@ -1,0 +1,13 @@
+dn: cn=Odelia+sn=Feldhaus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Odelia Feldhaus
+cn: Feldhaus
+givenname: Odelia
+mail: odelia.feldhaus@planetexpress.com
+userPassword: Odelia
+ou: OtherGroup
+uid: 2140
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Pinkie+sn=Fulwiler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pinkie Fulwiler
+cn: Fulwiler
+givenname: Pinkie
+mail: pinkie.fulwiler@planetexpress.com
+userPassword: Pinkie
+ou: Group5
+uid: 3456
+ Q==

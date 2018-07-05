@@ -1,0 +1,13 @@
+dn: cn=Shaunte+sn=Rummell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shaunte Rummell
+cn: Rummell
+givenname: Shaunte
+mail: shaunte.rummell@planetexpress.com
+userPassword: Shaunte
+ou: flight_crew
+uid: 5437
+ Q==

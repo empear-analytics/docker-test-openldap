@@ -1,0 +1,13 @@
+dn: cn=Fransisca+sn=Blanda,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fransisca Blanda
+cn: Blanda
+givenname: Fransisca
+mail: fransisca.blanda@planetexpress.com
+userPassword: Fransisca
+ou: flight_crew
+uid: 48
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Mae+sn=Bevens,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mae Bevens
+cn: Bevens
+givenname: Mae
+mail: mae.bevens@planetexpress.com
+userPassword: Mae
+ou: flight_crew
+uid: 4194
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Gary+sn=Kaumans,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gary Kaumans
+cn: Kaumans
+givenname: Gary
+mail: gary.kaumans@planetexpress.com
+userPassword: Gary
+ou: flight_crew
+uid: 490
+ Q==

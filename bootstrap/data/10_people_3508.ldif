@@ -1,0 +1,13 @@
+dn: cn=Reda+sn=Durkin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reda Durkin
+cn: Durkin
+givenname: Reda
+mail: reda.durkin@planetexpress.com
+userPassword: Reda
+ou: Group5
+uid: 3508
+ Q==

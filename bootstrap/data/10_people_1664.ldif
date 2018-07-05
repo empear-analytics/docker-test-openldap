@@ -1,0 +1,13 @@
+dn: cn=Arvilla+sn=Telgen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arvilla Telgen
+cn: Telgen
+givenname: Arvilla
+mail: arvilla.telgen@planetexpress.com
+userPassword: Arvilla
+ou: Group5
+uid: 1664
+ Q==

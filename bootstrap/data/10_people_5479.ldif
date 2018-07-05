@@ -1,0 +1,13 @@
+dn: cn=Amal+sn=Irwin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Amal Irwin
+cn: Irwin
+givenname: Amal
+mail: amal.irwin@planetexpress.com
+userPassword: Amal
+ou: Group5
+uid: 5479
+ Q==

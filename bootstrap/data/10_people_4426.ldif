@@ -1,0 +1,13 @@
+dn: cn=Amira+sn=Panagakos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Amira Panagakos
+cn: Panagakos
+givenname: Amira
+mail: amira.panagakos@planetexpress.com
+userPassword: Amira
+ou: flight_crew
+uid: 4426
+ Q==

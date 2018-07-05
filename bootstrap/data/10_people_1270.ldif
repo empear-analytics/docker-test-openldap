@@ -1,0 +1,13 @@
+dn: cn=Lorenzo+sn=Gerrish,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lorenzo Gerrish
+cn: Gerrish
+givenname: Lorenzo
+mail: lorenzo.gerrish@planetexpress.com
+userPassword: Lorenzo
+ou: OtherGroup
+uid: 1270
+ Q==

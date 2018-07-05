@@ -1,0 +1,13 @@
+dn: cn=Kristi+sn=Springle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kristi Springle
+cn: Springle
+givenname: Kristi
+mail: kristi.springle@planetexpress.com
+userPassword: Kristi
+ou: flight_crew
+uid: 784
+ Q==

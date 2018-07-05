@@ -1,0 +1,13 @@
+dn: cn=Jone+sn=Everette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jone Everette
+cn: Everette
+givenname: Jone
+mail: jone.everette@planetexpress.com
+userPassword: Jone
+ou: OtherGroup
+uid: 2361
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Maurine+sn=Semans,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maurine Semans
+cn: Semans
+givenname: Maurine
+mail: maurine.semans@planetexpress.com
+userPassword: Maurine
+ou: flight_crew
+uid: 3270
+ Q==

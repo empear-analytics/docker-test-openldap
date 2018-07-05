@@ -1,0 +1,13 @@
+dn: cn=Christopher+sn=Amari,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christopher Amari
+cn: Amari
+givenname: Christopher
+mail: christopher.amari@planetexpress.com
+userPassword: Christopher
+ou: flight_crew
+uid: 4019
+ Q==

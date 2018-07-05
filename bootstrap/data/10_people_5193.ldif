@@ -1,0 +1,13 @@
+dn: cn=Alona+sn=Tynan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alona Tynan
+cn: Tynan
+givenname: Alona
+mail: alona.tynan@planetexpress.com
+userPassword: Alona
+ou: admin_staff
+uid: 5193
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jacinda+sn=Spacht,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacinda Spacht
+cn: Spacht
+givenname: Jacinda
+mail: jacinda.spacht@planetexpress.com
+userPassword: Jacinda
+ou: admin_staff
+uid: 787
+ Q==

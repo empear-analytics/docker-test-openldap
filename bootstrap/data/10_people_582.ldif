@@ -1,0 +1,13 @@
+dn: cn=Cecile+sn=Margo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cecile Margo
+cn: Margo
+givenname: Cecile
+mail: cecile.margo@planetexpress.com
+userPassword: Cecile
+ou: Group5
+uid: 582
+ Q==

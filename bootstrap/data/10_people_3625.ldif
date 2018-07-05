@@ -1,0 +1,13 @@
+dn: cn=Ninfa+sn=Reishus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ninfa Reishus
+cn: Reishus
+givenname: Ninfa
+mail: ninfa.reishus@planetexpress.com
+userPassword: Ninfa
+ou: flight_crew
+uid: 3625
+ Q==

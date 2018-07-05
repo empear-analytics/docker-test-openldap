@@ -1,0 +1,13 @@
+dn: cn=Marty+sn=Schnarrs,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marty Schnarrs
+cn: Schnarrs
+givenname: Marty
+mail: marty.schnarrs@planetexpress.com
+userPassword: Marty
+ou: flight_crew
+uid: 1261
+ Q==

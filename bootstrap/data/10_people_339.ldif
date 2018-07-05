@@ -1,0 +1,13 @@
+dn: cn=Chet+sn=Depaz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chet Depaz
+cn: Depaz
+givenname: Chet
+mail: chet.depaz@planetexpress.com
+userPassword: Chet
+ou: flight_crew
+uid: 339
+ Q==

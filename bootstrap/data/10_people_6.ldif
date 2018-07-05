@@ -1,0 +1,13 @@
+dn: cn=Coleman+sn=Donnell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Coleman Donnell
+cn: Donnell
+givenname: Coleman
+mail: coleman.donnell@planetexpress.com
+userPassword: Coleman
+ou: OtherGroup
+uid: 6
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Curt+sn=Berver,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Curt Berver
+cn: Berver
+givenname: Curt
+mail: curt.berver@planetexpress.com
+userPassword: Curt
+ou: OtherGroup
+uid: 5317
+ Q==

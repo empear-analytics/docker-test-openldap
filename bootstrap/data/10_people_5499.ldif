@@ -1,0 +1,13 @@
+dn: cn=Lashell+sn=Hoose,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lashell Hoose
+cn: Hoose
+givenname: Lashell
+mail: lashell.hoose@planetexpress.com
+userPassword: Lashell
+ou: Group5
+uid: 5499
+ Q==

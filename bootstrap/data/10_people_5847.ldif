@@ -1,0 +1,13 @@
+dn: cn=Isaiah+sn=Andresen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Isaiah Andresen
+cn: Andresen
+givenname: Isaiah
+mail: isaiah.andresen@planetexpress.com
+userPassword: Isaiah
+ou: admin_staff
+uid: 5847
+ Q==

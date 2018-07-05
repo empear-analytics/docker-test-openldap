@@ -1,0 +1,13 @@
+dn: cn=Garnet+sn=Kernes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Garnet Kernes
+cn: Kernes
+givenname: Garnet
+mail: garnet.kernes@planetexpress.com
+userPassword: Garnet
+ou: OtherGroup
+uid: 2294
+ Q==

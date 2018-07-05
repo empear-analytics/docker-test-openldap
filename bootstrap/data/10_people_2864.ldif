@@ -1,0 +1,13 @@
+dn: cn=Rosena+sn=Flaxman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosena Flaxman
+cn: Flaxman
+givenname: Rosena
+mail: rosena.flaxman@planetexpress.com
+userPassword: Rosena
+ou: flight_crew
+uid: 2864
+ Q==

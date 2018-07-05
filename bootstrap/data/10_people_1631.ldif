@@ -1,0 +1,13 @@
+dn: cn=Loren+sn=Tarnoff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loren Tarnoff
+cn: Tarnoff
+givenname: Loren
+mail: loren.tarnoff@planetexpress.com
+userPassword: Loren
+ou: flight_crew
+uid: 1631
+ Q==

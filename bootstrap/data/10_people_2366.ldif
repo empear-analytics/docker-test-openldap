@@ -1,0 +1,13 @@
+dn: cn=Albert+sn=Fridell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Albert Fridell
+cn: Fridell
+givenname: Albert
+mail: albert.fridell@planetexpress.com
+userPassword: Albert
+ou: flight_crew
+uid: 2366
+ Q==

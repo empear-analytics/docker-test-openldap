@@ -1,0 +1,13 @@
+dn: cn=Suzie+sn=Neslusan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Suzie Neslusan
+cn: Neslusan
+givenname: Suzie
+mail: suzie.neslusan@planetexpress.com
+userPassword: Suzie
+ou: Group5
+uid: 3448
+ Q==

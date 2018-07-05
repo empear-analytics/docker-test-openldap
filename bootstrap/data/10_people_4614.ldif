@@ -1,0 +1,13 @@
+dn: cn=Rufina+sn=Versele,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rufina Versele
+cn: Versele
+givenname: Rufina
+mail: rufina.versele@planetexpress.com
+userPassword: Rufina
+ou: flight_crew
+uid: 4614
+ Q==

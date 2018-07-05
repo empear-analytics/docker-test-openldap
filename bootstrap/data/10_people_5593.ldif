@@ -1,0 +1,13 @@
+dn: cn=Edgar+sn=Krance,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edgar Krance
+cn: Krance
+givenname: Edgar
+mail: edgar.krance@planetexpress.com
+userPassword: Edgar
+ou: Group5
+uid: 5593
+ Q==

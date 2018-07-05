@@ -1,0 +1,13 @@
+dn: cn=Irene+sn=Gordy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Irene Gordy
+cn: Gordy
+givenname: Irene
+mail: irene.gordy@planetexpress.com
+userPassword: Irene
+ou: OtherGroup
+uid: 2196
+ Q==

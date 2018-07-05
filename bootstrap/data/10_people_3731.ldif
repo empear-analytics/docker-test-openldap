@@ -1,0 +1,13 @@
+dn: cn=Jeffrey+sn=Fulbright,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeffrey Fulbright
+cn: Fulbright
+givenname: Jeffrey
+mail: jeffrey.fulbright@planetexpress.com
+userPassword: Jeffrey
+ou: admin_staff
+uid: 3731
+ Q==

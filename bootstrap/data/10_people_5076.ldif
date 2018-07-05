@@ -1,0 +1,13 @@
+dn: cn=Kittie+sn=Isbister,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kittie Isbister
+cn: Isbister
+givenname: Kittie
+mail: kittie.isbister@planetexpress.com
+userPassword: Kittie
+ou: OtherGroup
+uid: 5076
+ Q==

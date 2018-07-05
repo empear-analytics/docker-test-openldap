@@ -1,0 +1,13 @@
+dn: cn=Mindi+sn=Maharrey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mindi Maharrey
+cn: Maharrey
+givenname: Mindi
+mail: mindi.maharrey@planetexpress.com
+userPassword: Mindi
+ou: OtherGroup
+uid: 4589
+ Q==

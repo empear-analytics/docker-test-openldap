@@ -1,0 +1,13 @@
+dn: cn=Clelia+sn=Brossett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clelia Brossett
+cn: Brossett
+givenname: Clelia
+mail: clelia.brossett@planetexpress.com
+userPassword: Clelia
+ou: OtherGroup
+uid: 5759
+ Q==

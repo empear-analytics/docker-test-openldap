@@ -1,0 +1,13 @@
+dn: cn=Theresa+sn=Chiarini,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Theresa Chiarini
+cn: Chiarini
+givenname: Theresa
+mail: theresa.chiarini@planetexpress.com
+userPassword: Theresa
+ou: flight_crew
+uid: 2853
+ Q==

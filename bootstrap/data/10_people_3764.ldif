@@ -1,0 +1,13 @@
+dn: cn=Wilber+sn=Thwaites,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wilber Thwaites
+cn: Thwaites
+givenname: Wilber
+mail: wilber.thwaites@planetexpress.com
+userPassword: Wilber
+ou: flight_crew
+uid: 3764
+ Q==

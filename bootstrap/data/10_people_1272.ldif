@@ -1,0 +1,13 @@
+dn: cn=Merlin+sn=Phinazee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Merlin Phinazee
+cn: Phinazee
+givenname: Merlin
+mail: merlin.phinazee@planetexpress.com
+userPassword: Merlin
+ou: admin_staff
+uid: 1272
+ Q==

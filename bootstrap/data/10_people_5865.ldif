@@ -1,0 +1,13 @@
+dn: cn=Moises+sn=Leap,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Moises Leap
+cn: Leap
+givenname: Moises
+mail: moises.leap@planetexpress.com
+userPassword: Moises
+ou: Group5
+uid: 5865
+ Q==

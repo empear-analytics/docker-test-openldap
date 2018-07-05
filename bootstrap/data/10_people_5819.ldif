@@ -1,0 +1,13 @@
+dn: cn=Yong+sn=Prisoc,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yong Prisoc
+cn: Prisoc
+givenname: Yong
+mail: yong.prisoc@planetexpress.com
+userPassword: Yong
+ou: flight_crew
+uid: 5819
+ Q==

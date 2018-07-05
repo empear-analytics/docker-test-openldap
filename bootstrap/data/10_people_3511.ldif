@@ -1,0 +1,13 @@
+dn: cn=Raquel+sn=Demerchant,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raquel Demerchant
+cn: Demerchant
+givenname: Raquel
+mail: raquel.demerchant@planetexpress.com
+userPassword: Raquel
+ou: flight_crew
+uid: 3511
+ Q==

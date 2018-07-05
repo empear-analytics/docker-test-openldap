@@ -1,0 +1,13 @@
+dn: cn=Lauren+sn=Swayze,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lauren Swayze
+cn: Swayze
+givenname: Lauren
+mail: lauren.swayze@planetexpress.com
+userPassword: Lauren
+ou: OtherGroup
+uid: 1305
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Leo+sn=Kekahuna,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leo Kekahuna
+cn: Kekahuna
+givenname: Leo
+mail: leo.kekahuna@planetexpress.com
+userPassword: Leo
+ou: Group5
+uid: 5452
+ Q==

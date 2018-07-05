@@ -1,0 +1,13 @@
+dn: cn=Vanda+sn=Entsminger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vanda Entsminger
+cn: Entsminger
+givenname: Vanda
+mail: vanda.entsminger@planetexpress.com
+userPassword: Vanda
+ou: OtherGroup
+uid: 1284
+ Q==

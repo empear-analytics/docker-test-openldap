@@ -1,0 +1,13 @@
+dn: cn=Hailey+sn=Lakner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hailey Lakner
+cn: Lakner
+givenname: Hailey
+mail: hailey.lakner@planetexpress.com
+userPassword: Hailey
+ou: OtherGroup
+uid: 52
+ Q==

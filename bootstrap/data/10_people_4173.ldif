@@ -1,0 +1,13 @@
+dn: cn=Stephnie+sn=Nacol,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stephnie Nacol
+cn: Nacol
+givenname: Stephnie
+mail: stephnie.nacol@planetexpress.com
+userPassword: Stephnie
+ou: OtherGroup
+uid: 4173
+ Q==

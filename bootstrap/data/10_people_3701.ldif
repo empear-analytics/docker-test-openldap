@@ -1,0 +1,13 @@
+dn: cn=Moshe+sn=Lemons,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Moshe Lemons
+cn: Lemons
+givenname: Moshe
+mail: moshe.lemons@planetexpress.com
+userPassword: Moshe
+ou: flight_crew
+uid: 3701
+ Q==

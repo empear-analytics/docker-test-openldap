@@ -1,0 +1,13 @@
+dn: cn=Rosenda+sn=Damis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosenda Damis
+cn: Damis
+givenname: Rosenda
+mail: rosenda.damis@planetexpress.com
+userPassword: Rosenda
+ou: admin_staff
+uid: 5656
+ Q==

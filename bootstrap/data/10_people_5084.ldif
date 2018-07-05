@@ -1,0 +1,13 @@
+dn: cn=Latrisha+sn=Patrick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Latrisha Patrick
+cn: Patrick
+givenname: Latrisha
+mail: latrisha.patrick@planetexpress.com
+userPassword: Latrisha
+ou: flight_crew
+uid: 5084
+ Q==

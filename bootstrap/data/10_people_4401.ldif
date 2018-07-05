@@ -1,0 +1,13 @@
+dn: cn=Alena+sn=Holifeild,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alena Holifeild
+cn: Holifeild
+givenname: Alena
+mail: alena.holifeild@planetexpress.com
+userPassword: Alena
+ou: OtherGroup
+uid: 4401
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Regina+sn=Brittle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Regina Brittle
+cn: Brittle
+givenname: Regina
+mail: regina.brittle@planetexpress.com
+userPassword: Regina
+ou: admin_staff
+uid: 4155
+ Q==

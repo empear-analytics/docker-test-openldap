@@ -1,0 +1,13 @@
+dn: cn=Jenna+sn=Shekels,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jenna Shekels
+cn: Shekels
+givenname: Jenna
+mail: jenna.shekels@planetexpress.com
+userPassword: Jenna
+ou: Group5
+uid: 645
+ Q==

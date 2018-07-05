@@ -1,0 +1,13 @@
+dn: cn=Usha+sn=Ihnat,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Usha Ihnat
+cn: Ihnat
+givenname: Usha
+mail: usha.ihnat@planetexpress.com
+userPassword: Usha
+ou: Group5
+uid: 317
+ Q==

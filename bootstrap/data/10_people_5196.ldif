@@ -1,0 +1,13 @@
+dn: cn=Carlotta+sn=Severt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carlotta Severt
+cn: Severt
+givenname: Carlotta
+mail: carlotta.severt@planetexpress.com
+userPassword: Carlotta
+ou: OtherGroup
+uid: 5196
+ Q==

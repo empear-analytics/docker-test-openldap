@@ -1,0 +1,13 @@
+dn: cn=Lynne+sn=Patanella,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lynne Patanella
+cn: Patanella
+givenname: Lynne
+mail: lynne.patanella@planetexpress.com
+userPassword: Lynne
+ou: Group5
+uid: 1132
+ Q==

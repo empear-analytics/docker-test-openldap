@@ -1,0 +1,13 @@
+dn: cn=Doug+sn=Detorres,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Doug Detorres
+cn: Detorres
+givenname: Doug
+mail: doug.detorres@planetexpress.com
+userPassword: Doug
+ou: flight_crew
+uid: 1241
+ Q==

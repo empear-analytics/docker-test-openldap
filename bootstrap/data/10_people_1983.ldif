@@ -1,0 +1,13 @@
+dn: cn=Kenna+sn=Heimerl,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kenna Heimerl
+cn: Heimerl
+givenname: Kenna
+mail: kenna.heimerl@planetexpress.com
+userPassword: Kenna
+ou: OtherGroup
+uid: 1983
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lesia+sn=Delaware,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lesia Delaware
+cn: Delaware
+givenname: Lesia
+mail: lesia.delaware@planetexpress.com
+userPassword: Lesia
+ou: Group5
+uid: 4318
+ Q==

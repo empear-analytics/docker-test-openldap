@@ -1,0 +1,13 @@
+dn: cn=Rex+sn=Seaney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rex Seaney
+cn: Seaney
+givenname: Rex
+mail: rex.seaney@planetexpress.com
+userPassword: Rex
+ou: flight_crew
+uid: 4226
+ Q==

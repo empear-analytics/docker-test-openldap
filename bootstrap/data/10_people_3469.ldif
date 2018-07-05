@@ -1,0 +1,13 @@
+dn: cn=Mackenzie+sn=Samaroo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mackenzie Samaroo
+cn: Samaroo
+givenname: Mackenzie
+mail: mackenzie.samaroo@planetexpress.com
+userPassword: Mackenzie
+ou: OtherGroup
+uid: 3469
+ Q==

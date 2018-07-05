@@ -1,0 +1,13 @@
+dn: cn=Santa+sn=Shamapande,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Santa Shamapande
+cn: Shamapande
+givenname: Santa
+mail: santa.shamapande@planetexpress.com
+userPassword: Santa
+ou: flight_crew
+uid: 3460
+ Q==

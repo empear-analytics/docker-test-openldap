@@ -1,0 +1,13 @@
+dn: cn=Breana+sn=Tenhoff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Breana Tenhoff
+cn: Tenhoff
+givenname: Breana
+mail: breana.tenhoff@planetexpress.com
+userPassword: Breana
+ou: Group5
+uid: 1292
+ Q==

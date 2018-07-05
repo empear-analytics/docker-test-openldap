@@ -1,0 +1,13 @@
+dn: cn=Versie+sn=Egleston,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Versie Egleston
+cn: Egleston
+givenname: Versie
+mail: versie.egleston@planetexpress.com
+userPassword: Versie
+ou: flight_crew
+uid: 3501
+ Q==

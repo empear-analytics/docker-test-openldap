@@ -1,0 +1,13 @@
+dn: cn=Teddy+sn=Deubner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Teddy Deubner
+cn: Deubner
+givenname: Teddy
+mail: teddy.deubner@planetexpress.com
+userPassword: Teddy
+ou: OtherGroup
+uid: 4111
+ Q==

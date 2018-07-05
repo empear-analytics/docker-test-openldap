@@ -1,0 +1,13 @@
+dn: cn=Alec+sn=Hasley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alec Hasley
+cn: Hasley
+givenname: Alec
+mail: alec.hasley@planetexpress.com
+userPassword: Alec
+ou: flight_crew
+uid: 2189
+ Q==

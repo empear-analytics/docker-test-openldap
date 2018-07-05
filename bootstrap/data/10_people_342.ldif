@@ -1,0 +1,13 @@
+dn: cn=Odell+sn=Mascheck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Odell Mascheck
+cn: Mascheck
+givenname: Odell
+mail: odell.mascheck@planetexpress.com
+userPassword: Odell
+ou: OtherGroup
+uid: 342
+ Q==

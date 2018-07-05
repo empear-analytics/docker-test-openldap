@@ -1,0 +1,13 @@
+dn: cn=Max+sn=Wilcock,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Max Wilcock
+cn: Wilcock
+givenname: Max
+mail: max.wilcock@planetexpress.com
+userPassword: Max
+ou: Group5
+uid: 4598
+ Q==

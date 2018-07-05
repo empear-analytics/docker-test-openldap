@@ -1,0 +1,13 @@
+dn: cn=Yoshie+sn=Chaparro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yoshie Chaparro
+cn: Chaparro
+givenname: Yoshie
+mail: yoshie.chaparro@planetexpress.com
+userPassword: Yoshie
+ou: OtherGroup
+uid: 454
+ Q==

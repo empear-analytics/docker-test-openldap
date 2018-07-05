@@ -1,0 +1,13 @@
+dn: cn=Gilberto+sn=Bergold,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gilberto Bergold
+cn: Bergold
+givenname: Gilberto
+mail: gilberto.bergold@planetexpress.com
+userPassword: Gilberto
+ou: flight_crew
+uid: 1707
+ Q==

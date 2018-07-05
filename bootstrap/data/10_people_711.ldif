@@ -1,0 +1,13 @@
+dn: cn=Dreama+sn=Ardery,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dreama Ardery
+cn: Ardery
+givenname: Dreama
+mail: dreama.ardery@planetexpress.com
+userPassword: Dreama
+ou: admin_staff
+uid: 711
+ Q==

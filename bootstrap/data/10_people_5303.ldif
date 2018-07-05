@@ -1,0 +1,13 @@
+dn: cn=Star+sn=Bucholz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Star Bucholz
+cn: Bucholz
+givenname: Star
+mail: star.bucholz@planetexpress.com
+userPassword: Star
+ou: admin_staff
+uid: 5303
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Irvin+sn=Penuel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Irvin Penuel
+cn: Penuel
+givenname: Irvin
+mail: irvin.penuel@planetexpress.com
+userPassword: Irvin
+ou: OtherGroup
+uid: 5988
+ Q==

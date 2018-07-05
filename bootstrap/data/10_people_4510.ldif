@@ -1,0 +1,13 @@
+dn: cn=Twanda+sn=Vitek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Twanda Vitek
+cn: Vitek
+givenname: Twanda
+mail: twanda.vitek@planetexpress.com
+userPassword: Twanda
+ou: flight_crew
+uid: 4510
+ Q==

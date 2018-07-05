@@ -1,0 +1,13 @@
+dn: cn=Dessie+sn=Osdoba,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dessie Osdoba
+cn: Osdoba
+givenname: Dessie
+mail: dessie.osdoba@planetexpress.com
+userPassword: Dessie
+ou: flight_crew
+uid: 5211
+ Q==

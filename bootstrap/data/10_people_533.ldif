@@ -1,0 +1,13 @@
+dn: cn=Nenita+sn=Skutt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nenita Skutt
+cn: Skutt
+givenname: Nenita
+mail: nenita.skutt@planetexpress.com
+userPassword: Nenita
+ou: admin_staff
+uid: 533
+ Q==

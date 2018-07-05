@@ -1,0 +1,13 @@
+dn: cn=Cedrick+sn=Truchan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cedrick Truchan
+cn: Truchan
+givenname: Cedrick
+mail: cedrick.truchan@planetexpress.com
+userPassword: Cedrick
+ou: flight_crew
+uid: 1023
+ Q==

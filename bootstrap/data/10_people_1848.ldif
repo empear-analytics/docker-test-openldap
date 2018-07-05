@@ -1,0 +1,13 @@
+dn: cn=Sherise+sn=Strakbein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherise Strakbein
+cn: Strakbein
+givenname: Sherise
+mail: sherise.strakbein@planetexpress.com
+userPassword: Sherise
+ou: OtherGroup
+uid: 1848
+ Q==

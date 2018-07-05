@@ -1,0 +1,13 @@
+dn: cn=Coy+sn=Loeffel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Coy Loeffel
+cn: Loeffel
+givenname: Coy
+mail: coy.loeffel@planetexpress.com
+userPassword: Coy
+ou: OtherGroup
+uid: 5365
+ Q==

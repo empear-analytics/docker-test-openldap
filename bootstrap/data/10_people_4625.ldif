@@ -1,0 +1,13 @@
+dn: cn=Audrie+sn=Kirkegaard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Audrie Kirkegaard
+cn: Kirkegaard
+givenname: Audrie
+mail: audrie.kirkegaard@planetexpress.com
+userPassword: Audrie
+ou: admin_staff
+uid: 4625
+ Q==

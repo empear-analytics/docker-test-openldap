@@ -1,0 +1,13 @@
+dn: cn=Geri+sn=Kehr,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Geri Kehr
+cn: Kehr
+givenname: Geri
+mail: geri.kehr@planetexpress.com
+userPassword: Geri
+ou: flight_crew
+uid: 5112
+ Q==

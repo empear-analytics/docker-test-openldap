@@ -1,0 +1,13 @@
+dn: cn=Joeann+sn=Fingado,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joeann Fingado
+cn: Fingado
+givenname: Joeann
+mail: joeann.fingado@planetexpress.com
+userPassword: Joeann
+ou: Group5
+uid: 3230
+ Q==

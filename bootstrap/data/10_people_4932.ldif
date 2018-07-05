@@ -1,0 +1,13 @@
+dn: cn=Easter+sn=Montori,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Easter Montori
+cn: Montori
+givenname: Easter
+mail: easter.montori@planetexpress.com
+userPassword: Easter
+ou: flight_crew
+uid: 4932
+ Q==

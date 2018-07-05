@@ -1,0 +1,13 @@
+dn: cn=Maisie+sn=Blan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maisie Blan
+cn: Blan
+givenname: Maisie
+mail: maisie.blan@planetexpress.com
+userPassword: Maisie
+ou: OtherGroup
+uid: 1843
+ Q==

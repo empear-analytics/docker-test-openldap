@@ -1,0 +1,13 @@
+dn: cn=Whitney+sn=Goldfischer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Whitney Goldfischer
+cn: Goldfischer
+givenname: Whitney
+mail: whitney.goldfischer@planetexpress.com
+userPassword: Whitney
+ou: OtherGroup
+uid: 3886
+ Q==

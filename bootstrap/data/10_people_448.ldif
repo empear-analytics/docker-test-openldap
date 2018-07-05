@@ -1,0 +1,13 @@
+dn: cn=Angila+sn=Kirst,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angila Kirst
+cn: Kirst
+givenname: Angila
+mail: angila.kirst@planetexpress.com
+userPassword: Angila
+ou: flight_crew
+uid: 448
+ Q==

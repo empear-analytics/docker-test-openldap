@@ -1,0 +1,13 @@
+dn: cn=Lacey+sn=Oyster,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lacey Oyster
+cn: Oyster
+givenname: Lacey
+mail: lacey.oyster@planetexpress.com
+userPassword: Lacey
+ou: OtherGroup
+uid: 5949
+ Q==

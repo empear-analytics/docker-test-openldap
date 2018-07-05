@@ -1,0 +1,13 @@
+dn: cn=Mary+sn=Campus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mary Campus
+cn: Campus
+givenname: Mary
+mail: mary.campus@planetexpress.com
+userPassword: Mary
+ou: admin_staff
+uid: 3542
+ Q==

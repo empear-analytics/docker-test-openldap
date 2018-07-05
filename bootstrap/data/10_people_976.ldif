@@ -1,0 +1,13 @@
+dn: cn=Jeramy+sn=Parnell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeramy Parnell
+cn: Parnell
+givenname: Jeramy
+mail: jeramy.parnell@planetexpress.com
+userPassword: Jeramy
+ou: Group5
+uid: 976
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lavone+sn=Bininger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lavone Bininger
+cn: Bininger
+givenname: Lavone
+mail: lavone.bininger@planetexpress.com
+userPassword: Lavone
+ou: flight_crew
+uid: 4153
+ Q==

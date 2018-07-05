@@ -1,0 +1,13 @@
+dn: cn=Larry+sn=Musacchia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Larry Musacchia
+cn: Musacchia
+givenname: Larry
+mail: larry.musacchia@planetexpress.com
+userPassword: Larry
+ou: flight_crew
+uid: 1511
+ Q==

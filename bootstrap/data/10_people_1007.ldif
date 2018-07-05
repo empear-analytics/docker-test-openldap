@@ -1,0 +1,13 @@
+dn: cn=Shea+sn=Detweiler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shea Detweiler
+cn: Detweiler
+givenname: Shea
+mail: shea.detweiler@planetexpress.com
+userPassword: Shea
+ou: Group5
+uid: 1007
+ Q==

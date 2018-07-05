@@ -1,0 +1,13 @@
+dn: cn=Margarite+sn=Poremski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margarite Poremski
+cn: Poremski
+givenname: Margarite
+mail: margarite.poremski@planetexpress.com
+userPassword: Margarite
+ou: admin_staff
+uid: 5210
+ Q==

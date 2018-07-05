@@ -1,0 +1,13 @@
+dn: cn=Sonny+sn=Daehn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sonny Daehn
+cn: Daehn
+givenname: Sonny
+mail: sonny.daehn@planetexpress.com
+userPassword: Sonny
+ou: flight_crew
+uid: 213
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Angel+sn=Haer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angel Haer
+cn: Haer
+givenname: Angel
+mail: angel.haer@planetexpress.com
+userPassword: Angel
+ou: OtherGroup
+uid: 440
+ Q==

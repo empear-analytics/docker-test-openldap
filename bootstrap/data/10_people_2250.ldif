@@ -1,0 +1,13 @@
+dn: cn=Grisel+sn=Broadrick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Grisel Broadrick
+cn: Broadrick
+givenname: Grisel
+mail: grisel.broadrick@planetexpress.com
+userPassword: Grisel
+ou: Group5
+uid: 2250
+ Q==

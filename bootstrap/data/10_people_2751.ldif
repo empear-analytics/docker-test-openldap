@@ -1,0 +1,13 @@
+dn: cn=Winfred+sn=Pullara,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Winfred Pullara
+cn: Pullara
+givenname: Winfred
+mail: winfred.pullara@planetexpress.com
+userPassword: Winfred
+ou: Group5
+uid: 2751
+ Q==

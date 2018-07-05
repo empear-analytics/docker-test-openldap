@@ -1,0 +1,13 @@
+dn: cn=Shelby+sn=Pascoe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shelby Pascoe
+cn: Pascoe
+givenname: Shelby
+mail: shelby.pascoe@planetexpress.com
+userPassword: Shelby
+ou: Group5
+uid: 4629
+ Q==

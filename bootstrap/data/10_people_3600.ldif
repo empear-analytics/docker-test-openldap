@@ -1,0 +1,13 @@
+dn: cn=Eddie+sn=Daughrity,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eddie Daughrity
+cn: Daughrity
+givenname: Eddie
+mail: eddie.daughrity@planetexpress.com
+userPassword: Eddie
+ou: Group5
+uid: 3600
+ Q==

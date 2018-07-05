@@ -1,0 +1,13 @@
+dn: cn=Luigi+sn=Adebisi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Luigi Adebisi
+cn: Adebisi
+givenname: Luigi
+mail: luigi.adebisi@planetexpress.com
+userPassword: Luigi
+ou: flight_crew
+uid: 5077
+ Q==

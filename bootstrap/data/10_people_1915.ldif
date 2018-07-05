@@ -1,0 +1,13 @@
+dn: cn=Cris+sn=Sahlberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cris Sahlberg
+cn: Sahlberg
+givenname: Cris
+mail: cris.sahlberg@planetexpress.com
+userPassword: Cris
+ou: OtherGroup
+uid: 1915
+ Q==

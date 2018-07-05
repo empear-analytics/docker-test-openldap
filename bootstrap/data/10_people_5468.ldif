@@ -1,0 +1,13 @@
+dn: cn=Louie+sn=Kirchbaum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Louie Kirchbaum
+cn: Kirchbaum
+givenname: Louie
+mail: louie.kirchbaum@planetexpress.com
+userPassword: Louie
+ou: Group5
+uid: 5468
+ Q==

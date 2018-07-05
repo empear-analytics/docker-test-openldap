@@ -1,0 +1,13 @@
+dn: cn=Merissa+sn=Treff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Merissa Treff
+cn: Treff
+givenname: Merissa
+mail: merissa.treff@planetexpress.com
+userPassword: Merissa
+ou: flight_crew
+uid: 3387
+ Q==

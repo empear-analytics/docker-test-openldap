@@ -1,0 +1,13 @@
+dn: cn=Twyla+sn=Rivet,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Twyla Rivet
+cn: Rivet
+givenname: Twyla
+mail: twyla.rivet@planetexpress.com
+userPassword: Twyla
+ou: admin_staff
+uid: 4740
+ Q==

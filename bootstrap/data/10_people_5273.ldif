@@ -1,0 +1,13 @@
+dn: cn=Jeannine+sn=Frisch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeannine Frisch
+cn: Frisch
+givenname: Jeannine
+mail: jeannine.frisch@planetexpress.com
+userPassword: Jeannine
+ou: OtherGroup
+uid: 5273
+ Q==

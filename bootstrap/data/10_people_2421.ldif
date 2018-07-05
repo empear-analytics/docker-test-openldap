@@ -1,0 +1,13 @@
+dn: cn=Maegan+sn=Magette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maegan Magette
+cn: Magette
+givenname: Maegan
+mail: maegan.magette@planetexpress.com
+userPassword: Maegan
+ou: admin_staff
+uid: 2421
+ Q==

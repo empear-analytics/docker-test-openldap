@@ -1,0 +1,13 @@
+dn: cn=Leslee+sn=Fountain,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leslee Fountain
+cn: Fountain
+givenname: Leslee
+mail: leslee.fountain@planetexpress.com
+userPassword: Leslee
+ou: admin_staff
+uid: 508
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Norine+sn=Thibert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Norine Thibert
+cn: Thibert
+givenname: Norine
+mail: norine.thibert@planetexpress.com
+userPassword: Norine
+ou: OtherGroup
+uid: 443
+ Q==

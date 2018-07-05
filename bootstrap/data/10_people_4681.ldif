@@ -1,0 +1,13 @@
+dn: cn=Diann+sn=Gabard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Diann Gabard
+cn: Gabard
+givenname: Diann
+mail: diann.gabard@planetexpress.com
+userPassword: Diann
+ou: flight_crew
+uid: 4681
+ Q==

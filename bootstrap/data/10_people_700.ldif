@@ -1,0 +1,13 @@
+dn: cn=Porter+sn=Horenstein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Porter Horenstein
+cn: Horenstein
+givenname: Porter
+mail: porter.horenstein@planetexpress.com
+userPassword: Porter
+ou: flight_crew
+uid: 700
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Yuette+sn=Vanschoiack,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yuette Vanschoiack
+cn: Vanschoiack
+givenname: Yuette
+mail: yuette.vanschoiack@planetexpress.com
+userPassword: Yuette
+ou: OtherGroup
+uid: 2325
+ Q==

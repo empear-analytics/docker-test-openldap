@@ -1,0 +1,13 @@
+dn: cn=Sarina+sn=Marten,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sarina Marten
+cn: Marten
+givenname: Sarina
+mail: sarina.marten@planetexpress.com
+userPassword: Sarina
+ou: Group5
+uid: 5372
+ Q==

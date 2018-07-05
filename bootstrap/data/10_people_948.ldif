@@ -1,0 +1,13 @@
+dn: cn=Willard+sn=Dinn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Willard Dinn
+cn: Dinn
+givenname: Willard
+mail: willard.dinn@planetexpress.com
+userPassword: Willard
+ou: Group5
+uid: 948
+ Q==

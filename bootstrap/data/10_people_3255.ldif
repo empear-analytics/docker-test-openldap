@@ -1,0 +1,13 @@
+dn: cn=Ailene+sn=Rowley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ailene Rowley
+cn: Rowley
+givenname: Ailene
+mail: ailene.rowley@planetexpress.com
+userPassword: Ailene
+ou: OtherGroup
+uid: 3255
+ Q==

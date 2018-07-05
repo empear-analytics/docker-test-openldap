@@ -1,0 +1,13 @@
+dn: cn=Carmelia+sn=Quarrell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carmelia Quarrell
+cn: Quarrell
+givenname: Carmelia
+mail: carmelia.quarrell@planetexpress.com
+userPassword: Carmelia
+ou: flight_crew
+uid: 4680
+ Q==

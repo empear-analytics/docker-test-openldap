@@ -1,0 +1,13 @@
+dn: cn=Yasuko+sn=Walner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yasuko Walner
+cn: Walner
+givenname: Yasuko
+mail: yasuko.walner@planetexpress.com
+userPassword: Yasuko
+ou: Group5
+uid: 718
+ Q==

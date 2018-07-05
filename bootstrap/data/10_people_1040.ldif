@@ -1,0 +1,13 @@
+dn: cn=Roselle+sn=Dedmon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roselle Dedmon
+cn: Dedmon
+givenname: Roselle
+mail: roselle.dedmon@planetexpress.com
+userPassword: Roselle
+ou: OtherGroup
+uid: 1040
+ Q==

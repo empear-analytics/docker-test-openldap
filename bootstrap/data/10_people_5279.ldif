@@ -1,0 +1,13 @@
+dn: cn=Geri+sn=Bisanz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Geri Bisanz
+cn: Bisanz
+givenname: Geri
+mail: geri.bisanz@planetexpress.com
+userPassword: Geri
+ou: flight_crew
+uid: 5279
+ Q==

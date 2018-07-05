@@ -1,0 +1,13 @@
+dn: cn=Aiko+sn=Drohan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aiko Drohan
+cn: Drohan
+givenname: Aiko
+mail: aiko.drohan@planetexpress.com
+userPassword: Aiko
+ou: admin_staff
+uid: 160
+ Q==

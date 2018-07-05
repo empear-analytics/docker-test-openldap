@@ -1,0 +1,13 @@
+dn: cn=Denita+sn=Lemmond,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Denita Lemmond
+cn: Lemmond
+givenname: Denita
+mail: denita.lemmond@planetexpress.com
+userPassword: Denita
+ou: Group5
+uid: 5245
+ Q==

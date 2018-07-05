@@ -1,0 +1,13 @@
+dn: cn=Enriqueta+sn=Boryszewski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Enriqueta Boryszewski
+cn: Boryszewski
+givenname: Enriqueta
+mail: enriqueta.boryszewski@planetexpress.com
+userPassword: Enriqueta
+ou: OtherGroup
+uid: 1498
+ Q==

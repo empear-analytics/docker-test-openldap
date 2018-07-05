@@ -1,0 +1,13 @@
+dn: cn=Wilda+sn=Fixari,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wilda Fixari
+cn: Fixari
+givenname: Wilda
+mail: wilda.fixari@planetexpress.com
+userPassword: Wilda
+ou: admin_staff
+uid: 671
+ Q==

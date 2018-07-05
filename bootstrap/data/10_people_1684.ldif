@@ -1,0 +1,13 @@
+dn: cn=Ouida+sn=Stolsig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ouida Stolsig
+cn: Stolsig
+givenname: Ouida
+mail: ouida.stolsig@planetexpress.com
+userPassword: Ouida
+ou: admin_staff
+uid: 1684
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Caroyln+sn=Helmkamp,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Caroyln Helmkamp
+cn: Helmkamp
+givenname: Caroyln
+mail: caroyln.helmkamp@planetexpress.com
+userPassword: Caroyln
+ou: Group5
+uid: 1425
+ Q==

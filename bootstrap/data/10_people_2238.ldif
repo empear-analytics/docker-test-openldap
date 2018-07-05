@@ -1,0 +1,13 @@
+dn: cn=Tosha+sn=Krallman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tosha Krallman
+cn: Krallman
+givenname: Tosha
+mail: tosha.krallman@planetexpress.com
+userPassword: Tosha
+ou: OtherGroup
+uid: 2238
+ Q==

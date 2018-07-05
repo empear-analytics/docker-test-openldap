@@ -1,0 +1,13 @@
+dn: cn=Mike+sn=Goswami,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mike Goswami
+cn: Goswami
+givenname: Mike
+mail: mike.goswami@planetexpress.com
+userPassword: Mike
+ou: flight_crew
+uid: 2042
+ Q==

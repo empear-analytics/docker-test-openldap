@@ -1,0 +1,13 @@
+dn: cn=Jerome+sn=Wojcik,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jerome Wojcik
+cn: Wojcik
+givenname: Jerome
+mail: jerome.wojcik@planetexpress.com
+userPassword: Jerome
+ou: flight_crew
+uid: 1392
+ Q==

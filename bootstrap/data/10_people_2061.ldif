@@ -1,0 +1,13 @@
+dn: cn=Sofia+sn=Feld,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sofia Feld
+cn: Feld
+givenname: Sofia
+mail: sofia.feld@planetexpress.com
+userPassword: Sofia
+ou: flight_crew
+uid: 2061
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Debrah+sn=Carruth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Debrah Carruth
+cn: Carruth
+givenname: Debrah
+mail: debrah.carruth@planetexpress.com
+userPassword: Debrah
+ou: admin_staff
+uid: 5864
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Loreen+sn=Sukut,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loreen Sukut
+cn: Sukut
+givenname: Loreen
+mail: loreen.sukut@planetexpress.com
+userPassword: Loreen
+ou: OtherGroup
+uid: 5773
+ Q==

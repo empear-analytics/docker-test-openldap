@@ -1,0 +1,13 @@
+dn: cn=Macie+sn=Bessellieu,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Macie Bessellieu
+cn: Bessellieu
+givenname: Macie
+mail: macie.bessellieu@planetexpress.com
+userPassword: Macie
+ou: admin_staff
+uid: 3906
+ Q==

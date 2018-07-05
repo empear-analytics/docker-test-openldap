@@ -1,0 +1,13 @@
+dn: cn=Martin+sn=Daly,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Martin Daly
+cn: Daly
+givenname: Martin
+mail: martin.daly@planetexpress.com
+userPassword: Martin
+ou: Group5
+uid: 3529
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Maude+sn=Betschman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maude Betschman
+cn: Betschman
+givenname: Maude
+mail: maude.betschman@planetexpress.com
+userPassword: Maude
+ou: admin_staff
+uid: 1368
+ Q==

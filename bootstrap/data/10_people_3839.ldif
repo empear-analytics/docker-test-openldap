@@ -1,0 +1,13 @@
+dn: cn=Alena+sn=Matonak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alena Matonak
+cn: Matonak
+givenname: Alena
+mail: alena.matonak@planetexpress.com
+userPassword: Alena
+ou: OtherGroup
+uid: 3839
+ Q==

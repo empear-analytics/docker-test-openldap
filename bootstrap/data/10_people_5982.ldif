@@ -1,0 +1,13 @@
+dn: cn=Byron+sn=Stines,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Byron Stines
+cn: Stines
+givenname: Byron
+mail: byron.stines@planetexpress.com
+userPassword: Byron
+ou: flight_crew
+uid: 5982
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Deon+sn=Leischner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deon Leischner
+cn: Leischner
+givenname: Deon
+mail: deon.leischner@planetexpress.com
+userPassword: Deon
+ou: flight_crew
+uid: 514
+ Q==

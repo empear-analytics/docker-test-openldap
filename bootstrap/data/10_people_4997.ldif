@@ -1,0 +1,13 @@
+dn: cn=Devin+sn=Auther,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Devin Auther
+cn: Auther
+givenname: Devin
+mail: devin.auther@planetexpress.com
+userPassword: Devin
+ou: admin_staff
+uid: 4997
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jim+sn=Alhambra,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jim Alhambra
+cn: Alhambra
+givenname: Jim
+mail: jim.alhambra@planetexpress.com
+userPassword: Jim
+ou: flight_crew
+uid: 1959
+ Q==

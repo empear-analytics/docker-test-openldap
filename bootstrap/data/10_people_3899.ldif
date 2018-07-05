@@ -1,0 +1,13 @@
+dn: cn=Priscila+sn=Braithwaite,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Priscila Braithwaite
+cn: Braithwaite
+givenname: Priscila
+mail: priscila.braithwaite@planetexpress.com
+userPassword: Priscila
+ou: flight_crew
+uid: 3899
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Madelaine+sn=Diachenko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Madelaine Diachenko
+cn: Diachenko
+givenname: Madelaine
+mail: madelaine.diachenko@planetexpress.com
+userPassword: Madelaine
+ou: flight_crew
+uid: 1469
+ Q==

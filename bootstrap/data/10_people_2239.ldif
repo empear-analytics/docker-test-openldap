@@ -1,0 +1,13 @@
+dn: cn=Maryjane+sn=Colpack,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maryjane Colpack
+cn: Colpack
+givenname: Maryjane
+mail: maryjane.colpack@planetexpress.com
+userPassword: Maryjane
+ou: flight_crew
+uid: 2239
+ Q==

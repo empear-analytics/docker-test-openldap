@@ -1,0 +1,13 @@
+dn: cn=Courtney+sn=Dykhuizen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Courtney Dykhuizen
+cn: Dykhuizen
+givenname: Courtney
+mail: courtney.dykhuizen@planetexpress.com
+userPassword: Courtney
+ou: admin_staff
+uid: 4682
+ Q==

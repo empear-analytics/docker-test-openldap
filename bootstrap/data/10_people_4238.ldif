@@ -1,0 +1,13 @@
+dn: cn=Albert+sn=Horris,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Albert Horris
+cn: Horris
+givenname: Albert
+mail: albert.horris@planetexpress.com
+userPassword: Albert
+ou: OtherGroup
+uid: 4238
+ Q==

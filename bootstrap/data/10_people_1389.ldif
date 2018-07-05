@@ -1,0 +1,13 @@
+dn: cn=Jeanine+sn=Chicles,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeanine Chicles
+cn: Chicles
+givenname: Jeanine
+mail: jeanine.chicles@planetexpress.com
+userPassword: Jeanine
+ou: flight_crew
+uid: 1389
+ Q==

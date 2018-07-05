@@ -1,0 +1,13 @@
+dn: cn=Edwina+sn=Overlee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edwina Overlee
+cn: Overlee
+givenname: Edwina
+mail: edwina.overlee@planetexpress.com
+userPassword: Edwina
+ou: OtherGroup
+uid: 2465
+ Q==

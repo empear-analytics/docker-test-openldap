@@ -1,0 +1,13 @@
+dn: cn=Pilar+sn=Kynaston,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pilar Kynaston
+cn: Kynaston
+givenname: Pilar
+mail: pilar.kynaston@planetexpress.com
+userPassword: Pilar
+ou: flight_crew
+uid: 3627
+ Q==

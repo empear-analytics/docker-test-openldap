@@ -1,0 +1,13 @@
+dn: cn=Pat+sn=Xiao,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pat Xiao
+cn: Xiao
+givenname: Pat
+mail: pat.xiao@planetexpress.com
+userPassword: Pat
+ou: Group5
+uid: 3913
+ Q==

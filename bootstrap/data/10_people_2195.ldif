@@ -1,0 +1,13 @@
+dn: cn=Evangeline+sn=Chanthasene,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Evangeline Chanthasene
+cn: Chanthasene
+givenname: Evangeline
+mail: evangeline.chanthasene@planetexpress.com
+userPassword: Evangeline
+ou: OtherGroup
+uid: 2195
+ Q==

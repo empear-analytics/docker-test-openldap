@@ -1,0 +1,13 @@
+dn: cn=Dessie+sn=Villaneva,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dessie Villaneva
+cn: Villaneva
+givenname: Dessie
+mail: dessie.villaneva@planetexpress.com
+userPassword: Dessie
+ou: Group5
+uid: 903
+ Q==

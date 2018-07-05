@@ -1,0 +1,13 @@
+dn: cn=Thaddeus+sn=Monhollen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thaddeus Monhollen
+cn: Monhollen
+givenname: Thaddeus
+mail: thaddeus.monhollen@planetexpress.com
+userPassword: Thaddeus
+ou: OtherGroup
+uid: 3326
+ Q==

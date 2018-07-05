@@ -1,0 +1,13 @@
+dn: cn=Shellie+sn=Boshell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shellie Boshell
+cn: Boshell
+givenname: Shellie
+mail: shellie.boshell@planetexpress.com
+userPassword: Shellie
+ou: admin_staff
+uid: 1033
+ Q==

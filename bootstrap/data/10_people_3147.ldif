@@ -1,0 +1,13 @@
+dn: cn=Magali+sn=Rippy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Magali Rippy
+cn: Rippy
+givenname: Magali
+mail: magali.rippy@planetexpress.com
+userPassword: Magali
+ou: OtherGroup
+uid: 3147
+ Q==

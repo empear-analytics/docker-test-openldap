@@ -1,0 +1,13 @@
+dn: cn=Lucile+sn=Tamporello,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lucile Tamporello
+cn: Tamporello
+givenname: Lucile
+mail: lucile.tamporello@planetexpress.com
+userPassword: Lucile
+ou: flight_crew
+uid: 620
+ Q==

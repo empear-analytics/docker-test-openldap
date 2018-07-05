@@ -1,0 +1,13 @@
+dn: cn=Tammi+sn=Bader,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tammi Bader
+cn: Bader
+givenname: Tammi
+mail: tammi.bader@planetexpress.com
+userPassword: Tammi
+ou: flight_crew
+uid: 445
+ Q==

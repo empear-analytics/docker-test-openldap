@@ -1,0 +1,13 @@
+dn: cn=Virginia+sn=Buttery,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Virginia Buttery
+cn: Buttery
+givenname: Virginia
+mail: virginia.buttery@planetexpress.com
+userPassword: Virginia
+ou: OtherGroup
+uid: 1530
+ Q==

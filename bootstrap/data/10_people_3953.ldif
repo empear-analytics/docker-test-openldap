@@ -1,0 +1,13 @@
+dn: cn=Erna+sn=Fanelli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Erna Fanelli
+cn: Fanelli
+givenname: Erna
+mail: erna.fanelli@planetexpress.com
+userPassword: Erna
+ou: admin_staff
+uid: 3953
+ Q==

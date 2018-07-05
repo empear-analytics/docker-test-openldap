@@ -1,0 +1,13 @@
+dn: cn=Malorie+sn=Guglielmi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Malorie Guglielmi
+cn: Guglielmi
+givenname: Malorie
+mail: malorie.guglielmi@planetexpress.com
+userPassword: Malorie
+ou: admin_staff
+uid: 1177
+ Q==

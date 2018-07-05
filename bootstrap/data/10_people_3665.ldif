@@ -1,0 +1,13 @@
+dn: cn=Colton+sn=Gongalez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Colton Gongalez
+cn: Gongalez
+givenname: Colton
+mail: colton.gongalez@planetexpress.com
+userPassword: Colton
+ou: flight_crew
+uid: 3665
+ Q==

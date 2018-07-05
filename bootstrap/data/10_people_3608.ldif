@@ -1,0 +1,13 @@
+dn: cn=Minta+sn=Thistle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Minta Thistle
+cn: Thistle
+givenname: Minta
+mail: minta.thistle@planetexpress.com
+userPassword: Minta
+ou: flight_crew
+uid: 3608
+ Q==

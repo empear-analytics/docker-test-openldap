@@ -1,0 +1,13 @@
+dn: cn=Leeanna+sn=Velasques,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leeanna Velasques
+cn: Velasques
+givenname: Leeanna
+mail: leeanna.velasques@planetexpress.com
+userPassword: Leeanna
+ou: Group5
+uid: 1956
+ Q==

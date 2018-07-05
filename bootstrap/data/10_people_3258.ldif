@@ -1,0 +1,13 @@
+dn: cn=Irwin+sn=Cure,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Irwin Cure
+cn: Cure
+givenname: Irwin
+mail: irwin.cure@planetexpress.com
+userPassword: Irwin
+ou: flight_crew
+uid: 3258
+ Q==

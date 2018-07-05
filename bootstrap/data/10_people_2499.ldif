@@ -1,0 +1,13 @@
+dn: cn=Fabiola+sn=Vener,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fabiola Vener
+cn: Vener
+givenname: Fabiola
+mail: fabiola.vener@planetexpress.com
+userPassword: Fabiola
+ou: OtherGroup
+uid: 2499
+ Q==

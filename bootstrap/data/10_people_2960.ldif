@@ -1,0 +1,13 @@
+dn: cn=Jocelyn+sn=Denty,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jocelyn Denty
+cn: Denty
+givenname: Jocelyn
+mail: jocelyn.denty@planetexpress.com
+userPassword: Jocelyn
+ou: flight_crew
+uid: 2960
+ Q==

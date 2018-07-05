@@ -1,0 +1,13 @@
+dn: cn=Virgil+sn=Silverhorn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Virgil Silverhorn
+cn: Silverhorn
+givenname: Virgil
+mail: virgil.silverhorn@planetexpress.com
+userPassword: Virgil
+ou: Group5
+uid: 2033
+ Q==

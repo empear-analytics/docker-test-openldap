@@ -1,0 +1,13 @@
+dn: cn=Oscar+sn=Powelson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Oscar Powelson
+cn: Powelson
+givenname: Oscar
+mail: oscar.powelson@planetexpress.com
+userPassword: Oscar
+ou: flight_crew
+uid: 3592
+ Q==

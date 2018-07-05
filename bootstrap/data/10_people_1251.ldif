@@ -1,0 +1,13 @@
+dn: cn=Breanne+sn=Fischbach,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Breanne Fischbach
+cn: Fischbach
+givenname: Breanne
+mail: breanne.fischbach@planetexpress.com
+userPassword: Breanne
+ou: OtherGroup
+uid: 1251
+ Q==

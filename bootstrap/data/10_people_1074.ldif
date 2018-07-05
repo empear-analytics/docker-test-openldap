@@ -1,0 +1,13 @@
+dn: cn=Greg+sn=Lalone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Greg Lalone
+cn: Lalone
+givenname: Greg
+mail: greg.lalone@planetexpress.com
+userPassword: Greg
+ou: flight_crew
+uid: 1074
+ Q==

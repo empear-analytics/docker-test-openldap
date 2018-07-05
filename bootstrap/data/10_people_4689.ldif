@@ -1,0 +1,13 @@
+dn: cn=Deeanna+sn=Oshea,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deeanna Oshea
+cn: Oshea
+givenname: Deeanna
+mail: deeanna.oshea@planetexpress.com
+userPassword: Deeanna
+ou: flight_crew
+uid: 4689
+ Q==

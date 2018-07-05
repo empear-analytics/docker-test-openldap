@@ -1,0 +1,13 @@
+dn: cn=Ji+sn=Sowden,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ji Sowden
+cn: Sowden
+givenname: Ji
+mail: ji.sowden@planetexpress.com
+userPassword: Ji
+ou: admin_staff
+uid: 5811
+ Q==

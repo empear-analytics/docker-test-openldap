@@ -1,0 +1,13 @@
+dn: cn=Gale+sn=Michalicek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gale Michalicek
+cn: Michalicek
+givenname: Gale
+mail: gale.michalicek@planetexpress.com
+userPassword: Gale
+ou: Group5
+uid: 2655
+ Q==

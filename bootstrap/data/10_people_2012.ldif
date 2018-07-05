@@ -1,0 +1,13 @@
+dn: cn=Bernetta+sn=Gaeta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bernetta Gaeta
+cn: Gaeta
+givenname: Bernetta
+mail: bernetta.gaeta@planetexpress.com
+userPassword: Bernetta
+ou: OtherGroup
+uid: 2012
+ Q==

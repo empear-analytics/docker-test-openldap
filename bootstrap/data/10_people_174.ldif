@@ -1,0 +1,13 @@
+dn: cn=Kiara+sn=Williamson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kiara Williamson
+cn: Williamson
+givenname: Kiara
+mail: kiara.williamson@planetexpress.com
+userPassword: Kiara
+ou: flight_crew
+uid: 174
+ Q==

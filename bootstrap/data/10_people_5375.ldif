@@ -1,0 +1,13 @@
+dn: cn=Man+sn=Tippery,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Man Tippery
+cn: Tippery
+givenname: Man
+mail: man.tippery@planetexpress.com
+userPassword: Man
+ou: admin_staff
+uid: 5375
+ Q==

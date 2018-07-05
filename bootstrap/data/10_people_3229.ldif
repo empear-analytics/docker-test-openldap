@@ -1,0 +1,13 @@
+dn: cn=Gerald+sn=Catoggio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gerald Catoggio
+cn: Catoggio
+givenname: Gerald
+mail: gerald.catoggio@planetexpress.com
+userPassword: Gerald
+ou: admin_staff
+uid: 3229
+ Q==

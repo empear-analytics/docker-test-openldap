@@ -1,0 +1,13 @@
+dn: cn=Elnora+sn=Macewen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elnora Macewen
+cn: Macewen
+givenname: Elnora
+mail: elnora.macewen@planetexpress.com
+userPassword: Elnora
+ou: Group5
+uid: 3763
+ Q==

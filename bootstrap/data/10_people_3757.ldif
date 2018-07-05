@@ -1,0 +1,13 @@
+dn: cn=Francine+sn=Ventre,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Francine Ventre
+cn: Ventre
+givenname: Francine
+mail: francine.ventre@planetexpress.com
+userPassword: Francine
+ou: admin_staff
+uid: 3757
+ Q==

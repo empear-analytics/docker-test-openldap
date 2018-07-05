@@ -1,0 +1,13 @@
+dn: cn=Janina+sn=Kuenzi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janina Kuenzi
+cn: Kuenzi
+givenname: Janina
+mail: janina.kuenzi@planetexpress.com
+userPassword: Janina
+ou: flight_crew
+uid: 2355
+ Q==

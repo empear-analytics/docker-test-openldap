@@ -1,0 +1,13 @@
+dn: cn=Mirella+sn=Mensalvas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mirella Mensalvas
+cn: Mensalvas
+givenname: Mirella
+mail: mirella.mensalvas@planetexpress.com
+userPassword: Mirella
+ou: OtherGroup
+uid: 2769
+ Q==

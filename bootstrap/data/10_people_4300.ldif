@@ -1,0 +1,13 @@
+dn: cn=Jeremy+sn=Donelly,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeremy Donelly
+cn: Donelly
+givenname: Jeremy
+mail: jeremy.donelly@planetexpress.com
+userPassword: Jeremy
+ou: Group5
+uid: 4300
+ Q==

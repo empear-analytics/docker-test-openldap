@@ -1,0 +1,13 @@
+dn: cn=Lupe+sn=Fabian,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lupe Fabian
+cn: Fabian
+givenname: Lupe
+mail: lupe.fabian@planetexpress.com
+userPassword: Lupe
+ou: admin_staff
+uid: 5822
+ Q==

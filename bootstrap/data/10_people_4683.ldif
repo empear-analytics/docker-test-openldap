@@ -1,0 +1,13 @@
+dn: cn=Bettina+sn=Tacdol,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bettina Tacdol
+cn: Tacdol
+givenname: Bettina
+mail: bettina.tacdol@planetexpress.com
+userPassword: Bettina
+ou: Group5
+uid: 4683
+ Q==

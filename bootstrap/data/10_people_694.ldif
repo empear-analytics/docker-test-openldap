@@ -1,0 +1,13 @@
+dn: cn=Christiana+sn=Waymer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christiana Waymer
+cn: Waymer
+givenname: Christiana
+mail: christiana.waymer@planetexpress.com
+userPassword: Christiana
+ou: Group5
+uid: 694
+ Q==

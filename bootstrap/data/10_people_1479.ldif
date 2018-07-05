@@ -1,0 +1,13 @@
+dn: cn=Mei+sn=Shane,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mei Shane
+cn: Shane
+givenname: Mei
+mail: mei.shane@planetexpress.com
+userPassword: Mei
+ou: OtherGroup
+uid: 1479
+ Q==

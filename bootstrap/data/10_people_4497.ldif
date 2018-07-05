@@ -1,0 +1,13 @@
+dn: cn=Ken+sn=Wink,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ken Wink
+cn: Wink
+givenname: Ken
+mail: ken.wink@planetexpress.com
+userPassword: Ken
+ou: Group5
+uid: 4497
+ Q==

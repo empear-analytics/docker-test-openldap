@@ -1,0 +1,13 @@
+dn: cn=Diann+sn=Nantwi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Diann Nantwi
+cn: Nantwi
+givenname: Diann
+mail: diann.nantwi@planetexpress.com
+userPassword: Diann
+ou: admin_staff
+uid: 819
+ Q==

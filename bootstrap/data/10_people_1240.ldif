@@ -1,0 +1,13 @@
+dn: cn=Joaquin+sn=Eggert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joaquin Eggert
+cn: Eggert
+givenname: Joaquin
+mail: joaquin.eggert@planetexpress.com
+userPassword: Joaquin
+ou: admin_staff
+uid: 1240
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Regina+sn=Yandle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Regina Yandle
+cn: Yandle
+givenname: Regina
+mail: regina.yandle@planetexpress.com
+userPassword: Regina
+ou: OtherGroup
+uid: 3472
+ Q==

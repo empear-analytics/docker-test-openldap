@@ -1,0 +1,13 @@
+dn: cn=Michal+sn=Nieves,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Michal Nieves
+cn: Nieves
+givenname: Michal
+mail: michal.nieves@planetexpress.com
+userPassword: Michal
+ou: admin_staff
+uid: 5409
+ Q==

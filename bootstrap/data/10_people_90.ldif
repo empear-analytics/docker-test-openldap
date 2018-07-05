@@ -1,0 +1,13 @@
+dn: cn=Sharan+sn=Raiden,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharan Raiden
+cn: Raiden
+givenname: Sharan
+mail: sharan.raiden@planetexpress.com
+userPassword: Sharan
+ou: OtherGroup
+uid: 90
+ Q==

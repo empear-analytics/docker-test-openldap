@@ -1,0 +1,13 @@
+dn: cn=Magan+sn=Storz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Magan Storz
+cn: Storz
+givenname: Magan
+mail: magan.storz@planetexpress.com
+userPassword: Magan
+ou: Group5
+uid: 3081
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Etsuko+sn=Stower,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Etsuko Stower
+cn: Stower
+givenname: Etsuko
+mail: etsuko.stower@planetexpress.com
+userPassword: Etsuko
+ou: OtherGroup
+uid: 4883
+ Q==

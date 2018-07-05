@@ -1,0 +1,13 @@
+dn: cn=Cornelia+sn=Iturralde,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cornelia Iturralde
+cn: Iturralde
+givenname: Cornelia
+mail: cornelia.iturralde@planetexpress.com
+userPassword: Cornelia
+ou: OtherGroup
+uid: 937
+ Q==

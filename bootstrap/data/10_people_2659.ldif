@@ -1,0 +1,13 @@
+dn: cn=Errol+sn=Leddy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Errol Leddy
+cn: Leddy
+givenname: Errol
+mail: errol.leddy@planetexpress.com
+userPassword: Errol
+ou: Group5
+uid: 2659
+ Q==

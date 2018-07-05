@@ -1,0 +1,13 @@
+dn: cn=Leonardo+sn=Ordona,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leonardo Ordona
+cn: Ordona
+givenname: Leonardo
+mail: leonardo.ordona@planetexpress.com
+userPassword: Leonardo
+ou: Group5
+uid: 3417
+ Q==

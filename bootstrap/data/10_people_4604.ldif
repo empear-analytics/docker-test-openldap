@@ -1,0 +1,13 @@
+dn: cn=Vincenzo+sn=Mosure,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vincenzo Mosure
+cn: Mosure
+givenname: Vincenzo
+mail: vincenzo.mosure@planetexpress.com
+userPassword: Vincenzo
+ou: Group5
+uid: 4604
+ Q==

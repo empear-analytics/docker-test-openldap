@@ -1,0 +1,13 @@
+dn: cn=Janessa+sn=Mezera,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janessa Mezera
+cn: Mezera
+givenname: Janessa
+mail: janessa.mezera@planetexpress.com
+userPassword: Janessa
+ou: OtherGroup
+uid: 3869
+ Q==

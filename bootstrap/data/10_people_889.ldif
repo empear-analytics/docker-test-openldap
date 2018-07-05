@@ -1,0 +1,13 @@
+dn: cn=Larhonda+sn=Brzoska,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Larhonda Brzoska
+cn: Brzoska
+givenname: Larhonda
+mail: larhonda.brzoska@planetexpress.com
+userPassword: Larhonda
+ou: OtherGroup
+uid: 889
+ Q==

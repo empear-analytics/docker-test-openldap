@@ -1,0 +1,13 @@
+dn: cn=Cameron+sn=Offerman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cameron Offerman
+cn: Offerman
+givenname: Cameron
+mail: cameron.offerman@planetexpress.com
+userPassword: Cameron
+ou: Group5
+uid: 186
+ Q==

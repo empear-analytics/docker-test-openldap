@@ -1,0 +1,13 @@
+dn: cn=Lilli+sn=Oberlies,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lilli Oberlies
+cn: Oberlies
+givenname: Lilli
+mail: lilli.oberlies@planetexpress.com
+userPassword: Lilli
+ou: OtherGroup
+uid: 3348
+ Q==

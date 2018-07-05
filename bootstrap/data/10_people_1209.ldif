@@ -1,0 +1,13 @@
+dn: cn=Bonnie+sn=Eyermann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bonnie Eyermann
+cn: Eyermann
+givenname: Bonnie
+mail: bonnie.eyermann@planetexpress.com
+userPassword: Bonnie
+ou: flight_crew
+uid: 1209
+ Q==

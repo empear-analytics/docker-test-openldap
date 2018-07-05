@@ -1,0 +1,13 @@
+dn: cn=Fannie+sn=Argulewicz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fannie Argulewicz
+cn: Argulewicz
+givenname: Fannie
+mail: fannie.argulewicz@planetexpress.com
+userPassword: Fannie
+ou: admin_staff
+uid: 4861
+ Q==

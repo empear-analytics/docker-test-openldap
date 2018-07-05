@@ -1,0 +1,13 @@
+dn: cn=Nilda+sn=Scaccia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nilda Scaccia
+cn: Scaccia
+givenname: Nilda
+mail: nilda.scaccia@planetexpress.com
+userPassword: Nilda
+ou: OtherGroup
+uid: 1678
+ Q==

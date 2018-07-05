@@ -1,0 +1,13 @@
+dn: cn=Myrtle+sn=Fennig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Myrtle Fennig
+cn: Fennig
+givenname: Myrtle
+mail: myrtle.fennig@planetexpress.com
+userPassword: Myrtle
+ou: OtherGroup
+uid: 1472
+ Q==

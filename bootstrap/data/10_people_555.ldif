@@ -1,0 +1,13 @@
+dn: cn=Zenia+sn=Bow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zenia Bow
+cn: Bow
+givenname: Zenia
+mail: zenia.bow@planetexpress.com
+userPassword: Zenia
+ou: admin_staff
+uid: 555
+ Q==

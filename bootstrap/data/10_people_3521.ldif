@@ -1,0 +1,13 @@
+dn: cn=Angeline+sn=Guo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angeline Guo
+cn: Guo
+givenname: Angeline
+mail: angeline.guo@planetexpress.com
+userPassword: Angeline
+ou: Group5
+uid: 3521
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jamila+sn=Strehlow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamila Strehlow
+cn: Strehlow
+givenname: Jamila
+mail: jamila.strehlow@planetexpress.com
+userPassword: Jamila
+ou: Group5
+uid: 5541
+ Q==

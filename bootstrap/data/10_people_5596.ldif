@@ -1,0 +1,13 @@
+dn: cn=Rosena+sn=Wrona,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosena Wrona
+cn: Wrona
+givenname: Rosena
+mail: rosena.wrona@planetexpress.com
+userPassword: Rosena
+ou: flight_crew
+uid: 5596
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Karri+sn=Gianotti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karri Gianotti
+cn: Gianotti
+givenname: Karri
+mail: karri.gianotti@planetexpress.com
+userPassword: Karri
+ou: OtherGroup
+uid: 3707
+ Q==

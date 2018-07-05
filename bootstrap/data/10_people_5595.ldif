@@ -1,0 +1,13 @@
+dn: cn=Kara+sn=Stilphen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kara Stilphen
+cn: Stilphen
+givenname: Kara
+mail: kara.stilphen@planetexpress.com
+userPassword: Kara
+ou: flight_crew
+uid: 5595
+ Q==

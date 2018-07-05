@@ -1,0 +1,13 @@
+dn: cn=Jamar+sn=Curvin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamar Curvin
+cn: Curvin
+givenname: Jamar
+mail: jamar.curvin@planetexpress.com
+userPassword: Jamar
+ou: admin_staff
+uid: 5870
+ Q==

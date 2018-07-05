@@ -1,0 +1,13 @@
+dn: cn=Micah+sn=Polton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Micah Polton
+cn: Polton
+givenname: Micah
+mail: micah.polton@planetexpress.com
+userPassword: Micah
+ou: Group5
+uid: 3068
+ Q==

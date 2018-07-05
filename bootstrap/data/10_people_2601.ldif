@@ -1,0 +1,13 @@
+dn: cn=Eladia+sn=Mclaird,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eladia Mclaird
+cn: Mclaird
+givenname: Eladia
+mail: eladia.mclaird@planetexpress.com
+userPassword: Eladia
+ou: flight_crew
+uid: 2601
+ Q==

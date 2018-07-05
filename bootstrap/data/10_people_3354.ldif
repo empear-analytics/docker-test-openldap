@@ -1,0 +1,13 @@
+dn: cn=Ira+sn=Lacsamana,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ira Lacsamana
+cn: Lacsamana
+givenname: Ira
+mail: ira.lacsamana@planetexpress.com
+userPassword: Ira
+ou: flight_crew
+uid: 3354
+ Q==

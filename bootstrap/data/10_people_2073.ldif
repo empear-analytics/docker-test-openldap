@@ -1,0 +1,13 @@
+dn: cn=Lucinda+sn=Stample,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lucinda Stample
+cn: Stample
+givenname: Lucinda
+mail: lucinda.stample@planetexpress.com
+userPassword: Lucinda
+ou: flight_crew
+uid: 2073
+ Q==

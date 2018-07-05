@@ -1,0 +1,13 @@
+dn: cn=Anastacia+sn=Stracquatanio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anastacia Stracquatanio
+cn: Stracquatanio
+givenname: Anastacia
+mail: anastacia.stracquatanio@planetexpress.com
+userPassword: Anastacia
+ou: flight_crew
+uid: 1457
+ Q==

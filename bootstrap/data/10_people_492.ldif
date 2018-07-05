@@ -1,0 +1,13 @@
+dn: cn=Classie+sn=Mego,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Classie Mego
+cn: Mego
+givenname: Classie
+mail: classie.mego@planetexpress.com
+userPassword: Classie
+ou: OtherGroup
+uid: 492
+ Q==

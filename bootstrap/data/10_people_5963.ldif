@@ -1,0 +1,13 @@
+dn: cn=Evangelina+sn=Bacarella,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Evangelina Bacarella
+cn: Bacarella
+givenname: Evangelina
+mail: evangelina.bacarella@planetexpress.com
+userPassword: Evangelina
+ou: OtherGroup
+uid: 5963
+ Q==

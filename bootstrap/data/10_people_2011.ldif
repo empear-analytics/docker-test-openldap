@@ -1,0 +1,13 @@
+dn: cn=Tess+sn=Quispe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tess Quispe
+cn: Quispe
+givenname: Tess
+mail: tess.quispe@planetexpress.com
+userPassword: Tess
+ou: flight_crew
+uid: 2011
+ Q==

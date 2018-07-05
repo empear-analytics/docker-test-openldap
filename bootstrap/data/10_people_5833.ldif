@@ -1,0 +1,13 @@
+dn: cn=Cherlyn+sn=Monn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cherlyn Monn
+cn: Monn
+givenname: Cherlyn
+mail: cherlyn.monn@planetexpress.com
+userPassword: Cherlyn
+ou: flight_crew
+uid: 5833
+ Q==

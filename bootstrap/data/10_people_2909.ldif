@@ -1,0 +1,13 @@
+dn: cn=Edison+sn=Legnon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edison Legnon
+cn: Legnon
+givenname: Edison
+mail: edison.legnon@planetexpress.com
+userPassword: Edison
+ou: Group5
+uid: 2909
+ Q==

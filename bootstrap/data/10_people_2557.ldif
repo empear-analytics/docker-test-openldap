@@ -1,0 +1,13 @@
+dn: cn=Lucy+sn=Rubalcaba,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lucy Rubalcaba
+cn: Rubalcaba
+givenname: Lucy
+mail: lucy.rubalcaba@planetexpress.com
+userPassword: Lucy
+ou: OtherGroup
+uid: 2557
+ Q==

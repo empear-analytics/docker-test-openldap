@@ -1,0 +1,13 @@
+dn: cn=Brianna+sn=Visaya,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brianna Visaya
+cn: Visaya
+givenname: Brianna
+mail: brianna.visaya@planetexpress.com
+userPassword: Brianna
+ou: Group5
+uid: 1741
+ Q==

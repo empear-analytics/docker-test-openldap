@@ -1,0 +1,13 @@
+dn: cn=Lucia+sn=Mellady,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lucia Mellady
+cn: Mellady
+givenname: Lucia
+mail: lucia.mellady@planetexpress.com
+userPassword: Lucia
+ou: OtherGroup
+uid: 5407
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Andra+sn=Askren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andra Askren
+cn: Askren
+givenname: Andra
+mail: andra.askren@planetexpress.com
+userPassword: Andra
+ou: flight_crew
+uid: 4384
+ Q==

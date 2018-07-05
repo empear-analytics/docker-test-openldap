@@ -1,0 +1,13 @@
+dn: cn=Betsy+sn=Laud,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Betsy Laud
+cn: Laud
+givenname: Betsy
+mail: betsy.laud@planetexpress.com
+userPassword: Betsy
+ou: admin_staff
+uid: 4599
+ Q==

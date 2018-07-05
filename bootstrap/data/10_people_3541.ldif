@@ -1,0 +1,13 @@
+dn: cn=Claris+sn=Pytko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Claris Pytko
+cn: Pytko
+givenname: Claris
+mail: claris.pytko@planetexpress.com
+userPassword: Claris
+ou: flight_crew
+uid: 3541
+ Q==

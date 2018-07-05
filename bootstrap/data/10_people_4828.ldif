@@ -1,0 +1,13 @@
+dn: cn=Ozella+sn=Mori,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ozella Mori
+cn: Mori
+givenname: Ozella
+mail: ozella.mori@planetexpress.com
+userPassword: Ozella
+ou: admin_staff
+uid: 4828
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Shelly+sn=Vanbecelaere,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shelly Vanbecelaere
+cn: Vanbecelaere
+givenname: Shelly
+mail: shelly.vanbecelaere@planetexpress.com
+userPassword: Shelly
+ou: flight_crew
+uid: 4535
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Mui+sn=Inhulsen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mui Inhulsen
+cn: Inhulsen
+givenname: Mui
+mail: mui.inhulsen@planetexpress.com
+userPassword: Mui
+ou: OtherGroup
+uid: 5538
+ Q==

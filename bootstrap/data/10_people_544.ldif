@@ -1,0 +1,13 @@
+dn: cn=Vania+sn=Natsis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vania Natsis
+cn: Natsis
+givenname: Vania
+mail: vania.natsis@planetexpress.com
+userPassword: Vania
+ou: OtherGroup
+uid: 544
+ Q==

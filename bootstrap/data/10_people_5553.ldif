@@ -1,0 +1,13 @@
+dn: cn=Jody+sn=Matthey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jody Matthey
+cn: Matthey
+givenname: Jody
+mail: jody.matthey@planetexpress.com
+userPassword: Jody
+ou: Group5
+uid: 5553
+ Q==

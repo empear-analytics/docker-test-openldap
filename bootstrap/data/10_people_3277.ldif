@@ -1,0 +1,13 @@
+dn: cn=Cherryl+sn=Bacy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cherryl Bacy
+cn: Bacy
+givenname: Cherryl
+mail: cherryl.bacy@planetexpress.com
+userPassword: Cherryl
+ou: admin_staff
+uid: 3277
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Otilia+sn=Amadeo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Otilia Amadeo
+cn: Amadeo
+givenname: Otilia
+mail: otilia.amadeo@planetexpress.com
+userPassword: Otilia
+ou: Group5
+uid: 4353
+ Q==

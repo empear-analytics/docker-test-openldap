@@ -1,0 +1,13 @@
+dn: cn=Merrill+sn=Pereida,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Merrill Pereida
+cn: Pereida
+givenname: Merrill
+mail: merrill.pereida@planetexpress.com
+userPassword: Merrill
+ou: Group5
+uid: 3399
+ Q==

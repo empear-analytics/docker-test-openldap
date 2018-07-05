@@ -1,0 +1,13 @@
+dn: cn=Francisco+sn=Schleppy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Francisco Schleppy
+cn: Schleppy
+givenname: Francisco
+mail: francisco.schleppy@planetexpress.com
+userPassword: Francisco
+ou: Group5
+uid: 1085
+ Q==

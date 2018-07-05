@@ -1,0 +1,13 @@
+dn: cn=Valeri+sn=Bilby,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Valeri Bilby
+cn: Bilby
+givenname: Valeri
+mail: valeri.bilby@planetexpress.com
+userPassword: Valeri
+ou: admin_staff
+uid: 364
+ Q==

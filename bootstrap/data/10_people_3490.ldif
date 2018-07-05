@@ -1,0 +1,13 @@
+dn: cn=Ling+sn=Javellana,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ling Javellana
+cn: Javellana
+givenname: Ling
+mail: ling.javellana@planetexpress.com
+userPassword: Ling
+ou: Group5
+uid: 3490
+ Q==

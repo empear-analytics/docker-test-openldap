@@ -1,0 +1,13 @@
+dn: cn=Vania+sn=Capri,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vania Capri
+cn: Capri
+givenname: Vania
+mail: vania.capri@planetexpress.com
+userPassword: Vania
+ou: flight_crew
+uid: 2723
+ Q==

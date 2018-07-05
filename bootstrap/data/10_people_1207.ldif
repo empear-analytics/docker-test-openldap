@@ -1,0 +1,13 @@
+dn: cn=Shayne+sn=Marello,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shayne Marello
+cn: Marello
+givenname: Shayne
+mail: shayne.marello@planetexpress.com
+userPassword: Shayne
+ou: Group5
+uid: 1207
+ Q==

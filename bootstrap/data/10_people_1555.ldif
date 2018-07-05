@@ -1,0 +1,13 @@
+dn: cn=Kerrie+sn=Starrs,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kerrie Starrs
+cn: Starrs
+givenname: Kerrie
+mail: kerrie.starrs@planetexpress.com
+userPassword: Kerrie
+ou: admin_staff
+uid: 1555
+ Q==

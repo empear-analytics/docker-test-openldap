@@ -1,0 +1,13 @@
+dn: cn=Kasi+sn=Shigemitsu,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kasi Shigemitsu
+cn: Shigemitsu
+givenname: Kasi
+mail: kasi.shigemitsu@planetexpress.com
+userPassword: Kasi
+ou: Group5
+uid: 1000
+ Q==

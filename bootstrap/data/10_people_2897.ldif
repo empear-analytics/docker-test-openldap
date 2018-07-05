@@ -1,0 +1,13 @@
+dn: cn=Adella+sn=Trumble,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adella Trumble
+cn: Trumble
+givenname: Adella
+mail: adella.trumble@planetexpress.com
+userPassword: Adella
+ou: Group5
+uid: 2897
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Racquel+sn=Deraney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Racquel Deraney
+cn: Deraney
+givenname: Racquel
+mail: racquel.deraney@planetexpress.com
+userPassword: Racquel
+ou: Group5
+uid: 5389
+ Q==

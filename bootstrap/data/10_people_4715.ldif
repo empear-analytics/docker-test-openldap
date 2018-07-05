@@ -1,0 +1,13 @@
+dn: cn=Cliff+sn=Novinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cliff Novinger
+cn: Novinger
+givenname: Cliff
+mail: cliff.novinger@planetexpress.com
+userPassword: Cliff
+ou: admin_staff
+uid: 4715
+ Q==

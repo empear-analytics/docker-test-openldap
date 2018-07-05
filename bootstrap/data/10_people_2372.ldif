@@ -1,0 +1,13 @@
+dn: cn=Ena+sn=Shoopman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ena Shoopman
+cn: Shoopman
+givenname: Ena
+mail: ena.shoopman@planetexpress.com
+userPassword: Ena
+ou: flight_crew
+uid: 2372
+ Q==

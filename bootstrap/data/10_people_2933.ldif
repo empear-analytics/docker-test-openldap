@@ -1,0 +1,13 @@
+dn: cn=Cordia+sn=Blackgoat,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cordia Blackgoat
+cn: Blackgoat
+givenname: Cordia
+mail: cordia.blackgoat@planetexpress.com
+userPassword: Cordia
+ou: admin_staff
+uid: 2933
+ Q==

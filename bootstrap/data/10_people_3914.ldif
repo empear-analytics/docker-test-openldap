@@ -1,0 +1,13 @@
+dn: cn=Francis+sn=Schrecengost,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Francis Schrecengost
+cn: Schrecengost
+givenname: Francis
+mail: francis.schrecengost@planetexpress.com
+userPassword: Francis
+ou: flight_crew
+uid: 3914
+ Q==

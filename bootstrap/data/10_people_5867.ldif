@@ -1,0 +1,13 @@
+dn: cn=Syreeta+sn=Anson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Syreeta Anson
+cn: Anson
+givenname: Syreeta
+mail: syreeta.anson@planetexpress.com
+userPassword: Syreeta
+ou: OtherGroup
+uid: 5867
+ Q==

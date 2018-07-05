@@ -1,0 +1,13 @@
+dn: cn=Shalon+sn=Louth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shalon Louth
+cn: Louth
+givenname: Shalon
+mail: shalon.louth@planetexpress.com
+userPassword: Shalon
+ou: Group5
+uid: 3197
+ Q==

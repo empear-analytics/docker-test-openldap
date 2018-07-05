@@ -1,0 +1,13 @@
+dn: cn=Bobette+sn=Moul,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bobette Moul
+cn: Moul
+givenname: Bobette
+mail: bobette.moul@planetexpress.com
+userPassword: Bobette
+ou: admin_staff
+uid: 1050
+ Q==

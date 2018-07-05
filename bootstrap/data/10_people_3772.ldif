@@ -1,0 +1,13 @@
+dn: cn=Marcie+sn=Ketzler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marcie Ketzler
+cn: Ketzler
+givenname: Marcie
+mail: marcie.ketzler@planetexpress.com
+userPassword: Marcie
+ou: OtherGroup
+uid: 3772
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Johnny+sn=Nappo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Johnny Nappo
+cn: Nappo
+givenname: Johnny
+mail: johnny.nappo@planetexpress.com
+userPassword: Johnny
+ou: Group5
+uid: 3166
+ Q==

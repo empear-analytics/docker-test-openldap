@@ -1,0 +1,13 @@
+dn: cn=China+sn=Bukowinski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: China Bukowinski
+cn: Bukowinski
+givenname: China
+mail: china.bukowinski@planetexpress.com
+userPassword: China
+ou: OtherGroup
+uid: 3880
+ Q==

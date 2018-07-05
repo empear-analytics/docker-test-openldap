@@ -1,0 +1,13 @@
+dn: cn=Carlena+sn=Secondo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carlena Secondo
+cn: Secondo
+givenname: Carlena
+mail: carlena.secondo@planetexpress.com
+userPassword: Carlena
+ou: flight_crew
+uid: 802
+ Q==

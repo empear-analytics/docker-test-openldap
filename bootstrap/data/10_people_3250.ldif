@@ -1,0 +1,13 @@
+dn: cn=Malika+sn=Fraga,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Malika Fraga
+cn: Fraga
+givenname: Malika
+mail: malika.fraga@planetexpress.com
+userPassword: Malika
+ou: Group5
+uid: 3250
+ Q==

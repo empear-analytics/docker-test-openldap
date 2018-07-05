@@ -1,0 +1,13 @@
+dn: cn=Zachary+sn=Campean,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zachary Campean
+cn: Campean
+givenname: Zachary
+mail: zachary.campean@planetexpress.com
+userPassword: Zachary
+ou: admin_staff
+uid: 1136
+ Q==

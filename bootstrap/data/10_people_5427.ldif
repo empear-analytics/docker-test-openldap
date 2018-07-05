@@ -1,0 +1,13 @@
+dn: cn=Doloris+sn=Fruman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Doloris Fruman
+cn: Fruman
+givenname: Doloris
+mail: doloris.fruman@planetexpress.com
+userPassword: Doloris
+ou: Group5
+uid: 5427
+ Q==

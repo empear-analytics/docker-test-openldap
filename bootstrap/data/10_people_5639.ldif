@@ -1,0 +1,13 @@
+dn: cn=Milly+sn=Seedorf,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Milly Seedorf
+cn: Seedorf
+givenname: Milly
+mail: milly.seedorf@planetexpress.com
+userPassword: Milly
+ou: admin_staff
+uid: 5639
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Sudie+sn=Charm,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sudie Charm
+cn: Charm
+givenname: Sudie
+mail: sudie.charm@planetexpress.com
+userPassword: Sudie
+ou: Group5
+uid: 1615
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Malia+sn=Karro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Malia Karro
+cn: Karro
+givenname: Malia
+mail: malia.karro@planetexpress.com
+userPassword: Malia
+ou: admin_staff
+uid: 3344
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Beaulah+sn=Mackall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beaulah Mackall
+cn: Mackall
+givenname: Beaulah
+mail: beaulah.mackall@planetexpress.com
+userPassword: Beaulah
+ou: OtherGroup
+uid: 2398
+ Q==

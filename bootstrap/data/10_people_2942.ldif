@@ -1,0 +1,13 @@
+dn: cn=Evan+sn=Hasko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Evan Hasko
+cn: Hasko
+givenname: Evan
+mail: evan.hasko@planetexpress.com
+userPassword: Evan
+ou: flight_crew
+uid: 2942
+ Q==

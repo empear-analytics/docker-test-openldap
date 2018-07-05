@@ -1,0 +1,13 @@
+dn: cn=Imelda+sn=Garay,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Imelda Garay
+cn: Garay
+givenname: Imelda
+mail: imelda.garay@planetexpress.com
+userPassword: Imelda
+ou: flight_crew
+uid: 1144
+ Q==

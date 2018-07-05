@@ -1,0 +1,13 @@
+dn: cn=Maurice+sn=Brincks,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maurice Brincks
+cn: Brincks
+givenname: Maurice
+mail: maurice.brincks@planetexpress.com
+userPassword: Maurice
+ou: flight_crew
+uid: 4843
+ Q==

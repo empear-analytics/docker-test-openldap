@@ -1,0 +1,13 @@
+dn: cn=Jeremy+sn=Martischnig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeremy Martischnig
+cn: Martischnig
+givenname: Jeremy
+mail: jeremy.martischnig@planetexpress.com
+userPassword: Jeremy
+ou: flight_crew
+uid: 5497
+ Q==

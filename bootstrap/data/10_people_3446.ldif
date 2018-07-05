@@ -1,0 +1,13 @@
+dn: cn=Bok+sn=Pouch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bok Pouch
+cn: Pouch
+givenname: Bok
+mail: bok.pouch@planetexpress.com
+userPassword: Bok
+ou: admin_staff
+uid: 3446
+ Q==

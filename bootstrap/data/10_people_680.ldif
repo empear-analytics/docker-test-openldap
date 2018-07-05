@@ -1,0 +1,13 @@
+dn: cn=Mona+sn=Rathmanner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mona Rathmanner
+cn: Rathmanner
+givenname: Mona
+mail: mona.rathmanner@planetexpress.com
+userPassword: Mona
+ou: OtherGroup
+uid: 680
+ Q==

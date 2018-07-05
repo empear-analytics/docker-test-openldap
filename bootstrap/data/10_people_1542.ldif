@@ -1,0 +1,13 @@
+dn: cn=Eusebio+sn=Chicca,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eusebio Chicca
+cn: Chicca
+givenname: Eusebio
+mail: eusebio.chicca@planetexpress.com
+userPassword: Eusebio
+ou: OtherGroup
+uid: 1542
+ Q==

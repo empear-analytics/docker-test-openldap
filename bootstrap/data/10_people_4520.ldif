@@ -1,0 +1,13 @@
+dn: cn=Leigha+sn=Tacderan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leigha Tacderan
+cn: Tacderan
+givenname: Leigha
+mail: leigha.tacderan@planetexpress.com
+userPassword: Leigha
+ou: admin_staff
+uid: 4520
+ Q==

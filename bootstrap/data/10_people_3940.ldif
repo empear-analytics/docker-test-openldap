@@ -1,0 +1,13 @@
+dn: cn=Lyman+sn=Bargo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lyman Bargo
+cn: Bargo
+givenname: Lyman
+mail: lyman.bargo@planetexpress.com
+userPassword: Lyman
+ou: flight_crew
+uid: 3940
+ Q==

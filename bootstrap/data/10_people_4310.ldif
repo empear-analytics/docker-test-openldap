@@ -1,0 +1,13 @@
+dn: cn=Ramonita+sn=Graeff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ramonita Graeff
+cn: Graeff
+givenname: Ramonita
+mail: ramonita.graeff@planetexpress.com
+userPassword: Ramonita
+ou: flight_crew
+uid: 4310
+ Q==

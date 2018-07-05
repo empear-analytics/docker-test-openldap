@@ -1,0 +1,13 @@
+dn: cn=Gia+sn=Cantley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gia Cantley
+cn: Cantley
+givenname: Gia
+mail: gia.cantley@planetexpress.com
+userPassword: Gia
+ou: Group5
+uid: 5661
+ Q==

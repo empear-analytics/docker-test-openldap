@@ -1,0 +1,13 @@
+dn: cn=Talisha+sn=Lawley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Talisha Lawley
+cn: Lawley
+givenname: Talisha
+mail: talisha.lawley@planetexpress.com
+userPassword: Talisha
+ou: Group5
+uid: 1962
+ Q==

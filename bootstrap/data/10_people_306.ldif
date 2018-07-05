@@ -1,0 +1,13 @@
+dn: cn=Val+sn=Armacost,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Val Armacost
+cn: Armacost
+givenname: Val
+mail: val.armacost@planetexpress.com
+userPassword: Val
+ou: Group5
+uid: 306
+ Q==

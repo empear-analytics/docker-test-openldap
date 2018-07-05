@@ -1,0 +1,13 @@
+dn: cn=Jann+sn=Dantes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jann Dantes
+cn: Dantes
+givenname: Jann
+mail: jann.dantes@planetexpress.com
+userPassword: Jann
+ou: admin_staff
+uid: 4940
+ Q==

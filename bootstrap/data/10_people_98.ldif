@@ -1,0 +1,13 @@
+dn: cn=Yasuko+sn=Haessig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yasuko Haessig
+cn: Haessig
+givenname: Yasuko
+mail: yasuko.haessig@planetexpress.com
+userPassword: Yasuko
+ou: flight_crew
+uid: 98
+ Q==

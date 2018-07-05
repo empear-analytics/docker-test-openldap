@@ -1,0 +1,13 @@
+dn: cn=Leonora+sn=Aykroid,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leonora Aykroid
+cn: Aykroid
+givenname: Leonora
+mail: leonora.aykroid@planetexpress.com
+userPassword: Leonora
+ou: OtherGroup
+uid: 1780
+ Q==

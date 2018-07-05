@@ -1,0 +1,13 @@
+dn: cn=Nicholas+sn=Codeluppi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nicholas Codeluppi
+cn: Codeluppi
+givenname: Nicholas
+mail: nicholas.codeluppi@planetexpress.com
+userPassword: Nicholas
+ou: admin_staff
+uid: 487
+ Q==

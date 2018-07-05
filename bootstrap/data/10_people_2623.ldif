@@ -1,0 +1,13 @@
+dn: cn=Maxima+sn=Smothers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maxima Smothers
+cn: Smothers
+givenname: Maxima
+mail: maxima.smothers@planetexpress.com
+userPassword: Maxima
+ou: admin_staff
+uid: 2623
+ Q==

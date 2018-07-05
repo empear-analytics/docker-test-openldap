@@ -1,0 +1,13 @@
+dn: cn=Otilia+sn=Krumbholz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Otilia Krumbholz
+cn: Krumbholz
+givenname: Otilia
+mail: otilia.krumbholz@planetexpress.com
+userPassword: Otilia
+ou: Group5
+uid: 1337
+ Q==

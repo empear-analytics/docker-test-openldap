@@ -1,0 +1,13 @@
+dn: cn=Terese+sn=Brumleve,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Terese Brumleve
+cn: Brumleve
+givenname: Terese
+mail: terese.brumleve@planetexpress.com
+userPassword: Terese
+ou: Group5
+uid: 2001
+ Q==

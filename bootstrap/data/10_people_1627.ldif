@@ -1,0 +1,13 @@
+dn: cn=Karleen+sn=Nyahay,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karleen Nyahay
+cn: Nyahay
+givenname: Karleen
+mail: karleen.nyahay@planetexpress.com
+userPassword: Karleen
+ou: flight_crew
+uid: 1627
+ Q==

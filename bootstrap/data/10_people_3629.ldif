@@ -1,0 +1,13 @@
+dn: cn=Tony+sn=Deoliveira,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tony Deoliveira
+cn: Deoliveira
+givenname: Tony
+mail: tony.deoliveira@planetexpress.com
+userPassword: Tony
+ou: Group5
+uid: 3629
+ Q==

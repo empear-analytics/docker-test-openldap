@@ -1,0 +1,13 @@
+dn: cn=Deedee+sn=Pirro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deedee Pirro
+cn: Pirro
+givenname: Deedee
+mail: deedee.pirro@planetexpress.com
+userPassword: Deedee
+ou: Group5
+uid: 5592
+ Q==

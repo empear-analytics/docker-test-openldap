@@ -1,0 +1,13 @@
+dn: cn=Lakiesha+sn=Rotert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lakiesha Rotert
+cn: Rotert
+givenname: Lakiesha
+mail: lakiesha.rotert@planetexpress.com
+userPassword: Lakiesha
+ou: flight_crew
+uid: 4720
+ Q==

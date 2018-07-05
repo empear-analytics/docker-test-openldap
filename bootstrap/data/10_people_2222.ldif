@@ -1,0 +1,13 @@
+dn: cn=Lawanda+sn=Lacatena,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lawanda Lacatena
+cn: Lacatena
+givenname: Lawanda
+mail: lawanda.lacatena@planetexpress.com
+userPassword: Lawanda
+ou: OtherGroup
+uid: 2222
+ Q==

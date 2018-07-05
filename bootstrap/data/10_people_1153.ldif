@@ -1,0 +1,13 @@
+dn: cn=Meaghan+sn=Vassure,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Meaghan Vassure
+cn: Vassure
+givenname: Meaghan
+mail: meaghan.vassure@planetexpress.com
+userPassword: Meaghan
+ou: OtherGroup
+uid: 1153
+ Q==

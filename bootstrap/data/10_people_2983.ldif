@@ -1,0 +1,13 @@
+dn: cn=Susy+sn=Akey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Susy Akey
+cn: Akey
+givenname: Susy
+mail: susy.akey@planetexpress.com
+userPassword: Susy
+ou: Group5
+uid: 2983
+ Q==

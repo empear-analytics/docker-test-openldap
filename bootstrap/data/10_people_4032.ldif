@@ -1,0 +1,13 @@
+dn: cn=Jacqualine+sn=Patague,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacqualine Patague
+cn: Patague
+givenname: Jacqualine
+mail: jacqualine.patague@planetexpress.com
+userPassword: Jacqualine
+ou: flight_crew
+uid: 4032
+ Q==

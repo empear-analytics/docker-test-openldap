@@ -1,0 +1,13 @@
+dn: cn=Sue+sn=Soland,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sue Soland
+cn: Soland
+givenname: Sue
+mail: sue.soland@planetexpress.com
+userPassword: Sue
+ou: OtherGroup
+uid: 4886
+ Q==

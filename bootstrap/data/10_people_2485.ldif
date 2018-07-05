@@ -1,0 +1,13 @@
+dn: cn=Lenard+sn=Muraro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lenard Muraro
+cn: Muraro
+givenname: Lenard
+mail: lenard.muraro@planetexpress.com
+userPassword: Lenard
+ou: admin_staff
+uid: 2485
+ Q==

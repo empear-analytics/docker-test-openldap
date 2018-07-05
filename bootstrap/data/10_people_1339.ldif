@@ -1,0 +1,13 @@
+dn: cn=Marceline+sn=Kennin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marceline Kennin
+cn: Kennin
+givenname: Marceline
+mail: marceline.kennin@planetexpress.com
+userPassword: Marceline
+ou: OtherGroup
+uid: 1339
+ Q==

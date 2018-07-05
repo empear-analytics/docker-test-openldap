@@ -1,0 +1,13 @@
+dn: cn=Dianne+sn=Glorius,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dianne Glorius
+cn: Glorius
+givenname: Dianne
+mail: dianne.glorius@planetexpress.com
+userPassword: Dianne
+ou: Group5
+uid: 5842
+ Q==

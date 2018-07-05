@@ -1,0 +1,13 @@
+dn: cn=Jana+sn=Masello,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jana Masello
+cn: Masello
+givenname: Jana
+mail: jana.masello@planetexpress.com
+userPassword: Jana
+ou: flight_crew
+uid: 3932
+ Q==

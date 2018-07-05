@@ -1,0 +1,13 @@
+dn: cn=Eartha+sn=Higginbottom,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eartha Higginbottom
+cn: Higginbottom
+givenname: Eartha
+mail: eartha.higginbottom@planetexpress.com
+userPassword: Eartha
+ou: Group5
+uid: 5821
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Eugenio+sn=Nakai,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eugenio Nakai
+cn: Nakai
+givenname: Eugenio
+mail: eugenio.nakai@planetexpress.com
+userPassword: Eugenio
+ou: flight_crew
+uid: 1174
+ Q==

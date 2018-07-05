@@ -1,0 +1,13 @@
+dn: cn=Jere+sn=Ibdah,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jere Ibdah
+cn: Ibdah
+givenname: Jere
+mail: jere.ibdah@planetexpress.com
+userPassword: Jere
+ou: OtherGroup
+uid: 558
+ Q==

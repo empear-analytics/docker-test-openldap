@@ -1,0 +1,13 @@
+dn: cn=Scotty+sn=Manda,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Scotty Manda
+cn: Manda
+givenname: Scotty
+mail: scotty.manda@planetexpress.com
+userPassword: Scotty
+ou: admin_staff
+uid: 2344
+ Q==

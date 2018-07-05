@@ -1,0 +1,13 @@
+dn: cn=Jacob+sn=Seaman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacob Seaman
+cn: Seaman
+givenname: Jacob
+mail: jacob.seaman@planetexpress.com
+userPassword: Jacob
+ou: Group5
+uid: 1278
+ Q==

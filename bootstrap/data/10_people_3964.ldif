@@ -1,0 +1,13 @@
+dn: cn=Corliss+sn=Wiginton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Corliss Wiginton
+cn: Wiginton
+givenname: Corliss
+mail: corliss.wiginton@planetexpress.com
+userPassword: Corliss
+ou: admin_staff
+uid: 3964
+ Q==

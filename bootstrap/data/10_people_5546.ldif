@@ -1,0 +1,13 @@
+dn: cn=Marion+sn=Bake,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marion Bake
+cn: Bake
+givenname: Marion
+mail: marion.bake@planetexpress.com
+userPassword: Marion
+ou: Group5
+uid: 5546
+ Q==

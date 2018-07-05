@@ -1,0 +1,13 @@
+dn: cn=Casey+sn=Yarrington,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Casey Yarrington
+cn: Yarrington
+givenname: Casey
+mail: casey.yarrington@planetexpress.com
+userPassword: Casey
+ou: Group5
+uid: 3766
+ Q==

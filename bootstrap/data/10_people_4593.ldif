@@ -1,0 +1,13 @@
+dn: cn=Eusebio+sn=Braff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eusebio Braff
+cn: Braff
+givenname: Eusebio
+mail: eusebio.braff@planetexpress.com
+userPassword: Eusebio
+ou: OtherGroup
+uid: 4593
+ Q==

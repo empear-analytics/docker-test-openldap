@@ -1,0 +1,13 @@
+dn: cn=Lorelei+sn=Huntley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lorelei Huntley
+cn: Huntley
+givenname: Lorelei
+mail: lorelei.huntley@planetexpress.com
+userPassword: Lorelei
+ou: flight_crew
+uid: 2900
+ Q==

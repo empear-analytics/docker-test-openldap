@@ -1,0 +1,13 @@
+dn: cn=Delmer+sn=Vitellaro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delmer Vitellaro
+cn: Vitellaro
+givenname: Delmer
+mail: delmer.vitellaro@planetexpress.com
+userPassword: Delmer
+ou: flight_crew
+uid: 3259
+ Q==

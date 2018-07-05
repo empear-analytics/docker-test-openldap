@@ -1,0 +1,13 @@
+dn: cn=Merlin+sn=Flipp,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Merlin Flipp
+cn: Flipp
+givenname: Merlin
+mail: merlin.flipp@planetexpress.com
+userPassword: Merlin
+ou: Group5
+uid: 5944
+ Q==

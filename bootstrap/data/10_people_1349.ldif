@@ -1,0 +1,13 @@
+dn: cn=Tony+sn=Weik,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tony Weik
+cn: Weik
+givenname: Tony
+mail: tony.weik@planetexpress.com
+userPassword: Tony
+ou: Group5
+uid: 1349
+ Q==

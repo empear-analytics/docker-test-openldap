@@ -1,0 +1,13 @@
+dn: cn=Elaine+sn=Kelemen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elaine Kelemen
+cn: Kelemen
+givenname: Elaine
+mail: elaine.kelemen@planetexpress.com
+userPassword: Elaine
+ou: Group5
+uid: 5991
+ Q==

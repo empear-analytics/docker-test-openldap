@@ -1,0 +1,13 @@
+dn: cn=Alana+sn=Cantos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alana Cantos
+cn: Cantos
+givenname: Alana
+mail: alana.cantos@planetexpress.com
+userPassword: Alana
+ou: OtherGroup
+uid: 798
+ Q==

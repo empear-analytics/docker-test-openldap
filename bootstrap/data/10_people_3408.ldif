@@ -1,0 +1,13 @@
+dn: cn=Justina+sn=Glasco,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Justina Glasco
+cn: Glasco
+givenname: Justina
+mail: justina.glasco@planetexpress.com
+userPassword: Justina
+ou: admin_staff
+uid: 3408
+ Q==

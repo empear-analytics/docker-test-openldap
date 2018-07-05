@@ -1,0 +1,13 @@
+dn: cn=Julieta+sn=Wetmore,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Julieta Wetmore
+cn: Wetmore
+givenname: Julieta
+mail: julieta.wetmore@planetexpress.com
+userPassword: Julieta
+ou: Group5
+uid: 1669
+ Q==

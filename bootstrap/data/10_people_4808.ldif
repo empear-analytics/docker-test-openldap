@@ -1,0 +1,13 @@
+dn: cn=Daine+sn=Wachal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daine Wachal
+cn: Wachal
+givenname: Daine
+mail: daine.wachal@planetexpress.com
+userPassword: Daine
+ou: OtherGroup
+uid: 4808
+ Q==

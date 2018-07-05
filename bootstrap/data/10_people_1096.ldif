@@ -1,0 +1,13 @@
+dn: cn=Dawn+sn=Woyahn,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dawn Woyahn
+cn: Woyahn
+givenname: Dawn
+mail: dawn.woyahn@planetexpress.com
+userPassword: Dawn
+ou: flight_crew
+uid: 1096
+ Q==

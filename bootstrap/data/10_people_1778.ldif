@@ -1,0 +1,13 @@
+dn: cn=Johnny+sn=Zambrana,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Johnny Zambrana
+cn: Zambrana
+givenname: Johnny
+mail: johnny.zambrana@planetexpress.com
+userPassword: Johnny
+ou: admin_staff
+uid: 1778
+ Q==

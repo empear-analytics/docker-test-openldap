@@ -1,0 +1,13 @@
+dn: cn=Silas+sn=Pollaro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Silas Pollaro
+cn: Pollaro
+givenname: Silas
+mail: silas.pollaro@planetexpress.com
+userPassword: Silas
+ou: Group5
+uid: 2980
+ Q==

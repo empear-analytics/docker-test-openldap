@@ -1,0 +1,13 @@
+dn: cn=Ping+sn=Callado,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ping Callado
+cn: Callado
+givenname: Ping
+mail: ping.callado@planetexpress.com
+userPassword: Ping
+ou: OtherGroup
+uid: 1188
+ Q==

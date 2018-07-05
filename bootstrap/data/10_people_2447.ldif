@@ -1,0 +1,13 @@
+dn: cn=Babette+sn=Goethals,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Babette Goethals
+cn: Goethals
+givenname: Babette
+mail: babette.goethals@planetexpress.com
+userPassword: Babette
+ou: admin_staff
+uid: 2447
+ Q==

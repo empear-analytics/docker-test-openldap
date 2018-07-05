@@ -1,0 +1,13 @@
+dn: cn=Eleonore+sn=Steggeman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eleonore Steggeman
+cn: Steggeman
+givenname: Eleonore
+mail: eleonore.steggeman@planetexpress.com
+userPassword: Eleonore
+ou: Group5
+uid: 2776
+ Q==

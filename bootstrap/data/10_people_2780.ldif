@@ -1,0 +1,13 @@
+dn: cn=Cordell+sn=Plutt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cordell Plutt
+cn: Plutt
+givenname: Cordell
+mail: cordell.plutt@planetexpress.com
+userPassword: Cordell
+ou: Group5
+uid: 2780
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Drew+sn=Tancredi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Drew Tancredi
+cn: Tancredi
+givenname: Drew
+mail: drew.tancredi@planetexpress.com
+userPassword: Drew
+ou: OtherGroup
+uid: 5195
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Weston+sn=Gugerty,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Weston Gugerty
+cn: Gugerty
+givenname: Weston
+mail: weston.gugerty@planetexpress.com
+userPassword: Weston
+ou: Group5
+uid: 4810
+ Q==

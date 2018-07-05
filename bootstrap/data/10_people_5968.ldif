@@ -1,0 +1,13 @@
+dn: cn=Bernardo+sn=Zappala,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bernardo Zappala
+cn: Zappala
+givenname: Bernardo
+mail: bernardo.zappala@planetexpress.com
+userPassword: Bernardo
+ou: admin_staff
+uid: 5968
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Alexis+sn=Uttech,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alexis Uttech
+cn: Uttech
+givenname: Alexis
+mail: alexis.uttech@planetexpress.com
+userPassword: Alexis
+ou: Group5
+uid: 4388
+ Q==

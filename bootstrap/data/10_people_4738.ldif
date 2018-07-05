@@ -1,0 +1,13 @@
+dn: cn=Rosenda+sn=Defabio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosenda Defabio
+cn: Defabio
+givenname: Rosenda
+mail: rosenda.defabio@planetexpress.com
+userPassword: Rosenda
+ou: flight_crew
+uid: 4738
+ Q==

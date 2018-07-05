@@ -1,0 +1,13 @@
+dn: cn=Catina+sn=Elvers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Catina Elvers
+cn: Elvers
+givenname: Catina
+mail: catina.elvers@planetexpress.com
+userPassword: Catina
+ou: Group5
+uid: 4640
+ Q==

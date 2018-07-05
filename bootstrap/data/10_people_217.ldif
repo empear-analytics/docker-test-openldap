@@ -1,0 +1,13 @@
+dn: cn=Refugia+sn=Edleston,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Refugia Edleston
+cn: Edleston
+givenname: Refugia
+mail: refugia.edleston@planetexpress.com
+userPassword: Refugia
+ou: OtherGroup
+uid: 217
+ Q==

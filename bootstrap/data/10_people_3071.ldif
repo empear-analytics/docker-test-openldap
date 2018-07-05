@@ -1,0 +1,13 @@
+dn: cn=Lannie+sn=Prey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lannie Prey
+cn: Prey
+givenname: Lannie
+mail: lannie.prey@planetexpress.com
+userPassword: Lannie
+ou: Group5
+uid: 3071
+ Q==

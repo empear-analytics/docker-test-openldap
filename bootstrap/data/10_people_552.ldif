@@ -1,0 +1,13 @@
+dn: cn=Karey+sn=Legendre,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karey Legendre
+cn: Legendre
+givenname: Karey
+mail: karey.legendre@planetexpress.com
+userPassword: Karey
+ou: Group5
+uid: 552
+ Q==

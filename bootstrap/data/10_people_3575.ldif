@@ -1,0 +1,13 @@
+dn: cn=Joellen+sn=Deveny,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joellen Deveny
+cn: Deveny
+givenname: Joellen
+mail: joellen.deveny@planetexpress.com
+userPassword: Joellen
+ou: flight_crew
+uid: 3575
+ Q==

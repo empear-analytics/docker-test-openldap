@@ -1,0 +1,13 @@
+dn: cn=Kallie+sn=Hagist,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kallie Hagist
+cn: Hagist
+givenname: Kallie
+mail: kallie.hagist@planetexpress.com
+userPassword: Kallie
+ou: flight_crew
+uid: 1461
+ Q==

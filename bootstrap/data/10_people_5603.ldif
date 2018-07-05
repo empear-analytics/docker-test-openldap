@@ -1,0 +1,13 @@
+dn: cn=Exie+sn=Berlanga,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Exie Berlanga
+cn: Berlanga
+givenname: Exie
+mail: exie.berlanga@planetexpress.com
+userPassword: Exie
+ou: flight_crew
+uid: 5603
+ Q==

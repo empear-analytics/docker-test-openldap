@@ -1,0 +1,13 @@
+dn: cn=Bree+sn=Scatenato,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bree Scatenato
+cn: Scatenato
+givenname: Bree
+mail: bree.scatenato@planetexpress.com
+userPassword: Bree
+ou: admin_staff
+uid: 3746
+ Q==

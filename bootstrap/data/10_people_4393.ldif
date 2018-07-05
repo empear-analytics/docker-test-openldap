@@ -1,0 +1,13 @@
+dn: cn=Drema+sn=Yell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Drema Yell
+cn: Yell
+givenname: Drema
+mail: drema.yell@planetexpress.com
+userPassword: Drema
+ou: flight_crew
+uid: 4393
+ Q==

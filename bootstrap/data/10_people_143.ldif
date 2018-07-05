@@ -1,0 +1,13 @@
+dn: cn=Loreta+sn=Sables,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Loreta Sables
+cn: Sables
+givenname: Loreta
+mail: loreta.sables@planetexpress.com
+userPassword: Loreta
+ou: OtherGroup
+uid: 143
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Chadwick+sn=Nozick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chadwick Nozick
+cn: Nozick
+givenname: Chadwick
+mail: chadwick.nozick@planetexpress.com
+userPassword: Chadwick
+ou: admin_staff
+uid: 1445
+ Q==

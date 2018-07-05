@@ -1,0 +1,13 @@
+dn: cn=Jacquetta+sn=Waters,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jacquetta Waters
+cn: Waters
+givenname: Jacquetta
+mail: jacquetta.waters@planetexpress.com
+userPassword: Jacquetta
+ou: Group5
+uid: 421
+ Q==

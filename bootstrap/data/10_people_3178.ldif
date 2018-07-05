@@ -1,0 +1,13 @@
+dn: cn=Ricardo+sn=Tuttle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ricardo Tuttle
+cn: Tuttle
+givenname: Ricardo
+mail: ricardo.tuttle@planetexpress.com
+userPassword: Ricardo
+ou: flight_crew
+uid: 3178
+ Q==

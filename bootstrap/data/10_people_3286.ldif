@@ -1,0 +1,13 @@
+dn: cn=David+sn=Morganti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: David Morganti
+cn: Morganti
+givenname: David
+mail: david.morganti@planetexpress.com
+userPassword: David
+ou: OtherGroup
+uid: 3286
+ Q==

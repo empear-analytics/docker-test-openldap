@@ -1,0 +1,13 @@
+dn: cn=Florencia+sn=Edmonston,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Florencia Edmonston
+cn: Edmonston
+givenname: Florencia
+mail: florencia.edmonston@planetexpress.com
+userPassword: Florencia
+ou: OtherGroup
+uid: 4927
+ Q==

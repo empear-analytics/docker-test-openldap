@@ -1,0 +1,13 @@
+dn: cn=Eula+sn=Vaccarino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eula Vaccarino
+cn: Vaccarino
+givenname: Eula
+mail: eula.vaccarino@planetexpress.com
+userPassword: Eula
+ou: Group5
+uid: 2827
+ Q==

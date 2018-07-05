@@ -1,0 +1,13 @@
+dn: cn=Maisha+sn=Biley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maisha Biley
+cn: Biley
+givenname: Maisha
+mail: maisha.biley@planetexpress.com
+userPassword: Maisha
+ou: flight_crew
+uid: 648
+ Q==

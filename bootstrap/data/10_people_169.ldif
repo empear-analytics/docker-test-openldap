@@ -1,0 +1,13 @@
+dn: cn=Ramon+sn=Hoggan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ramon Hoggan
+cn: Hoggan
+givenname: Ramon
+mail: ramon.hoggan@planetexpress.com
+userPassword: Ramon
+ou: admin_staff
+uid: 169
+ Q==

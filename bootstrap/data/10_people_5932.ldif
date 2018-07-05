@@ -1,0 +1,13 @@
+dn: cn=Wiley+sn=Kutzer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wiley Kutzer
+cn: Kutzer
+givenname: Wiley
+mail: wiley.kutzer@planetexpress.com
+userPassword: Wiley
+ou: OtherGroup
+uid: 5932
+ Q==

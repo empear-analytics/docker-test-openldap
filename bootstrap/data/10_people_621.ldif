@@ -1,0 +1,13 @@
+dn: cn=Maryland+sn=Haakenson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maryland Haakenson
+cn: Haakenson
+givenname: Maryland
+mail: maryland.haakenson@planetexpress.com
+userPassword: Maryland
+ou: Group5
+uid: 621
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Odis+sn=Galanis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Odis Galanis
+cn: Galanis
+givenname: Odis
+mail: odis.galanis@planetexpress.com
+userPassword: Odis
+ou: OtherGroup
+uid: 5579
+ Q==

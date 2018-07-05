@@ -1,0 +1,13 @@
+dn: cn=Kathleen+sn=Freitag,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kathleen Freitag
+cn: Freitag
+givenname: Kathleen
+mail: kathleen.freitag@planetexpress.com
+userPassword: Kathleen
+ou: flight_crew
+uid: 5123
+ Q==

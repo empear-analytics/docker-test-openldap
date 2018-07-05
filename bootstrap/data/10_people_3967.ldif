@@ -1,0 +1,13 @@
+dn: cn=Esmeralda+sn=Trucco,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Esmeralda Trucco
+cn: Trucco
+givenname: Esmeralda
+mail: esmeralda.trucco@planetexpress.com
+userPassword: Esmeralda
+ou: OtherGroup
+uid: 3967
+ Q==

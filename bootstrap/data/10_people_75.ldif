@@ -1,0 +1,13 @@
+dn: cn=Maribeth+sn=Marzullo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maribeth Marzullo
+cn: Marzullo
+givenname: Maribeth
+mail: maribeth.marzullo@planetexpress.com
+userPassword: Maribeth
+ou: OtherGroup
+uid: 75
+ Q==

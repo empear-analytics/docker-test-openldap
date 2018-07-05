@@ -1,0 +1,13 @@
+dn: cn=Regena+sn=Brosman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Regena Brosman
+cn: Brosman
+givenname: Regena
+mail: regena.brosman@planetexpress.com
+userPassword: Regena
+ou: flight_crew
+uid: 4120
+ Q==

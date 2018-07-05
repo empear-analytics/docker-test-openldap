@@ -1,0 +1,13 @@
+dn: cn=Lore+sn=Fremming,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lore Fremming
+cn: Fremming
+givenname: Lore
+mail: lore.fremming@planetexpress.com
+userPassword: Lore
+ou: flight_crew
+uid: 1813
+ Q==

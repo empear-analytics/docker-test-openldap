@@ -1,0 +1,13 @@
+dn: cn=Rebeca+sn=Hankey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rebeca Hankey
+cn: Hankey
+givenname: Rebeca
+mail: rebeca.hankey@planetexpress.com
+userPassword: Rebeca
+ou: OtherGroup
+uid: 240
+ Q==

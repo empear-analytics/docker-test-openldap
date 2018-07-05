@@ -1,0 +1,13 @@
+dn: cn=Marvis+sn=Messmer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marvis Messmer
+cn: Messmer
+givenname: Marvis
+mail: marvis.messmer@planetexpress.com
+userPassword: Marvis
+ou: admin_staff
+uid: 1593
+ Q==

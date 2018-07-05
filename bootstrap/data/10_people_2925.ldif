@@ -1,0 +1,13 @@
+dn: cn=Charity+sn=Karella,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charity Karella
+cn: Karella
+givenname: Charity
+mail: charity.karella@planetexpress.com
+userPassword: Charity
+ou: Group5
+uid: 2925
+ Q==

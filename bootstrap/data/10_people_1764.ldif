@@ -1,0 +1,13 @@
+dn: cn=Kacey+sn=Altes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kacey Altes
+cn: Altes
+givenname: Kacey
+mail: kacey.altes@planetexpress.com
+userPassword: Kacey
+ou: Group5
+uid: 1764
+ Q==

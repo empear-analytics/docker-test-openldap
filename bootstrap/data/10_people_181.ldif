@@ -1,0 +1,13 @@
+dn: cn=Brandie+sn=Macri,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brandie Macri
+cn: Macri
+givenname: Brandie
+mail: brandie.macri@planetexpress.com
+userPassword: Brandie
+ou: Group5
+uid: 181
+ Q==

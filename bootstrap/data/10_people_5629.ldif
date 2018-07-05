@@ -1,0 +1,13 @@
+dn: cn=Aracely+sn=Loht,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aracely Loht
+cn: Loht
+givenname: Aracely
+mail: aracely.loht@planetexpress.com
+userPassword: Aracely
+ou: OtherGroup
+uid: 5629
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jetta+sn=Crockette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jetta Crockette
+cn: Crockette
+givenname: Jetta
+mail: jetta.crockette@planetexpress.com
+userPassword: Jetta
+ou: admin_staff
+uid: 5856
+ Q==

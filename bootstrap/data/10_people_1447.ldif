@@ -1,0 +1,13 @@
+dn: cn=Miss+sn=Agard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Miss Agard
+cn: Agard
+givenname: Miss
+mail: miss.agard@planetexpress.com
+userPassword: Miss
+ou: admin_staff
+uid: 1447
+ Q==

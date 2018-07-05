@@ -1,0 +1,13 @@
+dn: cn=Glenn+sn=Mahaney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Glenn Mahaney
+cn: Mahaney
+givenname: Glenn
+mail: glenn.mahaney@planetexpress.com
+userPassword: Glenn
+ou: flight_crew
+uid: 4922
+ Q==

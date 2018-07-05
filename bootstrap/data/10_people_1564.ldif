@@ -1,0 +1,13 @@
+dn: cn=Myra+sn=Manche,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Myra Manche
+cn: Manche
+givenname: Myra
+mail: myra.manche@planetexpress.com
+userPassword: Myra
+ou: Group5
+uid: 1564
+ Q==

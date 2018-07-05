@@ -1,0 +1,13 @@
+dn: cn=Norene+sn=Manoogian,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Norene Manoogian
+cn: Manoogian
+givenname: Norene
+mail: norene.manoogian@planetexpress.com
+userPassword: Norene
+ou: OtherGroup
+uid: 2999
+ Q==

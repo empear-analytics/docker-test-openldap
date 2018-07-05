@@ -1,0 +1,13 @@
+dn: cn=Isabella+sn=Morter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Isabella Morter
+cn: Morter
+givenname: Isabella
+mail: isabella.morter@planetexpress.com
+userPassword: Isabella
+ou: OtherGroup
+uid: 194
+ Q==

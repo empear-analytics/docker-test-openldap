@@ -1,0 +1,13 @@
+dn: cn=Herta+sn=Fleeting,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Herta Fleeting
+cn: Fleeting
+givenname: Herta
+mail: herta.fleeting@planetexpress.com
+userPassword: Herta
+ou: OtherGroup
+uid: 685
+ Q==

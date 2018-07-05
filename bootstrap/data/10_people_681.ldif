@@ -1,0 +1,13 @@
+dn: cn=Alexandra+sn=Holbein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alexandra Holbein
+cn: Holbein
+givenname: Alexandra
+mail: alexandra.holbein@planetexpress.com
+userPassword: Alexandra
+ou: Group5
+uid: 681
+ Q==

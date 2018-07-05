@@ -1,0 +1,13 @@
+dn: cn=Maryland+sn=Throndson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maryland Throndson
+cn: Throndson
+givenname: Maryland
+mail: maryland.throndson@planetexpress.com
+userPassword: Maryland
+ou: flight_crew
+uid: 4732
+ Q==

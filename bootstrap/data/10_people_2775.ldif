@@ -1,0 +1,13 @@
+dn: cn=Eldon+sn=Brosman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eldon Brosman
+cn: Brosman
+givenname: Eldon
+mail: eldon.brosman@planetexpress.com
+userPassword: Eldon
+ou: OtherGroup
+uid: 2775
+ Q==

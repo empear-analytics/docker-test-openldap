@@ -1,0 +1,13 @@
+dn: cn=Isis+sn=Seeliger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Isis Seeliger
+cn: Seeliger
+givenname: Isis
+mail: isis.seeliger@planetexpress.com
+userPassword: Isis
+ou: flight_crew
+uid: 1784
+ Q==

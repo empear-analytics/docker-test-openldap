@@ -1,0 +1,13 @@
+dn: cn=Miss+sn=Mcelhattan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Miss Mcelhattan
+cn: Mcelhattan
+givenname: Miss
+mail: miss.mcelhattan@planetexpress.com
+userPassword: Miss
+ou: OtherGroup
+uid: 78
+ Q==

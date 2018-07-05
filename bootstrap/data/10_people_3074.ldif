@@ -1,0 +1,13 @@
+dn: cn=Adelaide+sn=Schwier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adelaide Schwier
+cn: Schwier
+givenname: Adelaide
+mail: adelaide.schwier@planetexpress.com
+userPassword: Adelaide
+ou: Group5
+uid: 3074
+ Q==

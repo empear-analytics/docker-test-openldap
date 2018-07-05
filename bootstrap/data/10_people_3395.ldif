@@ -1,0 +1,13 @@
+dn: cn=Phoebe+sn=Aubel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Phoebe Aubel
+cn: Aubel
+givenname: Phoebe
+mail: phoebe.aubel@planetexpress.com
+userPassword: Phoebe
+ou: OtherGroup
+uid: 3395
+ Q==

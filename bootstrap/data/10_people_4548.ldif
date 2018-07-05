@@ -1,0 +1,13 @@
+dn: cn=Suzi+sn=Bergmeier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Suzi Bergmeier
+cn: Bergmeier
+givenname: Suzi
+mail: suzi.bergmeier@planetexpress.com
+userPassword: Suzi
+ou: Group5
+uid: 4548
+ Q==

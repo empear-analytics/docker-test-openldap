@@ -1,0 +1,13 @@
+dn: cn=Angie+sn=Douce,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angie Douce
+cn: Douce
+givenname: Angie
+mail: angie.douce@planetexpress.com
+userPassword: Angie
+ou: Group5
+uid: 4794
+ Q==

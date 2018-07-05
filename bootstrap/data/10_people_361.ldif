@@ -1,0 +1,13 @@
+dn: cn=Deloras+sn=Arauz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deloras Arauz
+cn: Arauz
+givenname: Deloras
+mail: deloras.arauz@planetexpress.com
+userPassword: Deloras
+ou: OtherGroup
+uid: 361
+ Q==

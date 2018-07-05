@@ -1,0 +1,13 @@
+dn: cn=Mitchel+sn=Wdowiak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mitchel Wdowiak
+cn: Wdowiak
+givenname: Mitchel
+mail: mitchel.wdowiak@planetexpress.com
+userPassword: Mitchel
+ou: OtherGroup
+uid: 5713
+ Q==

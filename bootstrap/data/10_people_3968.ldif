@@ -1,0 +1,13 @@
+dn: cn=Shanae+sn=Deveny,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shanae Deveny
+cn: Deveny
+givenname: Shanae
+mail: shanae.deveny@planetexpress.com
+userPassword: Shanae
+ou: Group5
+uid: 3968
+ Q==

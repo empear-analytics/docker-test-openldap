@@ -1,0 +1,13 @@
+dn: cn=Alexia+sn=Kopelman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alexia Kopelman
+cn: Kopelman
+givenname: Alexia
+mail: alexia.kopelman@planetexpress.com
+userPassword: Alexia
+ou: admin_staff
+uid: 769
+ Q==

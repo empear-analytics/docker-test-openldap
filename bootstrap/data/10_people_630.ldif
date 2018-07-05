@@ -1,0 +1,13 @@
+dn: cn=Christa+sn=Caton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Christa Caton
+cn: Caton
+givenname: Christa
+mail: christa.caton@planetexpress.com
+userPassword: Christa
+ou: flight_crew
+uid: 630
+ Q==

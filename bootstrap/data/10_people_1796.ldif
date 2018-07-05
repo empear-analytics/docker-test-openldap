@@ -1,0 +1,13 @@
+dn: cn=Cindy+sn=Stepien,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cindy Stepien
+cn: Stepien
+givenname: Cindy
+mail: cindy.stepien@planetexpress.com
+userPassword: Cindy
+ou: OtherGroup
+uid: 1796
+ Q==

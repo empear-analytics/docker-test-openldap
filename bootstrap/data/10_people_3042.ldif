@@ -1,0 +1,13 @@
+dn: cn=Andy+sn=Helena,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andy Helena
+cn: Helena
+givenname: Andy
+mail: andy.helena@planetexpress.com
+userPassword: Andy
+ou: flight_crew
+uid: 3042
+ Q==

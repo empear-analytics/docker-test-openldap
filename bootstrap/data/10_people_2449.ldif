@@ -1,0 +1,13 @@
+dn: cn=Gregory+sn=Roehrenbeck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gregory Roehrenbeck
+cn: Roehrenbeck
+givenname: Gregory
+mail: gregory.roehrenbeck@planetexpress.com
+userPassword: Gregory
+ou: OtherGroup
+uid: 2449
+ Q==

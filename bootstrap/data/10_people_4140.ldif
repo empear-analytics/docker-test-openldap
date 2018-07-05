@@ -1,0 +1,13 @@
+dn: cn=Brunilda+sn=Beene,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brunilda Beene
+cn: Beene
+givenname: Brunilda
+mail: brunilda.beene@planetexpress.com
+userPassword: Brunilda
+ou: admin_staff
+uid: 4140
+ Q==

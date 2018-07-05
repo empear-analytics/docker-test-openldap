@@ -1,0 +1,13 @@
+dn: cn=Candyce+sn=Raskey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Candyce Raskey
+cn: Raskey
+givenname: Candyce
+mail: candyce.raskey@planetexpress.com
+userPassword: Candyce
+ou: Group5
+uid: 2761
+ Q==

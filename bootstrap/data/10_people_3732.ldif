@@ -1,0 +1,13 @@
+dn: cn=Herta+sn=Cerenzia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Herta Cerenzia
+cn: Cerenzia
+givenname: Herta
+mail: herta.cerenzia@planetexpress.com
+userPassword: Herta
+ou: Group5
+uid: 3732
+ Q==

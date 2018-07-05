@@ -1,0 +1,13 @@
+dn: cn=Briana+sn=Bratz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Briana Bratz
+cn: Bratz
+givenname: Briana
+mail: briana.bratz@planetexpress.com
+userPassword: Briana
+ou: admin_staff
+uid: 799
+ Q==

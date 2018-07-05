@@ -1,0 +1,13 @@
+dn: cn=Melani+sn=Paolicelli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melani Paolicelli
+cn: Paolicelli
+givenname: Melani
+mail: melani.paolicelli@planetexpress.com
+userPassword: Melani
+ou: admin_staff
+uid: 2944
+ Q==

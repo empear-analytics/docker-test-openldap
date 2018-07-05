@@ -1,0 +1,13 @@
+dn: cn=Jerri+sn=Haczynski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jerri Haczynski
+cn: Haczynski
+givenname: Jerri
+mail: jerri.haczynski@planetexpress.com
+userPassword: Jerri
+ou: Group5
+uid: 3381
+ Q==

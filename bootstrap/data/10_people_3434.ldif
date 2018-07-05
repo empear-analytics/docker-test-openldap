@@ -1,0 +1,13 @@
+dn: cn=Courtney+sn=Wolfram,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Courtney Wolfram
+cn: Wolfram
+givenname: Courtney
+mail: courtney.wolfram@planetexpress.com
+userPassword: Courtney
+ou: flight_crew
+uid: 3434
+ Q==

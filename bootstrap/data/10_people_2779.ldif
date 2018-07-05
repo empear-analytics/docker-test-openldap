@@ -1,0 +1,13 @@
+dn: cn=Janeth+sn=Delancy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janeth Delancy
+cn: Delancy
+givenname: Janeth
+mail: janeth.delancy@planetexpress.com
+userPassword: Janeth
+ou: OtherGroup
+uid: 2779
+ Q==

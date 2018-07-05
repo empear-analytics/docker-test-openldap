@@ -1,0 +1,13 @@
+dn: cn=Lesli+sn=Stogden,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lesli Stogden
+cn: Stogden
+givenname: Lesli
+mail: lesli.stogden@planetexpress.com
+userPassword: Lesli
+ou: Group5
+uid: 4015
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Alfonzo+sn=Weisinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alfonzo Weisinger
+cn: Weisinger
+givenname: Alfonzo
+mail: alfonzo.weisinger@planetexpress.com
+userPassword: Alfonzo
+ou: OtherGroup
+uid: 2830
+ Q==

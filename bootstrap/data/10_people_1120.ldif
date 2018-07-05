@@ -1,0 +1,13 @@
+dn: cn=Merlyn+sn=Bechman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Merlyn Bechman
+cn: Bechman
+givenname: Merlyn
+mail: merlyn.bechman@planetexpress.com
+userPassword: Merlyn
+ou: flight_crew
+uid: 1120
+ Q==

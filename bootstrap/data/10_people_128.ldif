@@ -1,0 +1,13 @@
+dn: cn=Starr+sn=Lasell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Starr Lasell
+cn: Lasell
+givenname: Starr
+mail: starr.lasell@planetexpress.com
+userPassword: Starr
+ou: Group5
+uid: 128
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Frankie+sn=Hallczuk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Frankie Hallczuk
+cn: Hallczuk
+givenname: Frankie
+mail: frankie.hallczuk@planetexpress.com
+userPassword: Frankie
+ou: flight_crew
+uid: 4134
+ Q==

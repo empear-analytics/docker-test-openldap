@@ -1,0 +1,13 @@
+dn: cn=Zetta+sn=Voshell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zetta Voshell
+cn: Voshell
+givenname: Zetta
+mail: zetta.voshell@planetexpress.com
+userPassword: Zetta
+ou: admin_staff
+uid: 85
+ Q==

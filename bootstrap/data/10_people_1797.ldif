@@ -1,0 +1,13 @@
+dn: cn=Damion+sn=Malcolm,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Damion Malcolm
+cn: Malcolm
+givenname: Damion
+mail: damion.malcolm@planetexpress.com
+userPassword: Damion
+ou: flight_crew
+uid: 1797
+ Q==

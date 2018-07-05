@@ -1,0 +1,13 @@
+dn: cn=Mellissa+sn=Trickett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mellissa Trickett
+cn: Trickett
+givenname: Mellissa
+mail: mellissa.trickett@planetexpress.com
+userPassword: Mellissa
+ou: OtherGroup
+uid: 4686
+ Q==

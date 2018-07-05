@@ -1,0 +1,13 @@
+dn: cn=Barbara+sn=Sigers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Barbara Sigers
+cn: Sigers
+givenname: Barbara
+mail: barbara.sigers@planetexpress.com
+userPassword: Barbara
+ou: Group5
+uid: 2609
+ Q==

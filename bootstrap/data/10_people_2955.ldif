@@ -1,0 +1,13 @@
+dn: cn=Denae+sn=Eviston,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Denae Eviston
+cn: Eviston
+givenname: Denae
+mail: denae.eviston@planetexpress.com
+userPassword: Denae
+ou: OtherGroup
+uid: 2955
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Keely+sn=Pishko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keely Pishko
+cn: Pishko
+givenname: Keely
+mail: keely.pishko@planetexpress.com
+userPassword: Keely
+ou: admin_staff
+uid: 2445
+ Q==

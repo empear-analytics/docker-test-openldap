@@ -1,0 +1,13 @@
+dn: cn=Willena+sn=Winesickle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Willena Winesickle
+cn: Winesickle
+givenname: Willena
+mail: willena.winesickle@planetexpress.com
+userPassword: Willena
+ou: Group5
+uid: 474
+ Q==

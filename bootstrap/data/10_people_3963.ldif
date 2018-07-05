@@ -1,0 +1,13 @@
+dn: cn=Tonie+sn=Sakic,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tonie Sakic
+cn: Sakic
+givenname: Tonie
+mail: tonie.sakic@planetexpress.com
+userPassword: Tonie
+ou: OtherGroup
+uid: 3963
+ Q==

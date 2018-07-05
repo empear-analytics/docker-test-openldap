@@ -1,0 +1,13 @@
+dn: cn=Muriel+sn=Burgner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Muriel Burgner
+cn: Burgner
+givenname: Muriel
+mail: muriel.burgner@planetexpress.com
+userPassword: Muriel
+ou: OtherGroup
+uid: 4865
+ Q==

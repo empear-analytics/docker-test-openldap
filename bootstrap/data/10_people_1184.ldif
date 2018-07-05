@@ -1,0 +1,13 @@
+dn: cn=Mirian+sn=Brandley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mirian Brandley
+cn: Brandley
+givenname: Mirian
+mail: mirian.brandley@planetexpress.com
+userPassword: Mirian
+ou: Group5
+uid: 1184
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Gudrun+sn=Turja,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gudrun Turja
+cn: Turja
+givenname: Gudrun
+mail: gudrun.turja@planetexpress.com
+userPassword: Gudrun
+ou: Group5
+uid: 1653
+ Q==

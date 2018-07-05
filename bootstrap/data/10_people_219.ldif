@@ -1,0 +1,13 @@
+dn: cn=Rosio+sn=Serrell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosio Serrell
+cn: Serrell
+givenname: Rosio
+mail: rosio.serrell@planetexpress.com
+userPassword: Rosio
+ou: Group5
+uid: 219
+ Q==

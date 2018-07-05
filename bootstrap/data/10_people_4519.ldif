@@ -1,0 +1,13 @@
+dn: cn=Crissy+sn=Monsegur,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Crissy Monsegur
+cn: Monsegur
+givenname: Crissy
+mail: crissy.monsegur@planetexpress.com
+userPassword: Crissy
+ou: Group5
+uid: 4519
+ Q==

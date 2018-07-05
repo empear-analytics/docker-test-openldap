@@ -1,0 +1,13 @@
+dn: cn=Layla+sn=Bammon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Layla Bammon
+cn: Bammon
+givenname: Layla
+mail: layla.bammon@planetexpress.com
+userPassword: Layla
+ou: OtherGroup
+uid: 2053
+ Q==

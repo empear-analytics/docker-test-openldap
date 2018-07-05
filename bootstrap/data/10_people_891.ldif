@@ -1,0 +1,13 @@
+dn: cn=Russell+sn=Hamonds,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Russell Hamonds
+cn: Hamonds
+givenname: Russell
+mail: russell.hamonds@planetexpress.com
+userPassword: Russell
+ou: OtherGroup
+uid: 891
+ Q==

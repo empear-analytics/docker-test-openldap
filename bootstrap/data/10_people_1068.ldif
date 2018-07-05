@@ -1,0 +1,13 @@
+dn: cn=Tashina+sn=Buchser,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tashina Buchser
+cn: Buchser
+givenname: Tashina
+mail: tashina.buchser@planetexpress.com
+userPassword: Tashina
+ou: flight_crew
+uid: 1068
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Emerita+sn=Slechta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emerita Slechta
+cn: Slechta
+givenname: Emerita
+mail: emerita.slechta@planetexpress.com
+userPassword: Emerita
+ou: flight_crew
+uid: 1596
+ Q==

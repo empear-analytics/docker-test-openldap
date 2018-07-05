@@ -1,0 +1,13 @@
+dn: cn=Leia+sn=Papantonio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leia Papantonio
+cn: Papantonio
+givenname: Leia
+mail: leia.papantonio@planetexpress.com
+userPassword: Leia
+ou: OtherGroup
+uid: 2582
+ Q==

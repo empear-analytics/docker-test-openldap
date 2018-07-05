@@ -1,0 +1,13 @@
+dn: cn=Keli+sn=Ilagan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keli Ilagan
+cn: Ilagan
+givenname: Keli
+mail: keli.ilagan@planetexpress.com
+userPassword: Keli
+ou: admin_staff
+uid: 4993
+ Q==

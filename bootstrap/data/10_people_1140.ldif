@@ -1,0 +1,13 @@
+dn: cn=Brandon+sn=Kabel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brandon Kabel
+cn: Kabel
+givenname: Brandon
+mail: brandon.kabel@planetexpress.com
+userPassword: Brandon
+ou: OtherGroup
+uid: 1140
+ Q==

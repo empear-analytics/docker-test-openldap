@@ -1,0 +1,13 @@
+dn: cn=Liliana+sn=Vancise,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Liliana Vancise
+cn: Vancise
+givenname: Liliana
+mail: liliana.vancise@planetexpress.com
+userPassword: Liliana
+ou: Group5
+uid: 3046
+ Q==

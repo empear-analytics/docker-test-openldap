@@ -1,0 +1,13 @@
+dn: cn=Tu+sn=Santanna,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tu Santanna
+cn: Santanna
+givenname: Tu
+mail: tu.santanna@planetexpress.com
+userPassword: Tu
+ou: OtherGroup
+uid: 5969
+ Q==

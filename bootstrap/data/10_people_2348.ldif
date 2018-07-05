@@ -1,0 +1,13 @@
+dn: cn=Izola+sn=Rykiel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Izola Rykiel
+cn: Rykiel
+givenname: Izola
+mail: izola.rykiel@planetexpress.com
+userPassword: Izola
+ou: admin_staff
+uid: 2348
+ Q==

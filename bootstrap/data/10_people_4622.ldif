@@ -1,0 +1,13 @@
+dn: cn=Edwina+sn=Couey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edwina Couey
+cn: Couey
+givenname: Edwina
+mail: edwina.couey@planetexpress.com
+userPassword: Edwina
+ou: OtherGroup
+uid: 4622
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Gus+sn=Brayman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gus Brayman
+cn: Brayman
+givenname: Gus
+mail: gus.brayman@planetexpress.com
+userPassword: Gus
+ou: Group5
+uid: 4639
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Creola+sn=Lavoie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Creola Lavoie
+cn: Lavoie
+givenname: Creola
+mail: creola.lavoie@planetexpress.com
+userPassword: Creola
+ou: OtherGroup
+uid: 5108
+ Q==

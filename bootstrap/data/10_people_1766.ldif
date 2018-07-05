@@ -1,0 +1,13 @@
+dn: cn=Judi+sn=Branagan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Judi Branagan
+cn: Branagan
+givenname: Judi
+mail: judi.branagan@planetexpress.com
+userPassword: Judi
+ou: OtherGroup
+uid: 1766
+ Q==

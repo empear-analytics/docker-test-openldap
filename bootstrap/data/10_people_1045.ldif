@@ -1,0 +1,13 @@
+dn: cn=Cori+sn=Carrelli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cori Carrelli
+cn: Carrelli
+givenname: Cori
+mail: cori.carrelli@planetexpress.com
+userPassword: Cori
+ou: Group5
+uid: 1045
+ Q==

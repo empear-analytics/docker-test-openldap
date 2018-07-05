@@ -1,0 +1,13 @@
+dn: cn=Tamera+sn=Schuetze,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tamera Schuetze
+cn: Schuetze
+givenname: Tamera
+mail: tamera.schuetze@planetexpress.com
+userPassword: Tamera
+ou: admin_staff
+uid: 5569
+ Q==

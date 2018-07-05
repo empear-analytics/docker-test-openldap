@@ -1,0 +1,13 @@
+dn: cn=Telma+sn=Laurimore,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Telma Laurimore
+cn: Laurimore
+givenname: Telma
+mail: telma.laurimore@planetexpress.com
+userPassword: Telma
+ou: flight_crew
+uid: 759
+ Q==

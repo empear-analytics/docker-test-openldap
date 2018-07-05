@@ -1,0 +1,13 @@
+dn: cn=Shirley+sn=Du,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shirley Du
+cn: Du
+givenname: Shirley
+mail: shirley.du@planetexpress.com
+userPassword: Shirley
+ou: flight_crew
+uid: 5748
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Drema+sn=Karsnak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Drema Karsnak
+cn: Karsnak
+givenname: Drema
+mail: drema.karsnak@planetexpress.com
+userPassword: Drema
+ou: OtherGroup
+uid: 5198
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Alexis+sn=Grisham,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alexis Grisham
+cn: Grisham
+givenname: Alexis
+mail: alexis.grisham@planetexpress.com
+userPassword: Alexis
+ou: admin_staff
+uid: 1158
+ Q==

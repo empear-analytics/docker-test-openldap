@@ -1,0 +1,13 @@
+dn: cn=Olive+sn=Aunkst,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Olive Aunkst
+cn: Aunkst
+givenname: Olive
+mail: olive.aunkst@planetexpress.com
+userPassword: Olive
+ou: OtherGroup
+uid: 4641
+ Q==

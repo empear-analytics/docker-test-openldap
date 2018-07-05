@@ -1,0 +1,13 @@
+dn: cn=Ronald+sn=Cloud,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ronald Cloud
+cn: Cloud
+givenname: Ronald
+mail: ronald.cloud@planetexpress.com
+userPassword: Ronald
+ou: OtherGroup
+uid: 778
+ Q==

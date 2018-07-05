@@ -1,0 +1,13 @@
+dn: cn=Dessie+sn=Graper,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dessie Graper
+cn: Graper
+givenname: Dessie
+mail: dessie.graper@planetexpress.com
+userPassword: Dessie
+ou: flight_crew
+uid: 3999
+ Q==

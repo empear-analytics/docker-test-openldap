@@ -1,0 +1,13 @@
+dn: cn=Krissy+sn=Biava,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Krissy Biava
+cn: Biava
+givenname: Krissy
+mail: krissy.biava@planetexpress.com
+userPassword: Krissy
+ou: flight_crew
+uid: 2542
+ Q==

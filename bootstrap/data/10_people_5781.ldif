@@ -1,0 +1,13 @@
+dn: cn=Florida+sn=Wadford,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Florida Wadford
+cn: Wadford
+givenname: Florida
+mail: florida.wadford@planetexpress.com
+userPassword: Florida
+ou: flight_crew
+uid: 5781
+ Q==

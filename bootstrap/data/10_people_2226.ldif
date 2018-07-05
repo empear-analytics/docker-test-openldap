@@ -1,0 +1,13 @@
+dn: cn=Zulema+sn=Washinton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zulema Washinton
+cn: Washinton
+givenname: Zulema
+mail: zulema.washinton@planetexpress.com
+userPassword: Zulema
+ou: admin_staff
+uid: 2226
+ Q==

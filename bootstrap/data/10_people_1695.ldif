@@ -1,0 +1,13 @@
+dn: cn=Arica+sn=Pfeifle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arica Pfeifle
+cn: Pfeifle
+givenname: Arica
+mail: arica.pfeifle@planetexpress.com
+userPassword: Arica
+ou: Group5
+uid: 1695
+ Q==

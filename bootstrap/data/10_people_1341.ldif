@@ -1,0 +1,13 @@
+dn: cn=Marketta+sn=Pacapac,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marketta Pacapac
+cn: Pacapac
+givenname: Marketta
+mail: marketta.pacapac@planetexpress.com
+userPassword: Marketta
+ou: flight_crew
+uid: 1341
+ Q==

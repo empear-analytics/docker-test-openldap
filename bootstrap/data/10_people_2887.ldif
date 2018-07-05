@@ -1,0 +1,13 @@
+dn: cn=Fidelia+sn=Byon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fidelia Byon
+cn: Byon
+givenname: Fidelia
+mail: fidelia.byon@planetexpress.com
+userPassword: Fidelia
+ou: Group5
+uid: 2887
+ Q==

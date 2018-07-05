@@ -1,0 +1,13 @@
+dn: cn=Phillip+sn=Tovar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Phillip Tovar
+cn: Tovar
+givenname: Phillip
+mail: phillip.tovar@planetexpress.com
+userPassword: Phillip
+ou: Group5
+uid: 3783
+ Q==

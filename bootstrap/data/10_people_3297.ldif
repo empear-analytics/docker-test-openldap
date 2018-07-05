@@ -1,0 +1,13 @@
+dn: cn=Luis+sn=Hostetter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Luis Hostetter
+cn: Hostetter
+givenname: Luis
+mail: luis.hostetter@planetexpress.com
+userPassword: Luis
+ou: OtherGroup
+uid: 3297
+ Q==

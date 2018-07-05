@@ -1,0 +1,13 @@
+dn: cn=Ai+sn=Lugg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ai Lugg
+cn: Lugg
+givenname: Ai
+mail: ai.lugg@planetexpress.com
+userPassword: Ai
+ou: OtherGroup
+uid: 841
+ Q==

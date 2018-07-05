@@ -1,0 +1,13 @@
+dn: cn=Dean+sn=Margolin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dean Margolin
+cn: Margolin
+givenname: Dean
+mail: dean.margolin@planetexpress.com
+userPassword: Dean
+ou: flight_crew
+uid: 656
+ Q==

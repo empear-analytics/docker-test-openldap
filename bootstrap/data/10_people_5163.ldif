@@ -1,0 +1,13 @@
+dn: cn=Jene+sn=Trotter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jene Trotter
+cn: Trotter
+givenname: Jene
+mail: jene.trotter@planetexpress.com
+userPassword: Jene
+ou: Group5
+uid: 5163
+ Q==

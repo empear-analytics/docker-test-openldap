@@ -1,0 +1,13 @@
+dn: cn=Marsha+sn=Zlatkin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marsha Zlatkin
+cn: Zlatkin
+givenname: Marsha
+mail: marsha.zlatkin@planetexpress.com
+userPassword: Marsha
+ou: flight_crew
+uid: 1937
+ Q==

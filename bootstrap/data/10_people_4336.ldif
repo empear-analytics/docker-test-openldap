@@ -1,0 +1,13 @@
+dn: cn=Tory+sn=Rhine,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tory Rhine
+cn: Rhine
+givenname: Tory
+mail: tory.rhine@planetexpress.com
+userPassword: Tory
+ou: flight_crew
+uid: 4336
+ Q==

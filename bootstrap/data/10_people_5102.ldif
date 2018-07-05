@@ -1,0 +1,13 @@
+dn: cn=Keturah+sn=Fugitt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keturah Fugitt
+cn: Fugitt
+givenname: Keturah
+mail: keturah.fugitt@planetexpress.com
+userPassword: Keturah
+ou: admin_staff
+uid: 5102
+ Q==

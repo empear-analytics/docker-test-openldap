@@ -1,0 +1,13 @@
+dn: cn=Lily+sn=Banerjee,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lily Banerjee
+cn: Banerjee
+givenname: Lily
+mail: lily.banerjee@planetexpress.com
+userPassword: Lily
+ou: flight_crew
+uid: 2718
+ Q==

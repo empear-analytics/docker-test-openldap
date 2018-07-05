@@ -1,0 +1,13 @@
+dn: cn=Samuel+sn=Sibert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Samuel Sibert
+cn: Sibert
+givenname: Samuel
+mail: samuel.sibert@planetexpress.com
+userPassword: Samuel
+ou: Group5
+uid: 479
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Claude+sn=Riek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Claude Riek
+cn: Riek
+givenname: Claude
+mail: claude.riek@planetexpress.com
+userPassword: Claude
+ou: OtherGroup
+uid: 458
+ Q==

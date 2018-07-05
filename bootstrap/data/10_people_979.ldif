@@ -1,0 +1,13 @@
+dn: cn=Ayako+sn=Downes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ayako Downes
+cn: Downes
+givenname: Ayako
+mail: ayako.downes@planetexpress.com
+userPassword: Ayako
+ou: flight_crew
+uid: 979
+ Q==

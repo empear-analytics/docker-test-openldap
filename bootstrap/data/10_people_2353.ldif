@@ -1,0 +1,13 @@
+dn: cn=Cletus+sn=Farhart,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cletus Farhart
+cn: Farhart
+givenname: Cletus
+mail: cletus.farhart@planetexpress.com
+userPassword: Cletus
+ou: admin_staff
+uid: 2353
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Altha+sn=Insco,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Altha Insco
+cn: Insco
+givenname: Altha
+mail: altha.insco@planetexpress.com
+userPassword: Altha
+ou: admin_staff
+uid: 1756
+ Q==

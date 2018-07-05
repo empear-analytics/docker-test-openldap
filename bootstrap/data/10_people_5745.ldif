@@ -1,0 +1,13 @@
+dn: cn=Vincenza+sn=Agnew,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vincenza Agnew
+cn: Agnew
+givenname: Vincenza
+mail: vincenza.agnew@planetexpress.com
+userPassword: Vincenza
+ou: flight_crew
+uid: 5745
+ Q==

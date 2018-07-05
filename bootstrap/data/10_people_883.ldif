@@ -1,0 +1,13 @@
+dn: cn=Missy+sn=Cambron,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Missy Cambron
+cn: Cambron
+givenname: Missy
+mail: missy.cambron@planetexpress.com
+userPassword: Missy
+ou: OtherGroup
+uid: 883
+ Q==

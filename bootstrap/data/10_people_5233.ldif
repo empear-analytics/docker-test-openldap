@@ -1,0 +1,13 @@
+dn: cn=Junior+sn=Prosienski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Junior Prosienski
+cn: Prosienski
+givenname: Junior
+mail: junior.prosienski@planetexpress.com
+userPassword: Junior
+ou: OtherGroup
+uid: 5233
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Dalila+sn=Seuell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dalila Seuell
+cn: Seuell
+givenname: Dalila
+mail: dalila.seuell@planetexpress.com
+userPassword: Dalila
+ou: OtherGroup
+uid: 3969
+ Q==

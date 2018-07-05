@@ -1,0 +1,13 @@
+dn: cn=Kirby+sn=Deal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kirby Deal
+cn: Deal
+givenname: Kirby
+mail: kirby.deal@planetexpress.com
+userPassword: Kirby
+ou: OtherGroup
+uid: 1401
+ Q==

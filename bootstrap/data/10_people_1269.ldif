@@ -1,0 +1,13 @@
+dn: cn=Dario+sn=Dasilva,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dario Dasilva
+cn: Dasilva
+givenname: Dario
+mail: dario.dasilva@planetexpress.com
+userPassword: Dario
+ou: Group5
+uid: 1269
+ Q==

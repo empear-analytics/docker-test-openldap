@@ -1,0 +1,13 @@
+dn: cn=Andree+sn=Pellitteri,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andree Pellitteri
+cn: Pellitteri
+givenname: Andree
+mail: andree.pellitteri@planetexpress.com
+userPassword: Andree
+ou: Group5
+uid: 4087
+ Q==

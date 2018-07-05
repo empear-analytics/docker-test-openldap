@@ -1,0 +1,13 @@
+dn: cn=Vannessa+sn=Hagaman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vannessa Hagaman
+cn: Hagaman
+givenname: Vannessa
+mail: vannessa.hagaman@planetexpress.com
+userPassword: Vannessa
+ou: admin_staff
+uid: 3729
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lenny+sn=Mcmillian,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lenny Mcmillian
+cn: Mcmillian
+givenname: Lenny
+mail: lenny.mcmillian@planetexpress.com
+userPassword: Lenny
+ou: OtherGroup
+uid: 206
+ Q==

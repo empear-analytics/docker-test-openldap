@@ -1,0 +1,13 @@
+dn: cn=Devin+sn=Pashia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Devin Pashia
+cn: Pashia
+givenname: Devin
+mail: devin.pashia@planetexpress.com
+userPassword: Devin
+ou: Group5
+uid: 1611
+ Q==

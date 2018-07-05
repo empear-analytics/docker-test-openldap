@@ -1,0 +1,13 @@
+dn: cn=Tameka+sn=Dreith,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tameka Dreith
+cn: Dreith
+givenname: Tameka
+mail: tameka.dreith@planetexpress.com
+userPassword: Tameka
+ou: OtherGroup
+uid: 3363
+ Q==

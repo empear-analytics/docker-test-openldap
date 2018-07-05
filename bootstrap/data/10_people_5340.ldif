@@ -1,0 +1,13 @@
+dn: cn=Lanny+sn=Applewhite,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lanny Applewhite
+cn: Applewhite
+givenname: Lanny
+mail: lanny.applewhite@planetexpress.com
+userPassword: Lanny
+ou: OtherGroup
+uid: 5340
+ Q==

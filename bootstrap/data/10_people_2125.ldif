@@ -1,0 +1,13 @@
+dn: cn=Elfriede+sn=Dings,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elfriede Dings
+cn: Dings
+givenname: Elfriede
+mail: elfriede.dings@planetexpress.com
+userPassword: Elfriede
+ou: admin_staff
+uid: 2125
+ Q==

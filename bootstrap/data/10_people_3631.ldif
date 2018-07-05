@@ -1,0 +1,13 @@
+dn: cn=Charis+sn=Martineze,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charis Martineze
+cn: Martineze
+givenname: Charis
+mail: charis.martineze@planetexpress.com
+userPassword: Charis
+ou: OtherGroup
+uid: 3631
+ Q==

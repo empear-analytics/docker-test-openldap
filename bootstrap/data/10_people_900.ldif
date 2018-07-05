@@ -1,0 +1,13 @@
+dn: cn=Ocie+sn=Renko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ocie Renko
+cn: Renko
+givenname: Ocie
+mail: ocie.renko@planetexpress.com
+userPassword: Ocie
+ou: OtherGroup
+uid: 900
+ Q==

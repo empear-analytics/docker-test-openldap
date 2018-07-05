@@ -1,0 +1,13 @@
+dn: cn=Selma+sn=Wallinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Selma Wallinger
+cn: Wallinger
+givenname: Selma
+mail: selma.wallinger@planetexpress.com
+userPassword: Selma
+ou: Group5
+uid: 3079
+ Q==

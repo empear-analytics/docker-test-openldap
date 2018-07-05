@@ -1,0 +1,13 @@
+dn: cn=Ayako+sn=Manila,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ayako Manila
+cn: Manila
+givenname: Ayako
+mail: ayako.manila@planetexpress.com
+userPassword: Ayako
+ou: admin_staff
+uid: 4904
+ Q==

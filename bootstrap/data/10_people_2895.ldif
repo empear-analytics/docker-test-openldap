@@ -1,0 +1,13 @@
+dn: cn=Neal+sn=Faggard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Neal Faggard
+cn: Faggard
+givenname: Neal
+mail: neal.faggard@planetexpress.com
+userPassword: Neal
+ou: flight_crew
+uid: 2895
+ Q==

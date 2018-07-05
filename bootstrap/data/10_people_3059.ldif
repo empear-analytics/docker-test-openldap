@@ -1,0 +1,13 @@
+dn: cn=Debbie+sn=Ozaeta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Debbie Ozaeta
+cn: Ozaeta
+givenname: Debbie
+mail: debbie.ozaeta@planetexpress.com
+userPassword: Debbie
+ou: admin_staff
+uid: 3059
+ Q==

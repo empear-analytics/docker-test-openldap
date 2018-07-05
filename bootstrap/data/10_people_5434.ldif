@@ -1,0 +1,13 @@
+dn: cn=Sachiko+sn=Bridgford,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sachiko Bridgford
+cn: Bridgford
+givenname: Sachiko
+mail: sachiko.bridgford@planetexpress.com
+userPassword: Sachiko
+ou: admin_staff
+uid: 5434
+ Q==

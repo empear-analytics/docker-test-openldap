@@ -1,0 +1,13 @@
+dn: cn=Gabriela+sn=Aukamp,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gabriela Aukamp
+cn: Aukamp
+givenname: Gabriela
+mail: gabriela.aukamp@planetexpress.com
+userPassword: Gabriela
+ou: OtherGroup
+uid: 2364
+ Q==

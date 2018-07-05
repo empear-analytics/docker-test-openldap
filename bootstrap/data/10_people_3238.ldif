@@ -1,0 +1,13 @@
+dn: cn=Leisha+sn=Welman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leisha Welman
+cn: Welman
+givenname: Leisha
+mail: leisha.welman@planetexpress.com
+userPassword: Leisha
+ou: Group5
+uid: 3238
+ Q==

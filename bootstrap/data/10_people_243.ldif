@@ -1,0 +1,13 @@
+dn: cn=Meri+sn=Migdal,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Meri Migdal
+cn: Migdal
+givenname: Meri
+mail: meri.migdal@planetexpress.com
+userPassword: Meri
+ou: Group5
+uid: 243
+ Q==

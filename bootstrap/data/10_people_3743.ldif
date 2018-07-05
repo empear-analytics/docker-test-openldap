@@ -1,0 +1,13 @@
+dn: cn=Lesa+sn=Goffman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lesa Goffman
+cn: Goffman
+givenname: Lesa
+mail: lesa.goffman@planetexpress.com
+userPassword: Lesa
+ou: OtherGroup
+uid: 3743
+ Q==

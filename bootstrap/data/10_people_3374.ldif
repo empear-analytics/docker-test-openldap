@@ -1,0 +1,13 @@
+dn: cn=Kelly+sn=Houch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kelly Houch
+cn: Houch
+givenname: Kelly
+mail: kelly.houch@planetexpress.com
+userPassword: Kelly
+ou: admin_staff
+uid: 3374
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lavelle+sn=Finnila,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lavelle Finnila
+cn: Finnila
+givenname: Lavelle
+mail: lavelle.finnila@planetexpress.com
+userPassword: Lavelle
+ou: admin_staff
+uid: 696
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kaylene+sn=Beveridge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kaylene Beveridge
+cn: Beveridge
+givenname: Kaylene
+mail: kaylene.beveridge@planetexpress.com
+userPassword: Kaylene
+ou: OtherGroup
+uid: 5696
+ Q==

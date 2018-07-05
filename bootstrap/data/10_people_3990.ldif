@@ -1,0 +1,13 @@
+dn: cn=Hans+sn=Vong,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hans Vong
+cn: Vong
+givenname: Hans
+mail: hans.vong@planetexpress.com
+userPassword: Hans
+ou: Group5
+uid: 3990
+ Q==

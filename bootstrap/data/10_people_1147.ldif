@@ -1,0 +1,13 @@
+dn: cn=Graham+sn=Roggenbaum,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Graham Roggenbaum
+cn: Roggenbaum
+givenname: Graham
+mail: graham.roggenbaum@planetexpress.com
+userPassword: Graham
+ou: admin_staff
+uid: 1147
+ Q==

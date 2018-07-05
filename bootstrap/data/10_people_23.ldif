@@ -1,0 +1,13 @@
+dn: cn=Sonja+sn=Kravetsky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sonja Kravetsky
+cn: Kravetsky
+givenname: Sonja
+mail: sonja.kravetsky@planetexpress.com
+userPassword: Sonja
+ou: Group5
+uid: 23
+ Q==

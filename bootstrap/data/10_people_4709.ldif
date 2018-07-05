@@ -1,0 +1,13 @@
+dn: cn=Andra+sn=Amara,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andra Amara
+cn: Amara
+givenname: Andra
+mail: andra.amara@planetexpress.com
+userPassword: Andra
+ou: flight_crew
+uid: 4709
+ Q==

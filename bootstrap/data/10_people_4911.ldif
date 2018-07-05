@@ -1,0 +1,13 @@
+dn: cn=Ethyl+sn=Knorr,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ethyl Knorr
+cn: Knorr
+givenname: Ethyl
+mail: ethyl.knorr@planetexpress.com
+userPassword: Ethyl
+ou: admin_staff
+uid: 4911
+ Q==

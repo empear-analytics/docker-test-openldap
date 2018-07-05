@@ -1,0 +1,13 @@
+dn: cn=Elina+sn=Aprill,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elina Aprill
+cn: Aprill
+givenname: Elina
+mail: elina.aprill@planetexpress.com
+userPassword: Elina
+ou: flight_crew
+uid: 5237
+ Q==

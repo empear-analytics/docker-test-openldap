@@ -1,0 +1,13 @@
+dn: cn=Elmo+sn=Strysko,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elmo Strysko
+cn: Strysko
+givenname: Elmo
+mail: elmo.strysko@planetexpress.com
+userPassword: Elmo
+ou: OtherGroup
+uid: 2924
+ Q==

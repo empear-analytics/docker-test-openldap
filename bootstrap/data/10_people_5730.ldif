@@ -1,0 +1,13 @@
+dn: cn=Kim+sn=Broglie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kim Broglie
+cn: Broglie
+givenname: Kim
+mail: kim.broglie@planetexpress.com
+userPassword: Kim
+ou: flight_crew
+uid: 5730
+ Q==

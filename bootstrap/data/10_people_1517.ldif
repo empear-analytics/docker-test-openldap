@@ -1,0 +1,13 @@
+dn: cn=Cleotilde+sn=Hagen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cleotilde Hagen
+cn: Hagen
+givenname: Cleotilde
+mail: cleotilde.hagen@planetexpress.com
+userPassword: Cleotilde
+ou: OtherGroup
+uid: 1517
+ Q==

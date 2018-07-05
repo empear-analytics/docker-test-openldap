@@ -1,0 +1,13 @@
+dn: cn=Magdalena+sn=Rindfleisch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Magdalena Rindfleisch
+cn: Rindfleisch
+givenname: Magdalena
+mail: magdalena.rindfleisch@planetexpress.com
+userPassword: Magdalena
+ou: admin_staff
+uid: 400
+ Q==

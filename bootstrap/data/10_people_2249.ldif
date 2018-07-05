@@ -1,0 +1,13 @@
+dn: cn=Micki+sn=Niemela,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Micki Niemela
+cn: Niemela
+givenname: Micki
+mail: micki.niemela@planetexpress.com
+userPassword: Micki
+ou: OtherGroup
+uid: 2249
+ Q==

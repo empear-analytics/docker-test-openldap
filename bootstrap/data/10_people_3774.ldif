@@ -1,0 +1,13 @@
+dn: cn=Dirk+sn=Soqui,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dirk Soqui
+cn: Soqui
+givenname: Dirk
+mail: dirk.soqui@planetexpress.com
+userPassword: Dirk
+ou: Group5
+uid: 3774
+ Q==

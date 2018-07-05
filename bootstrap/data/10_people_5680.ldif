@@ -1,0 +1,13 @@
+dn: cn=Brant+sn=Milite,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brant Milite
+cn: Milite
+givenname: Brant
+mail: brant.milite@planetexpress.com
+userPassword: Brant
+ou: admin_staff
+uid: 5680
+ Q==

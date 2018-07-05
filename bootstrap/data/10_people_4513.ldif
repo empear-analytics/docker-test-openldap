@@ -1,0 +1,13 @@
+dn: cn=Tyree+sn=Espericueta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tyree Espericueta
+cn: Espericueta
+givenname: Tyree
+mail: tyree.espericueta@planetexpress.com
+userPassword: Tyree
+ou: Group5
+uid: 4513
+ Q==

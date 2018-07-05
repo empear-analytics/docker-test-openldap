@@ -1,0 +1,13 @@
+dn: cn=Mandie+sn=Serisky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mandie Serisky
+cn: Serisky
+givenname: Mandie
+mail: mandie.serisky@planetexpress.com
+userPassword: Mandie
+ou: flight_crew
+uid: 5429
+ Q==

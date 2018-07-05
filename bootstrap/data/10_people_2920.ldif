@@ -1,0 +1,13 @@
+dn: cn=Josef+sn=Finkley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Josef Finkley
+cn: Finkley
+givenname: Josef
+mail: josef.finkley@planetexpress.com
+userPassword: Josef
+ou: OtherGroup
+uid: 2920
+ Q==

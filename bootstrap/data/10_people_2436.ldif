@@ -1,0 +1,13 @@
+dn: cn=Valentin+sn=Ritch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Valentin Ritch
+cn: Ritch
+givenname: Valentin
+mail: valentin.ritch@planetexpress.com
+userPassword: Valentin
+ou: OtherGroup
+uid: 2436
+ Q==

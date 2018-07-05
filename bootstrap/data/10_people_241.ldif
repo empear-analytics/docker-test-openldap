@@ -1,0 +1,13 @@
+dn: cn=Travis+sn=Morais,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Travis Morais
+cn: Morais
+givenname: Travis
+mail: travis.morais@planetexpress.com
+userPassword: Travis
+ou: flight_crew
+uid: 241
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Mandy+sn=Briel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mandy Briel
+cn: Briel
+givenname: Mandy
+mail: mandy.briel@planetexpress.com
+userPassword: Mandy
+ou: admin_staff
+uid: 5901
+ Q==

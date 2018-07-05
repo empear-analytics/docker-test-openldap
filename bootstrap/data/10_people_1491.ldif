@@ -1,0 +1,13 @@
+dn: cn=Emmie+sn=Slimak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emmie Slimak
+cn: Slimak
+givenname: Emmie
+mail: emmie.slimak@planetexpress.com
+userPassword: Emmie
+ou: OtherGroup
+uid: 1491
+ Q==

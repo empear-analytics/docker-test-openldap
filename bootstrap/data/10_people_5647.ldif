@@ -1,0 +1,13 @@
+dn: cn=Joey+sn=Knorp,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joey Knorp
+cn: Knorp
+givenname: Joey
+mail: joey.knorp@planetexpress.com
+userPassword: Joey
+ou: admin_staff
+uid: 5647
+ Q==

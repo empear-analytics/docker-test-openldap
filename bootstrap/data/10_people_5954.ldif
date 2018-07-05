@@ -1,0 +1,13 @@
+dn: cn=Lon+sn=Rhames,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lon Rhames
+cn: Rhames
+givenname: Lon
+mail: lon.rhames@planetexpress.com
+userPassword: Lon
+ou: Group5
+uid: 5954
+ Q==

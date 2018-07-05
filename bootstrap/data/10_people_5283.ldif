@@ -1,0 +1,13 @@
+dn: cn=Maurita+sn=Namm,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maurita Namm
+cn: Namm
+givenname: Maurita
+mail: maurita.namm@planetexpress.com
+userPassword: Maurita
+ou: flight_crew
+uid: 5283
+ Q==

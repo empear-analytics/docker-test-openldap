@@ -1,0 +1,13 @@
+dn: cn=Lee+sn=Tat,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lee Tat
+cn: Tat
+givenname: Lee
+mail: lee.tat@planetexpress.com
+userPassword: Lee
+ou: Group5
+uid: 3782
+ Q==

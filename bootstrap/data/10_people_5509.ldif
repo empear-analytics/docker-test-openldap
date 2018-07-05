@@ -1,0 +1,13 @@
+dn: cn=Caitlyn+sn=Diedrich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Caitlyn Diedrich
+cn: Diedrich
+givenname: Caitlyn
+mail: caitlyn.diedrich@planetexpress.com
+userPassword: Caitlyn
+ou: flight_crew
+uid: 5509
+ Q==

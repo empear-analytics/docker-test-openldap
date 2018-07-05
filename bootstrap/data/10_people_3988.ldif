@@ -1,0 +1,13 @@
+dn: cn=Evelia+sn=Bogue,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Evelia Bogue
+cn: Bogue
+givenname: Evelia
+mail: evelia.bogue@planetexpress.com
+userPassword: Evelia
+ou: admin_staff
+uid: 3988
+ Q==

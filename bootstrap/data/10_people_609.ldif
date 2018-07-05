@@ -1,0 +1,13 @@
+dn: cn=Tess+sn=Millhouse,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tess Millhouse
+cn: Millhouse
+givenname: Tess
+mail: tess.millhouse@planetexpress.com
+userPassword: Tess
+ou: admin_staff
+uid: 609
+ Q==

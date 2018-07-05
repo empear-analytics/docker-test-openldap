@@ -1,0 +1,13 @@
+dn: cn=Elayne+sn=Mcglaun,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elayne Mcglaun
+cn: Mcglaun
+givenname: Elayne
+mail: elayne.mcglaun@planetexpress.com
+userPassword: Elayne
+ou: OtherGroup
+uid: 829
+ Q==

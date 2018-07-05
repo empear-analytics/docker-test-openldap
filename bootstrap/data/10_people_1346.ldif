@@ -1,0 +1,13 @@
+dn: cn=Karen+sn=Carlsen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karen Carlsen
+cn: Carlsen
+givenname: Karen
+mail: karen.carlsen@planetexpress.com
+userPassword: Karen
+ou: OtherGroup
+uid: 1346
+ Q==

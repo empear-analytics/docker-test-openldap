@@ -1,0 +1,13 @@
+dn: cn=Lloyd+sn=Maritt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lloyd Maritt
+cn: Maritt
+givenname: Lloyd
+mail: lloyd.maritt@planetexpress.com
+userPassword: Lloyd
+ou: flight_crew
+uid: 4885
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Fatima+sn=Burmeister,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fatima Burmeister
+cn: Burmeister
+givenname: Fatima
+mail: fatima.burmeister@planetexpress.com
+userPassword: Fatima
+ou: admin_staff
+uid: 1036
+ Q==

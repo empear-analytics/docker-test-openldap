@@ -1,0 +1,13 @@
+dn: cn=Georgiann+sn=Brynga,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Georgiann Brynga
+cn: Brynga
+givenname: Georgiann
+mail: georgiann.brynga@planetexpress.com
+userPassword: Georgiann
+ou: flight_crew
+uid: 5296
+ Q==

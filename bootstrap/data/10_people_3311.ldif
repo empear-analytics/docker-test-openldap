@@ -1,0 +1,13 @@
+dn: cn=Norene+sn=Kading,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Norene Kading
+cn: Kading
+givenname: Norene
+mail: norene.kading@planetexpress.com
+userPassword: Norene
+ou: admin_staff
+uid: 3311
+ Q==

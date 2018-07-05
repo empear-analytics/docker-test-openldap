@@ -1,0 +1,13 @@
+dn: cn=Chong+sn=Neidert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chong Neidert
+cn: Neidert
+givenname: Chong
+mail: chong.neidert@planetexpress.com
+userPassword: Chong
+ou: OtherGroup
+uid: 3076
+ Q==

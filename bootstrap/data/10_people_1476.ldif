@@ -1,0 +1,13 @@
+dn: cn=Savannah+sn=Glotfelty,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Savannah Glotfelty
+cn: Glotfelty
+givenname: Savannah
+mail: savannah.glotfelty@planetexpress.com
+userPassword: Savannah
+ou: admin_staff
+uid: 1476
+ Q==

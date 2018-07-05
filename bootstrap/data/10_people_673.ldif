@@ -1,0 +1,13 @@
+dn: cn=Bernadette+sn=Altmark,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bernadette Altmark
+cn: Altmark
+givenname: Bernadette
+mail: bernadette.altmark@planetexpress.com
+userPassword: Bernadette
+ou: OtherGroup
+uid: 673
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Keeley+sn=Gassler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keeley Gassler
+cn: Gassler
+givenname: Keeley
+mail: keeley.gassler@planetexpress.com
+userPassword: Keeley
+ou: admin_staff
+uid: 4061
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ilda+sn=Wisely,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ilda Wisely
+cn: Wisely
+givenname: Ilda
+mail: ilda.wisely@planetexpress.com
+userPassword: Ilda
+ou: admin_staff
+uid: 4337
+ Q==

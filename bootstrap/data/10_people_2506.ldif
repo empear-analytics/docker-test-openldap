@@ -1,0 +1,13 @@
+dn: cn=Alan+sn=Andrew,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alan Andrew
+cn: Andrew
+givenname: Alan
+mail: alan.andrew@planetexpress.com
+userPassword: Alan
+ou: flight_crew
+uid: 2506
+ Q==

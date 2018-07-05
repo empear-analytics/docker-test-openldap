@@ -1,0 +1,13 @@
+dn: cn=Jodi+sn=Zador,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jodi Zador
+cn: Zador
+givenname: Jodi
+mail: jodi.zador@planetexpress.com
+userPassword: Jodi
+ou: Group5
+uid: 2210
+ Q==

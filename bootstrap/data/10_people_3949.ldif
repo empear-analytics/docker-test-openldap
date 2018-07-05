@@ -1,0 +1,13 @@
+dn: cn=Zonia+sn=Linney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zonia Linney
+cn: Linney
+givenname: Zonia
+mail: zonia.linney@planetexpress.com
+userPassword: Zonia
+ou: Group5
+uid: 3949
+ Q==

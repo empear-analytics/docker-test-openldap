@@ -1,0 +1,13 @@
+dn: cn=Mickey+sn=Caligari,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mickey Caligari
+cn: Caligari
+givenname: Mickey
+mail: mickey.caligari@planetexpress.com
+userPassword: Mickey
+ou: Group5
+uid: 4057
+ Q==

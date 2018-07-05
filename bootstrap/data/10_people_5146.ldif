@@ -1,0 +1,13 @@
+dn: cn=Joelle+sn=Klancnik,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joelle Klancnik
+cn: Klancnik
+givenname: Joelle
+mail: joelle.klancnik@planetexpress.com
+userPassword: Joelle
+ou: admin_staff
+uid: 5146
+ Q==

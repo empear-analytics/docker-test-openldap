@@ -1,0 +1,13 @@
+dn: cn=Annabel+sn=Capestro,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annabel Capestro
+cn: Capestro
+givenname: Annabel
+mail: annabel.capestro@planetexpress.com
+userPassword: Annabel
+ou: flight_crew
+uid: 5401
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Nicki+sn=Luvera,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nicki Luvera
+cn: Luvera
+givenname: Nicki
+mail: nicki.luvera@planetexpress.com
+userPassword: Nicki
+ou: flight_crew
+uid: 4763
+ Q==

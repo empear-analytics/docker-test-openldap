@@ -1,0 +1,13 @@
+dn: cn=Myles+sn=Banyas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Myles Banyas
+cn: Banyas
+givenname: Myles
+mail: myles.banyas@planetexpress.com
+userPassword: Myles
+ou: admin_staff
+uid: 3920
+ Q==

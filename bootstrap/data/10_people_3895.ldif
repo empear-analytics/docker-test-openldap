@@ -1,0 +1,13 @@
+dn: cn=George+sn=Ike,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: George Ike
+cn: Ike
+givenname: George
+mail: george.ike@planetexpress.com
+userPassword: George
+ou: OtherGroup
+uid: 3895
+ Q==

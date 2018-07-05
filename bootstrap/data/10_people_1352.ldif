@@ -1,0 +1,13 @@
+dn: cn=Giovanni+sn=Mitsdarffer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Giovanni Mitsdarffer
+cn: Mitsdarffer
+givenname: Giovanni
+mail: giovanni.mitsdarffer@planetexpress.com
+userPassword: Giovanni
+ou: admin_staff
+uid: 1352
+ Q==

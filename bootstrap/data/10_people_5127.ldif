@@ -1,0 +1,13 @@
+dn: cn=Alix+sn=Rhoan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alix Rhoan
+cn: Rhoan
+givenname: Alix
+mail: alix.rhoan@planetexpress.com
+userPassword: Alix
+ou: flight_crew
+uid: 5127
+ Q==

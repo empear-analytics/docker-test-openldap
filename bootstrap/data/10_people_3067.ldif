@@ -1,0 +1,13 @@
+dn: cn=Zina+sn=Lewey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zina Lewey
+cn: Lewey
+givenname: Zina
+mail: zina.lewey@planetexpress.com
+userPassword: Zina
+ou: Group5
+uid: 3067
+ Q==

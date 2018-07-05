@@ -1,0 +1,13 @@
+dn: cn=Elane+sn=Shunnarah,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elane Shunnarah
+cn: Shunnarah
+givenname: Elane
+mail: elane.shunnarah@planetexpress.com
+userPassword: Elane
+ou: flight_crew
+uid: 5168
+ Q==

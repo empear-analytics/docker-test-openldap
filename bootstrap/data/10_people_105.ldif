@@ -1,0 +1,13 @@
+dn: cn=Elfreda+sn=Pacchiana,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elfreda Pacchiana
+cn: Pacchiana
+givenname: Elfreda
+mail: elfreda.pacchiana@planetexpress.com
+userPassword: Elfreda
+ou: admin_staff
+uid: 105
+ Q==

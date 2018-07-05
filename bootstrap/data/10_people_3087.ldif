@@ -1,0 +1,13 @@
+dn: cn=Theresia+sn=Mellema,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Theresia Mellema
+cn: Mellema
+givenname: Theresia
+mail: theresia.mellema@planetexpress.com
+userPassword: Theresia
+ou: admin_staff
+uid: 3087
+ Q==

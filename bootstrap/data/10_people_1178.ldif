@@ -1,0 +1,13 @@
+dn: cn=Tammi+sn=Deville,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tammi Deville
+cn: Deville
+givenname: Tammi
+mail: tammi.deville@planetexpress.com
+userPassword: Tammi
+ou: flight_crew
+uid: 1178
+ Q==

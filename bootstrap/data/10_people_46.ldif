@@ -1,0 +1,13 @@
+dn: cn=Melinda+sn=Dillavou,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melinda Dillavou
+cn: Dillavou
+givenname: Melinda
+mail: melinda.dillavou@planetexpress.com
+userPassword: Melinda
+ou: OtherGroup
+uid: 46
+ Q==

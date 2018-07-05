@@ -1,0 +1,13 @@
+dn: cn=Sindy+sn=Holecz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sindy Holecz
+cn: Holecz
+givenname: Sindy
+mail: sindy.holecz@planetexpress.com
+userPassword: Sindy
+ou: Group5
+uid: 809
+ Q==

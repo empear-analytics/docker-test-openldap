@@ -1,0 +1,13 @@
+dn: cn=Chelsey+sn=Delaney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chelsey Delaney
+cn: Delaney
+givenname: Chelsey
+mail: chelsey.delaney@planetexpress.com
+userPassword: Chelsey
+ou: admin_staff
+uid: 1657
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Marcelene+sn=Hance,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marcelene Hance
+cn: Hance
+givenname: Marcelene
+mail: marcelene.hance@planetexpress.com
+userPassword: Marcelene
+ou: admin_staff
+uid: 434
+ Q==

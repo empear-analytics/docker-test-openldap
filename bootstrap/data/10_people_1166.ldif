@@ -1,0 +1,13 @@
+dn: cn=Dianna+sn=Shingleur,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dianna Shingleur
+cn: Shingleur
+givenname: Dianna
+mail: dianna.shingleur@planetexpress.com
+userPassword: Dianna
+ou: flight_crew
+uid: 1166
+ Q==

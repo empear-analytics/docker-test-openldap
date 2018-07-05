@@ -1,0 +1,13 @@
+dn: cn=Leda+sn=Hewlin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leda Hewlin
+cn: Hewlin
+givenname: Leda
+mail: leda.hewlin@planetexpress.com
+userPassword: Leda
+ou: Group5
+uid: 4579
+ Q==

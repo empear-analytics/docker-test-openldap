@@ -1,0 +1,13 @@
+dn: cn=Chauncey+sn=Dillahunty,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chauncey Dillahunty
+cn: Dillahunty
+givenname: Chauncey
+mail: chauncey.dillahunty@planetexpress.com
+userPassword: Chauncey
+ou: flight_crew
+uid: 3649
+ Q==

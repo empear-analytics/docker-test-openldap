@@ -1,0 +1,13 @@
+dn: cn=Billi+sn=Renyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Billi Renyer
+cn: Renyer
+givenname: Billi
+mail: billi.renyer@planetexpress.com
+userPassword: Billi
+ou: flight_crew
+uid: 3390
+ Q==

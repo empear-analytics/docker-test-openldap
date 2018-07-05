@@ -1,0 +1,13 @@
+dn: cn=Lucienne+sn=Finland,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lucienne Finland
+cn: Finland
+givenname: Lucienne
+mail: lucienne.finland@planetexpress.com
+userPassword: Lucienne
+ou: flight_crew
+uid: 4836
+ Q==

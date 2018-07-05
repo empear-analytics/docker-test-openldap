@@ -1,0 +1,13 @@
+dn: cn=Joelle+sn=Pekar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joelle Pekar
+cn: Pekar
+givenname: Joelle
+mail: joelle.pekar@planetexpress.com
+userPassword: Joelle
+ou: admin_staff
+uid: 2635
+ Q==

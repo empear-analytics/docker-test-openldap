@@ -1,0 +1,13 @@
+dn: cn=Shaunda+sn=Devoss,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shaunda Devoss
+cn: Devoss
+givenname: Shaunda
+mail: shaunda.devoss@planetexpress.com
+userPassword: Shaunda
+ou: flight_crew
+uid: 5927
+ Q==

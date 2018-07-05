@@ -1,0 +1,13 @@
+dn: cn=Kyoko+sn=Anneler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kyoko Anneler
+cn: Anneler
+givenname: Kyoko
+mail: kyoko.anneler@planetexpress.com
+userPassword: Kyoko
+ou: OtherGroup
+uid: 3262
+ Q==

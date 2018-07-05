@@ -1,0 +1,13 @@
+dn: cn=Tyler+sn=Jerauld,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tyler Jerauld
+cn: Jerauld
+givenname: Tyler
+mail: tyler.jerauld@planetexpress.com
+userPassword: Tyler
+ou: Group5
+uid: 5440
+ Q==

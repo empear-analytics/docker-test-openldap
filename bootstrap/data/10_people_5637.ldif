@@ -1,0 +1,13 @@
+dn: cn=Corinna+sn=Kriske,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Corinna Kriske
+cn: Kriske
+givenname: Corinna
+mail: corinna.kriske@planetexpress.com
+userPassword: Corinna
+ou: admin_staff
+uid: 5637
+ Q==

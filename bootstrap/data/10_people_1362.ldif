@@ -1,0 +1,13 @@
+dn: cn=Rima+sn=Aiava,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rima Aiava
+cn: Aiava
+givenname: Rima
+mail: rima.aiava@planetexpress.com
+userPassword: Rima
+ou: flight_crew
+uid: 1362
+ Q==

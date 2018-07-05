@@ -1,0 +1,13 @@
+dn: cn=Dion+sn=Crunk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dion Crunk
+cn: Crunk
+givenname: Dion
+mail: dion.crunk@planetexpress.com
+userPassword: Dion
+ou: flight_crew
+uid: 220
+ Q==

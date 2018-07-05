@@ -1,0 +1,13 @@
+dn: cn=Lily+sn=Machover,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lily Machover
+cn: Machover
+givenname: Lily
+mail: lily.machover@planetexpress.com
+userPassword: Lily
+ou: admin_staff
+uid: 2994
+ Q==

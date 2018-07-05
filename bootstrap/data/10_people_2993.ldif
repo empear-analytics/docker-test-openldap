@@ -1,0 +1,13 @@
+dn: cn=Leslie+sn=Gronvall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leslie Gronvall
+cn: Gronvall
+givenname: Leslie
+mail: leslie.gronvall@planetexpress.com
+userPassword: Leslie
+ou: OtherGroup
+uid: 2993
+ Q==

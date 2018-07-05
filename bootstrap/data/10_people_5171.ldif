@@ -1,0 +1,13 @@
+dn: cn=Irina+sn=Pirkey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Irina Pirkey
+cn: Pirkey
+givenname: Irina
+mail: irina.pirkey@planetexpress.com
+userPassword: Irina
+ou: admin_staff
+uid: 5171
+ Q==

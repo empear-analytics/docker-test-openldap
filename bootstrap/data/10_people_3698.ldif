@@ -1,0 +1,13 @@
+dn: cn=Candelaria+sn=Schlicht,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Candelaria Schlicht
+cn: Schlicht
+givenname: Candelaria
+mail: candelaria.schlicht@planetexpress.com
+userPassword: Candelaria
+ou: OtherGroup
+uid: 3698
+ Q==

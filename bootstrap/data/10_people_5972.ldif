@@ -1,0 +1,13 @@
+dn: cn=Latisha+sn=Furgison,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Latisha Furgison
+cn: Furgison
+givenname: Latisha
+mail: latisha.furgison@planetexpress.com
+userPassword: Latisha
+ou: OtherGroup
+uid: 5972
+ Q==

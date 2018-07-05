@@ -1,0 +1,13 @@
+dn: cn=Jessica+sn=Chagnon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jessica Chagnon
+cn: Chagnon
+givenname: Jessica
+mail: jessica.chagnon@planetexpress.com
+userPassword: Jessica
+ou: flight_crew
+uid: 805
+ Q==

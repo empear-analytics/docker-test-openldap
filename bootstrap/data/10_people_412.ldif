@@ -1,0 +1,13 @@
+dn: cn=Louisa+sn=Juenemann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Louisa Juenemann
+cn: Juenemann
+givenname: Louisa
+mail: louisa.juenemann@planetexpress.com
+userPassword: Louisa
+ou: Group5
+uid: 412
+ Q==

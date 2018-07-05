@@ -1,0 +1,13 @@
+dn: cn=Wai+sn=Amrein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wai Amrein
+cn: Amrein
+givenname: Wai
+mail: wai.amrein@planetexpress.com
+userPassword: Wai
+ou: OtherGroup
+uid: 5852
+ Q==

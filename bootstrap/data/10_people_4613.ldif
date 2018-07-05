@@ -1,0 +1,13 @@
+dn: cn=Twyla+sn=Mongomery,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Twyla Mongomery
+cn: Mongomery
+givenname: Twyla
+mail: twyla.mongomery@planetexpress.com
+userPassword: Twyla
+ou: Group5
+uid: 4613
+ Q==

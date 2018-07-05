@@ -1,0 +1,13 @@
+dn: cn=Lucretia+sn=Essary,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lucretia Essary
+cn: Essary
+givenname: Lucretia
+mail: lucretia.essary@planetexpress.com
+userPassword: Lucretia
+ou: OtherGroup
+uid: 4168
+ Q==

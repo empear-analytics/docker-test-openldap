@@ -1,0 +1,13 @@
+dn: cn=Davis+sn=Kernodle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Davis Kernodle
+cn: Kernodle
+givenname: Davis
+mail: davis.kernodle@planetexpress.com
+userPassword: Davis
+ou: Group5
+uid: 2493
+ Q==

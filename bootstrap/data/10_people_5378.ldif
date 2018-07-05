@@ -1,0 +1,13 @@
+dn: cn=Malvina+sn=Boness,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Malvina Boness
+cn: Boness
+givenname: Malvina
+mail: malvina.boness@planetexpress.com
+userPassword: Malvina
+ou: flight_crew
+uid: 5378
+ Q==

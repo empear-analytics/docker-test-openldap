@@ -1,0 +1,13 @@
+dn: cn=Hee+sn=Rodebaugh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hee Rodebaugh
+cn: Rodebaugh
+givenname: Hee
+mail: hee.rodebaugh@planetexpress.com
+userPassword: Hee
+ou: flight_crew
+uid: 4671
+ Q==

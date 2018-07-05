@@ -1,0 +1,13 @@
+dn: cn=Margret+sn=Patriquin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margret Patriquin
+cn: Patriquin
+givenname: Margret
+mail: margret.patriquin@planetexpress.com
+userPassword: Margret
+ou: Group5
+uid: 3591
+ Q==

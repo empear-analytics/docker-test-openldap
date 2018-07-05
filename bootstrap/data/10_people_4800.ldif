@@ -1,0 +1,13 @@
+dn: cn=Russell+sn=Delonge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Russell Delonge
+cn: Delonge
+givenname: Russell
+mail: russell.delonge@planetexpress.com
+userPassword: Russell
+ou: flight_crew
+uid: 4800
+ Q==

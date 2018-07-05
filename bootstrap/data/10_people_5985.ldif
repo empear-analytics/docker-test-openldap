@@ -1,0 +1,13 @@
+dn: cn=Kristin+sn=Corpe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kristin Corpe
+cn: Corpe
+givenname: Kristin
+mail: kristin.corpe@planetexpress.com
+userPassword: Kristin
+ou: admin_staff
+uid: 5985
+ Q==

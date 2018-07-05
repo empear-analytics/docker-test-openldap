@@ -1,0 +1,13 @@
+dn: cn=Maragaret+sn=Hotz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maragaret Hotz
+cn: Hotz
+givenname: Maragaret
+mail: maragaret.hotz@planetexpress.com
+userPassword: Maragaret
+ou: OtherGroup
+uid: 452
+ Q==

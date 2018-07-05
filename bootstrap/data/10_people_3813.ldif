@@ -1,0 +1,13 @@
+dn: cn=Ricarda+sn=Coombe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ricarda Coombe
+cn: Coombe
+givenname: Ricarda
+mail: ricarda.coombe@planetexpress.com
+userPassword: Ricarda
+ou: OtherGroup
+uid: 3813
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kaye+sn=Welchel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kaye Welchel
+cn: Welchel
+givenname: Kaye
+mail: kaye.welchel@planetexpress.com
+userPassword: Kaye
+ou: OtherGroup
+uid: 5816
+ Q==

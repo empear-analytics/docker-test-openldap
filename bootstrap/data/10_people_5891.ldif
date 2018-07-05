@@ -1,0 +1,13 @@
+dn: cn=Donetta+sn=Blumenschein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Donetta Blumenschein
+cn: Blumenschein
+givenname: Donetta
+mail: donetta.blumenschein@planetexpress.com
+userPassword: Donetta
+ou: admin_staff
+uid: 5891
+ Q==

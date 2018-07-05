@@ -1,0 +1,13 @@
+dn: cn=Eileen+sn=Cullifer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eileen Cullifer
+cn: Cullifer
+givenname: Eileen
+mail: eileen.cullifer@planetexpress.com
+userPassword: Eileen
+ou: flight_crew
+uid: 3400
+ Q==

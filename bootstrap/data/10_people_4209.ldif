@@ -1,0 +1,13 @@
+dn: cn=Tomas+sn=Nathans,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tomas Nathans
+cn: Nathans
+givenname: Tomas
+mail: tomas.nathans@planetexpress.com
+userPassword: Tomas
+ou: Group5
+uid: 4209
+ Q==

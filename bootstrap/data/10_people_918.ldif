@@ -1,0 +1,13 @@
+dn: cn=Jana+sn=Alexzander,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jana Alexzander
+cn: Alexzander
+givenname: Jana
+mail: jana.alexzander@planetexpress.com
+userPassword: Jana
+ou: Group5
+uid: 918
+ Q==

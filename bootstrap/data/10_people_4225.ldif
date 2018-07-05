@@ -1,0 +1,13 @@
+dn: cn=Yuonne+sn=Pohl,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yuonne Pohl
+cn: Pohl
+givenname: Yuonne
+mail: yuonne.pohl@planetexpress.com
+userPassword: Yuonne
+ou: OtherGroup
+uid: 4225
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Genesis+sn=Knoeppel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Genesis Knoeppel
+cn: Knoeppel
+givenname: Genesis
+mail: genesis.knoeppel@planetexpress.com
+userPassword: Genesis
+ou: admin_staff
+uid: 1771
+ Q==

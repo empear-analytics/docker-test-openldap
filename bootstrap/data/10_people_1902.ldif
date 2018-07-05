@@ -1,0 +1,13 @@
+dn: cn=Karla+sn=Solages,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karla Solages
+cn: Solages
+givenname: Karla
+mail: karla.solages@planetexpress.com
+userPassword: Karla
+ou: flight_crew
+uid: 1902
+ Q==

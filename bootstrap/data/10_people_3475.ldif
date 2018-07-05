@@ -1,0 +1,13 @@
+dn: cn=Mose+sn=Yanuaria,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mose Yanuaria
+cn: Yanuaria
+givenname: Mose
+mail: mose.yanuaria@planetexpress.com
+userPassword: Mose
+ou: Group5
+uid: 3475
+ Q==

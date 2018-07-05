@@ -1,0 +1,13 @@
+dn: cn=Marlys+sn=Ghea,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marlys Ghea
+cn: Ghea
+givenname: Marlys
+mail: marlys.ghea@planetexpress.com
+userPassword: Marlys
+ou: admin_staff
+uid: 1435
+ Q==

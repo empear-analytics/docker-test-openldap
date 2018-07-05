@@ -1,0 +1,13 @@
+dn: cn=Lora+sn=Belliveau,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lora Belliveau
+cn: Belliveau
+givenname: Lora
+mail: lora.belliveau@planetexpress.com
+userPassword: Lora
+ou: Group5
+uid: 5701
+ Q==

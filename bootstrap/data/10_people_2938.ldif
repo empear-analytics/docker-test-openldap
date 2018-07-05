@@ -1,0 +1,13 @@
+dn: cn=Suzanne+sn=Drago,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Suzanne Drago
+cn: Drago
+givenname: Suzanne
+mail: suzanne.drago@planetexpress.com
+userPassword: Suzanne
+ou: flight_crew
+uid: 2938
+ Q==

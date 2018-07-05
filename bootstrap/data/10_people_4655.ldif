@@ -1,0 +1,13 @@
+dn: cn=Heather+sn=Sissom,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Heather Sissom
+cn: Sissom
+givenname: Heather
+mail: heather.sissom@planetexpress.com
+userPassword: Heather
+ou: OtherGroup
+uid: 4655
+ Q==

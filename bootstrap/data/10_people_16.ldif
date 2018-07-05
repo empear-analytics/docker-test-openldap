@@ -1,0 +1,13 @@
+dn: cn=Kathern+sn=Nordmeyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kathern Nordmeyer
+cn: Nordmeyer
+givenname: Kathern
+mail: kathern.nordmeyer@planetexpress.com
+userPassword: Kathern
+ou: OtherGroup
+uid: 16
+ Q==

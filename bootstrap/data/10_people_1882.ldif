@@ -1,0 +1,13 @@
+dn: cn=Phillis+sn=Nishioka,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Phillis Nishioka
+cn: Nishioka
+givenname: Phillis
+mail: phillis.nishioka@planetexpress.com
+userPassword: Phillis
+ou: Group5
+uid: 1882
+ Q==

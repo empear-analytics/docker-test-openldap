@@ -1,0 +1,13 @@
+dn: cn=Agatha+sn=Tebeau,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Agatha Tebeau
+cn: Tebeau
+givenname: Agatha
+mail: agatha.tebeau@planetexpress.com
+userPassword: Agatha
+ou: OtherGroup
+uid: 1514
+ Q==

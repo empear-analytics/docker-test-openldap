@@ -1,0 +1,13 @@
+dn: cn=Alease+sn=Anderon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alease Anderon
+cn: Anderon
+givenname: Alease
+mail: alease.anderon@planetexpress.com
+userPassword: Alease
+ou: admin_staff
+uid: 968
+ Q==

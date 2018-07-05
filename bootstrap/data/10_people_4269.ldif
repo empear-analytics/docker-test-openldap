@@ -1,0 +1,13 @@
+dn: cn=Gracia+sn=Kimberly,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gracia Kimberly
+cn: Kimberly
+givenname: Gracia
+mail: gracia.kimberly@planetexpress.com
+userPassword: Gracia
+ou: OtherGroup
+uid: 4269
+ Q==

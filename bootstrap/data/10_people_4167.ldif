@@ -1,0 +1,13 @@
+dn: cn=Merlene+sn=Raes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Merlene Raes
+cn: Raes
+givenname: Merlene
+mail: merlene.raes@planetexpress.com
+userPassword: Merlene
+ou: Group5
+uid: 4167
+ Q==

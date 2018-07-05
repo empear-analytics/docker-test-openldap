@@ -1,0 +1,13 @@
+dn: cn=Leota+sn=Whiteis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leota Whiteis
+cn: Whiteis
+givenname: Leota
+mail: leota.whiteis@planetexpress.com
+userPassword: Leota
+ou: admin_staff
+uid: 2596
+ Q==

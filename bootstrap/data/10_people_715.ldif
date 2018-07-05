@@ -1,0 +1,13 @@
+dn: cn=Hoyt+sn=Hagger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hoyt Hagger
+cn: Hagger
+givenname: Hoyt
+mail: hoyt.hagger@planetexpress.com
+userPassword: Hoyt
+ou: admin_staff
+uid: 715
+ Q==

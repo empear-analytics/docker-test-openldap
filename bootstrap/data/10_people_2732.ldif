@@ -1,0 +1,13 @@
+dn: cn=Kati+sn=Packebush,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kati Packebush
+cn: Packebush
+givenname: Kati
+mail: kati.packebush@planetexpress.com
+userPassword: Kati
+ou: Group5
+uid: 2732
+ Q==

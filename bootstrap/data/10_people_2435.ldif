@@ -1,0 +1,13 @@
+dn: cn=May+sn=Bouthillette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: May Bouthillette
+cn: Bouthillette
+givenname: May
+mail: may.bouthillette@planetexpress.com
+userPassword: May
+ou: OtherGroup
+uid: 2435
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Homer+sn=Cobham,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Homer Cobham
+cn: Cobham
+givenname: Homer
+mail: homer.cobham@planetexpress.com
+userPassword: Homer
+ou: OtherGroup
+uid: 1625
+ Q==

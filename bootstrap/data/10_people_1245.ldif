@@ -1,0 +1,13 @@
+dn: cn=Leonarda+sn=Olejniczak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leonarda Olejniczak
+cn: Olejniczak
+givenname: Leonarda
+mail: leonarda.olejniczak@planetexpress.com
+userPassword: Leonarda
+ou: flight_crew
+uid: 1245
+ Q==

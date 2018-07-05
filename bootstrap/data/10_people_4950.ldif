@@ -1,0 +1,13 @@
+dn: cn=Nelly+sn=Irene,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nelly Irene
+cn: Irene
+givenname: Nelly
+mail: nelly.irene@planetexpress.com
+userPassword: Nelly
+ou: OtherGroup
+uid: 4950
+ Q==

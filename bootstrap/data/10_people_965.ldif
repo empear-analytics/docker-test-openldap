@@ -1,0 +1,13 @@
+dn: cn=Dennis+sn=Gunzelman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dennis Gunzelman
+cn: Gunzelman
+givenname: Dennis
+mail: dennis.gunzelman@planetexpress.com
+userPassword: Dennis
+ou: admin_staff
+uid: 965
+ Q==

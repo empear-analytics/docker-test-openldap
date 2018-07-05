@@ -1,0 +1,13 @@
+dn: cn=Chong+sn=Andrus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chong Andrus
+cn: Andrus
+givenname: Chong
+mail: chong.andrus@planetexpress.com
+userPassword: Chong
+ou: OtherGroup
+uid: 4223
+ Q==

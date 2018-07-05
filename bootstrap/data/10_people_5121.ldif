@@ -1,0 +1,13 @@
+dn: cn=Breanna+sn=Rudig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Breanna Rudig
+cn: Rudig
+givenname: Breanna
+mail: breanna.rudig@planetexpress.com
+userPassword: Breanna
+ou: OtherGroup
+uid: 5121
+ Q==

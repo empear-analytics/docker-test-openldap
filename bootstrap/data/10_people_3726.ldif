@@ -1,0 +1,13 @@
+dn: cn=Joyce+sn=Hutcheson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joyce Hutcheson
+cn: Hutcheson
+givenname: Joyce
+mail: joyce.hutcheson@planetexpress.com
+userPassword: Joyce
+ou: Group5
+uid: 3726
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Enoch+sn=Lahtinen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Enoch Lahtinen
+cn: Lahtinen
+givenname: Enoch
+mail: enoch.lahtinen@planetexpress.com
+userPassword: Enoch
+ou: OtherGroup
+uid: 506
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Janae+sn=Bordi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janae Bordi
+cn: Bordi
+givenname: Janae
+mail: janae.bordi@planetexpress.com
+userPassword: Janae
+ou: Group5
+uid: 26
+ Q==

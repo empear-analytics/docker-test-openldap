@@ -1,0 +1,13 @@
+dn: cn=Demetrius+sn=Kedia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Demetrius Kedia
+cn: Kedia
+givenname: Demetrius
+mail: demetrius.kedia@planetexpress.com
+userPassword: Demetrius
+ou: flight_crew
+uid: 3754
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Rosemarie+sn=Kraus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosemarie Kraus
+cn: Kraus
+givenname: Rosemarie
+mail: rosemarie.kraus@planetexpress.com
+userPassword: Rosemarie
+ou: flight_crew
+uid: 4458
+ Q==

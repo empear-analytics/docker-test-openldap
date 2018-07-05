@@ -1,0 +1,13 @@
+dn: cn=Shenita+sn=Hoeflich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shenita Hoeflich
+cn: Hoeflich
+givenname: Shenita
+mail: shenita.hoeflich@planetexpress.com
+userPassword: Shenita
+ou: flight_crew
+uid: 5040
+ Q==

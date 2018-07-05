@@ -1,0 +1,13 @@
+dn: cn=Reyna+sn=Cabading,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reyna Cabading
+cn: Cabading
+givenname: Reyna
+mail: reyna.cabading@planetexpress.com
+userPassword: Reyna
+ou: Group5
+uid: 5712
+ Q==

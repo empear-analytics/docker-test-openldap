@@ -1,0 +1,13 @@
+dn: cn=Apryl+sn=Humbertson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Apryl Humbertson
+cn: Humbertson
+givenname: Apryl
+mail: apryl.humbertson@planetexpress.com
+userPassword: Apryl
+ou: Group5
+uid: 3454
+ Q==

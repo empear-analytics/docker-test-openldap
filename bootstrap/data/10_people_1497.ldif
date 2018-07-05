@@ -1,0 +1,13 @@
+dn: cn=Giovanni+sn=Stray,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Giovanni Stray
+cn: Stray
+givenname: Giovanni
+mail: giovanni.stray@planetexpress.com
+userPassword: Giovanni
+ou: flight_crew
+uid: 1497
+ Q==

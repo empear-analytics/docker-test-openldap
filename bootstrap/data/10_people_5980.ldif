@@ -1,0 +1,13 @@
+dn: cn=Valeri+sn=Vialpando,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Valeri Vialpando
+cn: Vialpando
+givenname: Valeri
+mail: valeri.vialpando@planetexpress.com
+userPassword: Valeri
+ou: Group5
+uid: 5980
+ Q==

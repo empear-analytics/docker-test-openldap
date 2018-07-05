@@ -1,0 +1,13 @@
+dn: cn=Francene+sn=Gil,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Francene Gil
+cn: Gil
+givenname: Francene
+mail: francene.gil@planetexpress.com
+userPassword: Francene
+ou: OtherGroup
+uid: 2576
+ Q==

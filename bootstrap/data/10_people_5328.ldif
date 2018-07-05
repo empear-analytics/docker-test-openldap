@@ -1,0 +1,13 @@
+dn: cn=Serena+sn=Piercy,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Serena Piercy
+cn: Piercy
+givenname: Serena
+mail: serena.piercy@planetexpress.com
+userPassword: Serena
+ou: admin_staff
+uid: 5328
+ Q==

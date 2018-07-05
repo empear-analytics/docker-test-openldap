@@ -1,0 +1,13 @@
+dn: cn=Dagny+sn=Pyke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dagny Pyke
+cn: Pyke
+givenname: Dagny
+mail: dagny.pyke@planetexpress.com
+userPassword: Dagny
+ou: flight_crew
+uid: 1213
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Hana+sn=Tolontino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hana Tolontino
+cn: Tolontino
+givenname: Hana
+mail: hana.tolontino@planetexpress.com
+userPassword: Hana
+ou: flight_crew
+uid: 1810
+ Q==

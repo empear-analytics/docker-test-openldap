@@ -1,0 +1,13 @@
+dn: cn=Frederic+sn=Muhammad,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Frederic Muhammad
+cn: Muhammad
+givenname: Frederic
+mail: frederic.muhammad@planetexpress.com
+userPassword: Frederic
+ou: OtherGroup
+uid: 4456
+ Q==

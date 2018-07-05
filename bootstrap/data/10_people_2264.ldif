@@ -1,0 +1,13 @@
+dn: cn=Janina+sn=Niermann,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janina Niermann
+cn: Niermann
+givenname: Janina
+mail: janina.niermann@planetexpress.com
+userPassword: Janina
+ou: OtherGroup
+uid: 2264
+ Q==

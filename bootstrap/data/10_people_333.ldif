@@ -1,0 +1,13 @@
+dn: cn=Zula+sn=Hatt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zula Hatt
+cn: Hatt
+givenname: Zula
+mail: zula.hatt@planetexpress.com
+userPassword: Zula
+ou: admin_staff
+uid: 333
+ Q==

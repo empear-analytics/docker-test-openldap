@@ -1,0 +1,13 @@
+dn: cn=Marianela+sn=Plair,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marianela Plair
+cn: Plair
+givenname: Marianela
+mail: marianela.plair@planetexpress.com
+userPassword: Marianela
+ou: OtherGroup
+uid: 5779
+ Q==

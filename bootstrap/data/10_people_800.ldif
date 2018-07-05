@@ -1,0 +1,13 @@
+dn: cn=Ashton+sn=Robeson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ashton Robeson
+cn: Robeson
+givenname: Ashton
+mail: ashton.robeson@planetexpress.com
+userPassword: Ashton
+ou: OtherGroup
+uid: 800
+ Q==

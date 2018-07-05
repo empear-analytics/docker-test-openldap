@@ -1,0 +1,13 @@
+dn: cn=Kenny+sn=Saldano,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kenny Saldano
+cn: Saldano
+givenname: Kenny
+mail: kenny.saldano@planetexpress.com
+userPassword: Kenny
+ou: OtherGroup
+uid: 1231
+ Q==

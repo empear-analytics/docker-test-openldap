@@ -1,0 +1,13 @@
+dn: cn=Margarette+sn=Megraw,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margarette Megraw
+cn: Megraw
+givenname: Margarette
+mail: margarette.megraw@planetexpress.com
+userPassword: Margarette
+ou: Group5
+uid: 1123
+ Q==

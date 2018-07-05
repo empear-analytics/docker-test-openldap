@@ -1,0 +1,13 @@
+dn: cn=Carry+sn=Edgington,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carry Edgington
+cn: Edgington
+givenname: Carry
+mail: carry.edgington@planetexpress.com
+userPassword: Carry
+ou: Group5
+uid: 5900
+ Q==

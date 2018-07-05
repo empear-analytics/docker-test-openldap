@@ -1,0 +1,13 @@
+dn: cn=Bong+sn=Rearden,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bong Rearden
+cn: Rearden
+givenname: Bong
+mail: bong.rearden@planetexpress.com
+userPassword: Bong
+ou: flight_crew
+uid: 3795
+ Q==

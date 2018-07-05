@@ -1,0 +1,13 @@
+dn: cn=Julissa+sn=Forlani,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Julissa Forlani
+cn: Forlani
+givenname: Julissa
+mail: julissa.forlani@planetexpress.com
+userPassword: Julissa
+ou: admin_staff
+uid: 3585
+ Q==

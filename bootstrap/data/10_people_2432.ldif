@@ -1,0 +1,13 @@
+dn: cn=Marry+sn=Kightlinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marry Kightlinger
+cn: Kightlinger
+givenname: Marry
+mail: marry.kightlinger@planetexpress.com
+userPassword: Marry
+ou: admin_staff
+uid: 2432
+ Q==

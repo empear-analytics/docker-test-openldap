@@ -1,0 +1,13 @@
+dn: cn=Betsy+sn=Pera,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Betsy Pera
+cn: Pera
+givenname: Betsy
+mail: betsy.pera@planetexpress.com
+userPassword: Betsy
+ou: Group5
+uid: 3377
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Cedric+sn=Fahl,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cedric Fahl
+cn: Fahl
+givenname: Cedric
+mail: cedric.fahl@planetexpress.com
+userPassword: Cedric
+ou: OtherGroup
+uid: 1354
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Faustina+sn=Gossling,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Faustina Gossling
+cn: Gossling
+givenname: Faustina
+mail: faustina.gossling@planetexpress.com
+userPassword: Faustina
+ou: flight_crew
+uid: 4435
+ Q==

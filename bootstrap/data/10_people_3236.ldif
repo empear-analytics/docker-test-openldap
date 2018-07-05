@@ -1,0 +1,13 @@
+dn: cn=Zenaida+sn=Czapiewski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zenaida Czapiewski
+cn: Czapiewski
+givenname: Zenaida
+mail: zenaida.czapiewski@planetexpress.com
+userPassword: Zenaida
+ou: flight_crew
+uid: 3236
+ Q==

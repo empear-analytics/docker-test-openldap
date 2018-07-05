@@ -1,0 +1,13 @@
+dn: cn=Alia+sn=Kalscheuer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alia Kalscheuer
+cn: Kalscheuer
+givenname: Alia
+mail: alia.kalscheuer@planetexpress.com
+userPassword: Alia
+ou: Group5
+uid: 4378
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Mozell+sn=Kahan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mozell Kahan
+cn: Kahan
+givenname: Mozell
+mail: mozell.kahan@planetexpress.com
+userPassword: Mozell
+ou: admin_staff
+uid: 1104
+ Q==

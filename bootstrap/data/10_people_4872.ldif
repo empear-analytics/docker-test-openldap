@@ -1,0 +1,13 @@
+dn: cn=Valencia+sn=Orobona,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Valencia Orobona
+cn: Orobona
+givenname: Valencia
+mail: valencia.orobona@planetexpress.com
+userPassword: Valencia
+ou: Group5
+uid: 4872
+ Q==

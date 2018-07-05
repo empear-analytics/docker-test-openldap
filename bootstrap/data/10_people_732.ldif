@@ -1,0 +1,13 @@
+dn: cn=Odelia+sn=Inserra,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Odelia Inserra
+cn: Inserra
+givenname: Odelia
+mail: odelia.inserra@planetexpress.com
+userPassword: Odelia
+ou: Group5
+uid: 732
+ Q==

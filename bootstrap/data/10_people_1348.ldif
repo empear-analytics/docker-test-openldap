@@ -1,0 +1,13 @@
+dn: cn=Karey+sn=Gallardo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karey Gallardo
+cn: Gallardo
+givenname: Karey
+mail: karey.gallardo@planetexpress.com
+userPassword: Karey
+ou: Group5
+uid: 1348
+ Q==

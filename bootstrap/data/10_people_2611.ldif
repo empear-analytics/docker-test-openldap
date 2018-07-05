@@ -1,0 +1,13 @@
+dn: cn=Samantha+sn=Lebrecque,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Samantha Lebrecque
+cn: Lebrecque
+givenname: Samantha
+mail: samantha.lebrecque@planetexpress.com
+userPassword: Samantha
+ou: Group5
+uid: 2611
+ Q==

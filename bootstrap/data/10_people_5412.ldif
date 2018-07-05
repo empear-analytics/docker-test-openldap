@@ -1,0 +1,13 @@
+dn: cn=Rudy+sn=Fothergill,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rudy Fothergill
+cn: Fothergill
+givenname: Rudy
+mail: rudy.fothergill@planetexpress.com
+userPassword: Rudy
+ou: Group5
+uid: 5412
+ Q==

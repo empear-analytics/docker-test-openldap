@@ -1,0 +1,13 @@
+dn: cn=May+sn=Mulder,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: May Mulder
+cn: Mulder
+givenname: May
+mail: may.mulder@planetexpress.com
+userPassword: May
+ou: Group5
+uid: 395
+ Q==

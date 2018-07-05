@@ -1,0 +1,13 @@
+dn: cn=Eusebio+sn=Nivala,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eusebio Nivala
+cn: Nivala
+givenname: Eusebio
+mail: eusebio.nivala@planetexpress.com
+userPassword: Eusebio
+ou: Group5
+uid: 3536
+ Q==

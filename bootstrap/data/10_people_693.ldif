@@ -1,0 +1,13 @@
+dn: cn=Kirby+sn=Marci,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kirby Marci
+cn: Marci
+givenname: Kirby
+mail: kirby.marci@planetexpress.com
+userPassword: Kirby
+ou: flight_crew
+uid: 693
+ Q==

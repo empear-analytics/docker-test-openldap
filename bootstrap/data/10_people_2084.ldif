@@ -1,0 +1,13 @@
+dn: cn=Nakia+sn=Blodgett,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nakia Blodgett
+cn: Blodgett
+givenname: Nakia
+mail: nakia.blodgett@planetexpress.com
+userPassword: Nakia
+ou: admin_staff
+uid: 2084
+ Q==

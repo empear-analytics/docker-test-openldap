@@ -1,0 +1,13 @@
+dn: cn=Larue+sn=Mirra,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Larue Mirra
+cn: Mirra
+givenname: Larue
+mail: larue.mirra@planetexpress.com
+userPassword: Larue
+ou: Group5
+uid: 3085
+ Q==

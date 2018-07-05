@@ -1,0 +1,13 @@
+dn: cn=Laverna+sn=Seefeldt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Laverna Seefeldt
+cn: Seefeldt
+givenname: Laverna
+mail: laverna.seefeldt@planetexpress.com
+userPassword: Laverna
+ou: flight_crew
+uid: 1789
+ Q==

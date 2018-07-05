@@ -1,0 +1,13 @@
+dn: cn=Eleanora+sn=Maas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eleanora Maas
+cn: Maas
+givenname: Eleanora
+mail: eleanora.maas@planetexpress.com
+userPassword: Eleanora
+ou: OtherGroup
+uid: 3450
+ Q==

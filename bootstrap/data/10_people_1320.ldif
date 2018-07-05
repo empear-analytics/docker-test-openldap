@@ -1,0 +1,13 @@
+dn: cn=Rebecca+sn=Kately,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rebecca Kately
+cn: Kately
+givenname: Rebecca
+mail: rebecca.kately@planetexpress.com
+userPassword: Rebecca
+ou: flight_crew
+uid: 1320
+ Q==

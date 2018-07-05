@@ -1,0 +1,13 @@
+dn: cn=Eddie+sn=Dahlke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eddie Dahlke
+cn: Dahlke
+givenname: Eddie
+mail: eddie.dahlke@planetexpress.com
+userPassword: Eddie
+ou: flight_crew
+uid: 322
+ Q==

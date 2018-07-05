@@ -1,0 +1,13 @@
+dn: cn=Michell+sn=Schiffner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Michell Schiffner
+cn: Schiffner
+givenname: Michell
+mail: michell.schiffner@planetexpress.com
+userPassword: Michell
+ou: OtherGroup
+uid: 4989
+ Q==

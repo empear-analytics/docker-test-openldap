@@ -1,0 +1,13 @@
+dn: cn=Raye+sn=Yocom,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Raye Yocom
+cn: Yocom
+givenname: Raye
+mail: raye.yocom@planetexpress.com
+userPassword: Raye
+ou: admin_staff
+uid: 4164
+ Q==

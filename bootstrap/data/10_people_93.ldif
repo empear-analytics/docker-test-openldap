@@ -1,0 +1,13 @@
+dn: cn=Portia+sn=Kolle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Portia Kolle
+cn: Kolle
+givenname: Portia
+mail: portia.kolle@planetexpress.com
+userPassword: Portia
+ou: flight_crew
+uid: 93
+ Q==

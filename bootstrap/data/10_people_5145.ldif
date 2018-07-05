@@ -1,0 +1,13 @@
+dn: cn=Dierdre+sn=Calmes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dierdre Calmes
+cn: Calmes
+givenname: Dierdre
+mail: dierdre.calmes@planetexpress.com
+userPassword: Dierdre
+ou: Group5
+uid: 5145
+ Q==

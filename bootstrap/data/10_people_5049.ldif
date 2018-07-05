@@ -1,0 +1,13 @@
+dn: cn=Kristal+sn=Vermeer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kristal Vermeer
+cn: Vermeer
+givenname: Kristal
+mail: kristal.vermeer@planetexpress.com
+userPassword: Kristal
+ou: Group5
+uid: 5049
+ Q==

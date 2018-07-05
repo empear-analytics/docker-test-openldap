@@ -1,0 +1,13 @@
+dn: cn=Hal+sn=Emond,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hal Emond
+cn: Emond
+givenname: Hal
+mail: hal.emond@planetexpress.com
+userPassword: Hal
+ou: admin_staff
+uid: 810
+ Q==

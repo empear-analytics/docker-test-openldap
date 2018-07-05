@@ -1,0 +1,13 @@
+dn: cn=Marquerite+sn=Lockley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marquerite Lockley
+cn: Lockley
+givenname: Marquerite
+mail: marquerite.lockley@planetexpress.com
+userPassword: Marquerite
+ou: admin_staff
+uid: 5789
+ Q==

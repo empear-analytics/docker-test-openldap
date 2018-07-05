@@ -1,0 +1,13 @@
+dn: cn=Jane+sn=Bartlone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jane Bartlone
+cn: Bartlone
+givenname: Jane
+mail: jane.bartlone@planetexpress.com
+userPassword: Jane
+ou: OtherGroup
+uid: 4170
+ Q==

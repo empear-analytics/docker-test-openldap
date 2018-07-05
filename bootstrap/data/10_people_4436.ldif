@@ -1,0 +1,13 @@
+dn: cn=Thomasine+sn=Forsberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thomasine Forsberg
+cn: Forsberg
+givenname: Thomasine
+mail: thomasine.forsberg@planetexpress.com
+userPassword: Thomasine
+ou: flight_crew
+uid: 4436
+ Q==

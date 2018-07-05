@@ -1,0 +1,13 @@
+dn: cn=Melinda+sn=Gastley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melinda Gastley
+cn: Gastley
+givenname: Melinda
+mail: melinda.gastley@planetexpress.com
+userPassword: Melinda
+ou: admin_staff
+uid: 527
+ Q==

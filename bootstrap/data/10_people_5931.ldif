@@ -1,0 +1,13 @@
+dn: cn=Beckie+sn=Steedman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Beckie Steedman
+cn: Steedman
+givenname: Beckie
+mail: beckie.steedman@planetexpress.com
+userPassword: Beckie
+ou: flight_crew
+uid: 5931
+ Q==

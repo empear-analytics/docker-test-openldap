@@ -1,0 +1,13 @@
+dn: cn=Virgil+sn=Bovio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Virgil Bovio
+cn: Bovio
+givenname: Virgil
+mail: virgil.bovio@planetexpress.com
+userPassword: Virgil
+ou: admin_staff
+uid: 731
+ Q==

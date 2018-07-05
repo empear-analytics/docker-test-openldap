@@ -1,0 +1,13 @@
+dn: cn=Donya+sn=Kozlak,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Donya Kozlak
+cn: Kozlak
+givenname: Donya
+mail: donya.kozlak@planetexpress.com
+userPassword: Donya
+ou: OtherGroup
+uid: 2041
+ Q==

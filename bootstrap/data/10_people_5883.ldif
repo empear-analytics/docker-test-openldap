@@ -1,0 +1,13 @@
+dn: cn=Phil+sn=Whitledge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Phil Whitledge
+cn: Whitledge
+givenname: Phil
+mail: phil.whitledge@planetexpress.com
+userPassword: Phil
+ou: OtherGroup
+uid: 5883
+ Q==

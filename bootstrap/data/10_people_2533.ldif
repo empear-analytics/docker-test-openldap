@@ -1,0 +1,13 @@
+dn: cn=Augusta+sn=Leasher,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Augusta Leasher
+cn: Leasher
+givenname: Augusta
+mail: augusta.leasher@planetexpress.com
+userPassword: Augusta
+ou: flight_crew
+uid: 2533
+ Q==

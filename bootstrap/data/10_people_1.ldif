@@ -1,0 +1,13 @@
+dn: cn=Jana+sn=Gladstein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jana Gladstein
+cn: Gladstein
+givenname: Jana
+mail: jana.gladstein@planetexpress.com
+userPassword: Jana
+ou: admin_staff
+uid: 1
+ Q==

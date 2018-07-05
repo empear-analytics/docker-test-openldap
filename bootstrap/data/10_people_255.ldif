@@ -1,0 +1,13 @@
+dn: cn=Kasey+sn=Benninger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kasey Benninger
+cn: Benninger
+givenname: Kasey
+mail: kasey.benninger@planetexpress.com
+userPassword: Kasey
+ou: OtherGroup
+uid: 255
+ Q==

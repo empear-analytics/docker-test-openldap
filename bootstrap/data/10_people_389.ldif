@@ -1,0 +1,13 @@
+dn: cn=Felton+sn=Altstatt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Felton Altstatt
+cn: Altstatt
+givenname: Felton
+mail: felton.altstatt@planetexpress.com
+userPassword: Felton
+ou: flight_crew
+uid: 389
+ Q==

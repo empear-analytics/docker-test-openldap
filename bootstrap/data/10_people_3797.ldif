@@ -1,0 +1,13 @@
+dn: cn=Selene+sn=Blohm,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Selene Blohm
+cn: Blohm
+givenname: Selene
+mail: selene.blohm@planetexpress.com
+userPassword: Selene
+ou: OtherGroup
+uid: 3797
+ Q==

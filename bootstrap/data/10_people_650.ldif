@@ -1,0 +1,13 @@
+dn: cn=Sharlene+sn=Henrickson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharlene Henrickson
+cn: Henrickson
+givenname: Sharlene
+mail: sharlene.henrickson@planetexpress.com
+userPassword: Sharlene
+ou: flight_crew
+uid: 650
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lana+sn=Charette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lana Charette
+cn: Charette
+givenname: Lana
+mail: lana.charette@planetexpress.com
+userPassword: Lana
+ou: admin_staff
+uid: 3439
+ Q==

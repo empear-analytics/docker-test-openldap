@@ -1,0 +1,13 @@
+dn: cn=Angelyn+sn=Mulinix,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angelyn Mulinix
+cn: Mulinix
+givenname: Angelyn
+mail: angelyn.mulinix@planetexpress.com
+userPassword: Angelyn
+ou: flight_crew
+uid: 1655
+ Q==

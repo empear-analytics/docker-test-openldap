@@ -1,0 +1,13 @@
+dn: cn=Arlean+sn=Newbauer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arlean Newbauer
+cn: Newbauer
+givenname: Arlean
+mail: arlean.newbauer@planetexpress.com
+userPassword: Arlean
+ou: admin_staff
+uid: 1872
+ Q==

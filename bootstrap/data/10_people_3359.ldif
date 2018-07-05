@@ -1,0 +1,13 @@
+dn: cn=Jerri+sn=Pagani,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jerri Pagani
+cn: Pagani
+givenname: Jerri
+mail: jerri.pagani@planetexpress.com
+userPassword: Jerri
+ou: OtherGroup
+uid: 3359
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Merissa+sn=Bellitti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Merissa Bellitti
+cn: Bellitti
+givenname: Merissa
+mail: merissa.bellitti@planetexpress.com
+userPassword: Merissa
+ou: OtherGroup
+uid: 3841
+ Q==

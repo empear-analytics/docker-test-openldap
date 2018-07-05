@@ -1,0 +1,13 @@
+dn: cn=Chassidy+sn=Slaymaker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chassidy Slaymaker
+cn: Slaymaker
+givenname: Chassidy
+mail: chassidy.slaymaker@planetexpress.com
+userPassword: Chassidy
+ou: flight_crew
+uid: 2742
+ Q==

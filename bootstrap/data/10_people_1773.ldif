@@ -1,0 +1,13 @@
+dn: cn=Antonetta+sn=Groebner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Antonetta Groebner
+cn: Groebner
+givenname: Antonetta
+mail: antonetta.groebner@planetexpress.com
+userPassword: Antonetta
+ou: admin_staff
+uid: 1773
+ Q==

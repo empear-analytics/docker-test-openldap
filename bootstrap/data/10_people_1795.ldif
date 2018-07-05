@@ -1,0 +1,13 @@
+dn: cn=Elane+sn=Gramling,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elane Gramling
+cn: Gramling
+givenname: Elane
+mail: elane.gramling@planetexpress.com
+userPassword: Elane
+ou: admin_staff
+uid: 1795
+ Q==

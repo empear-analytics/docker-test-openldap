@@ -1,0 +1,13 @@
+dn: cn=Wilfred+sn=Royalty,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Wilfred Royalty
+cn: Royalty
+givenname: Wilfred
+mail: wilfred.royalty@planetexpress.com
+userPassword: Wilfred
+ou: Group5
+uid: 633
+ Q==

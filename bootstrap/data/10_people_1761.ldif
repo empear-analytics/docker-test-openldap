@@ -1,0 +1,13 @@
+dn: cn=Lisette+sn=Poplaski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lisette Poplaski
+cn: Poplaski
+givenname: Lisette
+mail: lisette.poplaski@planetexpress.com
+userPassword: Lisette
+ou: admin_staff
+uid: 1761
+ Q==

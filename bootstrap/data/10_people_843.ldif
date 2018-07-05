@@ -1,0 +1,13 @@
+dn: cn=Rosamond+sn=Mousa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosamond Mousa
+cn: Mousa
+givenname: Rosamond
+mail: rosamond.mousa@planetexpress.com
+userPassword: Rosamond
+ou: admin_staff
+uid: 843
+ Q==

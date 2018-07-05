@@ -1,0 +1,13 @@
+dn: cn=Jaqueline+sn=Somerfield,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jaqueline Somerfield
+cn: Somerfield
+givenname: Jaqueline
+mail: jaqueline.somerfield@planetexpress.com
+userPassword: Jaqueline
+ou: OtherGroup
+uid: 2951
+ Q==

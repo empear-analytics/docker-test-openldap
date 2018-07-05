@@ -1,0 +1,13 @@
+dn: cn=Zenaida+sn=Darsey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Zenaida Darsey
+cn: Darsey
+givenname: Zenaida
+mail: zenaida.darsey@planetexpress.com
+userPassword: Zenaida
+ou: Group5
+uid: 5166
+ Q==

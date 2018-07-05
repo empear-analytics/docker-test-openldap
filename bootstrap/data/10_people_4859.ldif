@@ -1,0 +1,13 @@
+dn: cn=Shayne+sn=Helger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shayne Helger
+cn: Helger
+givenname: Shayne
+mail: shayne.helger@planetexpress.com
+userPassword: Shayne
+ou: Group5
+uid: 4859
+ Q==

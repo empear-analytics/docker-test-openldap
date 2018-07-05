@@ -1,0 +1,13 @@
+dn: cn=Lia+sn=Schueller,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lia Schueller
+cn: Schueller
+givenname: Lia
+mail: lia.schueller@planetexpress.com
+userPassword: Lia
+ou: OtherGroup
+uid: 3065
+ Q==

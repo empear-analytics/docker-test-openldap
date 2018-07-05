@@ -1,0 +1,13 @@
+dn: cn=Kristle+sn=Sheffo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kristle Sheffo
+cn: Sheffo
+givenname: Kristle
+mail: kristle.sheffo@planetexpress.com
+userPassword: Kristle
+ou: OtherGroup
+uid: 1659
+ Q==

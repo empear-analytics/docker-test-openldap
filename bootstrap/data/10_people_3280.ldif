@@ -1,0 +1,13 @@
+dn: cn=Yuonne+sn=Bumpers,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yuonne Bumpers
+cn: Bumpers
+givenname: Yuonne
+mail: yuonne.bumpers@planetexpress.com
+userPassword: Yuonne
+ou: flight_crew
+uid: 3280
+ Q==

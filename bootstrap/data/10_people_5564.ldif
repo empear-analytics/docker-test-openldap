@@ -1,0 +1,13 @@
+dn: cn=Artie+sn=Benzango,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Artie Benzango
+cn: Benzango
+givenname: Artie
+mail: artie.benzango@planetexpress.com
+userPassword: Artie
+ou: OtherGroup
+uid: 5564
+ Q==

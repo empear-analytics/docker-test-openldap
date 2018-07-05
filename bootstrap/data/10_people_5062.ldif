@@ -1,0 +1,13 @@
+dn: cn=Annabel+sn=Salek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annabel Salek
+cn: Salek
+givenname: Annabel
+mail: annabel.salek@planetexpress.com
+userPassword: Annabel
+ou: OtherGroup
+uid: 5062
+ Q==

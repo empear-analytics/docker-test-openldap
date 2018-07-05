@@ -1,0 +1,13 @@
+dn: cn=Johnnie+sn=Ferrufino,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Johnnie Ferrufino
+cn: Ferrufino
+givenname: Johnnie
+mail: johnnie.ferrufino@planetexpress.com
+userPassword: Johnnie
+ou: admin_staff
+uid: 2076
+ Q==

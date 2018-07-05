@@ -1,0 +1,13 @@
+dn: cn=Jeanette+sn=Goldner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeanette Goldner
+cn: Goldner
+givenname: Jeanette
+mail: jeanette.goldner@planetexpress.com
+userPassword: Jeanette
+ou: OtherGroup
+uid: 3207
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Venice+sn=Covarrubio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Venice Covarrubio
+cn: Covarrubio
+givenname: Venice
+mail: venice.covarrubio@planetexpress.com
+userPassword: Venice
+ou: admin_staff
+uid: 512
+ Q==

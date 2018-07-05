@@ -1,0 +1,13 @@
+dn: cn=Aracelis+sn=Hallet,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aracelis Hallet
+cn: Hallet
+givenname: Aracelis
+mail: aracelis.hallet@planetexpress.com
+userPassword: Aracelis
+ou: Group5
+uid: 1369
+ Q==

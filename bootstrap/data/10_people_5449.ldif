@@ -1,0 +1,13 @@
+dn: cn=Roger+sn=Soeder,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roger Soeder
+cn: Soeder
+givenname: Roger
+mail: roger.soeder@planetexpress.com
+userPassword: Roger
+ou: flight_crew
+uid: 5449
+ Q==

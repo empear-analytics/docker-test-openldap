@@ -1,0 +1,13 @@
+dn: cn=Carrol+sn=Cluxton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carrol Cluxton
+cn: Cluxton
+givenname: Carrol
+mail: carrol.cluxton@planetexpress.com
+userPassword: Carrol
+ou: Group5
+uid: 4352
+ Q==

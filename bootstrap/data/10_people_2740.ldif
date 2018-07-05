@@ -1,0 +1,13 @@
+dn: cn=Nikita+sn=Mikolajczyk,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nikita Mikolajczyk
+cn: Mikolajczyk
+givenname: Nikita
+mail: nikita.mikolajczyk@planetexpress.com
+userPassword: Nikita
+ou: Group5
+uid: 2740
+ Q==

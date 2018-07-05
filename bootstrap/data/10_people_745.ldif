@@ -1,0 +1,13 @@
+dn: cn=Refugio+sn=Boots,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Refugio Boots
+cn: Boots
+givenname: Refugio
+mail: refugio.boots@planetexpress.com
+userPassword: Refugio
+ou: OtherGroup
+uid: 745
+ Q==

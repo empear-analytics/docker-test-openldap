@@ -1,0 +1,13 @@
+dn: cn=Jamaal+sn=Brus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamaal Brus
+cn: Brus
+givenname: Jamaal
+mail: jamaal.brus@planetexpress.com
+userPassword: Jamaal
+ou: admin_staff
+uid: 3820
+ Q==

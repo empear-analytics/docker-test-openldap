@@ -1,0 +1,13 @@
+dn: cn=Therese+sn=Maddux,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Therese Maddux
+cn: Maddux
+givenname: Therese
+mail: therese.maddux@planetexpress.com
+userPassword: Therese
+ou: Group5
+uid: 2203
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Earleen+sn=Nighbert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Earleen Nighbert
+cn: Nighbert
+givenname: Earleen
+mail: earleen.nighbert@planetexpress.com
+userPassword: Earleen
+ou: OtherGroup
+uid: 1697
+ Q==

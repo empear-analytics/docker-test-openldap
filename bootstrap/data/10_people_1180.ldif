@@ -1,0 +1,13 @@
+dn: cn=Tanya+sn=Rodewald,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tanya Rodewald
+cn: Rodewald
+givenname: Tanya
+mail: tanya.rodewald@planetexpress.com
+userPassword: Tanya
+ou: flight_crew
+uid: 1180
+ Q==

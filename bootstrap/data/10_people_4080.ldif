@@ -1,0 +1,13 @@
+dn: cn=Fernande+sn=Seney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fernande Seney
+cn: Seney
+givenname: Fernande
+mail: fernande.seney@planetexpress.com
+userPassword: Fernande
+ou: flight_crew
+uid: 4080
+ Q==

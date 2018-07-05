@@ -1,0 +1,13 @@
+dn: cn=Magda+sn=Costlow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Magda Costlow
+cn: Costlow
+givenname: Magda
+mail: magda.costlow@planetexpress.com
+userPassword: Magda
+ou: OtherGroup
+uid: 1541
+ Q==

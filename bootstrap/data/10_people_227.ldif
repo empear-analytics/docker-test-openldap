@@ -1,0 +1,13 @@
+dn: cn=Marcene+sn=Dahlgren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marcene Dahlgren
+cn: Dahlgren
+givenname: Marcene
+mail: marcene.dahlgren@planetexpress.com
+userPassword: Marcene
+ou: admin_staff
+uid: 227
+ Q==

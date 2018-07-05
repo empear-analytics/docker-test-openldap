@@ -1,0 +1,13 @@
+dn: cn=Mercy+sn=Amble,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mercy Amble
+cn: Amble
+givenname: Mercy
+mail: mercy.amble@planetexpress.com
+userPassword: Mercy
+ou: admin_staff
+uid: 697
+ Q==

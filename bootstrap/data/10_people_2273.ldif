@@ -1,0 +1,13 @@
+dn: cn=Vincenzo+sn=Pinter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vincenzo Pinter
+cn: Pinter
+givenname: Vincenzo
+mail: vincenzo.pinter@planetexpress.com
+userPassword: Vincenzo
+ou: Group5
+uid: 2273
+ Q==

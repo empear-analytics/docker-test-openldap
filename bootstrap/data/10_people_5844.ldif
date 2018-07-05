@@ -1,0 +1,13 @@
+dn: cn=Gaye+sn=Bagi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gaye Bagi
+cn: Bagi
+givenname: Gaye
+mail: gaye.bagi@planetexpress.com
+userPassword: Gaye
+ou: flight_crew
+uid: 5844
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Marilee+sn=Mendia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marilee Mendia
+cn: Mendia
+givenname: Marilee
+mail: marilee.mendia@planetexpress.com
+userPassword: Marilee
+ou: OtherGroup
+uid: 1803
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Marjory+sn=Rekuc,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marjory Rekuc
+cn: Rekuc
+givenname: Marjory
+mail: marjory.rekuc@planetexpress.com
+userPassword: Marjory
+ou: Group5
+uid: 5004
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Marlin+sn=Helson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marlin Helson
+cn: Helson
+givenname: Marlin
+mail: marlin.helson@planetexpress.com
+userPassword: Marlin
+ou: Group5
+uid: 2006
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Kate+sn=Cristelli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kate Cristelli
+cn: Cristelli
+givenname: Kate
+mail: kate.cristelli@planetexpress.com
+userPassword: Kate
+ou: flight_crew
+uid: 4262
+ Q==

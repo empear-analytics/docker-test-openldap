@@ -1,0 +1,13 @@
+dn: cn=Micah+sn=Halward,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Micah Halward
+cn: Halward
+givenname: Micah
+mail: micah.halward@planetexpress.com
+userPassword: Micah
+ou: OtherGroup
+uid: 296
+ Q==

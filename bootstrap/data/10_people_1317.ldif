@@ -1,0 +1,13 @@
+dn: cn=Maxie+sn=Wykoff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maxie Wykoff
+cn: Wykoff
+givenname: Maxie
+mail: maxie.wykoff@planetexpress.com
+userPassword: Maxie
+ou: flight_crew
+uid: 1317
+ Q==

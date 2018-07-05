@@ -1,0 +1,13 @@
+dn: cn=Angella+sn=Washmuth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angella Washmuth
+cn: Washmuth
+givenname: Angella
+mail: angella.washmuth@planetexpress.com
+userPassword: Angella
+ou: admin_staff
+uid: 1126
+ Q==

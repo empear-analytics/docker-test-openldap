@@ -1,0 +1,13 @@
+dn: cn=Emerson+sn=Kampfer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emerson Kampfer
+cn: Kampfer
+givenname: Emerson
+mail: emerson.kampfer@planetexpress.com
+userPassword: Emerson
+ou: flight_crew
+uid: 2100
+ Q==

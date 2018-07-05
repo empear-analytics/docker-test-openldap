@@ -1,0 +1,13 @@
+dn: cn=Regan+sn=Goodpasture,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Regan Goodpasture
+cn: Goodpasture
+givenname: Regan
+mail: regan.goodpasture@planetexpress.com
+userPassword: Regan
+ou: admin_staff
+uid: 615
+ Q==

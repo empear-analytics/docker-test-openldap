@@ -1,0 +1,13 @@
+dn: cn=Enriqueta+sn=Sustar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Enriqueta Sustar
+cn: Sustar
+givenname: Enriqueta
+mail: enriqueta.sustar@planetexpress.com
+userPassword: Enriqueta
+ou: flight_crew
+uid: 4479
+ Q==

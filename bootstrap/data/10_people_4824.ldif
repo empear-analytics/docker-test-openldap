@@ -1,0 +1,13 @@
+dn: cn=Gregory+sn=Searer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gregory Searer
+cn: Searer
+givenname: Gregory
+mail: gregory.searer@planetexpress.com
+userPassword: Gregory
+ou: flight_crew
+uid: 4824
+ Q==

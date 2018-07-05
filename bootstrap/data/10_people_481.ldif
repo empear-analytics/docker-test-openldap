@@ -1,0 +1,13 @@
+dn: cn=Minda+sn=Parrotte,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Minda Parrotte
+cn: Parrotte
+givenname: Minda
+mail: minda.parrotte@planetexpress.com
+userPassword: Minda
+ou: Group5
+uid: 481
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Rafael+sn=Stremlow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rafael Stremlow
+cn: Stremlow
+givenname: Rafael
+mail: rafael.stremlow@planetexpress.com
+userPassword: Rafael
+ou: OtherGroup
+uid: 3388
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Mickie+sn=Philen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mickie Philen
+cn: Philen
+givenname: Mickie
+mail: mickie.philen@planetexpress.com
+userPassword: Mickie
+ou: flight_crew
+uid: 5769
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Deonna+sn=Delapuente,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Deonna Delapuente
+cn: Delapuente
+givenname: Deonna
+mail: deonna.delapuente@planetexpress.com
+userPassword: Deonna
+ou: flight_crew
+uid: 888
+ Q==

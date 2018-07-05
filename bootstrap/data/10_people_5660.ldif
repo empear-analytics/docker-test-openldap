@@ -1,0 +1,13 @@
+dn: cn=Monty+sn=Pitsch,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Monty Pitsch
+cn: Pitsch
+givenname: Monty
+mail: monty.pitsch@planetexpress.com
+userPassword: Monty
+ou: flight_crew
+uid: 5660
+ Q==

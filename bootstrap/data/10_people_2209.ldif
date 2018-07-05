@@ -1,0 +1,13 @@
+dn: cn=Audra+sn=Desautelle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Audra Desautelle
+cn: Desautelle
+givenname: Audra
+mail: audra.desautelle@planetexpress.com
+userPassword: Audra
+ou: flight_crew
+uid: 2209
+ Q==

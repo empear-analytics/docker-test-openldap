@@ -1,0 +1,13 @@
+dn: cn=Seymour+sn=Puccetti,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Seymour Puccetti
+cn: Puccetti
+givenname: Seymour
+mail: seymour.puccetti@planetexpress.com
+userPassword: Seymour
+ou: admin_staff
+uid: 1856
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Delila+sn=Cimo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delila Cimo
+cn: Cimo
+givenname: Delila
+mail: delila.cimo@planetexpress.com
+userPassword: Delila
+ou: OtherGroup
+uid: 5889
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Edra+sn=Cagle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Edra Cagle
+cn: Cagle
+givenname: Edra
+mail: edra.cagle@planetexpress.com
+userPassword: Edra
+ou: admin_staff
+uid: 1102
+ Q==

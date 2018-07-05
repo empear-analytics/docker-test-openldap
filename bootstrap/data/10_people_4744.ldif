@@ -1,0 +1,13 @@
+dn: cn=Jose+sn=Shadley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jose Shadley
+cn: Shadley
+givenname: Jose
+mail: jose.shadley@planetexpress.com
+userPassword: Jose
+ou: Group5
+uid: 4744
+ Q==

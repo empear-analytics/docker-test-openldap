@@ -1,0 +1,13 @@
+dn: cn=Gwyn+sn=Munder,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gwyn Munder
+cn: Munder
+givenname: Gwyn
+mail: gwyn.munder@planetexpress.com
+userPassword: Gwyn
+ou: OtherGroup
+uid: 1129
+ Q==

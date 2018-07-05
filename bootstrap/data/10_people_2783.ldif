@@ -1,0 +1,13 @@
+dn: cn=Amal+sn=Lintner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Amal Lintner
+cn: Lintner
+givenname: Amal
+mail: amal.lintner@planetexpress.com
+userPassword: Amal
+ou: admin_staff
+uid: 2783
+ Q==

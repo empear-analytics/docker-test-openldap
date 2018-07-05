@@ -1,0 +1,13 @@
+dn: cn=Inge+sn=Penaz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Inge Penaz
+cn: Penaz
+givenname: Inge
+mail: inge.penaz@planetexpress.com
+userPassword: Inge
+ou: Group5
+uid: 3505
+ Q==

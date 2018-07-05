@@ -1,0 +1,13 @@
+dn: cn=Alexis+sn=Schwallie,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alexis Schwallie
+cn: Schwallie
+givenname: Alexis
+mail: alexis.schwallie@planetexpress.com
+userPassword: Alexis
+ou: admin_staff
+uid: 2563
+ Q==

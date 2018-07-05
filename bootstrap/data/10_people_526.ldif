@@ -1,0 +1,13 @@
+dn: cn=Melodi+sn=Nembhard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melodi Nembhard
+cn: Nembhard
+givenname: Melodi
+mail: melodi.nembhard@planetexpress.com
+userPassword: Melodi
+ou: OtherGroup
+uid: 526
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Latasha+sn=Wiegman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Latasha Wiegman
+cn: Wiegman
+givenname: Latasha
+mail: latasha.wiegman@planetexpress.com
+userPassword: Latasha
+ou: OtherGroup
+uid: 1034
+ Q==

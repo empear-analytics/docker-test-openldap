@@ -1,0 +1,13 @@
+dn: cn=Milton+sn=Froese,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Milton Froese
+cn: Froese
+givenname: Milton
+mail: milton.froese@planetexpress.com
+userPassword: Milton
+ou: Group5
+uid: 5654
+ Q==

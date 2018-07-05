@@ -1,0 +1,13 @@
+dn: cn=Katheleen+sn=Ouye,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katheleen Ouye
+cn: Ouye
+givenname: Katheleen
+mail: katheleen.ouye@planetexpress.com
+userPassword: Katheleen
+ou: Group5
+uid: 2311
+ Q==

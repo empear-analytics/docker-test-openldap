@@ -1,0 +1,13 @@
+dn: cn=Mark+sn=Fowlar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mark Fowlar
+cn: Fowlar
+givenname: Mark
+mail: mark.fowlar@planetexpress.com
+userPassword: Mark
+ou: Group5
+uid: 136
+ Q==

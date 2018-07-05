@@ -1,0 +1,13 @@
+dn: cn=Andria+sn=Nezat,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Andria Nezat
+cn: Nezat
+givenname: Andria
+mail: andria.nezat@planetexpress.com
+userPassword: Andria
+ou: OtherGroup
+uid: 737
+ Q==

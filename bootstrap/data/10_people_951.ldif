@@ -1,0 +1,13 @@
+dn: cn=Tora+sn=Vuong,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tora Vuong
+cn: Vuong
+givenname: Tora
+mail: tora.vuong@planetexpress.com
+userPassword: Tora
+ou: admin_staff
+uid: 951
+ Q==

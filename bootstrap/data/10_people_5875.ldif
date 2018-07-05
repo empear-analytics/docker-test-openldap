@@ -1,0 +1,13 @@
+dn: cn=Cindy+sn=Praley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cindy Praley
+cn: Praley
+givenname: Cindy
+mail: cindy.praley@planetexpress.com
+userPassword: Cindy
+ou: OtherGroup
+uid: 5875
+ Q==

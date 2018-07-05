@@ -1,0 +1,13 @@
+dn: cn=Julius+sn=Cuneio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Julius Cuneio
+cn: Cuneio
+givenname: Julius
+mail: julius.cuneio@planetexpress.com
+userPassword: Julius
+ou: flight_crew
+uid: 3141
+ Q==

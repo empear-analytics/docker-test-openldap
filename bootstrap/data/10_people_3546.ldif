@@ -1,0 +1,13 @@
+dn: cn=Fabiola+sn=Traher,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fabiola Traher
+cn: Traher
+givenname: Fabiola
+mail: fabiola.traher@planetexpress.com
+userPassword: Fabiola
+ou: flight_crew
+uid: 3546
+ Q==

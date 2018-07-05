@@ -1,0 +1,13 @@
+dn: cn=Burl+sn=Spilski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Burl Spilski
+cn: Spilski
+givenname: Burl
+mail: burl.spilski@planetexpress.com
+userPassword: Burl
+ou: Group5
+uid: 931
+ Q==

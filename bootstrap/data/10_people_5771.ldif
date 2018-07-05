@@ -1,0 +1,13 @@
+dn: cn=Darron+sn=Kansky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darron Kansky
+cn: Kansky
+givenname: Darron
+mail: darron.kansky@planetexpress.com
+userPassword: Darron
+ou: Group5
+uid: 5771
+ Q==

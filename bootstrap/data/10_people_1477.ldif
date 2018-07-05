@@ -1,0 +1,13 @@
+dn: cn=Shakira+sn=Curcuru,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shakira Curcuru
+cn: Curcuru
+givenname: Shakira
+mail: shakira.curcuru@planetexpress.com
+userPassword: Shakira
+ou: Group5
+uid: 1477
+ Q==

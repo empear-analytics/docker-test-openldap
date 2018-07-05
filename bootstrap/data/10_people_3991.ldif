@@ -1,0 +1,13 @@
+dn: cn=Brenton+sn=Lagrotta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brenton Lagrotta
+cn: Lagrotta
+givenname: Brenton
+mail: brenton.lagrotta@planetexpress.com
+userPassword: Brenton
+ou: Group5
+uid: 3991
+ Q==

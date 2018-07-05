@@ -1,0 +1,13 @@
+dn: cn=Jeannette+sn=Bonamo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeannette Bonamo
+cn: Bonamo
+givenname: Jeannette
+mail: jeannette.bonamo@planetexpress.com
+userPassword: Jeannette
+ou: admin_staff
+uid: 1408
+ Q==

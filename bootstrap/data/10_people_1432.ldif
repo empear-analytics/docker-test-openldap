@@ -1,0 +1,13 @@
+dn: cn=Sherita+sn=Hilson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherita Hilson
+cn: Hilson
+givenname: Sherita
+mail: sherita.hilson@planetexpress.com
+userPassword: Sherita
+ou: admin_staff
+uid: 1432
+ Q==

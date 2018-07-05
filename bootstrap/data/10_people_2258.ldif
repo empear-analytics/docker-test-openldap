@@ -1,0 +1,13 @@
+dn: cn=Ethyl+sn=Moler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ethyl Moler
+cn: Moler
+givenname: Ethyl
+mail: ethyl.moler@planetexpress.com
+userPassword: Ethyl
+ou: flight_crew
+uid: 2258
+ Q==

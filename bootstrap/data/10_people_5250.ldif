@@ -1,0 +1,13 @@
+dn: cn=Davina+sn=Beauregard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Davina Beauregard
+cn: Beauregard
+givenname: Davina
+mail: davina.beauregard@planetexpress.com
+userPassword: Davina
+ou: flight_crew
+uid: 5250
+ Q==

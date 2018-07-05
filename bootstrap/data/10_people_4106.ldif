@@ -1,0 +1,13 @@
+dn: cn=Elliott+sn=Berget,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elliott Berget
+cn: Berget
+givenname: Elliott
+mail: elliott.berget@planetexpress.com
+userPassword: Elliott
+ou: admin_staff
+uid: 4106
+ Q==

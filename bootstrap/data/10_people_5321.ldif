@@ -1,0 +1,13 @@
+dn: cn=Victoria+sn=Boughan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Victoria Boughan
+cn: Boughan
+givenname: Victoria
+mail: victoria.boughan@planetexpress.com
+userPassword: Victoria
+ou: OtherGroup
+uid: 5321
+ Q==

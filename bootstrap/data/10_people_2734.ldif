@@ -1,0 +1,13 @@
+dn: cn=Preston+sn=Cassisse,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Preston Cassisse
+cn: Cassisse
+givenname: Preston
+mail: preston.cassisse@planetexpress.com
+userPassword: Preston
+ou: flight_crew
+uid: 2734
+ Q==

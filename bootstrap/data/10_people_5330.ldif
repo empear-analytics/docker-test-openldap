@@ -1,0 +1,13 @@
+dn: cn=Derrick+sn=Mcfarland,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Derrick Mcfarland
+cn: Mcfarland
+givenname: Derrick
+mail: derrick.mcfarland@planetexpress.com
+userPassword: Derrick
+ou: flight_crew
+uid: 5330
+ Q==

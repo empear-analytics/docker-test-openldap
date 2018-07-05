@@ -1,0 +1,13 @@
+dn: cn=Mckenzie+sn=Waisanen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mckenzie Waisanen
+cn: Waisanen
+givenname: Mckenzie
+mail: mckenzie.waisanen@planetexpress.com
+userPassword: Mckenzie
+ou: flight_crew
+uid: 5047
+ Q==

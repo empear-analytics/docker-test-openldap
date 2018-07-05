@@ -1,0 +1,13 @@
+dn: cn=Marybelle+sn=Tworek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marybelle Tworek
+cn: Tworek
+givenname: Marybelle
+mail: marybelle.tworek@planetexpress.com
+userPassword: Marybelle
+ou: flight_crew
+uid: 592
+ Q==

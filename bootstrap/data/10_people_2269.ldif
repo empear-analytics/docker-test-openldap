@@ -1,0 +1,13 @@
+dn: cn=Isaac+sn=Trull,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Isaac Trull
+cn: Trull
+givenname: Isaac
+mail: isaac.trull@planetexpress.com
+userPassword: Isaac
+ou: OtherGroup
+uid: 2269
+ Q==

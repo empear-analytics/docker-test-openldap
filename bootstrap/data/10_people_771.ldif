@@ -1,0 +1,13 @@
+dn: cn=Shandi+sn=Bettle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shandi Bettle
+cn: Bettle
+givenname: Shandi
+mail: shandi.bettle@planetexpress.com
+userPassword: Shandi
+ou: flight_crew
+uid: 771
+ Q==

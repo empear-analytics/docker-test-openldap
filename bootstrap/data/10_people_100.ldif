@@ -1,0 +1,13 @@
+dn: cn=Mayola+sn=Lifland,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mayola Lifland
+cn: Lifland
+givenname: Mayola
+mail: mayola.lifland@planetexpress.com
+userPassword: Mayola
+ou: admin_staff
+uid: 100
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Francine+sn=Dearmore,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Francine Dearmore
+cn: Dearmore
+givenname: Francine
+mail: francine.dearmore@planetexpress.com
+userPassword: Francine
+ou: admin_staff
+uid: 5806
+ Q==

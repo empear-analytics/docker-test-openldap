@@ -1,0 +1,13 @@
+dn: cn=Nona+sn=Booher,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nona Booher
+cn: Booher
+givenname: Nona
+mail: nona.booher@planetexpress.com
+userPassword: Nona
+ou: Group5
+uid: 5487
+ Q==

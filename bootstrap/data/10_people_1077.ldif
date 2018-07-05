@@ -1,0 +1,13 @@
+dn: cn=Virgina+sn=Bugay,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Virgina Bugay
+cn: Bugay
+givenname: Virgina
+mail: virgina.bugay@planetexpress.com
+userPassword: Virgina
+ou: OtherGroup
+uid: 1077
+ Q==

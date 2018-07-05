@@ -1,0 +1,13 @@
+dn: cn=Lanette+sn=Blegen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lanette Blegen
+cn: Blegen
+givenname: Lanette
+mail: lanette.blegen@planetexpress.com
+userPassword: Lanette
+ou: admin_staff
+uid: 675
+ Q==

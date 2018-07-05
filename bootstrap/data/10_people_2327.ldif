@@ -1,0 +1,13 @@
+dn: cn=Sean+sn=Mentzel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sean Mentzel
+cn: Mentzel
+givenname: Sean
+mail: sean.mentzel@planetexpress.com
+userPassword: Sean
+ou: Group5
+uid: 2327
+ Q==

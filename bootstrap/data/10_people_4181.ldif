@@ -1,0 +1,13 @@
+dn: cn=Khadijah+sn=Kuhlo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Khadijah Kuhlo
+cn: Kuhlo
+givenname: Khadijah
+mail: khadijah.kuhlo@planetexpress.com
+userPassword: Khadijah
+ou: flight_crew
+uid: 4181
+ Q==

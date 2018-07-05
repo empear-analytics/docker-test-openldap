@@ -1,0 +1,13 @@
+dn: cn=Merlene+sn=Sloman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Merlene Sloman
+cn: Sloman
+givenname: Merlene
+mail: merlene.sloman@planetexpress.com
+userPassword: Merlene
+ou: Group5
+uid: 2081
+ Q==

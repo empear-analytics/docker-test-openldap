@@ -1,0 +1,13 @@
+dn: cn=Eladia+sn=Nesselrodt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eladia Nesselrodt
+cn: Nesselrodt
+givenname: Eladia
+mail: eladia.nesselrodt@planetexpress.com
+userPassword: Eladia
+ou: admin_staff
+uid: 5808
+ Q==

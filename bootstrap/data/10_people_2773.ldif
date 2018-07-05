@@ -1,0 +1,13 @@
+dn: cn=Carole+sn=Minnehan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carole Minnehan
+cn: Minnehan
+givenname: Carole
+mail: carole.minnehan@planetexpress.com
+userPassword: Carole
+ou: OtherGroup
+uid: 2773
+ Q==

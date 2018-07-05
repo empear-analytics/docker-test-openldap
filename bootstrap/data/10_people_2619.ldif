@@ -1,0 +1,13 @@
+dn: cn=Junior+sn=Orpen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Junior Orpen
+cn: Orpen
+givenname: Junior
+mail: junior.orpen@planetexpress.com
+userPassword: Junior
+ou: Group5
+uid: 2619
+ Q==

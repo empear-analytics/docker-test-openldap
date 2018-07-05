@@ -1,0 +1,13 @@
+dn: cn=Debora+sn=Mosseri,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Debora Mosseri
+cn: Mosseri
+givenname: Debora
+mail: debora.mosseri@planetexpress.com
+userPassword: Debora
+ou: flight_crew
+uid: 4466
+ Q==

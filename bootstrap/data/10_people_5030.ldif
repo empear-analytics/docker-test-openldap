@@ -1,0 +1,13 @@
+dn: cn=Tony+sn=Elliem,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tony Elliem
+cn: Elliem
+givenname: Tony
+mail: tony.elliem@planetexpress.com
+userPassword: Tony
+ou: flight_crew
+uid: 5030
+ Q==

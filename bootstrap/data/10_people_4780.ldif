@@ -1,0 +1,13 @@
+dn: cn=Vincenza+sn=Skartvedt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vincenza Skartvedt
+cn: Skartvedt
+givenname: Vincenza
+mail: vincenza.skartvedt@planetexpress.com
+userPassword: Vincenza
+ou: Group5
+uid: 4780
+ Q==

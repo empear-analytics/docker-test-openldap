@@ -1,0 +1,13 @@
+dn: cn=Kiesha+sn=Nothnagel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kiesha Nothnagel
+cn: Nothnagel
+givenname: Kiesha
+mail: kiesha.nothnagel@planetexpress.com
+userPassword: Kiesha
+ou: Group5
+uid: 3102
+ Q==

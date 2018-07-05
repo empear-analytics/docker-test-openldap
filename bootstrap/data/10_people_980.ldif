@@ -1,0 +1,13 @@
+dn: cn=Theron+sn=Kromm,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Theron Kromm
+cn: Kromm
+givenname: Theron
+mail: theron.kromm@planetexpress.com
+userPassword: Theron
+ou: admin_staff
+uid: 980
+ Q==

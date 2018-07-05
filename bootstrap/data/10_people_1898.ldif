@@ -1,0 +1,13 @@
+dn: cn=Elwood+sn=Crookshank,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elwood Crookshank
+cn: Crookshank
+givenname: Elwood
+mail: elwood.crookshank@planetexpress.com
+userPassword: Elwood
+ou: OtherGroup
+uid: 1898
+ Q==

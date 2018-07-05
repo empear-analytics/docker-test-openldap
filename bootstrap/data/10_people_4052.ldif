@@ -1,0 +1,13 @@
+dn: cn=Shanita+sn=Bub,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shanita Bub
+cn: Bub
+givenname: Shanita
+mail: shanita.bub@planetexpress.com
+userPassword: Shanita
+ou: OtherGroup
+uid: 4052
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Cecelia+sn=Dollahite,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cecelia Dollahite
+cn: Dollahite
+givenname: Cecelia
+mail: cecelia.dollahite@planetexpress.com
+userPassword: Cecelia
+ou: admin_staff
+uid: 5061
+ Q==

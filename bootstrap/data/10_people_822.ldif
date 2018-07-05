@@ -1,0 +1,13 @@
+dn: cn=Lorrie+sn=Reagle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lorrie Reagle
+cn: Reagle
+givenname: Lorrie
+mail: lorrie.reagle@planetexpress.com
+userPassword: Lorrie
+ou: flight_crew
+uid: 822
+ Q==

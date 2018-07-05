@@ -1,0 +1,13 @@
+dn: cn=Adrian+sn=Yelvington,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adrian Yelvington
+cn: Yelvington
+givenname: Adrian
+mail: adrian.yelvington@planetexpress.com
+userPassword: Adrian
+ou: OtherGroup
+uid: 5212
+ Q==

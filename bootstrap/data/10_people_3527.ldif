@@ -1,0 +1,13 @@
+dn: cn=Ewa+sn=Rissell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ewa Rissell
+cn: Rissell
+givenname: Ewa
+mail: ewa.rissell@planetexpress.com
+userPassword: Ewa
+ou: flight_crew
+uid: 3527
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Aurea+sn=Maysonet,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aurea Maysonet
+cn: Maysonet
+givenname: Aurea
+mail: aurea.maysonet@planetexpress.com
+userPassword: Aurea
+ou: OtherGroup
+uid: 2453
+ Q==

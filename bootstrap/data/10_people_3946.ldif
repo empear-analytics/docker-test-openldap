@@ -1,0 +1,13 @@
+dn: cn=Ellena+sn=Tolve,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ellena Tolve
+cn: Tolve
+givenname: Ellena
+mail: ellena.tolve@planetexpress.com
+userPassword: Ellena
+ou: Group5
+uid: 3946
+ Q==

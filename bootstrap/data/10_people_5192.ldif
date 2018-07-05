@@ -1,0 +1,13 @@
+dn: cn=Hailey+sn=Fierge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hailey Fierge
+cn: Fierge
+givenname: Hailey
+mail: hailey.fierge@planetexpress.com
+userPassword: Hailey
+ou: OtherGroup
+uid: 5192
+ Q==

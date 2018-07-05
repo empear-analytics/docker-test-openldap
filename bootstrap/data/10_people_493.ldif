@@ -1,0 +1,13 @@
+dn: cn=Verona+sn=Laffey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Verona Laffey
+cn: Laffey
+givenname: Verona
+mail: verona.laffey@planetexpress.com
+userPassword: Verona
+ou: Group5
+uid: 493
+ Q==

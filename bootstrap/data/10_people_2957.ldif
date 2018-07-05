@@ -1,0 +1,13 @@
+dn: cn=Mirna+sn=Dill,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mirna Dill
+cn: Dill
+givenname: Mirna
+mail: mirna.dill@planetexpress.com
+userPassword: Mirna
+ou: Group5
+uid: 2957
+ Q==

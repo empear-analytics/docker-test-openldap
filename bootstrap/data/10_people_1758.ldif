@@ -1,0 +1,13 @@
+dn: cn=Charita+sn=Rondinelli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Charita Rondinelli
+cn: Rondinelli
+givenname: Charita
+mail: charita.rondinelli@planetexpress.com
+userPassword: Charita
+ou: Group5
+uid: 1758
+ Q==

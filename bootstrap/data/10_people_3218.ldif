@@ -1,0 +1,13 @@
+dn: cn=Lorenza+sn=Gentges,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lorenza Gentges
+cn: Gentges
+givenname: Lorenza
+mail: lorenza.gentges@planetexpress.com
+userPassword: Lorenza
+ou: Group5
+uid: 3218
+ Q==

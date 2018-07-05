@@ -1,0 +1,13 @@
+dn: cn=Lora+sn=Tillberry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lora Tillberry
+cn: Tillberry
+givenname: Lora
+mail: lora.tillberry@planetexpress.com
+userPassword: Lora
+ou: admin_staff
+uid: 2921
+ Q==

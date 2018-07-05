@@ -1,0 +1,13 @@
+dn: cn=Devin+sn=Pullus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Devin Pullus
+cn: Pullus
+givenname: Devin
+mail: devin.pullus@planetexpress.com
+userPassword: Devin
+ou: Group5
+uid: 5548
+ Q==

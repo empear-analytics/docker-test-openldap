@@ -1,0 +1,13 @@
+dn: cn=Yetta+sn=Westrich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yetta Westrich
+cn: Westrich
+givenname: Yetta
+mail: yetta.westrich@planetexpress.com
+userPassword: Yetta
+ou: admin_staff
+uid: 5053
+ Q==

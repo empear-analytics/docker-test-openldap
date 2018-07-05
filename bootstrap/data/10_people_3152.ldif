@@ -1,0 +1,13 @@
+dn: cn=Hal+sn=Algier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hal Algier
+cn: Algier
+givenname: Hal
+mail: hal.algier@planetexpress.com
+userPassword: Hal
+ou: Group5
+uid: 3152
+ Q==

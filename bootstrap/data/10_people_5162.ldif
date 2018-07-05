@@ -1,0 +1,13 @@
+dn: cn=Marlo+sn=Pettinella,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marlo Pettinella
+cn: Pettinella
+givenname: Marlo
+mail: marlo.pettinella@planetexpress.com
+userPassword: Marlo
+ou: OtherGroup
+uid: 5162
+ Q==

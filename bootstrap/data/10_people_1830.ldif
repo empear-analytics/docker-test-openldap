@@ -1,0 +1,13 @@
+dn: cn=Tilda+sn=Bizcassa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tilda Bizcassa
+cn: Bizcassa
+givenname: Tilda
+mail: tilda.bizcassa@planetexpress.com
+userPassword: Tilda
+ou: admin_staff
+uid: 1830
+ Q==

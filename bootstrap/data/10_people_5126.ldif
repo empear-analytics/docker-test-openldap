@@ -1,0 +1,13 @@
+dn: cn=Song+sn=Wiland,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Song Wiland
+cn: Wiland
+givenname: Song
+mail: song.wiland@planetexpress.com
+userPassword: Song
+ou: OtherGroup
+uid: 5126
+ Q==

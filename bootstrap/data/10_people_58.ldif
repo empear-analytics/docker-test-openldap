@@ -1,0 +1,13 @@
+dn: cn=Lonnie+sn=Minckler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lonnie Minckler
+cn: Minckler
+givenname: Lonnie
+mail: lonnie.minckler@planetexpress.com
+userPassword: Lonnie
+ou: OtherGroup
+uid: 58
+ Q==

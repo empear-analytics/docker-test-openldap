@@ -1,0 +1,13 @@
+dn: cn=Garnet+sn=Bourget,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Garnet Bourget
+cn: Bourget
+givenname: Garnet
+mail: garnet.bourget@planetexpress.com
+userPassword: Garnet
+ou: flight_crew
+uid: 4725
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Adell+sn=Creglow,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Adell Creglow
+cn: Creglow
+givenname: Adell
+mail: adell.creglow@planetexpress.com
+userPassword: Adell
+ou: admin_staff
+uid: 4186
+ Q==

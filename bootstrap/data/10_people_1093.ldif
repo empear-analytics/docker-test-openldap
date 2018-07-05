@@ -1,0 +1,13 @@
+dn: cn=Aleshia+sn=Azzarella,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aleshia Azzarella
+cn: Azzarella
+givenname: Aleshia
+mail: aleshia.azzarella@planetexpress.com
+userPassword: Aleshia
+ou: Group5
+uid: 1093
+ Q==

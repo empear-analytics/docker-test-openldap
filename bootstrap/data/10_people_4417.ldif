@@ -1,0 +1,13 @@
+dn: cn=Lora+sn=Gatley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lora Gatley
+cn: Gatley
+givenname: Lora
+mail: lora.gatley@planetexpress.com
+userPassword: Lora
+ou: admin_staff
+uid: 4417
+ Q==

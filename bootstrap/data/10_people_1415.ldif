@@ -1,0 +1,13 @@
+dn: cn=Lon+sn=Massiah,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lon Massiah
+cn: Massiah
+givenname: Lon
+mail: lon.massiah@planetexpress.com
+userPassword: Lon
+ou: Group5
+uid: 1415
+ Q==

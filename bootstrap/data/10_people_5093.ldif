@@ -1,0 +1,13 @@
+dn: cn=Naida+sn=Ieng,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Naida Ieng
+cn: Ieng
+givenname: Naida
+mail: naida.ieng@planetexpress.com
+userPassword: Naida
+ou: admin_staff
+uid: 5093
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Eleonor+sn=Pagnozzi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eleonor Pagnozzi
+cn: Pagnozzi
+givenname: Eleonor
+mail: eleonor.pagnozzi@planetexpress.com
+userPassword: Eleonor
+ou: Group5
+uid: 5295
+ Q==

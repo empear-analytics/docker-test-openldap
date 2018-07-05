@@ -1,0 +1,13 @@
+dn: cn=Jan+sn=Girand,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jan Girand
+cn: Girand
+givenname: Jan
+mail: jan.girand@planetexpress.com
+userPassword: Jan
+ou: Group5
+uid: 774
+ Q==

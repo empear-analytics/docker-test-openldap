@@ -1,0 +1,13 @@
+dn: cn=Camelia+sn=Limburg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Camelia Limburg
+cn: Limburg
+givenname: Camelia
+mail: camelia.limburg@planetexpress.com
+userPassword: Camelia
+ou: Group5
+uid: 4081
+ Q==

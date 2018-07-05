@@ -1,0 +1,13 @@
+dn: cn=Lai+sn=Haerter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lai Haerter
+cn: Haerter
+givenname: Lai
+mail: lai.haerter@planetexpress.com
+userPassword: Lai
+ou: flight_crew
+uid: 827
+ Q==

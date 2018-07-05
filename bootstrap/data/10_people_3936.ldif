@@ -1,0 +1,13 @@
+dn: cn=Valda+sn=Banton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Valda Banton
+cn: Banton
+givenname: Valda
+mail: valda.banton@planetexpress.com
+userPassword: Valda
+ou: Group5
+uid: 3936
+ Q==

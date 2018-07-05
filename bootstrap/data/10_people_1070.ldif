@@ -1,0 +1,13 @@
+dn: cn=Dorthea+sn=Koogle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dorthea Koogle
+cn: Koogle
+givenname: Dorthea
+mail: dorthea.koogle@planetexpress.com
+userPassword: Dorthea
+ou: OtherGroup
+uid: 1070
+ Q==

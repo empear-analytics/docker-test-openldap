@@ -1,0 +1,13 @@
+dn: cn=Arianne+sn=Preuss,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arianne Preuss
+cn: Preuss
+givenname: Arianne
+mail: arianne.preuss@planetexpress.com
+userPassword: Arianne
+ou: OtherGroup
+uid: 5715
+ Q==

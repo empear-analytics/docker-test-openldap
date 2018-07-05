@@ -1,0 +1,13 @@
+dn: cn=Harry+sn=Deflorio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Harry Deflorio
+cn: Deflorio
+givenname: Harry
+mail: harry.deflorio@planetexpress.com
+userPassword: Harry
+ou: OtherGroup
+uid: 2958
+ Q==

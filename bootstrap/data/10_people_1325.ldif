@@ -1,0 +1,13 @@
+dn: cn=Leonore+sn=Leif,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leonore Leif
+cn: Leif
+givenname: Leonore
+mail: leonore.leif@planetexpress.com
+userPassword: Leonore
+ou: flight_crew
+uid: 1325
+ Q==

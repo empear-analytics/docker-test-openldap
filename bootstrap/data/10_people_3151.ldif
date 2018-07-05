@@ -1,0 +1,13 @@
+dn: cn=Fred+sn=Veneri,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fred Veneri
+cn: Veneri
+givenname: Fred
+mail: fred.veneri@planetexpress.com
+userPassword: Fred
+ou: admin_staff
+uid: 3151
+ Q==

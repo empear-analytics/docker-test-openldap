@@ -1,0 +1,13 @@
+dn: cn=Sherman+sn=Fowley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sherman Fowley
+cn: Fowley
+givenname: Sherman
+mail: sherman.fowley@planetexpress.com
+userPassword: Sherman
+ou: admin_staff
+uid: 500
+ Q==

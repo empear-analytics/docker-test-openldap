@@ -1,0 +1,13 @@
+dn: cn=Brian+sn=Schonaerts,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brian Schonaerts
+cn: Schonaerts
+givenname: Brian
+mail: brian.schonaerts@planetexpress.com
+userPassword: Brian
+ou: OtherGroup
+uid: 2259
+ Q==

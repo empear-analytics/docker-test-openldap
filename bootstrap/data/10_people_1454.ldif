@@ -1,0 +1,13 @@
+dn: cn=Vernice+sn=Pricer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vernice Pricer
+cn: Pricer
+givenname: Vernice
+mail: vernice.pricer@planetexpress.com
+userPassword: Vernice
+ou: flight_crew
+uid: 1454
+ Q==

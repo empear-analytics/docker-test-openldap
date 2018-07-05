@@ -1,0 +1,13 @@
+dn: cn=Palmira+sn=Parrilla,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Palmira Parrilla
+cn: Parrilla
+givenname: Palmira
+mail: palmira.parrilla@planetexpress.com
+userPassword: Palmira
+ou: OtherGroup
+uid: 1538
+ Q==

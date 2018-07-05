@@ -1,0 +1,13 @@
+dn: cn=Lacy+sn=Raif,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lacy Raif
+cn: Raif
+givenname: Lacy
+mail: lacy.raif@planetexpress.com
+userPassword: Lacy
+ou: OtherGroup
+uid: 2907
+ Q==

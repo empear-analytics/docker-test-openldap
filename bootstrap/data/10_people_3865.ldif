@@ -1,0 +1,13 @@
+dn: cn=Tristan+sn=Mungle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tristan Mungle
+cn: Mungle
+givenname: Tristan
+mail: tristan.mungle@planetexpress.com
+userPassword: Tristan
+ou: OtherGroup
+uid: 3865
+ Q==

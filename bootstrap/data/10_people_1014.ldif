@@ -1,0 +1,13 @@
+dn: cn=Kermit+sn=Wantuck,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kermit Wantuck
+cn: Wantuck
+givenname: Kermit
+mail: kermit.wantuck@planetexpress.com
+userPassword: Kermit
+ou: Group5
+uid: 1014
+ Q==

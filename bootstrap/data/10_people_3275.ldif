@@ -1,0 +1,13 @@
+dn: cn=Pasquale+sn=Sawyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pasquale Sawyer
+cn: Sawyer
+givenname: Pasquale
+mail: pasquale.sawyer@planetexpress.com
+userPassword: Pasquale
+ou: Group5
+uid: 3275
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Cecily+sn=Livsey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cecily Livsey
+cn: Livsey
+givenname: Cecily
+mail: cecily.livsey@planetexpress.com
+userPassword: Cecily
+ou: admin_staff
+uid: 4152
+ Q==

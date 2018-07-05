@@ -1,0 +1,13 @@
+dn: cn=Harry+sn=Fabrizio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Harry Fabrizio
+cn: Fabrizio
+givenname: Harry
+mail: harry.fabrizio@planetexpress.com
+userPassword: Harry
+ou: OtherGroup
+uid: 3905
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Annalee+sn=Tockey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Annalee Tockey
+cn: Tockey
+givenname: Annalee
+mail: annalee.tockey@planetexpress.com
+userPassword: Annalee
+ou: flight_crew
+uid: 933
+ Q==

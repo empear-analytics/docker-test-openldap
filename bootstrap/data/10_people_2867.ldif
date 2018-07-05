@@ -1,0 +1,13 @@
+dn: cn=Lizabeth+sn=Zaiser,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lizabeth Zaiser
+cn: Zaiser
+givenname: Lizabeth
+mail: lizabeth.zaiser@planetexpress.com
+userPassword: Lizabeth
+ou: admin_staff
+uid: 2867
+ Q==

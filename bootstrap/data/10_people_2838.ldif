@@ -1,0 +1,13 @@
+dn: cn=Vincent+sn=Schulke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Vincent Schulke
+cn: Schulke
+givenname: Vincent
+mail: vincent.schulke@planetexpress.com
+userPassword: Vincent
+ou: flight_crew
+uid: 2838
+ Q==

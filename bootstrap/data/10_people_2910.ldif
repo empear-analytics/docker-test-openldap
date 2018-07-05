@@ -1,0 +1,13 @@
+dn: cn=Leoma+sn=Temkin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leoma Temkin
+cn: Temkin
+givenname: Leoma
+mail: leoma.temkin@planetexpress.com
+userPassword: Leoma
+ou: flight_crew
+uid: 2910
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Rachal+sn=Paglia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rachal Paglia
+cn: Paglia
+givenname: Rachal
+mail: rachal.paglia@planetexpress.com
+userPassword: Rachal
+ou: Group5
+uid: 4349
+ Q==

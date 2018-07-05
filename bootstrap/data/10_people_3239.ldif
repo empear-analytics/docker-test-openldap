@@ -1,0 +1,13 @@
+dn: cn=Chanel+sn=Bonina,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chanel Bonina
+cn: Bonina
+givenname: Chanel
+mail: chanel.bonina@planetexpress.com
+userPassword: Chanel
+ou: admin_staff
+uid: 3239
+ Q==

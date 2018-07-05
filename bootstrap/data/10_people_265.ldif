@@ -1,0 +1,13 @@
+dn: cn=Rosia+sn=Engelking,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosia Engelking
+cn: Engelking
+givenname: Rosia
+mail: rosia.engelking@planetexpress.com
+userPassword: Rosia
+ou: admin_staff
+uid: 265
+ Q==

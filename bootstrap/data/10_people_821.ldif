@@ -1,0 +1,13 @@
+dn: cn=Agueda+sn=Shipwash,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Agueda Shipwash
+cn: Shipwash
+givenname: Agueda
+mail: agueda.shipwash@planetexpress.com
+userPassword: Agueda
+ou: OtherGroup
+uid: 821
+ Q==

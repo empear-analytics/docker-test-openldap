@@ -1,0 +1,13 @@
+dn: cn=Cary+sn=Rehmert,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cary Rehmert
+cn: Rehmert
+givenname: Cary
+mail: cary.rehmert@planetexpress.com
+userPassword: Cary
+ou: flight_crew
+uid: 563
+ Q==

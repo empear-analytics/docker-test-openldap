@@ -1,0 +1,13 @@
+dn: cn=Alva+sn=Doswell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alva Doswell
+cn: Doswell
+givenname: Alva
+mail: alva.doswell@planetexpress.com
+userPassword: Alva
+ou: admin_staff
+uid: 2191
+ Q==

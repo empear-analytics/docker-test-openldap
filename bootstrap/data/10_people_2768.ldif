@@ -1,0 +1,13 @@
+dn: cn=Luann+sn=Eary,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Luann Eary
+cn: Eary
+givenname: Luann
+mail: luann.eary@planetexpress.com
+userPassword: Luann
+ou: OtherGroup
+uid: 2768
+ Q==

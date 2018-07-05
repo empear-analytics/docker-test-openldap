@@ -1,0 +1,13 @@
+dn: cn=Buster+sn=Ramrirez,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Buster Ramrirez
+cn: Ramrirez
+givenname: Buster
+mail: buster.ramrirez@planetexpress.com
+userPassword: Buster
+ou: admin_staff
+uid: 4274
+ Q==

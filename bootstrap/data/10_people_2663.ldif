@@ -1,0 +1,13 @@
+dn: cn=Davis+sn=Legault,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Davis Legault
+cn: Legault
+givenname: Davis
+mail: davis.legault@planetexpress.com
+userPassword: Davis
+ou: flight_crew
+uid: 2663
+ Q==

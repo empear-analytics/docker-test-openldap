@@ -1,0 +1,13 @@
+dn: cn=Sunshine+sn=Bertolami,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sunshine Bertolami
+cn: Bertolami
+givenname: Sunshine
+mail: sunshine.bertolami@planetexpress.com
+userPassword: Sunshine
+ou: Group5
+uid: 5433
+ Q==

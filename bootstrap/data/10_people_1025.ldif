@@ -1,0 +1,13 @@
+dn: cn=Judith+sn=Marske,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Judith Marske
+cn: Marske
+givenname: Judith
+mail: judith.marske@planetexpress.com
+userPassword: Judith
+ou: flight_crew
+uid: 1025
+ Q==

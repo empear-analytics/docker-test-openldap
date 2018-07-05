@@ -1,0 +1,13 @@
+dn: cn=Aletha+sn=Gundersen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aletha Gundersen
+cn: Gundersen
+givenname: Aletha
+mail: aletha.gundersen@planetexpress.com
+userPassword: Aletha
+ou: admin_staff
+uid: 2690
+ Q==

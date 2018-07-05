@@ -1,0 +1,13 @@
+dn: cn=Margot+sn=Sellner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Margot Sellner
+cn: Sellner
+givenname: Margot
+mail: margot.sellner@planetexpress.com
+userPassword: Margot
+ou: admin_staff
+uid: 2587
+ Q==

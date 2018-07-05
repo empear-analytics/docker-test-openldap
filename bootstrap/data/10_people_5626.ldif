@@ -1,0 +1,13 @@
+dn: cn=Manda+sn=Rishel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Manda Rishel
+cn: Rishel
+givenname: Manda
+mail: manda.rishel@planetexpress.com
+userPassword: Manda
+ou: flight_crew
+uid: 5626
+ Q==

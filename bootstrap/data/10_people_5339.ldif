@@ -1,0 +1,13 @@
+dn: cn=Hilario+sn=Bollich,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hilario Bollich
+cn: Bollich
+givenname: Hilario
+mail: hilario.bollich@planetexpress.com
+userPassword: Hilario
+ou: OtherGroup
+uid: 5339
+ Q==

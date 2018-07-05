@@ -1,0 +1,13 @@
+dn: cn=Gail+sn=Kerry,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gail Kerry
+cn: Kerry
+givenname: Gail
+mail: gail.kerry@planetexpress.com
+userPassword: Gail
+ou: Group5
+uid: 57
+ Q==

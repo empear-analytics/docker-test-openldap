@@ -1,0 +1,13 @@
+dn: cn=Kaycee+sn=Schwede,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kaycee Schwede
+cn: Schwede
+givenname: Kaycee
+mail: kaycee.schwede@planetexpress.com
+userPassword: Kaycee
+ou: flight_crew
+uid: 5728
+ Q==

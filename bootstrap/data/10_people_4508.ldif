@@ -1,0 +1,13 @@
+dn: cn=Abraham+sn=Polverari,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Abraham Polverari
+cn: Polverari
+givenname: Abraham
+mail: abraham.polverari@planetexpress.com
+userPassword: Abraham
+ou: admin_staff
+uid: 4508
+ Q==

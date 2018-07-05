@@ -1,0 +1,13 @@
+dn: cn=Ara+sn=Senta,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ara Senta
+cn: Senta
+givenname: Ara
+mail: ara.senta@planetexpress.com
+userPassword: Ara
+ou: OtherGroup
+uid: 2400
+ Q==

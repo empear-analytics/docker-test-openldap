@@ -1,0 +1,13 @@
+dn: cn=Katlyn+sn=Cheyne,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katlyn Cheyne
+cn: Cheyne
+givenname: Katlyn
+mail: katlyn.cheyne@planetexpress.com
+userPassword: Katlyn
+ou: Group5
+uid: 4607
+ Q==

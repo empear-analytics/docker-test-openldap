@@ -1,0 +1,13 @@
+dn: cn=Jenette+sn=Kimball,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jenette Kimball
+cn: Kimball
+givenname: Jenette
+mail: jenette.kimball@planetexpress.com
+userPassword: Jenette
+ou: flight_crew
+uid: 2821
+ Q==

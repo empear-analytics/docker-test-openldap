@@ -1,0 +1,13 @@
+dn: cn=Lyndia+sn=Deed,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lyndia Deed
+cn: Deed
+givenname: Lyndia
+mail: lyndia.deed@planetexpress.com
+userPassword: Lyndia
+ou: admin_staff
+uid: 3120
+ Q==

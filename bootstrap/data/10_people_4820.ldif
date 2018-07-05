@@ -1,0 +1,13 @@
+dn: cn=Cecil+sn=Hesselbach,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cecil Hesselbach
+cn: Hesselbach
+givenname: Cecil
+mail: cecil.hesselbach@planetexpress.com
+userPassword: Cecil
+ou: admin_staff
+uid: 4820
+ Q==

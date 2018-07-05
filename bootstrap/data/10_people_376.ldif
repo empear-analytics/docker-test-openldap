@@ -1,0 +1,13 @@
+dn: cn=Leeanne+sn=Pridgeon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leeanne Pridgeon
+cn: Pridgeon
+givenname: Leeanne
+mail: leeanne.pridgeon@planetexpress.com
+userPassword: Leeanne
+ou: Group5
+uid: 376
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ethelyn+sn=Casalman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ethelyn Casalman
+cn: Casalman
+givenname: Ethelyn
+mail: ethelyn.casalman@planetexpress.com
+userPassword: Ethelyn
+ou: OtherGroup
+uid: 3305
+ Q==

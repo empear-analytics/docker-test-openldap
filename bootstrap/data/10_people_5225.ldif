@@ -1,0 +1,13 @@
+dn: cn=Ayanna+sn=Gatton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ayanna Gatton
+cn: Gatton
+givenname: Ayanna
+mail: ayanna.gatton@planetexpress.com
+userPassword: Ayanna
+ou: OtherGroup
+uid: 5225
+ Q==

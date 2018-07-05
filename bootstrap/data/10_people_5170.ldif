@@ -1,0 +1,13 @@
+dn: cn=Martine+sn=Honold,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Martine Honold
+cn: Honold
+givenname: Martine
+mail: martine.honold@planetexpress.com
+userPassword: Martine
+ou: OtherGroup
+uid: 5170
+ Q==

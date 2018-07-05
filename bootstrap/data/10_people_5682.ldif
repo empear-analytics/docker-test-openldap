@@ -1,0 +1,13 @@
+dn: cn=Nickolas+sn=Bolding,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nickolas Bolding
+cn: Bolding
+givenname: Nickolas
+mail: nickolas.bolding@planetexpress.com
+userPassword: Nickolas
+ou: admin_staff
+uid: 5682
+ Q==

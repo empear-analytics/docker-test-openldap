@@ -1,0 +1,13 @@
+dn: cn=Mariann+sn=Lepley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Mariann Lepley
+cn: Lepley
+givenname: Mariann
+mail: mariann.lepley@planetexpress.com
+userPassword: Mariann
+ou: flight_crew
+uid: 2722
+ Q==

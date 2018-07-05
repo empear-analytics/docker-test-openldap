@@ -1,0 +1,13 @@
+dn: cn=Daron+sn=Hettler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daron Hettler
+cn: Hettler
+givenname: Daron
+mail: daron.hettler@planetexpress.com
+userPassword: Daron
+ou: Group5
+uid: 1788
+ Q==

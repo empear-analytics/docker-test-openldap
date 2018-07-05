@@ -1,0 +1,13 @@
+dn: cn=Shaunda+sn=Brockelmeyer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shaunda Brockelmeyer
+cn: Brockelmeyer
+givenname: Shaunda
+mail: shaunda.brockelmeyer@planetexpress.com
+userPassword: Shaunda
+ou: Group5
+uid: 5144
+ Q==

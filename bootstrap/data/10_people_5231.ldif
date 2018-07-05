@@ -1,0 +1,13 @@
+dn: cn=Emily+sn=Peakes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emily Peakes
+cn: Peakes
+givenname: Emily
+mail: emily.peakes@planetexpress.com
+userPassword: Emily
+ou: admin_staff
+uid: 5231
+ Q==

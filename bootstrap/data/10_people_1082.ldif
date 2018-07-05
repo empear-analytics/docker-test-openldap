@@ -1,0 +1,13 @@
+dn: cn=Freda+sn=Ticas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Freda Ticas
+cn: Ticas
+givenname: Freda
+mail: freda.ticas@planetexpress.com
+userPassword: Freda
+ou: admin_staff
+uid: 1082
+ Q==

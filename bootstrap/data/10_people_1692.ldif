@@ -1,0 +1,13 @@
+dn: cn=Sharyn+sn=Wilshusen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharyn Wilshusen
+cn: Wilshusen
+givenname: Sharyn
+mail: sharyn.wilshusen@planetexpress.com
+userPassword: Sharyn
+ou: admin_staff
+uid: 1692
+ Q==

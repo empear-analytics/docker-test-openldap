@@ -1,0 +1,13 @@
+dn: cn=Letisha+sn=Sawney,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Letisha Sawney
+cn: Sawney
+givenname: Letisha
+mail: letisha.sawney@planetexpress.com
+userPassword: Letisha
+ou: Group5
+uid: 4982
+ Q==

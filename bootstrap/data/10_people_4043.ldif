@@ -1,0 +1,13 @@
+dn: cn=Tuyet+sn=Schlageter,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tuyet Schlageter
+cn: Schlageter
+givenname: Tuyet
+mail: tuyet.schlageter@planetexpress.com
+userPassword: Tuyet
+ou: Group5
+uid: 4043
+ Q==

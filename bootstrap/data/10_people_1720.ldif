@@ -1,0 +1,13 @@
+dn: cn=Jeffrey+sn=Radomski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeffrey Radomski
+cn: Radomski
+givenname: Jeffrey
+mail: jeffrey.radomski@planetexpress.com
+userPassword: Jeffrey
+ou: OtherGroup
+uid: 1720
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Telma+sn=Kimple,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Telma Kimple
+cn: Kimple
+givenname: Telma
+mail: telma.kimple@planetexpress.com
+userPassword: Telma
+ou: OtherGroup
+uid: 2834
+ Q==

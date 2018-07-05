@@ -1,0 +1,13 @@
+dn: cn=Merlin+sn=Fraioli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Merlin Fraioli
+cn: Fraioli
+givenname: Merlin
+mail: merlin.fraioli@planetexpress.com
+userPassword: Merlin
+ou: Group5
+uid: 1570
+ Q==

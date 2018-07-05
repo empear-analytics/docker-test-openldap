@@ -1,0 +1,13 @@
+dn: cn=Noma+sn=Kolar,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Noma Kolar
+cn: Kolar
+givenname: Noma
+mail: noma.kolar@planetexpress.com
+userPassword: Noma
+ou: admin_staff
+uid: 4176
+ Q==

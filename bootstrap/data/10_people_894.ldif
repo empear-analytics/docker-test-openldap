@@ -1,0 +1,13 @@
+dn: cn=Janiece+sn=Haycraft,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janiece Haycraft
+cn: Haycraft
+givenname: Janiece
+mail: janiece.haycraft@planetexpress.com
+userPassword: Janiece
+ou: flight_crew
+uid: 894
+ Q==

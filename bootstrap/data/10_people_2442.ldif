@@ -1,0 +1,13 @@
+dn: cn=Tiny+sn=Vanmiddleswor,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tiny Vanmiddleswor
+cn: Vanmiddleswor
+givenname: Tiny
+mail: tiny.vanmiddleswor@planetexpress.com
+userPassword: Tiny
+ou: flight_crew
+uid: 2442
+ Q==

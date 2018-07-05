@@ -1,0 +1,13 @@
+dn: cn=Demetrice+sn=Hirliman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Demetrice Hirliman
+cn: Hirliman
+givenname: Demetrice
+mail: demetrice.hirliman@planetexpress.com
+userPassword: Demetrice
+ou: admin_staff
+uid: 3358
+ Q==

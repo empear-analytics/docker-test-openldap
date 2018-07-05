@@ -1,0 +1,13 @@
+dn: cn=Roseanne+sn=Shen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Roseanne Shen
+cn: Shen
+givenname: Roseanne
+mail: roseanne.shen@planetexpress.com
+userPassword: Roseanne
+ou: OtherGroup
+uid: 3155
+ Q==

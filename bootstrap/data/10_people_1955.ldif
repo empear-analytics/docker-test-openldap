@@ -1,0 +1,13 @@
+dn: cn=Leandro+sn=Lay,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leandro Lay
+cn: Lay
+givenname: Leandro
+mail: leandro.lay@planetexpress.com
+userPassword: Leandro
+ou: flight_crew
+uid: 1955
+ Q==

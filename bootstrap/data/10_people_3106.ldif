@@ -1,0 +1,13 @@
+dn: cn=Huong+sn=Bovey,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Huong Bovey
+cn: Bovey
+givenname: Huong
+mail: huong.bovey@planetexpress.com
+userPassword: Huong
+ou: OtherGroup
+uid: 3106
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Donna+sn=Griffin,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Donna Griffin
+cn: Griffin
+givenname: Donna
+mail: donna.griffin@planetexpress.com
+userPassword: Donna
+ou: flight_crew
+uid: 4756
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Dorethea+sn=Penalosa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dorethea Penalosa
+cn: Penalosa
+givenname: Dorethea
+mail: dorethea.penalosa@planetexpress.com
+userPassword: Dorethea
+ou: Group5
+uid: 5706
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jenny+sn=Stuttgen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jenny Stuttgen
+cn: Stuttgen
+givenname: Jenny
+mail: jenny.stuttgen@planetexpress.com
+userPassword: Jenny
+ou: OtherGroup
+uid: 2516
+ Q==

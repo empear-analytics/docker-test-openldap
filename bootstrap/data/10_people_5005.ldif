@@ -1,0 +1,13 @@
+dn: cn=Shayne+sn=Benneth,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shayne Benneth
+cn: Benneth
+givenname: Shayne
+mail: shayne.benneth@planetexpress.com
+userPassword: Shayne
+ou: OtherGroup
+uid: 5005
+ Q==

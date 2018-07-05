@@ -1,0 +1,13 @@
+dn: cn=Gale+sn=Domeier,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gale Domeier
+cn: Domeier
+givenname: Gale
+mail: gale.domeier@planetexpress.com
+userPassword: Gale
+ou: OtherGroup
+uid: 191
+ Q==

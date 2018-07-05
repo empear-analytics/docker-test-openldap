@@ -1,0 +1,13 @@
+dn: cn=Maudie+sn=Baklund,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Maudie Baklund
+cn: Baklund
+givenname: Maudie
+mail: maudie.baklund@planetexpress.com
+userPassword: Maudie
+ou: OtherGroup
+uid: 4432
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tifany+sn=Begnaud,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tifany Begnaud
+cn: Begnaud
+givenname: Tifany
+mail: tifany.begnaud@planetexpress.com
+userPassword: Tifany
+ou: flight_crew
+uid: 5588
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Allyn+sn=Krzykowski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Allyn Krzykowski
+cn: Krzykowski
+givenname: Allyn
+mail: allyn.krzykowski@planetexpress.com
+userPassword: Allyn
+ou: OtherGroup
+uid: 603
+ Q==

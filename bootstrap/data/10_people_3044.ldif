@@ -1,0 +1,13 @@
+dn: cn=Su+sn=Ochsenbein,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Su Ochsenbein
+cn: Ochsenbein
+givenname: Su
+mail: su.ochsenbein@planetexpress.com
+userPassword: Su
+ou: admin_staff
+uid: 3044
+ Q==

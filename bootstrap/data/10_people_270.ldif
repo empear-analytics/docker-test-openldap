@@ -1,0 +1,13 @@
+dn: cn=Selena+sn=Ha,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Selena Ha
+cn: Ha
+givenname: Selena
+mail: selena.ha@planetexpress.com
+userPassword: Selena
+ou: Group5
+uid: 270
+ Q==

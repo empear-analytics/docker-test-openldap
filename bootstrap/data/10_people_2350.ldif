@@ -1,0 +1,13 @@
+dn: cn=Jose+sn=Brighton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jose Brighton
+cn: Brighton
+givenname: Jose
+mail: jose.brighton@planetexpress.com
+userPassword: Jose
+ou: OtherGroup
+uid: 2350
+ Q==

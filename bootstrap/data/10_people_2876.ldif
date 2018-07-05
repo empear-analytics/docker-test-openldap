@@ -1,0 +1,13 @@
+dn: cn=Desiree+sn=Mayotte,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Desiree Mayotte
+cn: Mayotte
+givenname: Desiree
+mail: desiree.mayotte@planetexpress.com
+userPassword: Desiree
+ou: Group5
+uid: 2876
+ Q==

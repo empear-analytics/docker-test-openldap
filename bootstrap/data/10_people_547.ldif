@@ -1,0 +1,13 @@
+dn: cn=Susan+sn=Duliba,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Susan Duliba
+cn: Duliba
+givenname: Susan
+mail: susan.duliba@planetexpress.com
+userPassword: Susan
+ou: Group5
+uid: 547
+ Q==

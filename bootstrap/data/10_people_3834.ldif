@@ -1,0 +1,13 @@
+dn: cn=Stephani+sn=Lenis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stephani Lenis
+cn: Lenis
+givenname: Stephani
+mail: stephani.lenis@planetexpress.com
+userPassword: Stephani
+ou: admin_staff
+uid: 3834
+ Q==

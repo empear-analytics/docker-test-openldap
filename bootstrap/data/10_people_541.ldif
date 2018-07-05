@@ -1,0 +1,13 @@
+dn: cn=Larisa+sn=England,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Larisa England
+cn: England
+givenname: Larisa
+mail: larisa.england@planetexpress.com
+userPassword: Larisa
+ou: flight_crew
+uid: 541
+ Q==

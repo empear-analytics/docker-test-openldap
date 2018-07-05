@@ -1,0 +1,13 @@
+dn: cn=Tammy+sn=Yerton,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tammy Yerton
+cn: Yerton
+givenname: Tammy
+mail: tammy.yerton@planetexpress.com
+userPassword: Tammy
+ou: admin_staff
+uid: 3830
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Delmy+sn=Holtzberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Delmy Holtzberg
+cn: Holtzberg
+givenname: Delmy
+mail: delmy.holtzberg@planetexpress.com
+userPassword: Delmy
+ou: admin_staff
+uid: 5215
+ Q==

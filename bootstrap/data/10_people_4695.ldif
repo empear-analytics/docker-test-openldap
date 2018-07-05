@@ -1,0 +1,13 @@
+dn: cn=Sylvester+sn=Geldmacher,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sylvester Geldmacher
+cn: Geldmacher
+givenname: Sylvester
+mail: sylvester.geldmacher@planetexpress.com
+userPassword: Sylvester
+ou: Group5
+uid: 4695
+ Q==

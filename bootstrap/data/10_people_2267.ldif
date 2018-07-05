@@ -1,0 +1,13 @@
+dn: cn=Arlyne+sn=Stocki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Arlyne Stocki
+cn: Stocki
+givenname: Arlyne
+mail: arlyne.stocki@planetexpress.com
+userPassword: Arlyne
+ou: Group5
+uid: 2267
+ Q==

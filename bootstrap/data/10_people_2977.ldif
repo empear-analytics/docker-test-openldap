@@ -1,0 +1,13 @@
+dn: cn=Tanika+sn=Daguio,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tanika Daguio
+cn: Daguio
+givenname: Tanika
+mail: tanika.daguio@planetexpress.com
+userPassword: Tanika
+ou: OtherGroup
+uid: 2977
+ Q==

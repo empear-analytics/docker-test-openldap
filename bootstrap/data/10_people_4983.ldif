@@ -1,0 +1,13 @@
+dn: cn=Emma+sn=Steuer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Emma Steuer
+cn: Steuer
+givenname: Emma
+mail: emma.steuer@planetexpress.com
+userPassword: Emma
+ou: OtherGroup
+uid: 4983
+ Q==

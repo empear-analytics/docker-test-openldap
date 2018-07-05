@@ -1,0 +1,13 @@
+dn: cn=Winston+sn=Eskola,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Winston Eskola
+cn: Eskola
+givenname: Winston
+mail: winston.eskola@planetexpress.com
+userPassword: Winston
+ou: Group5
+uid: 5765
+ Q==

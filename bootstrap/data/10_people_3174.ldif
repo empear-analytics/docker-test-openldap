@@ -1,0 +1,13 @@
+dn: cn=Anissa+sn=Kritikos,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Anissa Kritikos
+cn: Kritikos
+givenname: Anissa
+mail: anissa.kritikos@planetexpress.com
+userPassword: Anissa
+ou: OtherGroup
+uid: 3174
+ Q==

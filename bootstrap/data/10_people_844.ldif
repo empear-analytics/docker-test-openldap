@@ -1,0 +1,13 @@
+dn: cn=Drucilla+sn=Lisboa,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Drucilla Lisboa
+cn: Lisboa
+givenname: Drucilla
+mail: drucilla.lisboa@planetexpress.com
+userPassword: Drucilla
+ou: admin_staff
+uid: 844
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Stephanie+sn=Bjerknes,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Stephanie Bjerknes
+cn: Bjerknes
+givenname: Stephanie
+mail: stephanie.bjerknes@planetexpress.com
+userPassword: Stephanie
+ou: Group5
+uid: 5902
+ Q==

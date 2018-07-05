@@ -1,0 +1,13 @@
+dn: cn=Janet+sn=Saam,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janet Saam
+cn: Saam
+givenname: Janet
+mail: janet.saam@planetexpress.com
+userPassword: Janet
+ou: OtherGroup
+uid: 1273
+ Q==

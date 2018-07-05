@@ -1,0 +1,13 @@
+dn: cn=Merilyn+sn=Roston,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Merilyn Roston
+cn: Roston
+givenname: Merilyn
+mail: merilyn.roston@planetexpress.com
+userPassword: Merilyn
+ou: Group5
+uid: 457
+ Q==

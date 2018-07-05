@@ -1,0 +1,13 @@
+dn: cn=Ester+sn=Brumbley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ester Brumbley
+cn: Brumbley
+givenname: Ester
+mail: ester.brumbley@planetexpress.com
+userPassword: Ester
+ou: Group5
+uid: 142
+ Q==

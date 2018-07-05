@@ -1,0 +1,13 @@
+dn: cn=Violette+sn=Devenecia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Violette Devenecia
+cn: Devenecia
+givenname: Violette
+mail: violette.devenecia@planetexpress.com
+userPassword: Violette
+ou: OtherGroup
+uid: 2657
+ Q==

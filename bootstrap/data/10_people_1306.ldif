@@ -1,0 +1,13 @@
+dn: cn=Kyla+sn=Carranza,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kyla Carranza
+cn: Carranza
+givenname: Kyla
+mail: kyla.carranza@planetexpress.com
+userPassword: Kyla
+ou: OtherGroup
+uid: 1306
+ Q==

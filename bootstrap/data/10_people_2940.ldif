@@ -1,0 +1,13 @@
+dn: cn=Ranee+sn=Dongo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ranee Dongo
+cn: Dongo
+givenname: Ranee
+mail: ranee.dongo@planetexpress.com
+userPassword: Ranee
+ou: flight_crew
+uid: 2940
+ Q==

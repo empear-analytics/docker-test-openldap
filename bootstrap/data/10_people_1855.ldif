@@ -1,0 +1,13 @@
+dn: cn=Cecelia+sn=Desjardins,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cecelia Desjardins
+cn: Desjardins
+givenname: Cecelia
+mail: cecelia.desjardins@planetexpress.com
+userPassword: Cecelia
+ou: admin_staff
+uid: 1855
+ Q==

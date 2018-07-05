@@ -1,0 +1,13 @@
+dn: cn=Shelby+sn=Shepperdson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shelby Shepperdson
+cn: Shepperdson
+givenname: Shelby
+mail: shelby.shepperdson@planetexpress.com
+userPassword: Shelby
+ou: Group5
+uid: 3438
+ Q==

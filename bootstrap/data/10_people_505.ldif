@@ -1,0 +1,13 @@
+dn: cn=Kera+sn=Calzone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kera Calzone
+cn: Calzone
+givenname: Kera
+mail: kera.calzone@planetexpress.com
+userPassword: Kera
+ou: flight_crew
+uid: 505
+ Q==

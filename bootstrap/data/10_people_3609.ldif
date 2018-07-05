@@ -1,0 +1,13 @@
+dn: cn=Whitney+sn=Hayne,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Whitney Hayne
+cn: Hayne
+givenname: Whitney
+mail: whitney.hayne@planetexpress.com
+userPassword: Whitney
+ou: Group5
+uid: 3609
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Marcel+sn=Lees,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marcel Lees
+cn: Lees
+givenname: Marcel
+mail: marcel.lees@planetexpress.com
+userPassword: Marcel
+ou: admin_staff
+uid: 5967
+ Q==

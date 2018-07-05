@@ -1,0 +1,13 @@
+dn: cn=Jerry+sn=Reath,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jerry Reath
+cn: Reath
+givenname: Jerry
+mail: jerry.reath@planetexpress.com
+userPassword: Jerry
+ou: OtherGroup
+uid: 4726
+ Q==

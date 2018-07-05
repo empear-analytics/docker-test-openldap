@@ -1,0 +1,13 @@
+dn: cn=Hung+sn=Egelston,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hung Egelston
+cn: Egelston
+givenname: Hung
+mail: hung.egelston@planetexpress.com
+userPassword: Hung
+ou: admin_staff
+uid: 1821
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Nick+sn=Helger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nick Helger
+cn: Helger
+givenname: Nick
+mail: nick.helger@planetexpress.com
+userPassword: Nick
+ou: Group5
+uid: 1160
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jamey+sn=Feldt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamey Feldt
+cn: Feldt
+givenname: Jamey
+mail: jamey.feldt@planetexpress.com
+userPassword: Jamey
+ou: OtherGroup
+uid: 930
+ Q==

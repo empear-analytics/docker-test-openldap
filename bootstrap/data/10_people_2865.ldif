@@ -1,0 +1,13 @@
+dn: cn=Theresia+sn=Duryea,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Theresia Duryea
+cn: Duryea
+givenname: Theresia
+mail: theresia.duryea@planetexpress.com
+userPassword: Theresia
+ou: OtherGroup
+uid: 2865
+ Q==

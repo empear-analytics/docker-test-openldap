@@ -1,0 +1,13 @@
+dn: cn=Carlos+sn=Johnston,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carlos Johnston
+cn: Johnston
+givenname: Carlos
+mail: carlos.johnston@planetexpress.com
+userPassword: Carlos
+ou: OtherGroup
+uid: 3704
+ Q==

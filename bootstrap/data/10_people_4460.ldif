@@ -1,0 +1,13 @@
+dn: cn=Danny+sn=Dettloff,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Danny Dettloff
+cn: Dettloff
+givenname: Danny
+mail: danny.dettloff@planetexpress.com
+userPassword: Danny
+ou: OtherGroup
+uid: 4460
+ Q==

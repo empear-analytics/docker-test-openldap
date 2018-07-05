@@ -1,0 +1,13 @@
+dn: cn=Samara+sn=Strickling,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Samara Strickling
+cn: Strickling
+givenname: Samara
+mail: samara.strickling@planetexpress.com
+userPassword: Samara
+ou: OtherGroup
+uid: 4618
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Gianna+sn=Krizek,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gianna Krizek
+cn: Krizek
+givenname: Gianna
+mail: gianna.krizek@planetexpress.com
+userPassword: Gianna
+ou: OtherGroup
+uid: 351
+ Q==

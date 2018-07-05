@@ -1,0 +1,13 @@
+dn: cn=Hedy+sn=Skomsky,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hedy Skomsky
+cn: Skomsky
+givenname: Hedy
+mail: hedy.skomsky@planetexpress.com
+userPassword: Hedy
+ou: admin_staff
+uid: 5591
+ Q==

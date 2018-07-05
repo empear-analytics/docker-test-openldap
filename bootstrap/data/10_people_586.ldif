@@ -1,0 +1,13 @@
+dn: cn=Yer+sn=Augustus,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yer Augustus
+cn: Augustus
+givenname: Yer
+mail: yer.augustus@planetexpress.com
+userPassword: Yer
+ou: admin_staff
+uid: 586
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Janene+sn=Micciche,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Janene Micciche
+cn: Micciche
+givenname: Janene
+mail: janene.micciche@planetexpress.com
+userPassword: Janene
+ou: admin_staff
+uid: 5014
+ Q==

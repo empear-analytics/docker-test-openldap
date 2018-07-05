@@ -1,0 +1,13 @@
+dn: cn=Jeffry+sn=Fitchette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jeffry Fitchette
+cn: Fitchette
+givenname: Jeffry
+mail: jeffry.fitchette@planetexpress.com
+userPassword: Jeffry
+ou: flight_crew
+uid: 3125
+ Q==

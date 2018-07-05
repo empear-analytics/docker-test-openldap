@@ -1,0 +1,13 @@
+dn: cn=Joshua+sn=Kaufusi,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joshua Kaufusi
+cn: Kaufusi
+givenname: Joshua
+mail: joshua.kaufusi@planetexpress.com
+userPassword: Joshua
+ou: OtherGroup
+uid: 138
+ Q==

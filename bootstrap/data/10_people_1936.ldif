@@ -1,0 +1,13 @@
+dn: cn=Niki+sn=Milici,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Niki Milici
+cn: Milici
+givenname: Niki
+mail: niki.milici@planetexpress.com
+userPassword: Niki
+ou: admin_staff
+uid: 1936
+ Q==

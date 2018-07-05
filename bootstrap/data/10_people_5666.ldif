@@ -1,0 +1,13 @@
+dn: cn=Yetta+sn=Myrtle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yetta Myrtle
+cn: Myrtle
+givenname: Yetta
+mail: yetta.myrtle@planetexpress.com
+userPassword: Yetta
+ou: flight_crew
+uid: 5666
+ Q==

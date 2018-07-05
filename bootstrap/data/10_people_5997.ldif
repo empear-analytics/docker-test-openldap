@@ -1,0 +1,13 @@
+dn: cn=Nicol+sn=Anand,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nicol Anand
+cn: Anand
+givenname: Nicol
+mail: nicol.anand@planetexpress.com
+userPassword: Nicol
+ou: OtherGroup
+uid: 5997
+ Q==

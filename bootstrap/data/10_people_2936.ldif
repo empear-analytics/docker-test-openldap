@@ -1,0 +1,13 @@
+dn: cn=Lorriane+sn=Sick,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lorriane Sick
+cn: Sick
+givenname: Lorriane
+mail: lorriane.sick@planetexpress.com
+userPassword: Lorriane
+ou: OtherGroup
+uid: 2936
+ Q==

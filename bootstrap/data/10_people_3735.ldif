@@ -1,0 +1,13 @@
+dn: cn=Rosa+sn=Chanchuan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rosa Chanchuan
+cn: Chanchuan
+givenname: Rosa
+mail: rosa.chanchuan@planetexpress.com
+userPassword: Rosa
+ou: Group5
+uid: 3735
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Rolande+sn=Henningsen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rolande Henningsen
+cn: Henningsen
+givenname: Rolande
+mail: rolande.henningsen@planetexpress.com
+userPassword: Rolande
+ou: OtherGroup
+uid: 3093
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Shenna+sn=Quercia,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shenna Quercia
+cn: Quercia
+givenname: Shenna
+mail: shenna.quercia@planetexpress.com
+userPassword: Shenna
+ou: OtherGroup
+uid: 588
+ Q==

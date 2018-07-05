@@ -1,0 +1,13 @@
+dn: cn=Keena+sn=Chapparo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Keena Chapparo
+cn: Chapparo
+givenname: Keena
+mail: keena.chapparo@planetexpress.com
+userPassword: Keena
+ou: admin_staff
+uid: 3078
+ Q==

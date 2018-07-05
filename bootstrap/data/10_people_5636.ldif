@@ -1,0 +1,13 @@
+dn: cn=Tammi+sn=Churchwell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tammi Churchwell
+cn: Churchwell
+givenname: Tammi
+mail: tammi.churchwell@planetexpress.com
+userPassword: Tammi
+ou: OtherGroup
+uid: 5636
+ Q==

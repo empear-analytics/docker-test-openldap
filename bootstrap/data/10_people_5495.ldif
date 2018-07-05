@@ -1,0 +1,13 @@
+dn: cn=Neda+sn=Hilderman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Neda Hilderman
+cn: Hilderman
+givenname: Neda
+mail: neda.hilderman@planetexpress.com
+userPassword: Neda
+ou: OtherGroup
+uid: 5495
+ Q==

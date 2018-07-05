@@ -1,0 +1,13 @@
+dn: cn=Luvenia+sn=Scaife,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Luvenia Scaife
+cn: Scaife
+givenname: Luvenia
+mail: luvenia.scaife@planetexpress.com
+userPassword: Luvenia
+ou: Group5
+uid: 5813
+ Q==

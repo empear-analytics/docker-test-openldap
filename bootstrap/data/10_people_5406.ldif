@@ -1,0 +1,13 @@
+dn: cn=Benedict+sn=Caldwell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Benedict Caldwell
+cn: Caldwell
+givenname: Benedict
+mail: benedict.caldwell@planetexpress.com
+userPassword: Benedict
+ou: flight_crew
+uid: 5406
+ Q==

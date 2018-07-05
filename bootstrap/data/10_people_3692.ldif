@@ -1,0 +1,13 @@
+dn: cn=Almeta+sn=Stanaway,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Almeta Stanaway
+cn: Stanaway
+givenname: Almeta
+mail: almeta.stanaway@planetexpress.com
+userPassword: Almeta
+ou: admin_staff
+uid: 3692
+ Q==

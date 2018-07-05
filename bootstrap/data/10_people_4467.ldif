@@ -1,0 +1,13 @@
+dn: cn=Kelley+sn=Kljucaric,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kelley Kljucaric
+cn: Kljucaric
+givenname: Kelley
+mail: kelley.kljucaric@planetexpress.com
+userPassword: Kelley
+ou: OtherGroup
+uid: 4467
+ Q==

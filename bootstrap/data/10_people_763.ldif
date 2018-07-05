@@ -1,0 +1,13 @@
+dn: cn=Selena+sn=Schon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Selena Schon
+cn: Schon
+givenname: Selena
+mail: selena.schon@planetexpress.com
+userPassword: Selena
+ou: flight_crew
+uid: 763
+ Q==

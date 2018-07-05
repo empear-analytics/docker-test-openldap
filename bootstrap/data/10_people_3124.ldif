@@ -1,0 +1,13 @@
+dn: cn=Nora+sn=Rank,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nora Rank
+cn: Rank
+givenname: Nora
+mail: nora.rank@planetexpress.com
+userPassword: Nora
+ou: admin_staff
+uid: 3124
+ Q==

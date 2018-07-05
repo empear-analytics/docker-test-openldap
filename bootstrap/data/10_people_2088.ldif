@@ -1,0 +1,13 @@
+dn: cn=Alisia+sn=Orbaker,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Alisia Orbaker
+cn: Orbaker
+givenname: Alisia
+mail: alisia.orbaker@planetexpress.com
+userPassword: Alisia
+ou: OtherGroup
+uid: 2088
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Cody+sn=Si,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cody Si
+cn: Si
+givenname: Cody
+mail: cody.si@planetexpress.com
+userPassword: Cody
+ou: flight_crew
+uid: 2454
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Ashly+sn=Steube,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ashly Steube
+cn: Steube
+givenname: Ashly
+mail: ashly.steube@planetexpress.com
+userPassword: Ashly
+ou: admin_staff
+uid: 1274
+ Q==

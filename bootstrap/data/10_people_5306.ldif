@@ -1,0 +1,13 @@
+dn: cn=Collette+sn=Roxburgh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Collette Roxburgh
+cn: Roxburgh
+givenname: Collette
+mail: collette.roxburgh@planetexpress.com
+userPassword: Collette
+ou: OtherGroup
+uid: 5306
+ Q==

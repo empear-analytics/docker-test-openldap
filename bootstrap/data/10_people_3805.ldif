@@ -1,0 +1,13 @@
+dn: cn=Eugena+sn=Mccarren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eugena Mccarren
+cn: Mccarren
+givenname: Eugena
+mail: eugena.mccarren@planetexpress.com
+userPassword: Eugena
+ou: flight_crew
+uid: 3805
+ Q==

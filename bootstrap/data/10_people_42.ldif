@@ -1,0 +1,13 @@
+dn: cn=Reda+sn=Worstel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Reda Worstel
+cn: Worstel
+givenname: Reda
+mail: reda.worstel@planetexpress.com
+userPassword: Reda
+ou: admin_staff
+uid: 42
+ Q==

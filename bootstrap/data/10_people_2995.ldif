@@ -1,0 +1,13 @@
+dn: cn=Clarita+sn=Arnaldo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Clarita Arnaldo
+cn: Arnaldo
+givenname: Clarita
+mail: clarita.arnaldo@planetexpress.com
+userPassword: Clarita
+ou: Group5
+uid: 2995
+ Q==

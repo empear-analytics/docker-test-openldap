@@ -1,0 +1,13 @@
+dn: cn=Flo+sn=Brosnan,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Flo Brosnan
+cn: Brosnan
+givenname: Flo
+mail: flo.brosnan@planetexpress.com
+userPassword: Flo
+ou: OtherGroup
+uid: 2971
+ Q==

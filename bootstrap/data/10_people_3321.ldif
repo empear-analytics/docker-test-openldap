@@ -1,0 +1,13 @@
+dn: cn=Shanelle+sn=Borucki,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shanelle Borucki
+cn: Borucki
+givenname: Shanelle
+mail: shanelle.borucki@planetexpress.com
+userPassword: Shanelle
+ou: flight_crew
+uid: 3321
+ Q==

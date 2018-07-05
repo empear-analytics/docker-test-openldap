@@ -1,0 +1,13 @@
+dn: cn=Tessa+sn=Ngov,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tessa Ngov
+cn: Ngov
+givenname: Tessa
+mail: tessa.ngov@planetexpress.com
+userPassword: Tessa
+ou: admin_staff
+uid: 2492
+ Q==

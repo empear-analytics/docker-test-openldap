@@ -1,0 +1,13 @@
+dn: cn=Carmen+sn=Petalcu,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carmen Petalcu
+cn: Petalcu
+givenname: Carmen
+mail: carmen.petalcu@planetexpress.com
+userPassword: Carmen
+ou: OtherGroup
+uid: 1159
+ Q==

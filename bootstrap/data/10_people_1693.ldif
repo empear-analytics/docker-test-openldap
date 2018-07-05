@@ -1,0 +1,13 @@
+dn: cn=Ciara+sn=Andruss,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ciara Andruss
+cn: Andruss
+givenname: Ciara
+mail: ciara.andruss@planetexpress.com
+userPassword: Ciara
+ou: admin_staff
+uid: 1693
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Karina+sn=Caulder,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Karina Caulder
+cn: Caulder
+givenname: Karina
+mail: karina.caulder@planetexpress.com
+userPassword: Karina
+ou: flight_crew
+uid: 47
+ Q==

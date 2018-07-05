@@ -1,0 +1,13 @@
+dn: cn=Georgie+sn=Birge,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Georgie Birge
+cn: Birge
+givenname: Georgie
+mail: georgie.birge@planetexpress.com
+userPassword: Georgie
+ou: OtherGroup
+uid: 2902
+ Q==

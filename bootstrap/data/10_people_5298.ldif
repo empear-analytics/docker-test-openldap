@@ -1,0 +1,13 @@
+dn: cn=Michelina+sn=Skibo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Michelina Skibo
+cn: Skibo
+givenname: Michelina
+mail: michelina.skibo@planetexpress.com
+userPassword: Michelina
+ou: OtherGroup
+uid: 5298
+ Q==

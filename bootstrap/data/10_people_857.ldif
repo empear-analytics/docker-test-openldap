@@ -1,0 +1,13 @@
+dn: cn=Brooks+sn=Grunden,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Brooks Grunden
+cn: Grunden
+givenname: Brooks
+mail: brooks.grunden@planetexpress.com
+userPassword: Brooks
+ou: admin_staff
+uid: 857
+ Q==

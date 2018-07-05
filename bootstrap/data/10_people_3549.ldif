@@ -1,0 +1,13 @@
+dn: cn=Bettye+sn=Amys,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bettye Amys
+cn: Amys
+givenname: Bettye
+mail: bettye.amys@planetexpress.com
+userPassword: Bettye
+ou: flight_crew
+uid: 3549
+ Q==

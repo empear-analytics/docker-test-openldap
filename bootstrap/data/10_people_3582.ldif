@@ -1,0 +1,13 @@
+dn: cn=Breana+sn=Stritzinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Breana Stritzinger
+cn: Stritzinger
+givenname: Breana
+mail: breana.stritzinger@planetexpress.com
+userPassword: Breana
+ou: Group5
+uid: 3582
+ Q==

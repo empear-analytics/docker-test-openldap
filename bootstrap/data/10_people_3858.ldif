@@ -1,0 +1,13 @@
+dn: cn=Quinn+sn=Stoyanov,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Quinn Stoyanov
+cn: Stoyanov
+givenname: Quinn
+mail: quinn.stoyanov@planetexpress.com
+userPassword: Quinn
+ou: flight_crew
+uid: 3858
+ Q==

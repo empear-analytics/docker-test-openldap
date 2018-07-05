@@ -1,0 +1,13 @@
+dn: cn=Pearline+sn=Drought,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pearline Drought
+cn: Drought
+givenname: Pearline
+mail: pearline.drought@planetexpress.com
+userPassword: Pearline
+ou: OtherGroup
+uid: 1736
+ Q==

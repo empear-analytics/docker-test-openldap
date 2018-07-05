@@ -1,0 +1,13 @@
+dn: cn=Aurea+sn=Bellone,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Aurea Bellone
+cn: Bellone
+givenname: Aurea
+mail: aurea.bellone@planetexpress.com
+userPassword: Aurea
+ou: flight_crew
+uid: 4217
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Tennie+sn=Romance,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Tennie Romance
+cn: Romance
+givenname: Tennie
+mail: tennie.romance@planetexpress.com
+userPassword: Tennie
+ou: admin_staff
+uid: 3737
+ Q==

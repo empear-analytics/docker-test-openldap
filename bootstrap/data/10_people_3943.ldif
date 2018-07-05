@@ -1,0 +1,13 @@
+dn: cn=Honey+sn=Orcutt,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Honey Orcutt
+cn: Orcutt
+givenname: Honey
+mail: honey.orcutt@planetexpress.com
+userPassword: Honey
+ou: Group5
+uid: 3943
+ Q==

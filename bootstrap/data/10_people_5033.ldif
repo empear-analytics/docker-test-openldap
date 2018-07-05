@@ -1,0 +1,13 @@
+dn: cn=Hyman+sn=Bahrke,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Hyman Bahrke
+cn: Bahrke
+givenname: Hyman
+mail: hyman.bahrke@planetexpress.com
+userPassword: Hyman
+ou: admin_staff
+uid: 5033
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Chantel+sn=Boler,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Chantel Boler
+cn: Boler
+givenname: Chantel
+mail: chantel.boler@planetexpress.com
+userPassword: Chantel
+ou: OtherGroup
+uid: 2144
+ Q==

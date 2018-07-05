@@ -1,0 +1,13 @@
+dn: cn=Joseph+sn=Cliffe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Joseph Cliffe
+cn: Cliffe
+givenname: Joseph
+mail: joseph.cliffe@planetexpress.com
+userPassword: Joseph
+ou: Group5
+uid: 2119
+ Q==

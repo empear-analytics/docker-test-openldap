@@ -1,0 +1,13 @@
+dn: cn=Daisey+sn=Shulenberger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daisey Shulenberger
+cn: Shulenberger
+givenname: Daisey
+mail: daisey.shulenberger@planetexpress.com
+userPassword: Daisey
+ou: OtherGroup
+uid: 2992
+ Q==

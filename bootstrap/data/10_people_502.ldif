@@ -1,0 +1,13 @@
+dn: cn=Orpha+sn=Epson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Orpha Epson
+cn: Epson
+givenname: Orpha
+mail: orpha.epson@planetexpress.com
+userPassword: Orpha
+ou: OtherGroup
+uid: 502
+ Q==

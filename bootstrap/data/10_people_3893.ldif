@@ -1,0 +1,13 @@
+dn: cn=Laquita+sn=Hamm,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Laquita Hamm
+cn: Hamm
+givenname: Laquita
+mail: laquita.hamm@planetexpress.com
+userPassword: Laquita
+ou: admin_staff
+uid: 3893
+ Q==

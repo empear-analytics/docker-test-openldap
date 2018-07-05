@@ -1,0 +1,13 @@
+dn: cn=Thi+sn=Logghe,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Thi Logghe
+cn: Logghe
+givenname: Thi
+mail: thi.logghe@planetexpress.com
+userPassword: Thi
+ou: admin_staff
+uid: 2642
+ Q==

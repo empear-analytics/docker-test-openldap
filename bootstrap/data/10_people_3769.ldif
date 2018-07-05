@@ -1,0 +1,13 @@
+dn: cn=Fernande+sn=Lipp,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Fernande Lipp
+cn: Lipp
+givenname: Fernande
+mail: fernande.lipp@planetexpress.com
+userPassword: Fernande
+ou: OtherGroup
+uid: 3769
+ Q==

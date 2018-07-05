@@ -1,0 +1,13 @@
+dn: cn=Elinore+sn=Lannen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elinore Lannen
+cn: Lannen
+givenname: Elinore
+mail: elinore.lannen@planetexpress.com
+userPassword: Elinore
+ou: admin_staff
+uid: 5067
+ Q==

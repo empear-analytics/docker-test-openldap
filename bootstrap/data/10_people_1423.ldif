@@ -1,0 +1,13 @@
+dn: cn=Meghan+sn=Carollo,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Meghan Carollo
+cn: Carollo
+givenname: Meghan
+mail: meghan.carollo@planetexpress.com
+userPassword: Meghan
+ou: Group5
+uid: 1423
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Timika+sn=Lechner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Timika Lechner
+cn: Lechner
+givenname: Timika
+mail: timika.lechner@planetexpress.com
+userPassword: Timika
+ou: OtherGroup
+uid: 2917
+ Q==

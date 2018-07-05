@@ -1,0 +1,13 @@
+dn: cn=Suellen+sn=Townzen,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Suellen Townzen
+cn: Townzen
+givenname: Suellen
+mail: suellen.townzen@planetexpress.com
+userPassword: Suellen
+ou: admin_staff
+uid: 5975
+ Q==

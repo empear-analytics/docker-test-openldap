@@ -1,0 +1,13 @@
+dn: cn=Harvey+sn=Berbig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Harvey Berbig
+cn: Berbig
+givenname: Harvey
+mail: harvey.berbig@planetexpress.com
+userPassword: Harvey
+ou: OtherGroup
+uid: 2410
+ Q==

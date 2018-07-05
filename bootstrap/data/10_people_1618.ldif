@@ -1,0 +1,13 @@
+dn: cn=Rachelle+sn=Krishun,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rachelle Krishun
+cn: Krishun
+givenname: Rachelle
+mail: rachelle.krishun@planetexpress.com
+userPassword: Rachelle
+ou: flight_crew
+uid: 1618
+ Q==

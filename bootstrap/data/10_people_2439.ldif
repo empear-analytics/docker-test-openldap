@@ -1,0 +1,13 @@
+dn: cn=Kenny+sn=Cother,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kenny Cother
+cn: Cother
+givenname: Kenny
+mail: kenny.cother@planetexpress.com
+userPassword: Kenny
+ou: admin_staff
+uid: 2439
+ Q==

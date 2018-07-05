@@ -1,0 +1,13 @@
+dn: cn=Cristie+sn=Woodall,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cristie Woodall
+cn: Woodall
+givenname: Cristie
+mail: cristie.woodall@planetexpress.com
+userPassword: Cristie
+ou: Group5
+uid: 3682
+ Q==

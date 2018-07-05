@@ -1,0 +1,13 @@
+dn: cn=Yong+sn=Zanini,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Yong Zanini
+cn: Zanini
+givenname: Yong
+mail: yong.zanini@planetexpress.com
+userPassword: Yong
+ou: admin_staff
+uid: 2429
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Derick+sn=Bailon,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Derick Bailon
+cn: Bailon
+givenname: Derick
+mail: derick.bailon@planetexpress.com
+userPassword: Derick
+ou: flight_crew
+uid: 5570
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Jamika+sn=Abell,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Jamika Abell
+cn: Abell
+givenname: Jamika
+mail: jamika.abell@planetexpress.com
+userPassword: Jamika
+ou: flight_crew
+uid: 1744
+ Q==

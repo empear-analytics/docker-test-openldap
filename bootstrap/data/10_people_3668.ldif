@@ -1,0 +1,13 @@
+dn: cn=Katia+sn=Geren,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Katia Geren
+cn: Geren
+givenname: Katia
+mail: katia.geren@planetexpress.com
+userPassword: Katia
+ou: OtherGroup
+uid: 3668
+ Q==

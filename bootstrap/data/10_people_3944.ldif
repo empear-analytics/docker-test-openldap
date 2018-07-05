@@ -1,0 +1,13 @@
+dn: cn=Xenia+sn=Jimerson,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Xenia Jimerson
+cn: Jimerson
+givenname: Xenia
+mail: xenia.jimerson@planetexpress.com
+userPassword: Xenia
+ou: OtherGroup
+uid: 3944
+ Q==

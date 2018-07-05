@@ -1,0 +1,13 @@
+dn: cn=Daron+sn=Riederer,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Daron Riederer
+cn: Riederer
+givenname: Daron
+mail: daron.riederer@planetexpress.com
+userPassword: Daron
+ou: Group5
+uid: 3989
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Leonor+sn=Gasper,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leonor Gasper
+cn: Gasper
+givenname: Leonor
+mail: leonor.gasper@planetexpress.com
+userPassword: Leonor
+ou: OtherGroup
+uid: 3803
+ Q==

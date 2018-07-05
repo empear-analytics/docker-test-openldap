@@ -1,0 +1,13 @@
+dn: cn=Enid+sn=Coppola,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Enid Coppola
+cn: Coppola
+givenname: Enid
+mail: enid.coppola@planetexpress.com
+userPassword: Enid
+ou: OtherGroup
+uid: 3697
+ Q==

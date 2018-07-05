@@ -1,0 +1,13 @@
+dn: cn=Catheryn+sn=Knapper,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Catheryn Knapper
+cn: Knapper
+givenname: Catheryn
+mail: catheryn.knapper@planetexpress.com
+userPassword: Catheryn
+ou: admin_staff
+uid: 5364
+ Q==

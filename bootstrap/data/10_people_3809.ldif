@@ -1,0 +1,13 @@
+dn: cn=Melani+sn=Hongisto,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Melani Hongisto
+cn: Hongisto
+givenname: Melani
+mail: melani.hongisto@planetexpress.com
+userPassword: Melani
+ou: OtherGroup
+uid: 3809
+ Q==

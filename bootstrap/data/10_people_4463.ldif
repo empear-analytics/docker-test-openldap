@@ -1,0 +1,13 @@
+dn: cn=Ernesto+sn=Jarrel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ernesto Jarrel
+cn: Jarrel
+givenname: Ernesto
+mail: ernesto.jarrel@planetexpress.com
+userPassword: Ernesto
+ou: Group5
+uid: 4463
+ Q==

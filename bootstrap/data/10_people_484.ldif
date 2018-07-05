@@ -1,0 +1,13 @@
+dn: cn=Marci+sn=Snide,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marci Snide
+cn: Snide
+givenname: Marci
+mail: marci.snide@planetexpress.com
+userPassword: Marci
+ou: OtherGroup
+uid: 484
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Marlon+sn=Brau,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marlon Brau
+cn: Brau
+givenname: Marlon
+mail: marlon.brau@planetexpress.com
+userPassword: Marlon
+ou: OtherGroup
+uid: 2737
+ Q==

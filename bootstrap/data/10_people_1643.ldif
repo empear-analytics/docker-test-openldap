@@ -1,0 +1,13 @@
+dn: cn=Bianca+sn=Muthig,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Bianca Muthig
+cn: Muthig
+givenname: Bianca
+mail: bianca.muthig@planetexpress.com
+userPassword: Bianca
+ou: OtherGroup
+uid: 1643
+ Q==

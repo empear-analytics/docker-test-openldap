@@ -1,0 +1,13 @@
+dn: cn=Kendal+sn=Debiase,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Kendal Debiase
+cn: Debiase
+givenname: Kendal
+mail: kendal.debiase@planetexpress.com
+userPassword: Kendal
+ou: flight_crew
+uid: 5973
+ Q==

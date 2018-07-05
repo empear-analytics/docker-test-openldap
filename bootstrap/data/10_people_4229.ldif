@@ -1,0 +1,13 @@
+dn: cn=Gisela+sn=Sheltrown,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gisela Sheltrown
+cn: Sheltrown
+givenname: Gisela
+mail: gisela.sheltrown@planetexpress.com
+userPassword: Gisela
+ou: admin_staff
+uid: 4229
+ Q==

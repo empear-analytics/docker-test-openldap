@@ -1,0 +1,13 @@
+dn: cn=Felipa+sn=Woten,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Felipa Woten
+cn: Woten
+givenname: Felipa
+mail: felipa.woten@planetexpress.com
+userPassword: Felipa
+ou: Group5
+uid: 187
+ Q==

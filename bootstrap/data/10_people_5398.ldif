@@ -1,0 +1,13 @@
+dn: cn=Grazyna+sn=Degraw,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Grazyna Degraw
+cn: Degraw
+givenname: Grazyna
+mail: grazyna.degraw@planetexpress.com
+userPassword: Grazyna
+ou: Group5
+uid: 5398
+ Q==

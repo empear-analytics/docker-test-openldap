@@ -1,0 +1,13 @@
+dn: cn=Petronila+sn=Gomm,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Petronila Gomm
+cn: Gomm
+givenname: Petronila
+mail: petronila.gomm@planetexpress.com
+userPassword: Petronila
+ou: OtherGroup
+uid: 3237
+ Q==

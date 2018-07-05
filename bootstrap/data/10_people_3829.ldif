@@ -1,0 +1,13 @@
+dn: cn=Celia+sn=Husbands,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Celia Husbands
+cn: Husbands
+givenname: Celia
+mail: celia.husbands@planetexpress.com
+userPassword: Celia
+ou: admin_staff
+uid: 3829
+ Q==

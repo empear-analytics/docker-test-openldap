@@ -1,0 +1,13 @@
+dn: cn=Dinah+sn=Banh,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Dinah Banh
+cn: Banh
+givenname: Dinah
+mail: dinah.banh@planetexpress.com
+userPassword: Dinah
+ou: OtherGroup
+uid: 735
+ Q==

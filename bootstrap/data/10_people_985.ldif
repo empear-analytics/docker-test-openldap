@@ -1,0 +1,13 @@
+dn: cn=Percy+sn=Coreas,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Percy Coreas
+cn: Coreas
+givenname: Percy
+mail: percy.coreas@planetexpress.com
+userPassword: Percy
+ou: Group5
+uid: 985
+ Q==

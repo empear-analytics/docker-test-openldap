@@ -1,0 +1,13 @@
+dn: cn=Ilda+sn=Maglioli,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Ilda Maglioli
+cn: Maglioli
+givenname: Ilda
+mail: ilda.maglioli@planetexpress.com
+userPassword: Ilda
+ou: flight_crew
+uid: 4801
+ Q==

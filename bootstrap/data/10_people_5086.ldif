@@ -1,0 +1,13 @@
+dn: cn=Cristina+sn=Ferreyra,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Cristina Ferreyra
+cn: Ferreyra
+givenname: Cristina
+mail: cristina.ferreyra@planetexpress.com
+userPassword: Cristina
+ou: Group5
+uid: 5086
+ Q==

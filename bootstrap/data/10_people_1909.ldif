@@ -1,0 +1,13 @@
+dn: cn=Carina+sn=Freberg,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Carina Freberg
+cn: Freberg
+givenname: Carina
+mail: carina.freberg@planetexpress.com
+userPassword: Carina
+ou: Group5
+uid: 1909
+ Q==

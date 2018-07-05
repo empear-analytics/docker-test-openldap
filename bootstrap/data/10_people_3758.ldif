@@ -1,0 +1,13 @@
+dn: cn=Pamella+sn=Wenzinger,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Pamella Wenzinger
+cn: Wenzinger
+givenname: Pamella
+mail: pamella.wenzinger@planetexpress.com
+userPassword: Pamella
+ou: Group5
+uid: 3758
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Gladis+sn=Wackerly,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Gladis Wackerly
+cn: Wackerly
+givenname: Gladis
+mail: gladis.wackerly@planetexpress.com
+userPassword: Gladis
+ou: OtherGroup
+uid: 5384
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Nohemi+sn=Chastain,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nohemi Chastain
+cn: Chastain
+givenname: Nohemi
+mail: nohemi.chastain@planetexpress.com
+userPassword: Nohemi
+ou: Group5
+uid: 3316
+ Q==

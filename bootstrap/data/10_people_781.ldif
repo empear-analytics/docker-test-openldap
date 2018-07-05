@@ -1,0 +1,13 @@
+dn: cn=Shaunta+sn=Hindle,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Shaunta Hindle
+cn: Hindle
+givenname: Shaunta
+mail: shaunta.hindle@planetexpress.com
+userPassword: Shaunta
+ou: admin_staff
+uid: 781
+ Q==

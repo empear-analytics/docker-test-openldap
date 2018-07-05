@@ -1,0 +1,13 @@
+dn: cn=Lajuana+sn=Sergeant,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lajuana Sergeant
+cn: Sergeant
+givenname: Lajuana
+mail: lajuana.sergeant@planetexpress.com
+userPassword: Lajuana
+ou: Group5
+uid: 4877
+ Q==

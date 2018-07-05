@@ -1,0 +1,13 @@
+dn: cn=Eden+sn=Trevillian,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eden Trevillian
+cn: Trevillian
+givenname: Eden
+mail: eden.trevillian@planetexpress.com
+userPassword: Eden
+ou: Group5
+uid: 1637
+ Q==

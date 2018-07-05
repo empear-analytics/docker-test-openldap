@@ -1,0 +1,13 @@
+dn: cn=Elissa+sn=Ekis,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elissa Ekis
+cn: Ekis
+givenname: Elissa
+mail: elissa.ekis@planetexpress.com
+userPassword: Elissa
+ou: flight_crew
+uid: 5734
+ Q==

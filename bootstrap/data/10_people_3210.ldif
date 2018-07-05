@@ -1,0 +1,13 @@
+dn: cn=Flora+sn=Plotrowski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Flora Plotrowski
+cn: Plotrowski
+givenname: Flora
+mail: flora.plotrowski@planetexpress.com
+userPassword: Flora
+ou: OtherGroup
+uid: 3210
+ Q==

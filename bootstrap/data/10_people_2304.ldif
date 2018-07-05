@@ -1,0 +1,13 @@
+dn: cn=Sharla+sn=Delima,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sharla Delima
+cn: Delima
+givenname: Sharla
+mail: sharla.delima@planetexpress.com
+userPassword: Sharla
+ou: OtherGroup
+uid: 2304
+ Q==

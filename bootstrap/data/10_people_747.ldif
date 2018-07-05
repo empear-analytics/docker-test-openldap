@@ -1,0 +1,13 @@
+dn: cn=Darcel+sn=Guilford,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Darcel Guilford
+cn: Guilford
+givenname: Darcel
+mail: darcel.guilford@planetexpress.com
+userPassword: Darcel
+ou: flight_crew
+uid: 747
+ Q==

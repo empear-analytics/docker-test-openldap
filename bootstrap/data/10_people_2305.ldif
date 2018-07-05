@@ -1,0 +1,13 @@
+dn: cn=Sterling+sn=Mcthige,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Sterling Mcthige
+cn: Mcthige
+givenname: Sterling
+mail: sterling.mcthige@planetexpress.com
+userPassword: Sterling
+ou: admin_staff
+uid: 2305
+ Q==

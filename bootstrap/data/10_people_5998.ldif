@@ -1,0 +1,13 @@
+dn: cn=Leilani+sn=Rashid,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Leilani Rashid
+cn: Rashid
+givenname: Leilani
+mail: leilani.rashid@planetexpress.com
+userPassword: Leilani
+ou: flight_crew
+uid: 5998
+ Q==

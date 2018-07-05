@@ -1,0 +1,13 @@
+dn: cn=Angle+sn=Byard,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Angle Byard
+cn: Byard
+givenname: Angle
+mail: angle.byard@planetexpress.com
+userPassword: Angle
+ou: admin_staff
+uid: 1416
+ Q==

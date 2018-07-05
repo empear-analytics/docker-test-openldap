@@ -1,0 +1,13 @@
+dn: cn=Guadalupe+sn=Bartl,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Guadalupe Bartl
+cn: Bartl
+givenname: Guadalupe
+mail: guadalupe.bartl@planetexpress.com
+userPassword: Guadalupe
+ou: admin_staff
+uid: 2618
+ Q==

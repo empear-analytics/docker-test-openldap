@@ -1,0 +1,13 @@
+dn: cn=Burl+sn=Zicherman,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Burl Zicherman
+cn: Zicherman
+givenname: Burl
+mail: burl.zicherman@planetexpress.com
+userPassword: Burl
+ou: admin_staff
+uid: 2508
+ Q==

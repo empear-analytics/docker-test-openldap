@@ -1,0 +1,13 @@
+dn: cn=Eartha+sn=Oyellette,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eartha Oyellette
+cn: Oyellette
+givenname: Eartha
+mail: eartha.oyellette@planetexpress.com
+userPassword: Eartha
+ou: OtherGroup
+uid: 2176
+ Q==

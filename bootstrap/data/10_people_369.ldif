@@ -1,0 +1,13 @@
+dn: cn=Elton+sn=Racz,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Elton Racz
+cn: Racz
+givenname: Elton
+mail: elton.racz@planetexpress.com
+userPassword: Elton
+ou: flight_crew
+uid: 369
+ Q==

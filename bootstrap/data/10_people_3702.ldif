@@ -1,0 +1,13 @@
+dn: cn=January+sn=Tauares,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: January Tauares
+cn: Tauares
+givenname: January
+mail: january.tauares@planetexpress.com
+userPassword: January
+ou: admin_staff
+uid: 3702
+ Q==

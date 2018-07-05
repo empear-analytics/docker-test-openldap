@@ -1,0 +1,13 @@
+dn: cn=Rayna+sn=Primm,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rayna Primm
+cn: Primm
+givenname: Rayna
+mail: rayna.primm@planetexpress.com
+userPassword: Rayna
+ou: admin_staff
+uid: 5547
+ Q==

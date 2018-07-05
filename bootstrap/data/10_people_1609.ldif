@@ -1,0 +1,13 @@
+dn: cn=Billy+sn=Rachel,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Billy Rachel
+cn: Rachel
+givenname: Billy
+mail: billy.rachel@planetexpress.com
+userPassword: Billy
+ou: Group5
+uid: 1609
+ Q==

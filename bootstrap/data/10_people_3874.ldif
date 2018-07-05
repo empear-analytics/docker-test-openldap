@@ -1,0 +1,13 @@
+dn: cn=Marquerite+sn=Cackowski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Marquerite Cackowski
+cn: Cackowski
+givenname: Marquerite
+mail: marquerite.cackowski@planetexpress.com
+userPassword: Marquerite
+ou: OtherGroup
+uid: 3874
+ Q==

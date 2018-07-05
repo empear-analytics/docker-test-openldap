@@ -1,0 +1,13 @@
+dn: cn=Eve+sn=Hittner,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Eve Hittner
+cn: Hittner
+givenname: Eve
+mail: eve.hittner@planetexpress.com
+userPassword: Eve
+ou: admin_staff
+uid: 3584
+ Q==

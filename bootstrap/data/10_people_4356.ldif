@@ -1,0 +1,13 @@
+dn: cn=Rolande+sn=Carley,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Rolande Carley
+cn: Carley
+givenname: Rolande
+mail: rolande.carley@planetexpress.com
+userPassword: Rolande
+ou: flight_crew
+uid: 4356
+ Q==

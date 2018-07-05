@@ -1,0 +1,13 @@
+dn: cn=Nestor+sn=Kushnir,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Nestor Kushnir
+cn: Kushnir
+givenname: Nestor
+mail: nestor.kushnir@planetexpress.com
+userPassword: Nestor
+ou: flight_crew
+uid: 899
+ Q==

@@ -1,0 +1,13 @@
+dn: cn=Lindsey+sn=Turowski,ou=people,dc=planetexpress,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+sn: Lindsey Turowski
+cn: Turowski
+givenname: Lindsey
+mail: lindsey.turowski@planetexpress.com
+userPassword: Lindsey
+ou: admin_staff
+uid: 868
+ Q==
