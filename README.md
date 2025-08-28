@@ -1,3 +1,12 @@
+# UPDATE: deprecation
+
+This is an old docker image that has limited configuration option and is hard to work with.
+Therefore, we archive the repo.
+
+It's recommended to use [bitnami/openldap ](https://hub.docker.com/r/bitnami/openldap) instead.
+See also Testing section of https://app.clickup.com/t/9015696197/CS-5228.
+
+
 # OpenLDAP Docker Image for testing
 
 This Docker image provides an OpenLDAP Server for testing LDAP applications, i.e. unit tests. The server is initialized with the example domain `planetexpress.com` with data from the [Futurama Wiki][futuramawikia].
